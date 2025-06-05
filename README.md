@@ -1,64 +1,53 @@
-# Star Wars: Forgotten Ones - Campaign Chronicle & Encyclopedia
+# Star Wars: Forgotten Ones - Campaign Archives
 
-![Star Wars Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/1200px-Star_Wars_Logo.svg.png)
+Welcome to the official GitHub repository for **Star Wars: Forgotten Ones**, a narrative-focused Star Wars Saga Edition roleplaying campaign!
 
-## Welcome, Time-Lost Traveler!
+This repository serves as the central hub for our campaign's chronicles, lore, and resources. Whether you're a player looking to catch up on past events, refresh your memory on important details, or delve deeper into the game world, you'll find what you need here.
 
-This repository serves as the living chronicle and evolving encyclopedia for our **Star Wars: Forgotten Ones** roleplaying campaign, played using the Star Wars Saga Edition ruleset.
+## 🚀 Quick Links
 
-Whether you are a player deeply involved in weaving this tale, or an interested observer following our journey, this wiki is designed to be your central hub for session logs, character information, lore discoveries, and the unfolding history of our unique adventure.
+*   **[Campaign Wiki](./wiki/)**: Your primary source for in-depth lore, character bios (NPCs), locations, factions, and other encyclopedic information about our unique galaxy.
+*   **[Chapter Logs](./Chapter_Logs/)**: Directory containing the narrative logs for each completed chapter of our story.
+*   **[Image Resources](./Image_Resources/)**: Directory containing maps, character tokens, important visuals, and other graphical assets used during the campaign.
 
----
+## 📜 Repository Structure
 
-## About the Campaign
+This repository is organized to make finding information as easy as possible:
 
-**Star Wars: Forgotten Ones** plunges its protagonists – individuals plucked from diverse eras of galactic history – into the tumultuous **Rebellion Era**. Awakening aboard a derelict starship with fragmented memories, they are the "Forgotten Ones," living relics of bygone ages.
+*   **/Chapter\_Logs**: This directory contains text or markdown files detailing the events of each game chapter. They are typically organized by chapter number (e.g., `Chapter_01_The_Awakening.md`).
+*   **/Image\_Resources**: Here you'll find visual aids for the campaign.
+    *   **/Image\_Resources/Maps**: Contains maps of planets, cities, ships, and encounter locations.
+    *   **/Image\_Resources/Tokens**: Player and notable NPC tokens.
+    *   **/Image\_Resources/Notable_Items_Visuals**: Images of important artifacts, technology, or unique sights.
+*   **Wiki (GitHub Feature)**: The [campaign wiki](./wiki) is the most comprehensive resource for lore. It's where you'll find detailed articles on:
+    *   Non-Player Characters (NPCs)
+    *   Factions & Organizations (e.g., The Galactic Empire, Rebel Alliance, Clan Skirata, and any emergent groups)
+    *   Planets & Locations
+    *   Significant Items & Technology
+    *   Historical Events (both canon and campaign-specific)
+    *   House Rules & Campaign-Specific Mechanics
+*   **README.md (This file)**: Provides an overview of the repository and how to navigate it.
 
-Their journey is one of discovery: uncovering the reasons for their preservation, navigating a galaxy transformed by Imperial rule and nascent rebellion, and confronting ancient conspiracies that intertwine with their lost pasts. Our campaign is heavily **narrative-focused**, emphasizing cooperative storytelling, character development, and unraveling deep mysteries, with combat taking a backseat to intrigue and interaction.
+## 📖 How to Use This Repository
 
----
+*   **For Players:**
+    *   Use the **Chapter Logs** to catch up on sessions you may have missed or to recall specific details.
+    *   Refer to the **Wiki** for deeper understanding of the people, places, and powers shaping our galaxy. This is your go-to for "Who was that NPC again?" or "What did we learn about Planet X?"
+    *   Browse **Image Resources** to visualize key locations or characters.
+*   **For the GM (and curious onlookers):**
+    *   This repository acts as a living document of our campaign's progression and world-building.
 
-## Repository Contents
+## 🌌 About the Campaign
 
-This repository is organized to help you easily find what you're looking for:
+**Star Wars: Forgotten Ones** is a narrative-heavy, minimal-combat cooperative storytelling game using the Star Wars Saga Edition ruleset. Players portray "Forgotten Ones" – individuals awakened in the Rebellion Era, torn from various past epochs of Star Wars history. Their journey is one of rediscovering their own pasts while navigating an ancient conspiracy that intersects with the Galactic Civil War.
 
-*   📄 **[Chapter Logs](./Chaptrr_Logs/)**:
-    *   Detailed recaps and transcripts of our game sessions. Relive key moments, catch up on missed developments, and see the story unfold chapter by chapter.
-    *   *Typically organized by Chapter.*
-*   🧑‍🚀 **[Player Characters](./Player_Characters/)**:
-    *   Profiles and backgrounds of our "Forgotten Ones." Learn about their origins, their fragmented memories, and their evolving goals as they navigate this new era.
-    *   *Each character will have their own page or section.*
-*   🌍 **[Galactic Encyclopedia](./Encyclopedia/)**:
-    *   A growing collection of lore, locations, organizations, key NPCs, technologies, and historical notes relevant to our campaign. This includes both established Star Wars lore pertinent to our setting and unique elements discovered or created during our game.
-    *   Sections may include:
-        *   **[Key NPCs](./Encyclopedia/NPCs.md)**
-        *   **[Factions & Organizations](./Encyclopedia/Factions.md)** (e.g., The Empire, Rebel Alliance, and any campaign-specific groups)
-        *   **[Locations](./Encyclopedia/Locations.md)** (Planets, star systems, specific sites of interest)
-        *   **[Historical Notes & Lost Ages](./Encyclopedia/History.md)** (Information relevant to the Sleepers' pasts)
-        *   **[Technology & Artifacts](./Encyclopedia/Technology.md)**
-*   📜 **[House Rules & Campaign Primer](./House_Rules.md)**:
-    *   Any specific rule adjustments, campaign guidelines, or thematic primers relevant to our game.
-*   🗺️ **[Maps & Visuals](./Maps_and_Visuals/)**:
-    *   (Optional) A place for any maps, character art, or inspirational images shared during the campaign.
+The campaign emphasizes character development, collaborative storytelling, and unraveling deep mysteries.
 
----
+## 🤝 Contributing (For Players & GM)
 
-## How to Navigate
-
-*   Use the links above to jump to the main sections.
-*   Within each section, further organization (e.g., subfolders, linked pages) will be used as the campaign progresses.
-*   The GitHub interface allows for easy browsing of files and folders.
-*   Players are encouraged to contribute (via pull requests or by providing information to the GM) to keep the encyclopedia up-to-date with in-character discoveries!
+*   **Wiki Updates:** The GM primarily maintains the wiki, but players may be invited to contribute character-specific lore or perspectives with GM approval.
+*   **Log Accuracy:** If players spot any discrepancies in chapter logs, please notify the GM.
 
 ---
 
-## A Note to Players
-
-This wiki is for *you*. It's a tool to enhance our shared storytelling experience.
-*   **Refer to it** to refresh your memory on past events or lore.
-*   **Contribute to it** (as agreed with the GM) to document your character's unique insights and discoveries.
-*   **Respect the narrative:** Please be mindful of information your character wouldn't know yet when browsing sections that might contain GM-only or future-plot details (if such sections exist and are marked).
-
----
-
-May the Force guide our story.
+Thank you for being a part of this journey across time and space! May the Force be with you.
