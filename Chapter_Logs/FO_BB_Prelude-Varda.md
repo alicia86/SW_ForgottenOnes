@@ -1,4 +1,4 @@
-# FO BB Prelude: Price of a Vision (Varda)
+# Forgotten Ones | BB Prelude: Price of a Vision (Varda)
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
