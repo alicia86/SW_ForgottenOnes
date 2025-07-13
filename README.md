@@ -6,7 +6,7 @@ This repository serves as the central hub for our campaign's chronicles, lore, a
 
 ## 🚀 Quick Links
 
-*   **[Campaign Wiki](./wiki/)**: Your primary source for in-depth lore, character bios (NPCs), locations, factions, and other encyclopedic information about our unique galaxy.
+*   **[Campaign Wiki](https://github.com/alicia86/SW_ForgottenOnes/wiki)**: Your primary source for in-depth lore, character bios (NPCs), locations, factions, and other encyclopedic information about our unique galaxy.
 *   **[Chapter Logs](./Chapter_Logs/)**: Directory containing the narrative logs for each completed chapter of our story.
 *   **[Image Resources](./Image_Resources/)**: Directory containing maps, character tokens, important visuals, and other graphical assets used during the campaign.
 
