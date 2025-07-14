@@ -1,16 +1,17 @@
 ﻿# Forgotten Ones | Ch1 Awakening
 
+## *FO Ch1 Awakening*
 <img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/26/2025 21:58:53) <br style='clear: both;'>
+### **Storyteller** (06/26/2025 21:58:53) <br style='clear: both;'>
 
 *1387915047019221052*
 
 ***A long time ago in a galaxy far, far away....***
 
-### **STAR WARS**
-#### **FORGOTTEN ONES**
-##### **Episode I: Awakening**
+#### **STAR WARS**
+##### **FORGOTTEN ONES**
+###### **Episode I: Awakening**
 
 A GALAXY DIVIDED! The tyrannical GALACTIC EMPIRE tightens its grip, its vast war machine seeking to crush the last embers of freedom. Against this overwhelming might, a fledgling REBELLION fights a desperate shadow war, their hope dwindling with each passing day.
 But this is not the first time the galaxy has been torn asunder. Across millennia, great powers have risen and fallen, their histories rewritten by the victors and their truths lost to time. Whispers persist of a hidden conflict fought not for territory, but for the soul of history itself.
@@ -268,13 +269,14 @@ Not knowing where he was he kept his presence in close as he sensed his current 
 
 ---
 
+## *FO Ch1 Awakening*
 <img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (07/03/2025 17:47:15) <br style='clear: both;'>
+### **Storyteller** (07/03/2025 17:47:15) <br style='clear: both;'>
 
 *1390388435163811952*
 
-<img src="media/FO_Ch1_Awakening/cryo_stasis_pods_by_cloudminedesign-d6028jk.jpg" alt="cryo_stasis_pods_by_cloudminedesign-d6028jk.jpg" style="height: 400px; width: auto;" height="400">
+<img src="https://cdn.discordapp.com/attachments/1387901967317209218/1390388436137021632/cryo_stasis_pods_by_cloudminedesign-d6028jk.jpg?ex=686d59a3&is=686c0823&hm=84a59f769917c3f02fd1d6f80e630b6fc1a001af1438ddae72b5d83fdfb26867&" alt="cryo_stasis_pods_by_cloudminedesign-d6028jk.jpg" style="height: 400px; width: auto;" height="400">
 
 <img src="https://static.wikia.nocookie.net/swfanon/images/7/74/TypeGT37cryopod.PNG/revision/latest?cb=20080211010441" alt="latest" style="height: 400px; width: auto;" height="400">
 
@@ -475,9 +477,10 @@ His confinement has ended. His prison has become a room. But the darkness remain
 
 ---
 
+## *FO Ch1 Awakening*
 <img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (07/03/2025 19:16:55) <br style='clear: both;'>
+### **Storyteller** (07/03/2025 19:16:55) <br style='clear: both;'>
 
 *1390411002754891946*
 
@@ -493,7 +496,7 @@ The silence between the machinery's hum is punctuated by the ragged cough of one
 
 <img src="avatars/1387914432989892838/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Dryzan Kar'dola** (07/03/2025 19:23:59) <br style='clear: both;'>
+### **Dryzan Kar'dola** (07/03/2025 19:23:59) <br style='clear: both;'>
 
 *1390412780116512869*
 
@@ -513,7 +516,7 @@ He immediately gasps, realising he has given away his position in this terrible 
 
 <img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Wes Del-Fin** (07/03/2025 20:23:17) <br style='clear: both;'>
+### **Wes Del-Fin** (07/03/2025 20:23:17) <br style='clear: both;'>
 
 *1390427704154656788*
 
@@ -537,7 +540,7 @@ He didn’t listen to his own advice as he continued to move his limbs attemptin
 
 <img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Iyola Kett** (07/03/2025 20:51:56) <br style='clear: both;'>
+### **Iyola Kett** (07/03/2025 20:51:56) <br style='clear: both;'>
 
 *1390434911802101986*
 
@@ -555,7 +558,7 @@ Iyola needs to move.  She crawls forward towards the nearest voice, the first on
 
 <img src="avatars/1387914432989892838/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Dryzan Kar'dola** (07/03/2025 22:40:59) <br style='clear: both;'>
+### **Dryzan Kar'dola** (07/03/2025 22:40:59) <br style='clear: both;'>
 
 *1390462357607677963*
 
@@ -576,7 +579,7 @@ That's when his hand contacts a leg - cold, clammy, but alive. *There are more v
 
 <img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Wes Del-Fin** (07/03/2025 23:25:52) <br style='clear: both;'>
+### **Wes Del-Fin** (07/03/2025 23:25:52) <br style='clear: both;'>
 
 *1390473652633468968*
 
@@ -592,7 +595,7 @@ Groaning and despite the sharp pain in his core he sat up and started to move, a
 
 <img src="avatars/1387914432989892838/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (07/03/2025 23:28:21) <br style='clear: both;'>
+### **Vaeros Halcyon** (07/03/2025 23:28:21) <br style='clear: both;'>
 
 *1390474277328912538*
 
@@ -607,7 +610,7 @@ Based on the apparent noise, his inability to see, and the shrieking about sight
 
 <img src="avatars/1387914432989892838/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (07/04/2025 00:10:30) <br style='clear: both;'>
+### **Varda Nisyren** (07/04/2025 00:10:30) <br style='clear: both;'>
 
 *1390484883650117774*
 
@@ -623,7 +626,7 @@ And then, through the din, she listens. One voice then another and another still
 
 <img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (07/04/2025 00:17:46) <br style='clear: both;'>
+### **Storyteller** (07/04/2025 00:17:46) <br style='clear: both;'>
 
 *1390486713905975408*
 
@@ -635,7 +638,7 @@ Suddenly, a new voice cuts through the verbal chaos. It is perfectly clear, impo
 
 <img src="avatars/1387914432989892838/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **???** (07/04/2025 00:17:47) <br style='clear: both;'>
+### **???** (07/04/2025 00:17:47) <br style='clear: both;'>
 
 *1390486717529722911*
 
@@ -649,7 +652,7 @@ A second later, with a soft hum, a single, steady strip of cool white light acti
 
 <img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Iyola Kett** (07/04/2025 13:37:35) <br style='clear: both;'>
+### **Iyola Kett** (07/04/2025 13:37:35) <br style='clear: both;'>
 
 *1390687992842158251*
 
@@ -667,7 +670,7 @@ She looks around her, and sees a big, hazy shape that might be a portal. Good, h
 
 <img src="avatars/1387914432989892838/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (07/04/2025 19:57:20) <br style='clear: both;'>
+### **Varda Nisyren** (07/04/2025 19:57:20) <br style='clear: both;'>
 
 *1390783560511914055*
 
@@ -681,7 +684,7 @@ She lets the wave pulse outwards and raises her voice slightly. "**Peace compani
 
 <img src="avatars/1387914432989892838/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (07/04/2025 20:24:54) <br style='clear: both;'>
+### **Vaeros Halcyon** (07/04/2025 20:24:54) <br style='clear: both;'>
 
 *1390790497324240926*
 
@@ -697,7 +700,7 @@ Vaeros can't tell if he's under the calming influence or if he's slowly adjustin
 
 <img src="avatars/1387914432989892838/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Dryzan Kar'dola** (07/04/2025 21:18:58) <br style='clear: both;'>
+### **Dryzan Kar'dola** (07/04/2025 21:18:58) <br style='clear: both;'>
 
 *1390804105127137420*
 
@@ -721,7 +724,7 @@ Dryzan starts slowly shuffling forwards on hands and knees, carefully sweeping h
 
 <img src="avatars/1387914432989892838/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Eve the AI** (07/04/2025 23:45:08) <br style='clear: both;'>
+### **Eve the AI** (07/04/2025 23:45:08) <br style='clear: both;'>
 
 *1390840888871227413*
 
@@ -733,7 +736,7 @@ A panel next to the dimly lit bulkhead door slides open with a quiet hiss, revea
 
 <img src="avatars/1387914432989892838/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Eve the AI** (07/04/2025 23:45:08) <br style='clear: both;'>
+### **Eve the AI** (07/04/2025 23:45:08) <br style='clear: both;'>
 
 *1390840890960122034*
 
@@ -743,7 +746,7 @@ A panel next to the dimly lit bulkhead door slides open with a quiet hiss, revea
 
 <img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Iyola Kett** (07/05/2025 01:06:39) <br style='clear: both;'>
+### **Iyola Kett** (07/05/2025 01:06:39) <br style='clear: both;'>
 
 *1390861404155674839*
 
@@ -761,7 +764,7 @@ Then the voice emerged.  Eve.  Some kind of super-powered droid. *What the kriff
 
 <img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Wes Del-Fin** (07/05/2025 02:10:37) <br style='clear: both;'>
+### **Wes Del-Fin** (07/05/2025 02:10:37) <br style='clear: both;'>
 
 *1390877502192488539*
 
@@ -777,7 +780,7 @@ The earlier angry male voice spoke again.  He was calmer this time.  His suggest
 
 <img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Wes Del-Fin** (07/05/2025 02:10:54) <br style='clear: both;'>
+### **Wes Del-Fin** (07/05/2025 02:10:54) <br style='clear: both;'>
 
 *1390877571935375511*
 
@@ -790,7 +793,7 @@ He heard the woman ask how long they had been down and about her stuff.   He dec
 
 <img src="avatars/1387914432989892838/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Eve the AI** (07/05/2025 14:32:56) <br style='clear: both;'>
+### **Eve the AI** (07/05/2025 14:32:56) <br style='clear: both;'>
 
 *1391064312793272371*
 
@@ -800,7 +803,7 @@ He heard the woman ask how long they had been down and about her stuff.   He dec
 
 <img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (07/05/2025 14:32:57) <br style='clear: both;'>
+### **Storyteller** (07/05/2025 14:32:57) <br style='clear: both;'>
 
 *1391064314407944335*
 
@@ -812,7 +815,7 @@ With a heavy, pneumatic hiss, the large bulkhead door slides open, revealing a s
 
 <img src="avatars/1387914432989892838/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (07/05/2025 16:04:27) <br style='clear: both;'>
+### **Varda Nisyren** (07/05/2025 16:04:27) <br style='clear: both;'>
 
 *1391087340759420929*
 
@@ -830,7 +833,7 @@ Now standing next to one of her companions. she waits for them to begin to walk 
 
 <img src="avatars/1387914432989892838/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (07/05/2025 16:37:48) <br style='clear: both;'>
+### **Vaeros Halcyon** (07/05/2025 16:37:48) <br style='clear: both;'>
 
 *1391095734283141172*
 
@@ -846,7 +849,7 @@ Waiting for their response, he stands idle, waiting for the group to move.
 
 <img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Wes Del-Fin** (07/05/2025 16:43:36) <br style='clear: both;'>
+### **Wes Del-Fin** (07/05/2025 16:43:36) <br style='clear: both;'>
 
 *1391097195217813636*
 
@@ -862,7 +865,7 @@ He heard the voice of the one male who offered his name.  Valeros.   It wasn’t
 
 <img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (07/05/2025 17:08:18) <br style='clear: both;'>
+### **Storyteller** (07/05/2025 17:08:18) <br style='clear: both;'>
 
 *1391103409435840585*
 
@@ -878,7 +881,7 @@ The antechamber before them is short, leading to another heavy, sealed door. Alo
 
 <img src="avatars/1387914432989892838/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (07/05/2025 17:12:43) <br style='clear: both;'>
+### **Varda Nisyren** (07/05/2025 17:12:43) <br style='clear: both;'>
 
 *1391104520695840808*
 
@@ -890,7 +893,7 @@ She straightens slowly, letting the silence breathe for a moment. Then, quietly,
 
 <img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Wes Del-Fin** (07/05/2025 18:14:14) <br style='clear: both;'>
+### **Wes Del-Fin** (07/05/2025 18:14:14) <br style='clear: both;'>
 
 *1391120002723348600*
 
@@ -906,7 +909,7 @@ Wes started moving alongside Varda.   He noticed she was an old woman but with t
 
 <img src="avatars/1387914432989892838/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Eve the AI** (07/05/2025 19:00:27) <br style='clear: both;'>
+### **Eve the AI** (07/05/2025 19:00:27) <br style='clear: both;'>
 
 *1391131635717505157*
 
@@ -920,7 +923,7 @@ The panel next to the locker labeled "01" glows as Wes approaches. The one label
 
 <img src="avatars/1387914432989892838/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Eve the AI** (07/05/2025 19:00:28) <br style='clear: both;'>
+### **Eve the AI** (07/05/2025 19:00:28) <br style='clear: both;'>
 
 *1391131638695727247*
 
@@ -930,7 +933,7 @@ The panel next to the locker labeled "01" glows as Wes approaches. The one label
 
 <img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Iyola Kett** (07/05/2025 19:20:48) <br style='clear: both;'>
+### **Iyola Kett** (07/05/2025 19:20:48) <br style='clear: both;'>
 
 *1391136756916818013*
 
@@ -946,7 +949,7 @@ She stepped toward the lockers, ready to reclaim her gear and deal with whatever
 
 <img src="avatars/1387914432989892838/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (07/05/2025 20:37:21) <br style='clear: both;'>
+### **Varda Nisyren** (07/05/2025 20:37:21) <br style='clear: both;'>
 
 *1391156017940791497*
 
@@ -964,7 +967,7 @@ She turns to Iyola. a small twinge at the side of her mouth, the crows feet deep
 
 <img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (07/05/2025 21:48:16) <br style='clear: both;'>
+### **Storyteller** (07/05/2025 21:48:16) <br style='clear: both;'>
 
 *1391173867443327138*
 
@@ -980,7 +983,7 @@ And their credits, the universal currency of the galaxy, have been replaced. In 
 
 <img src="avatars/1387914432989892838/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (07/05/2025 22:19:49) <br style='clear: both;'>
+### **Vaeros Halcyon** (07/05/2025 22:19:49) <br style='clear: both;'>
 
 *1391181805264306336*
 
@@ -996,7 +999,7 @@ Reaching into the locker again, he realizes something is critically missing: his
 
 <img src="avatars/1387914432989892838/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (07/05/2025 22:19:49) <br style='clear: both;'>
+### **Vaeros Halcyon** (07/05/2025 22:19:49) <br style='clear: both;'>
 
 *1391181806170280180*
 
@@ -1008,7 +1011,7 @@ Regardless, he prepares himself, waiting for the rest of the group.
 
 <img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Wes Del-Fin** (07/05/2025 22:56:13) <br style='clear: both;'>
+### **Wes Del-Fin** (07/05/2025 22:56:13) <br style='clear: both;'>
 
 *1391190965188038829*
 
@@ -1027,7 +1030,7 @@ He stood almost two meters tall now.   His hand resting on the grip of his blast
 
 <img src="avatars/1387914432989892838/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Dryzan Kar'dola** (07/05/2025 22:57:20) <br style='clear: both;'>
+### **Dryzan Kar'dola** (07/05/2025 22:57:20) <br style='clear: both;'>
 
 *1391191248525721607*
 
@@ -1058,7 +1061,7 @@ Manic energy fills him as the drug cocktail works its magic. He strides to the r
 
 <img src="avatars/1387914432989892838/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Dryzan Kar'dola** (07/05/2025 22:57:31) <br style='clear: both;'>
+### **Dryzan Kar'dola** (07/05/2025 22:57:31) <br style='clear: both;'>
 
 *1391191293392060416*
 
@@ -1072,7 +1075,7 @@ Finally, he reaches into a tiny hidden pocket within the jacket and produces a t
 
 <img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Iyola Kett** (07/06/2025 01:31:29) <br style='clear: both;'>
+### **Iyola Kett** (07/06/2025 01:31:29) <br style='clear: both;'>
 
 *1391230041257545791*
 
@@ -1094,7 +1097,7 @@ The scruffy, dark-haired man looked a lot happier after the drug injection.  He 
 
 <img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (07/06/2025 02:23:28) <br style='clear: both;'>
+### **Storyteller** (07/06/2025 02:23:28) <br style='clear: both;'>
 
 *1391243123220549724*
 
@@ -1108,7 +1111,7 @@ As the last piece of armor is buckled and the last weapon holstered, the sterile
 
 <img src="avatars/1387914432989892838/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Eve the AI** (07/06/2025 02:23:29) <br style='clear: both;'>
+### **Eve the AI** (07/06/2025 02:23:29) <br style='clear: both;'>
 
 *1391243125472886875*
 
@@ -1118,7 +1121,7 @@ As the last piece of armor is buckled and the last weapon holstered, the sterile
 
 <img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (07/06/2025 02:23:43) <br style='clear: both;'>
+### **Storyteller** (07/06/2025 02:23:43) <br style='clear: both;'>
 
 *1391243185124278395*
 
@@ -1130,7 +1133,7 @@ A pale green-skinned Twi'lek—muscular, tattooed, and wearing a stained flak ve
 
 <img src="avatars/1387914432989892838/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Eve the AI** (07/06/2025 02:23:43) <br style='clear: both;'>
+### **Eve the AI** (07/06/2025 02:23:43) <br style='clear: both;'>
 
 *1391243187594596442*
 
@@ -1140,7 +1143,7 @@ A pale green-skinned Twi'lek—muscular, tattooed, and wearing a stained flak ve
 
 <img src="avatars/1387914432989892838/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (07/06/2025 03:14:00) <br style='clear: both;'>
+### **Vaeros Halcyon** (07/06/2025 03:14:00) <br style='clear: both;'>
 
 *1391255840811520155*
 
@@ -1152,7 +1155,7 @@ Listening to Eve's announcement, Vaeros takes stock of the situation and the sch
 
 <img src="avatars/1387914432989892838/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (07/06/2025 14:21:20) <br style='clear: both;'>
+### **Varda Nisyren** (07/06/2025 14:21:20) <br style='clear: both;'>
 
 *1391423778285682690*
 
@@ -1168,7 +1171,7 @@ Business handled, her gaze drifts toward the projection. the image of the intrud
 
 <img src="avatars/1387914432989892838/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (07/06/2025 14:21:51) <br style='clear: both;'>
+### **Varda Nisyren** (07/06/2025 14:21:51) <br style='clear: both;'>
 
 *1391423909341036605*
 
@@ -1182,7 +1185,7 @@ She remembers the younger sisters, long ago those first initiates who trembled t
 
 <img src="avatars/1387914432989892838/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (07/06/2025 14:22:15) <br style='clear: both;'>
+### **Varda Nisyren** (07/06/2025 14:22:15) <br style='clear: both;'>
 
 *1391424009937358869*
 
@@ -1196,7 +1199,7 @@ She prods here, tugs there, spins her presence around them like an eager puppy. 
 
 <img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Iyola Kett** (07/06/2025 15:36:43) <br style='clear: both;'>
+### **Iyola Kett** (07/06/2025 15:36:43) <br style='clear: both;'>
 
 *1391442750716641441*
 
@@ -1214,7 +1217,7 @@ She swallows hard.  She has contingency plans.  She’ll deal with this later. S
 
 <img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Wes Del-Fin** (07/06/2025 15:51:26) <br style='clear: both;'>
+### **Wes Del-Fin** (07/06/2025 15:51:26) <br style='clear: both;'>
 
 *1391446453494223049*
 
@@ -1230,7 +1233,7 @@ His gaze lingered on the inquisitor for a fraction of a second before looking ba
 
 <img src="avatars/1387914432989892838/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Eve the AI** (07/06/2025 16:29:15) <br style='clear: both;'>
+### **Eve the AI** (07/06/2025 16:29:15) <br style='clear: both;'>
 
 *1391455969040666676*
 
@@ -1244,7 +1247,7 @@ His gaze lingered on the inquisitor for a fraction of a second before looking ba
 
 <img src="avatars/1387914432989892838/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (07/06/2025 16:31:19) <br style='clear: both;'>
+### **Vaeros Halcyon** (07/06/2025 16:31:19) <br style='clear: both;'>
 
 *1391456492154130442*
 
@@ -1256,7 +1259,7 @@ Vaeros shutters, instinctively force pulling his lightsaber to his right hand. H
 
 <img src="avatars/1387914432989892838/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (07/06/2025 16:41:13) <br style='clear: both;'>
+### **Varda Nisyren** (07/06/2025 16:41:13) <br style='clear: both;'>
 
 *1391458980890546269*
 
@@ -1266,7 +1269,7 @@ Varda hesitates. She looks… conflicted, for a moment. Slowly, she draws back. 
 
 <img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Wes Del-Fin** (07/06/2025 17:18:19) <br style='clear: both;'>
+### **Wes Del-Fin** (07/06/2025 17:18:19) <br style='clear: both;'>
 
 *1391468318044586005*
 
@@ -1279,7 +1282,7 @@ When the schematic came up Wes tapped his bracer computer and sent the image to 
 
 <img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (07/06/2025 19:06:48) <br style='clear: both;'>
+### **Storyteller** (07/06/2025 19:06:48) <br style='clear: both;'>
 
 *1391495619713171516*
 
@@ -1291,4 +1294,808 @@ They press on, a strange collection of figures moving through the silent ship—
 
 Heavy bulkhead doors block their path at intervals. As they approach, each door slides open with a whisper of hydraulics, revealing another identical, dimly lit section of corridor, only to hiss shut again once the last person has passed through, leaving them with the unsettling feeling of being drawn deeper into the ship's heart, with no easy way back. The only sound is the soft scuff of their boots on the deck plating and their own measured breathing.
 
-***Created** 07/07/2025 17:26:04 EST (v7.4.0)*
+---
+
+<img src="avatars/1387914432989892838/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Varda Nisyren** (07/07/2025 23:40:40) <br style='clear: both;'>
+
+*1391926928981885019*
+
+Varda walks in silence, eyes flitting over every detail of the ship’s interior. Her gaze is sharp, methodical. Cataloguing the architecture, the scarring on the walls, the way the air hums with a sterile emptiness, the way it feels the ship hasn't seen footfall or laughter in many years. It's a ship meant for life, but now lays hauntingly void of it.
+
+She pauses once. Then again. A hand placed delicately on a bulkhead where her breathing slow, steady, as if catching herself. To the untrained eye, she looks exactly as she intends: an older woman, weathered by years, taking a moment to gather her strength. But to those with sharper senses, those who know what to watch for, those trained in this exact art know there’s something else beneath it. This image of an older woman is exactly that, an image. A subtle performance. A shield. She leans into the illusion with the precision of someone who has used it before. *Let them underestimate me now,* she thinks, *and regret it later if they must.*
+
+Each time someone glances her way, she offers a warm, patient smile, gentle, grandmotherly. The image is convincing. Comforting, even. But as the ship’s lights flicker that crimson red. The warmth fades from her expression. Her pace quickens, cane tapping more sharply against the floor. Her posture straightens. The mask does not drop, not entirely, but the edge behind it shows.
+
+---
+
+<img src="avatars/1387914432989892838/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Vaeros Halcyon** (07/08/2025 00:12:28) <br style='clear: both;'>
+
+*1391934931873304741*
+
+Vaeros blends with the group as they hurry to the intruders. Through his mask, he glances between the group, his data pad, and the pathway forward. He has no reason to suspect individual members of the party, but since they prepared to depart, his gut feeling felt off, and he's not sure where it's coming from. He doesn't want this situation; he doesn't know how much time has passed, or what is happening beyond the confines of this ship. Is he considered dead, a traitor? What has happened to his ship, his archives, and R3-K4? 
+
+Every once in a while, he'll glance at his notepad and continue to input information detailing the ship, his encounter with the group, and important personal knowledge. Since his data pad no longer has a copy of his original texts, he has to retype what he can by memory before he eventually forgets bits and pieces. A snippet of text catches his eye, as he reads what he wrote, *Regardless, Varda is strange; why does an elderly woman wish to fight these intruders? She looks frail, winded, but still manages to keep up with the group. Strange.* As he walks, he thinks over the texts about this group and their respective quirks. What makes them tick? 
+
+As he continues to jot things down, he remains torn between his conditioning and personal desires to learn and explore this new opportunity. Should he try a different path? He's not sure yet, but for now, he needs to keep these thoughts away and focus on his survival.
+
+---
+
+<img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (07/08/2025 01:22:31) <br style='clear: both;'>
+
+*1391952561832984647*
+
+Iyola winced a bit as Del-Fin calmly asked for the data to be sent to the entire group.  She was used to working solo, and that was something she needed to change.  She shot an apologetic look at Del-Fin, but had no idea if he noticed, since his face was covered with that helmet. 
+
+He seemed a little tense, and Iyola decided it was because Vaeros was a Jedi.  Mandalorians had a traditional distrust of Jedi, since the ancient Mandalorian Wars, which were started by the Mandalorians, but finished by the Jedi Knight Revan.  *And Mandalorians, in her experience, had very long memories and very short tempers.*
+
+Varda, on the other hand, did not look tense at all.  As they set off for the inner door, the older woman  seemed calm and unconcerned,  as if they were all out for a Zhellday  stroll.  Her eyes, a purple color, were bright and kind, and she smiled warmly at Iyola when she looks her way.  Iyola smiles back.  Despite her age, Varda was keeping up with the group just fine, and didn’t appear to need any assistance at the moment. 
+
+Vaeros has put on a strange mask, severe, angled, and elegant.  He’s writing furiously in a datapad as they hurry toward the door.  Iyola sidles up to him and tries to peek at his entry. **“What are you writing?”** she asks him.
+
+---
+
+<img src="avatars/1387914432989892838/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Vaeros Halcyon** (07/08/2025 01:42:26) <br style='clear: both;'>
+
+*1391957573254774835*
+
+Vaeros just about shoots up, almost flinging the datapad, before steadying himself.** "Holy kriff, oh hello!"** Based on his present mannerisms, he's trying to distract himself, but calms down as he looks towards Iyola. He sets his datapad into a pouch, **"Oh, nothing, really; just jotting down my thoughts, and whatever important information I can recall. As my equipment's data is unfortunately erased, I'm trying to recover what I can while there's downtime." **
+
+As Vaeros explains, he takes off his mask. He doesn't like to wear the mask, but it's helpful for combat. Having it off feels relieving for him.
+
+Vaeros adjusts his posture and tries to smile, instinctively tracing his scar along his left cheekbone to his jawline.** "Is there anything on your mind or something you need?"**
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/08/2025 06:58:37) <br style='clear: both;'>
+
+*1392037143316008980*
+
+They round the final bend in the corridor. Ahead, the heavy inner door of the airlock stands sealed, its frame faintly outlined by the emergency lights. The low hum of the ship is the only sound.
+
+It strikes without warning.
+
+Not a sound, but a force. A wave of pressure washes over all of them, a sudden, gut-wrenching vertigo that makes the floor seem to tilt. The air grows unnaturally cold, and a high-frequency whine, barely audible, scrapes at the edge of their hearing. An inexplicable and primal dread floods their senses—the instinctive terror of cornered prey.
+
+For Iyola and Dryzan, it is a moment of pure, disorienting horror.
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/08/2025 06:58:41) <br style='clear: both;'>
+
+*1392037159497633814*
+
+But for Wes, Varda, and Vaeros, it is something more. Something infinitely worse:
+
+|| A psychic shriek of pure, unadulterated agony slams into their minds. 
+It is not a thought, but a raw, sensory onslaught—a spike of ice-cold terror driven through their skulls. The impression is a chaotic, layered torrent of torment, flashing by in an instant: There is the physical violation—the feeling of being pinned down, limbs held fast by overwhelming, brutal strength. The sharp, lingering spasm from the directed energy of a stun collar, followed by the dull, sickening thud of a physical blow. 
+
+Woven through it is an agonizing low where every nerve ending is scraped raw and screaming for a poison it has been taught to need. Then the jarring rush of a new injection, a thick, syrupy numbness that smothers the sharp edges of pain, replacing it with a disorienting, hollow float. This, too, is a violation—the feeling of one's own will being chemically drowned, only to be ripped away again, leaving the agony of withdrawal even sharper than before. 
+
+They can feel the greasy, leering satisfaction of a predator, the callous amusement of onlookers, and the bitter, metallic tang of blood and fear in the air. It is the psychic echo of a will being systematically, cruelly, and repeatedly broken through every means available. 
+But through the storm of pain, drugs, and violation, a single, focused point of light remains—a core of incandescent, defiant rage. It is a desperate, silent plea for **help**, a final, focused beacon from someone who refuses to be completely extinguished. ||
+
+The wave lasts only a second, but it feels like an eternity. Then, it is gone, leaving behind a ringing silence and the phantom ache of another's torment.
+
+The source is undeniable: it is coming from the other side of that airlock.
+
+---
+
+<img src="avatars/1387914432989892838/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Dryzan Kar'dola** (07/08/2025 08:32:32) <br style='clear: both;'>
+
+*1392060775413186610*
+
+*They're Jedi! Krif!*
+Dryzan tries to keep his face still, the lopsided grin slipping ever so slightly as they move through the ship.
+
+*Relax, they can't be after you. They didn't try and grab you yet. It'll all be fine.*
+*Unless they know Roth-Jek. Or call whatever this is in. Or visit one of their outposts. Or read his mind.*
+*Krif! They can read minds!*
+
+Forcing himself to focus on each bolt in the floor, each panel on the wall, Dryzan tries to become just an empty mind counting every inanimate object in view. The slow rhythm of footfalls through the ship does nothing to soothe him, instead feeling like a countdown to doom when the Jedi inevitably realise that they've managed to corner him with no easy escape.
+
+He keeps quiet this way, struggling to control his emotions and thoughts until they near the airlock, when IT happens.
+
+Agony. Confusion. Suffering. EVIL.
+Dryzan doubles over, clutching at his head, his arms; his mouth is wide but he can't scream, his throat spasming with the overwhelming pain.
+The feeling shifts and is gone, and Dryzan dry-heaves a couple of times, after-shocks of the agony still rattling around his head.
+
+**"What the krif was THAT!?!"** he whines as he draws his blaster pistol, his suddenly sweat-slicked hand gripping it tightly for comfort.
+
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (07/08/2025 11:16:48) <br style='clear: both;'>
+
+*1392102116490739752*
+
+The wave of agony slammed into him as he cautiously took the corner.   The raw, unadulterated loss and feeling of hopelessness took hold of his very core.  He had only felt pain and anguish like this once before.  He was aboard the Jedi sanctuary, Chu'unthor II when the galaxy burned and the Jedi purge had started.  
+
+
+He leaned heavily onto the durasteel bulkhead and his head swam with the torrent of emotions and torture that someone was feeling.    A game of predator and prey had been and still was being played.   He felt his stomach begin to turn and he fought the feeling to retch.  The realization that someone was taking amusement at the torture Wes found an anger rise within him.   It flared before he brought it under control.   
+
+
+He fought to straighten himself and took an unsteady step, his hand bracing himself on the wall.   He heard Dryzan curse asking what that was.  With another step he opened himself up fully to the Force.  It’s light now shining brightly within him having dropped his shields.  He was still shaken from the onslaught of emotions as he tried to stand straight as he took another step.  ***”We're coming!”*** He projected this thought and feelings out into the Force no longer caring about his company.   
+
+
+**”Someone needs our help, Dryzan.”**  He said with a raspy voice as he drew his blaster taking uneven steps towards the airlock.
+
+---
+
+<img src="avatars/1387914432989892838/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Dryzan Kar'dola** (07/08/2025 12:30:13) <br style='clear: both;'>
+
+*1392120591628242954*
+
+**"If it means I get to shoot whatever made me feel like THAT, then I'm all for it!"**
+
+Forgetting for a moment his fear of the Jedi Dryzan steps forward closer to him, readying his blaster pistol as he aims loosely towards the airlock.
+
+*Some things don't deserve to exist in this galaxy, and whoever (or whatever) makes someone feel that way is one of them.*
+
+He shifts lightly from foot to foot, the twitchy energy from before bubbling within him and ready to explode into action. He's been in firefights before, and usually a quick hand (and a dead eye) can take you a long way. His antennapalps twitch slightly, his body's natural urge to extend them for every advantage in this fight-or-flight situation warring against his own instinct not to let people know he's Balosar due to the bad reputation his people have.
+
+*Doesn't hurt that I have a fully armoured Jedi to lead the way for me. I wonder why the other one's armour is so different? Roth-Jek never wore anything like that. Maybe different groups? Oh, or fashion. Yeah, I bet it's trendy and some of them don't like the look. That or these are the Jedi they send to clean up the really big pirate nests.*
+He suppresses a shudder at the idea of the destruction that heavily armoured Jedi assault troops could wreak on the smuggler communities he's seen.
+*Focus, can't let them realise what I am.*
+
+**"So, uh, you two been Jedi long?"**
+He immediately regrets asking the question, his mouth moving before his brain has a chance to stop it.
+
+---
+
+<img src="avatars/1387914432989892838/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Varda Nisyren** (07/08/2025 16:06:51) <br style='clear: both;'>
+
+*1392175111544508496*
+
+Varda reels back as if struck, the scream tearing from her throat before she even knows she’s falling. A sound of pure, unfiltered horror, ripped from the depths of her soul. She slams into the wall behind her with a hollow clang, her body folding inward, barely catching herself before she crumples completely. One trembling hand clamps against her temple, the other clawing for balance that will not come. Her cane goes skittering across the floor. 
+
+When she looks up, her eyes are glassy with tears welling, uncontrolled. She is drowning. Drowning in the sudden, crushing tide of emotion, that itself opens a dam inside her and lets every buried scream flood to the surface. Her legs feel distant. Disconnected. Useless beneath her. She clenches her eyes shut. Desperately trying to escape, trying to shut it out, the pain, the pressure, the overwhelming presence. But even that brings no peace. She teeters between two agonies: The dominating will of something vast and merciless crashing into her… And the terror of cutting herself off. Of silencing one of her most vital senses, of becoming blind in the dark. She shudders, caught between the instinct to survive and the fear that to protect herself. 
+
+She falls deeper into herself. The gnawing void of helplessness claws at her spirit, and around it coils a sick, gleeful amusement. Not hers. Never hers. A shadow whispering that she is small, broken, lost. She trembles. But then...Light.
+
+It bursts through her like a supernova. She doesn’t know its source. She doesn’t care. She latches onto it like a drowning woman to driftwood, gasping against the current. She seizes the moment. With tears still staining her cheeks, with her limbs still trembling and her body rebelling, she jabs a hand toward the floor. Her cane, her staff, flies to her grip, called with a snap of authority. The carved wood slaps against her palm like a memory returned.
+
+---
+
+<img src="avatars/1387914432989892838/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Varda Nisyren** (07/08/2025 16:06:53) <br style='clear: both;'>
+
+*1392175116129013792*
+
+She claws her way to her feet, every movement a defiance. The chaos clears just enough for her to see the truth. What this is. Her breath hitches. Realisation slams into her like a tide. Del-fin clamped down on his rage, bringing it to bear.
+
+Varda does not. She lets the anger bloom, hot, coiled, pure. But it is not hatred. Not rot. It is the fury of storms, of mountains groaning under strain, of wildfire sparked by injustice. A righteous resentment at the taking of will. Her presence in the Force changes. Where once it flowed playful and curious like a soft breeze drifting through the corridors, it now begins to gather, building with a rising pressure. A wind before the storm.
+
+with the proclamation from Mandalorian, She marches forward. Unsteady and rickety but all together moving forward.
+
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (07/08/2025 16:35:47) <br style='clear: both;'>
+
+*1392182390671151115*
+
+Still staggered from the overwhelming feeling he had just felt he only took a few steps after proclaiming that someone needed help.  His hand was still upon the wall for support.  Memories of the Purge bounced around in his head.  The sudden loss of life that followed Order 66 was still a distant scar of a memory.  One that he would never be rid of.  While this was different it was no less powerful to him.  The person was still alive but the despair and pain was overwhelming.  Whoever it was it felt that they had been subjected to torture for some time.
+
+
+Words from Dryzan cause him to focus on the here and now.  He pushed off the wall with his hand finding his feet mostly steady.  He looked towards the others.  Varda had made it to her feet as the others were doing so as well.   The old woman surprised him.  She was following and he could feel the shift in her presence.  In it he felt a promise of retribution for what had just happened.  He gave her an approving nod as he looked at Dryzen.  The cold unnerving visage of his helmet was the only emotion that could be seen.  He held the man's gaze for a second before speaking.  **”I am no Jedi.”**  His voice was heard over the comms.  His voice, like his armor, sounded hard after the emotional onslaught that they had all just suffered. 
+
+
+**”Iyola, Vaeros?”**  He said as he saw them recovering from what they had just experienced.  **”You ready.”**  He asked, needing to be sure they were good as a group to face off against these pirates and whatever else was aboard.
+
+---
+
+<img src="avatars/1387914432989892838/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Dryzan Kar'dola** (07/08/2025 17:29:31) <br style='clear: both;'>
+
+*1392195913778466939*
+
+**"Oh, right, right, sorry, minds all over the place. That whole weird 'screaming agony inside your head and now your whole world is suffering' thing really did a number on me."** Dryzan babbles nervously. He begins absentmindedly twirling his blaster around one finger, the other hand rubbing at one of the seams on the edge of his coat as his mind wanders.
+*Karking idiot. Well, at least you know that Grumpy is the Mandalorian not-Jedi, which must mean that Angry over there - ah, Vaeros, ok, thanks Grumpy - must be the Jedi. And Happy must be Iyola.*
+*Well, least I'm starting to work out who is who.*
+
+---
+
+<img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (07/08/2025 17:42:25) <br style='clear: both;'>
+
+*1392199160672813189*
+
+Iyola is bemused at Vaeros’s response.  This is the second guy she’s freaked out today.  *She must be much more intimidating than she had realized.*   He takes off the strange mask, and smiles at her, or tries to, like it’s something he doesn’t do a lot.  *It’s a good attempt,anyway.*  
+
+**“Oh, I see. That’s smart. I was worried that you were writing up some kind of Council report on us,”** she  said.  When he asked in his formal manner if she needed anything, she shrugged. ** “Just to repel these invaders, explore the Venture, then ping my boyfriend and get back to my ship,”** she explained. 
+
+Any further conversation was cut off as they rounded the corner. 
+
+   A wave of awful sensation overcame her -  she’s helpless, agonized, nauseated. Her limbs feel like they’ve turned to ice.  A strange ringing sound fills her ears - it sounds like screaming.  Iyola lurches towards the nearest wall to steady herself, slips, sits down hard.  She feels horrible.
+
+The sensation recedes.   Her cheeks are covered in cold tears and snot. 
+
+She looks around, rising to her feet, and sees that others had experienced something similar.  She hears Dryzan, the man with the red goggles, curse and mutter, and sees him draw his blaster.  Iyola uses the edge of Vaeros’s cape to wipe her face off.  It doesn’t work that well - the fabric is coated with something impermeable and unpleasantly scratchy.   
+
+ Del-Fin asks in his harsh martial voice if they’re all ready for the fight.  Iyola nods and draws her gun. It’s oversized in order to accommodate its ascension function, but it also happens to pack a real punch. Since she’s going ranged first, she situates herself near Dryzan, to help cover him and Varda. 
+
+**“Mandalorians don’t even like Jedi,”** she whispers to Dryzan.
+
+---
+
+<img src="avatars/1387914432989892838/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Dryzan Kar'dola** (07/08/2025 17:54:18) <br style='clear: both;'>
+
+*1392202148556832882*
+
+**"You've been around them before? I've never even seen one in person, just heard about the big angry armoured people with enough weapons to be a one-sentient army."** he mutters back to her.
+*Well, at least Happy - sorry, Iyola - seems nice. Guess the nickname is spot on.*
+He casts an eye over her blaster. It's a lot bigger than his is. *But I have lots of practice with mine, so I wouldn't swap it for another. Well, unless it were bigger. Or better. Or looked flashier...*
+
+---
+
+<img src="avatars/1387914432989892838/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Vaeros Halcyon** (07/08/2025 18:12:19) <br style='clear: both;'>
+
+*1392206683320746004*
+
+Vaeros talks with Iyola, **"Oh no, it's not like I can contact anyone anyway. Have you been out of the loop, Iyola? The Jedi are no more; the official outcome is that the Jedi Council attempted a coup d'état against the now Emperor Palpatine. Regardless, I can explain in detail another time." ** Waiting for Iyola to respond, they round the corner. He notices the group, then her, gradually succumb to something, then it hits Vaeros like a Bantha. 
+
+Cold sweats drip down Vaeros' face, and he hastily puts his mask back on. This feeling, this torture, is immense. It nearly compares to his training against Lord Vader. It disgusts Vaeros to compare these feelings, but it's all he can do to focus himself and not fall from the agony.  
+
+Then he notices the faint light of defiance; Vaeros knows what he needs to do. As he tries to keep himself upright, he notices the shouting of a force projection through the torrent of this torture. Through his comms, he hears Wes reach out to him and Iyola **"Yeah, we're ready, I think." ** He dredges forward; he can't afford to stop now.
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/08/2025 18:36:02) <br style='clear: both;'>
+
+*1392212653497385081*
+
+The final door slides open, revealing the airlock antechamber. A thick, duraplast viewport, at least a foot deep, is set into the far wall, offering a clear, if silent, view into the airlock beyond—the umbilical connecting the *Venture* to the other ship.
+
+The scene is exactly as the tactical display showed, but now rendered in stark, personal detail.
+
+Leaning casually against the far wall is the green-skinned Twi'lek. He watches the proceedings with an air of bored amusement, idly fiddling with a small, handheld remote in his grasp. His lekku twitch lazily.
+
+His attention is fixed on the technician, a gaunt human man who looks to be at the ragged edge of endurance. His cheeks are sunken, a fresh, dark bruise is blooming on his jaw, and a split lip has scabbed over. His hands, raw and scraped, tremble uncontrollably as they work with a frantic energy, pulling wires and bypassing circuits on the inner airlock door's control panel. It's a tremor that speaks not just of fear, but of exhaustion and withdrawal.
+
+Around his neck is a thick, metallic collar, a single red light blinking on its surface like a malevolent eye.
+
+The purpose of the Twi'lek's remote is now brutally clear. It's not a remote detonator. It's a leash.
+
+Sparks intermittently fly from the damaged panel, casting fleeting, harsh light on the technician's face. His eyes, when they dart from his work to the Twi'lek and back, are filled with a feverish, desperate intensity. He is a man being broken, but he has not yet broken completely.
+
+---
+
+<img src="avatars/1387914432989892838/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Vaeros Halcyon** (07/08/2025 21:01:04) <br style='clear: both;'>
+
+*1392249151638601848*
+
+Vaeros looks at the group before settling his eyes on the Twi'lek. As he's in front of the group, he tries to act first; he steadies his breath, drawing on the pain and torture recently endured to give him strength. His voice barely contains emotion, and he speaks softly, gesturing at the viewport: **"We have two options: either we prepare for an ambush, or we move in with the element of surprise. The door technician is most likely a slave, so we should set our goal towards removing the intruders and getting information from the man."**
+
+As he speaks, he pulls the lightsaber into his right hand, keeping it unignited.
+
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (07/09/2025 10:52:36) <br style='clear: both;'>
+
+*1392458412016664597*
+
+**”Slavers.”** Wes said aloud with a heavy level of distaste in his tone.  **”They just moved up the list of undesirables.”**  Wes spotted the collar and the remote device that was used to dispense pain or worse to the victim.   He reached out to the man with the Force.  He sensed the man and swirling emotions that plagued the human.  What he didn’t sense was his active presence in the Force.  He wasn't the one that reached out to them.  
+
+
+**”He’s not the one that reached out.   There’s another on board their ship somewhere.”**  
+
+
+He looked over at Vaeros who offered a suggestion.   **”I have no love for slavers.  Odds are if Eve hadn't woken us up they would have found us and they would be our captors.   If we don’t stop them that will also be the case.”** Wes didn’t trust the Inquisitor but for the moment he knew that the man didn’t want to end up a slave.  **”On their ship we will not have the advantage of knowing the surroundings.   At least here we are on equal footing and we have Eve.  There is still the one who reached out.   They are still on the slaver ship.”**
+
+---
+
+<img src="avatars/1387914432989892838/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Varda Nisyren** (07/09/2025 15:09:49) <br style='clear: both;'>
+
+*1392523146229321913*
+
+Varda hangs back slightly with the people who seem to be using blasters, a look of resigned shame on her face. As she leans slightly on her cane. **"I'm not the most able bodied. I belive it best I stand back with the back like if that's acceptable"** She pauses for a moment listening to Vaeros and Del-fin as they begin to lay the foundations of a plan. **"Perhaps we lay an ambush for the boarding party then we ourselves board to rescue the ones on board"**
+
+She then looks up to ceiling. **"Eve, my dear. What's the estermated time for them to breach the air lock"**
+
+---
+
+<img src="avatars/1387914432989892838/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Eve the AI** (07/09/2025 15:51:54) <br style='clear: both;'>
+
+*1392533735076925635*
+
+**"The structural integrity of the inner door is failing. Estimated time until total breach is now less than one minute—"**
+
+The AI's calm pronouncement is cut short by a tremendous, groaning screech of stressed metal from the airlock ahead. The inner door, under the technician's frantic work and likely some brute force from the other side, visibly lurches in its frame.
+
+A thin, gap appears between the heavy door. With a sharp, powerful hiss, air begins to equalize between the two ships, the sound momentarily drowning out all other noise in the corridor. Through the widening gap, the frantic scraping and desperate grunts of the technician become audible, punctuated by a low, menacing chuckle from the Twi'lek.
+
+---
+
+<img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (07/09/2025 16:03:26) <br style='clear: both;'>
+
+*1392536638436933814*
+
+There were only a few moments left before the door would be breached.  Normally Iyola would defer to a Jedi on battle stance, but Vaeros - if he was a Jedi - appeared to be mynockshit insane.  She looked toward Del-Fin, who sensibly suggested staying on the Venture, where they had the droid-computer Eve as an ally. The elderly woman Varda wisely decided to remain out of close range.
+
+Just then, the door integrity began to fail. Iyola decided she was still too close; she didn’t want to interfere with the hand-to-hand combatants.  She noticed a panel just behind her that would make solid cover.  It was too loud to speak. She ducked behind it, gesturing for Varda to get behind her, as she lined up her sight lines towards the portal.
+
+*Am I supposed to kill these beings?  *The thought sat uneasily on her. She wasn’t a natural killer.  She set her blaster to stun.
+
+---
+
+<img src="avatars/1387914432989892838/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Vaeros Halcyon** (07/09/2025 16:25:30) <br style='clear: both;'>
+
+*1392542192844935191*
+
+Vaeros nods back in confirmation to Wes, **"Then there's a good chance that there are more slaves aboard that ship. For now, we should defeat the Twi'lek and see if we can rescue the one working on the door, then decide from there. You and I can handle the door."**
+
+He looks back at Varda, **You shouldn't be obligated to put in such effort at your age, Miss Varda. Your showing here is proof enough of your intent." **
+
+**"Iyola, you have the right idea: cover Varda and give us support. Wes and I can afford to deal with the intruder." **
+
+As the group begins to shift their position, Vaeros ignites his lightsaber: it's a deep crimson, with an ethereal low hum. He thinks, *There's no use hiding it now. If we survive, I'm sure there's enough chatter to keep us busy for hours.*
+
+---
+
+<img src="avatars/1387914432989892838/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Dryzan Kar'dola** (07/09/2025 20:59:57) <br style='clear: both;'>
+
+*1392611260079538246*
+
+Dryzan sucks in a breath and forces it out, steadying himself as he prepares for a blaster fight. He hunkers down next to a small metal protrusion from one of the walls near the airlock, ready to blast the Twi'lek slaver the moment he enters.
+*Play it cool, Dryzan, you're a mean shot when you need to be. It'll be-*
+The snap-hiss of the lightsaber igniting makes him jump, and he can't help his head jerking to look at the energy weapon nearby. He'd never seen one before, but had heard the stories.
+*Krif that's scary! A little cool too, if I'm honest.*
+
+**"Nice colour dude, digging the look!**
+Dryzan throws a sloppy thumbs up at Vaeros before tapping his own crimson shades, then returns his attention to the airlock door and the imminent combat.
+
+*You know, maybe Jedi aren't so bad if they're willing to rush in there and deal with the murglaks for me...*
+
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (07/09/2025 22:04:53) <br style='clear: both;'>
+
+*1392627599498281071*
+
+The chatter among them was quick.   People deciding on what to do.  Wes squeezed the grip of his blaster as he saw Vaeros take his lightsaber in his hand.   The Mandalorians' hand twitched involuntarily at the inquisitor’s movement.  When Vaeros mentioned that the two of them would handle things up front while the others provided cover fire he took a deep breath.   That same breath was held in surprise when he heard the *snap-hiss* of the lightsaber and watched as the red blade sprang forth.   It was solidified then, he was going to have to fight alongside the agent of the Emperor.  Ones who had been sworn to hunt down those like him.  Yet something was different about Vaeros.    He had always been able to stay one step ahead of the Empire and its minions thus making this his first interaction with an inquisitor.   Under the circumstances he wished it was not the last meeting for either of them once this was over.  
+
+
+His heavy boots sounded out across the deck plating as he walked up towards Vaeros and stood to his left side and looked at the others.    **”Vaeros is right, we will take the lead.  The rest of you cover us.   Varda however you can help us with your ability will be of great value.”**  Wes didn’t outright say he had a feeling she could do.   In the present times that was up to her to reveal.   His head swiveled back to Vaeros as he holstered his blaster.   He held the look as he released his grip on it while simultaneously activating the secret compartment on the inside of his right vambrace.  With his left he removed a cylindrical object that would look similar to the one the dark one held who stood next to him.  As the vambrace closed he switched the weapon to his right hand.
+
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (07/09/2025 22:05:10) <br style='clear: both;'>
+
+*1392627672697278554*
+
+The chrono for the door being breached was counting down on his HUD only a handful of seconds remained.  **”It looks like we will have something more than slavers to discuss when this is over.”**  His voice sounds out their comm channel as he hits the weapons activation stud.  His voice was calm.  An example of his training but underneath, if it could be felt, was a quiet anger being held in reserve.    Another *snap-hiss* sounded out into the still air.    This time a bright green blade elongated out to a meter in length.   The glowing green and red blades hummed in unison each casting their glow upon the area as the timer ran out.
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/11/2025 18:25:57) <br style='clear: both;'>
+
+*1393297278235840763*
+
+Ignoring the armored Mandalorian for a moment, the Twi'lek enforcer sees the robed figure of Vaeros as the greater threat—or perhaps the greater prize. With a guttural snarl, Vex lunges forward, his vibro-ax swinging in a vicious, overhead arc aimed to cleave the Inquisitor in two.
+
+Vaeros stands his ground, calm and precise. His crimson blade flashes up, meeting the descending ax not with brute force, but with the elegant, economical motion of Makashi. The crackle of energy against cortosis-weave metal fills the corridor. He deflects the blow, but the sheer momentum behind it drives him back a step, a sharp pain lancing through his side. Before Vex can recover, Vaeros twists his wrist, turning the parry into a fluid riposte. The tip of his lightsaber scores a deep, smoking gash across the Twi'leks's shoulder, and a hiss of surprise and pain escapes the slaver's lips.
+
+Before the enforcer can fully register the counter-attack, Wes closes the distance. The Mandalorian's green blade moves in a tight, efficient arc, slicing across Vex's exposed flank. Staggered between the two lightsaber-wielding figures, the Twi'lek's eyes widen.
+
+From the relative safety of her cover, Iyola lines up a perfect shot. A brilliant blue bolt of energy erupts from her blaster, striking the enforcer square in the chest. He seizes up, his body convulsing as the stun charge courses through his system, his predatory grin replaced with a grimace of neurological shock.
+
+Pressing the advantage, Vaeros steps forward again. His crimson blade dances with deadly precision, a swift thrust that bites deep into the Twi'lek’s other shoulder. The enforcer roars, a sound of pure fury and agony.
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/11/2025 18:26:00) <br style='clear: both;'>
+
+*1393297293238866103*
+
+Cowering near the airlock, the technician flinches with every blow and flash of light, his eyes darting between the chaotic melee and the open doorway behind him, waiting for any chance to flee.
+
+From his own piece of cover, Dryzan takes a steadying breath, the initial fear replaced by opportunistic focus. He squeezes the trigger. A searing red blaster bolt slams into the already grievously wounded Twi'lek, knocking him back a final, stumbling step.
+
+Varda, meanwhile, ignores the immediate fight. Her gaze is fixed on the open airlock, her hand slightly outstretched. She feels the heavy, thudding footsteps drawing closer and gathers the Force around her, a coiled serpent of power waiting for the new threat to reveal itself.
+
+---
+
+<img src="avatars/1387914432989892838/d497594dadbfe92ecf1a1297a25f2830.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Grist** (07/11/2025 18:37:17) <br style='clear: both;'>
+
+*1393300130832056350*
+
+The thunderous footsteps culminate in a hulking silhouette that fills the entire two-square airlock. A mountain of a man, clad in mismatched, scuffed flak armor, steps into the antechamber. A massive heavy blaster rifle is held at a low ready, its weight seemingly nothing to him.
+
+His eyes, small and hard beneath a heavy brow, take in the scene in a single, sweeping glance: the impossible glow of two lightsabers, the figures ducked behind cover, and finally, his Twi'lek companion, staggering and scorched.
+
+No flicker of surprise crosses his face, only a slight narrowing of his eyes. His expression sets into a flat, hard line of professional focus. The heavy weapon comes up with a practiced ease that belies its size, the barrel swinging to lock onto the nearest, most heavily armored threat: the Mandalorian.
+
+The air crackles with the low whine of its charging capacitors as he prepares to fire.
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/11/2025 19:02:50) <br style='clear: both;'>
+
+*1393306560381583401*
+
+As the huge gunner, Grist, brings his heavy rifle to bear on the Mandalorian, Varda unleashes her readied power. Her hand snaps up, fingers splayed, and the very air in the corridor seems to ripple. It is not a visible bolt, but a silent, concussive wave of pure will that slams into the big man.
+
+Grist's eyes go wide, the professional focus instantly shattering into a look of blank, neurological shock. The heavy repeating blaster clatters from his suddenly nerveless fingers, hitting the deck with a deafening clang. Without a sound, the mountain of a man crumples, collapsing into a heap of armor and unconscious flesh just inside the antechamber.
+
+---
+
+<img src="avatars/1387914432989892838/f4cb5ba059bd347bd992bbd48fe20b5f.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Twi'lek Enforcer** (07/11/2025 19:02:51) <br style='clear: both;'>
+
+*1393306563112079371*
+
+The Twi'lek enforcer, sees his backup neutralized in the blink of an eye. His own grievous wounds burn, and raw panic flashes across his face. He is outmatched and alone. His predatory grin vanishes, replaced by a desperate, cornered-animal snarl.
+
+Seeing his chance, the technician scrambles to bolt past the faltering Twi'lek and into the relative safety of the other ship. But the Twi'lek is faster. A clawed hand shoots out, grabbing a fistful of the technician's tunic and yanking him back with brutal force. A choked cry escapes the technician as the Twi'lek spins him around, hauling the smaller man in front of him like a shield.
+
+**"Get back!"** the Twi'lek snarls, pressing the muzzle of a hold-out blaster he drew with his free hand to the technician's temple. He begins dragging his struggling hostage backward, step by painful step, toward the open airlock. **"One more step and I'll paint the walls with his brains!"**
+
+---
+
+<img src="avatars/1387914432989892838/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Vaeros Halcyon 38/48 HP 0 CT | 7 FP** (07/12/2025 01:06:24) <br style='clear: both;'>
+
+*1393398056627732601*
+
+Vaeros scoffs at the Twil'lek,** "Are you seriously using your slave against us? What's to stop us from ending you anyway? We hold no attachment; your vain effort to save yourself is moot.  I'll tell you this once: surrender yourself and the slave, but in return, you'll live."** Vaeros shrugs, pointing his lightsaber at the Twi'lek, **"If you decline, you'll die."**
+
+Vaeros signals the group, gesturing them to move closer towards the airlock; they have a goal to finish. If the Twi'lek surrenders, saving a slave is nice, but they can't delay. He assumes that his choice of words won't be popular with the group, but we cannot afford to stop now and let the Twi'lek stall for time. Either the Twi'lek surrenders, or they continue to fight.
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/12/2025 16:21:12) <br style='clear: both;'>
+
+*1393628274361503918*
+
+Vaeros's voice, filtered through his mask's vocoder, is devoid of heat or passion. It is the cold, dispassionate sound of a predator stating the obvious terms of engagement. The threat isn't angry; it's factual, and that makes it all the more chilling.
+
+The words land like ice water on the Twi'lek's panicked mind. His eyes dart from the unblinking red lenses of Vaeros's mask to the steady green blade of the Mandalorian, then down at the trembling technician in his grasp. The logic is brutal and undeniable. These weren't soft-hearted heroes; they were killers. Why *would* they care about this one piece of meat? His shield was worthless.
+
+For a split second, the Twi'lek's resolve crumbles. The offer of life, any life, is a hook he can't ignore.
+
+With a final, desperate snarl, he shoves the hostage violently forward. The technician stumbles, crying out as he trips and falls sprawling onto the deck plating at Wes's and Vaeros's feet.
+
+The distraction is all the Twi'lek needs. He doesn't wait for a reply. He turns and bolts, disappearing into the dark corridor of the ship from which he came. The sound of his frantic, retreating footsteps echoes back into the antechamber.
+
+The immediate standoff is over. The hostage is free, but the enemy is escaping.
+
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin 68/68 HP 0 CT | 7 FP** (07/12/2025 19:16:17) <br style='clear: both;'>
+
+*1393672334509998170*
+
+Wes stood next to the Inquisitor as he gave the Twi’lek slaver a choice.  It wasn’t quite worded the way he would have given it but he saw the eyes of the Twi’lek dart back and forth between him and Vaeros.   It was deathly quiet after the chaos of the first action of battle.   The only two sounds in the quiet was the low hum of the two lightsabers casting red and green shadows.   He then saw the will to fight leave the slavers eyes as the tech was pushed forward violently a split second before he tore off back into his ship.   
+
+
+Quickly Wes moved to the fallen tech who was now sprawled out on the deck plating.   Kneeling down he kept his blade to the side as he rolled the tech over.  Wes could tell that he wasn’t the one who had reached out before.    **”Hey.  Be calm.  Listen to me.   Someone on that ship reached out with the Force.   It wasn’t you.  Who was it that reached out?  Where are they?  Tell us and we can free you and whoever else they are holding.”**
+
+---
+
+<img src="avatars/1387914432989892838/3e4f68d632cc2a2e5ba8b28d3b18b4a6.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Technician** (07/12/2025 20:13:03) <br style='clear: both;'>
+
+*1393686617893638236*
+
+The technician scrambles backward on the deck plating, his eyes wide and wild with a mix of terror and a feverish, single-minded purpose. He crabs away from the glowing green blade, his breath coming in ragged, panicked gasps. He barely seems to register Wes's calm tone, his mind seizing only on the key words.
+
+**"The other one... the woman... Nadia..."** he rasps, his voice cracking. He shoves a trembling hand in the direction of the open airlock. **"Aft... cargo hold... aft!"**
+
+He doesn't wait for a reply. He doesn't wait for the offer of help. With a desperate surge of adrenaline, he shoves himself to his feet. His legs are unsteady, but his motivation is absolute. He turns and bolts, a frantic, stumbling sprint back through the airlock and into the dark corridor of the other ship.
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/12/2025 20:13:03) <br style='clear: both;'>
+
+*1393686621047488563*
+
+Simultaneously, as if triggered by the technician's desperate flight, a piercing klaxon alarm shrieks to life throughout the slaver ship, its jarring cry echoing into the antechamber. For a second, red emergency lights flash within the corridor.
+
+Then, just as suddenly as it began, the alarm dies. The red lights go out. A series of heavy, echoing *THUDS* reverberate through the deck plating as internal blast doors slam shut somewhere deep within the other vessel. The corridor visible through the airlock is now plunged into a deeper, more ominous darkness.
+
+---
+
+<img src="avatars/1387914432989892838/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Varda Nisyren 56/56 HP 0 CT | 9 FP** (07/13/2025 01:01:24) <br style='clear: both;'>
+
+*1393759183152742404*
+
+Varda walks closer towards the airlock looking at the technician  run back towards the slavers ship.  She hears the thunking of the blast doors and raises an eye brow at Vaeros and Wes. "**Hmm, a good thing you have those lightsabers**" 
+
+She moves to the slaver who now lies on the floor, spits on him then turns back to the others waiting to see what desciscion she and them will make.
+
+---
+
+<img src="avatars/1387914432989892838/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Vaeros Halcyon 38/48 HP 0 CT | 7 FP** (07/13/2025 02:24:22) <br style='clear: both;'>
+
+*1393780063723454494*
+
+Vaeros nods, **"That wasn't the most courteous ultimatum, but it worked in the end. Anyhow, I suggest boarding this opposing vessel. Capturing it, getting information, and encountering this force-sensitive individual should work as potential goals." **
+
+Gesturing towards the unconscious man on the floor, **"Varda, how long will this man be knocked out? I'd advise that we dispose of him before he becomes a future problem."**
+
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin 68/68 HP 0 CT | 7 FP** (07/13/2025 12:49:09) <br style='clear: both;'>
+
+*1393937294507114626*
+
+Wes watched as the man retreated from him and the group leaving the area at a run.  Despite being rescued the sight of two lightsaber wielding individuals, having just rescued him, was too much for him to process.   All he managed to relay in answer to the question was that a woman named Nadia in the aft cargo hold.  
+
+
+Standing he closed down his lightsaber as he reached out with the Force.  His senses reached out towards the aft of the slaver ship searching for the one that was mentioned.  There was a sense of urgency in his search.   They were about to enter an unfriendly ship and their time frame was unknown.   
+
+
+He could sense the fear of the Twi’lek as he raced towards the front of the ship.  The cockpit perhaps.  Near the aft of the ship he felt her, Nadia.  The one who unleashed the psychic scream was now just a flicker of flame, a candle in the breeze.  That small flicker felt as if it could be sniffed out at any moment.   Along that area he senses the tech that had just left them in fear.  He was heading her way.   He was about to turn when something else stood out.   Another presence, one that was quiet as if it wanted to remain hidden.  The presence was along the path that the Twi’lek was taking.   
+
+
+He turned towards the group.   **”This Nadia who he spoke of is in the aft cargo hold.  I can sense her there.”**  He said matter of factly as he raised his left hand in that direction.  **”He’s racing there right now.   The slaver is going towards the fore of the ship.  There’s someone else along his path.   They are trying to remain hidden.”**
+
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin 68/68 HP 0 CT | 7 FP** (07/13/2025 12:49:26) <br style='clear: both;'>
+
+*1393937366720184390*
+
+He looked the group over.   **”They need help, I’m heading aft.”**  There was no question in his tone.  He was going where he said he was.   Stepping close to the fallen tower of an enemy and his fallen blaster rifle, Wes activated his light saber and dissected the weapon rendering it useless.  The tip of his green blade digging into the deck plating leaving a scorched molten and glowing line.   As he moved towards the aft section his lightsaber casting green shadows and leading the way.
+
+---
+
+<img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett 25/25 HP 0 CT | 7 FP** (07/13/2025 15:17:05) <br style='clear: both;'>
+
+*1393974522801295402*
+
+Iyola did her best to process what had just happened.  Both Vaeros and the Mandalorian - Del-Fin - had attacked the Twi’lek with lightsabers.  And somehow - was it Varda, perhaps? - the gigantic gunner had collapsed in a pile of flesh and flak armor.  *Were they all Jedi?  Dryzan too? Or could you use a lightsaber without being a Jedi?*  She’d only seen one lightsaber lit prior to day, and that hadn’t been in combat; it was when Lagan finally succumbed to her pleading and let her ignite and hold his weapon.
+
+She remembered how weightless it had felt in her hand, and its beautiful icy blue color; he’d stopped her before she could twirl it around.  Now that she’d seen them used, she could understand why, but she’d been disappointed, and still was.  *Maybe that meant she could get a lightsaber for herself. It would be super-useful for ship repairs too. *
+
+To her surprise, the technician had fled back into the ship. *They were scarier than whatever was on their vessel.* The thought was heartening.
+
+Her brow furrowed at Vaeros’s suggestion.  **“Dispose of, you mean restrain him?  I have some binds that might work.”**  He was a Jedi, if a weird one; certainly he couldn’t mean what she thought he had said. *Maybe Standard wasn’t his first language.* 
+
+Del-Fin stated his intention to free Nadia, who was a Force user the rest of them could sense.  That sounded like a good plan, and fortunately lightsabers were also an excellent source of illumination.  The green and red blades cast clashing, bright beams.
+
+Iyola turned to Varda as they set off. **“Varda, are you a Jedi too?”**
+
+---
+
+<img src="avatars/1387914432989892838/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Varda Nisyren 56/56 HP 0 CT | 9 FP** (07/13/2025 15:28:09) <br style='clear: both;'>
+
+*1393977308422869052*
+
+Varda looks to Vaeros as he asks her how long they have. She grimaces slightly knowing the variability her own abilities have. "**Perhaps 30 seconds at worst. An hour at best. It wholly depends on his constitution.**" She looks down to the large human. "**Looking at him. Probably better to be safer than sorry. If we wish to bind him and leave him as a variable, we must move quickly.**" Her voice is sharp lined with an undertone of melancholy. 
+
+As Wes approaches she feels him reach out and nods as he talks. She doesn't reach out herself not yet more than happy to trust in his judgmnent at this moment. As Iyola turns to her and asks her question. She barks out a surprised laugh. "**Ahh, no my dear, I am no Jedi.**" A smirk forms at the edges of her lips "**I do think they would have disagreed at my husband. Then also my daughter.**"
+
+---
+
+<img src="avatars/1387914432989892838/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Vaeros Halcyon 38/48 HP 0 CT | 7 FP** (07/13/2025 15:34:48) <br style='clear: both;'>
+
+*1393978985251082310*
+
+Vaeros gradually slips back into a mental trance. Thinking helps him best escape his mental confines, especially with his discomfort in needing to open up to the group, in some capacity.
+
+The issue that irks Vaeros the most, though, is Wes, *Why does a Mandalorian carry a lightsaber? The only known Mandalorian Jedi was ages ago, and had a legendary blade. Even then, upon his passing, Mandalorians stole his weapon to use as a self-insert as ruler. The way Wes fights isn't a traditional Jedi stance either; perhaps his master is a Bokken Jedi?*
+
+Regardless, Vaeros nods at the disarmament of the fallen man, **"That works as well; if you use those binds, Iyola, it would be helpful; the sooner we move forward and access their ship, the sooner we can leave. These pirates, or whatever they are, seem to be here to enslave us, kill us, or worse. Nonetheless, we all seem to have unique properties in some way, and that's all the more reason we should avoid capture, if we make some assumptions based on the individual reaching out in the force."**
+
+Vaeros glances over at Wes, then back at the group, **"It seems that he already made up his mind. Should we follow along?" **
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/13/2025 16:44:18) <br style='clear: both;'>
+
+*1393996473028448336*
+
+Taking Vaeros's cue, Iyola quickly pulls a set of heavy-duty binders from a pouch on her belt. She works with practiced efficiency, cinching the restraints tightly around the unconscious giant's thick wrists. Just as she tightens the last one, Grist lets out a low, guttural moan, his massive frame shifting on the deck plating. For a tense second, everyone freezes, but the man's head just lolls to the side, and he sinks back into stillness.
+
+With the immediate threat secured, Wes takes a decisive lead down the dark corridor of the ship, his green blade carving a path through the gloom. The choice is made for them. The rhythmic hiss of the emergency lights activating and deactivating ahead of him creates a strobing, urgent effect, pulling them deeper into the hostile ship. The air here is different—thicker, smelling of unidentifiable spilled fluids, stale nutrient paste, and the faint, coppery tang of fear.
+
+The path forward splits. To the right, a narrower corridor likely leads towards the crew quarters and cockpit, the direction the terrified Twi'lek fled. To the left, a wider, more industrial passage smelling of ozone and charged machinery leads towards the aft cargo bay, the direction the technician ran and where Wes's senses tell him the captive, Nadia, awaits.
+
+The path to the aft cargo hold is short, but the sense of dread grows with every step. The emergency lights flicker more erratically here, casting the grimy walls in a chaotic dance of light and shadow. Ahead, the corridor opens into the dark expanse of the main cargo hold.
+
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (07/13/2025 21:06:56) <br style='clear: both;'>
+
+*1394062567089115256*
+
+Wes stood at the Y in the corridor.   One path leads towards the fore of the ship while the other leads to the aft section.   Between the flickering lights and the green glow of his lightsaber there was an eerie feeling.  Several smells also filtered down from the aft leading corridor.   One’s he’d rather not know the origins from.  Overwhelmingly there was the sense of fear.  One that if it couldn’t be sensed in the Force the all knowing scent of it lingered heavily.  
+
+
+**”Split up or stay together?”**  He waited a moment for them to consider their action but it wasn’t more than a couple glances towards both paths.   **”There is also the other presence that’s trying to remain hidden heading up front.”**
+
+
+Not wanting to wait any longer he indicated the path aft.  He led the way with his lightsaber held defensively letting the blade effectively light the way.   The lighting was even more erratic.   It was as if the crew purposefully neglected this area of the ship.  The smells of captivity became stronger as did the smell of the fear.  He reached out once again with the force to this ‘Nadia’ that was being held.  ***’We are coming.’***  He sent his thoughts outward along with a calm presence through the force to the woman.   Those with him who could sense it could feel his calm presence and determination as he walked.  It combined with his appearance was something that the galaxy hadn’t seen in untold years.   A Force sensitive Mandalorian wielding a Jedi’s weapon.  
+
+His eyes took in the corridor and his senses remained open as he walked into the opening of the dark cargo bay.
+
+---
+
+<img src="avatars/1387914432989892838/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Vaeros Halcyon** (07/14/2025 15:38:37) <br style='clear: both;'>
+
+*1394342330970017813*
+
+Vaeros watches as Wes moves on his own towards the aft path. It seems like nothing is stopping him, for better or for worse. *I dislike how he's letting the pain of another person control his direction. I suppose he is a Jedi at heart, then. I'd rather not deal with the fallout of having near-opposite personal codes, so I'll consider going the other way*.
+
+ **"I feel like some of us should take the other path; we might be able to get more information from the ship, without needing to go into everything headstrong. There might be more than the ship that we would otherwise miss, in case we're all focused on a general area."**
+
+**"If the group prefers to follow Wes, I'll acquiesce, but if some want to go the other path, I'll join you." **
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/14/2025 15:46:08) <br style='clear: both;'>
+
+*1394344221921771652*
+
+As Vaeros voices his pragmatic, tactical suggestion to split their focus, another sensation brushes against the edges of his awareness, a feeling utterly distinct from the chaotic psychic scream they'd all felt.
+
+This is no cry for help.
+
+Emanating from the same aft corridor where Wes now heads, there is a quiet, persistent hum in the Force. It is a clean, orderly note in a symphony of static and fear. It feels ancient, structured, and humming with a cold, intellectual purity that is profoundly out of place on this grimy slaver vessel. It is the psychic equivalent of discovering a perfectly preserved, unopened manuscript lying in a filthy gutter.
+
+It is the scent of *knowledge*, and to Vaeros, it is a lure far more potent than any plea for help or tactical advantage. His own argument suddenly feels hollow. While the others might be running to save a life, he now has a far more compelling reason to follow: to claim a prize.
+
+---
+
+<img src="avatars/1387914432989892838/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Vaeros Halcyon** (07/14/2025 15:55:52) <br style='clear: both;'>
+
+*1394346672888483902*
+
+As Vaeros waits for the party's response, he catches a whiff of something in the force. It's an oddly calm feeling in this chaos; *An artifact*, Vaeros thinks, *Sithspit, I guess I know where I need to go then. Hopefully, this will help us, or me, gather more information from the ship.* **"Actually, as I was feeling out the ship, there might be more to it if we rescue this individual. It might be safer if we stay together and handle it one step at a time."**
+
+---
+
+<img src="avatars/1387914432989892838/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Varda Nisyren** (07/14/2025 16:00:09) <br style='clear: both;'>
+
+*1394347750837194793*
+
+Varda pauses at the crossing for a moment her eyes darting from one path to the other. Then the other force sensitives feel her reach out towards the corridor to the right. She sweeps it with her presence then she reels it back in. She closes her eyes for a second seemingly concentrating on something she gets her answer her eyes staring longer down the corridor. She listens to the others and her face grimaces somewhat. It's quick and passes quickly before she schools her expression. "**The terrified presence down the right would make an ally of us against the slavers. If we wish to stick together however I can find the benefit in that.**"
+
+---
+
+<img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (07/14/2025 18:05:20) <br style='clear: both;'>
+
+*1394379252769620000*
+
+The Jedi - or whatever Varda was - agreed that they should go to the cargo bay.  *They’re  slavers, and so their cargo is people, prisoners*,  she thought with a shudder.  She could not think of a worse fate. 
+
+Since they were on a rescue mission, it made sense for them to go together.  **“There must be other captives there as well,”** she added. **“We need to free them all.”  **
+
+She considered the other route. ** “But after the rescue, we need to head to the bridge quickly. They’re docked with the Venture now, but they could pull away and take us with them.”**
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/14/2025 18:18:48) <br style='clear: both;'>
+
+*1394382641347694594*
+
+The group follows Wes's lead, the twin glows of green and crimson lightsabers cutting through the oppressive darkness of the aft corridor. The air grows thick with the stench of decay and uncleaned machinery.
+
+Wes's telepathic message, a wave of calm determination, ripples through the Force. It reaches Nadia's withdrawn mind not as words, but as a sudden, unexpected warmth—a flicker of light in her self-imposed darkness. It's a presence that feels strangely familiar, like a half-remembered song.
+
+The corridor opens into the vast, cavernous space of the main cargo hold. It's a large, cavernous space, a chaotic mess of unsecured crates, spilled fluids, and discarded equipment. Dim emergency lights flicker erratically from the high ceiling, casting the room in a disorienting strobe effect. The low hum of the ship's engines is more pronounced here. Across the hold, another sealed corridor leads deeper into the ship.
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/14/2025 18:19:15) <br style='clear: both;'>
+
+*1394382755886010549*
+
+While the others scan the hold for threats, Vaeros is pulled by that other, cleaner signal—the scent of knowledge. He follows the subtle hum past a stack of ration crates to a pile of miscellaneous salvage in a dark corner. There, half-buried under a torn cargo net, is a small, unremarkable spacer's footlocker. He reaches out with the Force, slides the latch, and sees it nestled amongst worthless junk: a complex, milky-white crystalline lattice, humming with a faint, internal light. An ancient datacron, impossibly out of place.
+
+Near the far end of the cargo hold, a single reinforced door is visible. And there, slumped against its base, is the still, broken form of the technician. He lies in a heap, the shock collar around his neck dark and inert. His final, desperate act is evident: the door's control panel next to him is a smoking, ruined mess of bypassed circuits, and the heavy door itself now stands slightly ajar, unlocked. He had made it, but the price was his life.
+
+---
+
+<img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (07/14/2025 20:17:23) <br style='clear: both;'>
+
+*1394412486664388738*
+
+She should probably be looking for lurking danger, but Iyola’s scavenger instincts take over as she sees the piles of machinery and objects and crates and doodads of unknown origin.  *There just has to be something good in here!*
+
+ As she casts her eyes around in the weird multihued light, she sees Vaeros head around a pile of broken crates, towards an assortment of small metal lockers.  Curious, she trails after him. 
+
+She watched him make a minute motion with his hand.  The latch to one of the lockers popped open.  Inside, an old-looking intricate cube shone with a soft white light.  
+
+**“Lucky you!” **exclaimed Iyola.  **“That looks really interesting.  Do you know what it is?  Maybe a lantern?”** She walks over, intending to get a closer look.
+
+***Created** 07/14/2025 16:28:49 EST (v7.4.0)*
