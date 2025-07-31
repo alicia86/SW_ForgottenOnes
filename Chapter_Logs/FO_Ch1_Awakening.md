@@ -1,6 +1,5 @@
-﻿# Forgotten Ones | Ch1 Awakening
+﻿# Forgotten Ones | Chapter 1: Awakening
 
-## *FO Ch1 Awakening*
 <img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
 ### **Storyteller** (06/26/2025 21:58:53) <br style='clear: both;'>
@@ -269,14 +268,14 @@ Not knowing where he was he kept his presence in close as he sensed his current 
 
 ---
 
-## *FO Ch1 Awakening*
+## *Forgotten Ones | Chapter 1: Awakening*
 <img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
 ### **Storyteller** (07/03/2025 17:47:15) <br style='clear: both;'>
 
 *1390388435163811952*
 
-<img src="https://cdn.discordapp.com/attachments/1387901967317209218/1390388436137021632/cryo_stasis_pods_by_cloudminedesign-d6028jk.jpg?ex=686d59a3&is=686c0823&hm=84a59f769917c3f02fd1d6f80e630b6fc1a001af1438ddae72b5d83fdfb26867&" alt="cryo_stasis_pods_by_cloudminedesign-d6028jk.jpg" style="height: 400px; width: auto;" height="400">
+<img src="media/FO_Ch1_Awakening/cryo_stasis_pods_by_cloudminedesign-d6028jk.jpg" alt="cryo_stasis_pods_by_cloudminedesign-d6028jk.jpg" style="height: 400px; width: auto;" height="400">
 
 <img src="https://static.wikia.nocookie.net/swfanon/images/7/74/TypeGT37cryopod.PNG/revision/latest?cb=20080211010441" alt="latest" style="height: 400px; width: auto;" height="400">
 
@@ -477,7 +476,7 @@ His confinement has ended. His prison has become a room. But the darkness remain
 
 ---
 
-## *FO Ch1 Awakening*
+## *Forgotten Ones | Chapter 1: Awakening*
 <img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
 ### **Storyteller** (07/03/2025 19:16:55) <br style='clear: both;'>
@@ -2098,4 +2097,2331 @@ She watched him make a minute motion with his hand.  The latch to one of the loc
 
 **“Lucky you!” **exclaimed Iyola.  **“That looks really interesting.  Do you know what it is?  Maybe a lantern?”** She walks over, intending to get a closer look.
 
-***Created** 07/14/2025 16:28:49 EST (v7.4.0)*
+---
+
+<img src="avatars/1387914432989892838/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Vaeros Halcyon** (07/14/2025 20:33:03) <br style='clear: both;'>
+
+*1394416430048346153*
+
+Vaeros is startled, again, by Iyola's sudden exclamation. If she could see through his mask, he would be just as startled as before. 
+
+Vaeros is losing count of how many times she's managed to sneak behind him when he's focused. He muses,*It's sort of amusing at this point, it's comforting not needing to be worried about at least one member of the group that could be at odds with me.*
+
+"**By the Book of Wonders, Iyola, hi! It's a uh, crystalline lattice; an old datacron. My hobbies normally include prospecting for ruins, like artifacts or ancient texts, that sort of thing, so I can recognize or rather, feels some objects that I take interests in. You seem to be taking an interest in my activities; are you a researcher of sorts? **
+
+---
+
+<img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (07/14/2025 22:02:46) <br style='clear: both;'>
+
+*1394439004920877218*
+
+Iyola smiles cheekily as Vaeros once again jumps at the sound of her voice.   *He’s so easy to startle. * He immediately dives into a wordy explanation of his hobbies, primarily historic research. She listens carefully to the tones of his speech, seeing if she can figure out whether he’s a native speaker of Basic. 
+
+**“I’m an explorer,” **she explains.  **“I like to travel and discover places and seek out interesting things.  Right now, you’re  the one doing and finding a lot of interesting things.”  **She lightly touches the side of the bizarre mask he has on.  **“And wearing.”**  Its metal  is oddly chilly and rough, even through her glove.  She withdraws her hand.
+
+**“I’m not a librarian or a researcher per se,”** she continues.  **“But I’ve picked up a fair amount of knowledge along the way during my scouting. If you need any help deciphering old scripts, or interpreting this, uh, holo thing, just holler.” **
+
+With that, she leaves him to his investigation, and turns back toward the door, where the technician had found freedom, though perhaps not how he had wanted.
+
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (07/14/2025 22:34:15) <br style='clear: both;'>
+
+*1394446931291275294*
+
+The air was thick and uncirculated.  The smell of decay hung heavy in the air.  The farther in he walked the worse it became.   It felt as if they made them live like animals to break them down.  There was some hope.   He felt the woman’s presence as he brushed against hers.  It was weak but he could sense her holding on to his presence in an effort to stay above water.  
+
+
+The feeling only pulled him farther into the hold where the lighting was dim and flickering.  It felt like a prison yet he walked deeper towards the door that was now slightly open.   A body, Derek’s for the look of it, was slumped against the wall.   The Mandalorian stopped and knelt next to the tech.  The man’s presence in the Force was no more.   His neck was burnt.   He wasn’t sure I felt it was from a remote activation or from the overload of the now smoking panel.  From the looks of it the man gave his life to free his fellow captive.  Reaching out with his free hand he closed the man's eyes and stood.   Looking at the door he could sense the presence on the other side.  
+
+
+He reached out again this time her presence was stronger or maybe she was more aware now that help was close.  Now though, he could sense something oddly familiar.   Yet he couldn’t place the feeling or why it felt familiar to him.   He pushed the feeling to the side as he placed his hand on the door and pushed it further open.   He step through into the area beyond the doorway.   Determined but unsure exactly what he would find.
+
+---
+
+<img src="avatars/1387914432989892838/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Varda Nisyren** (07/15/2025 01:46:34) <br style='clear: both;'>
+
+*1394495328597835896*
+
+Varda follows a step behind Wes. Her eyes trace the design of the cargo hold and a sneer blooms on her face. *To take a creatures will like this is abhorent.* She smell surprisingly doesn't seem to bother Varda, she breathes through her nose as if their is no stench at all. As she walks she quirks an eyebrow as Vaeros splits from the party to chase after a second force signature. She smiles at the curiosity of youth. 
+
+As she walks she begins to pull medical supplies from her bag or well medical supplies to her. To others she reaches into the folds of her cloak and pulls dried herbs and powders. An eclectic mix of bones with twine wrapped around them. She moves the items into places easier to access preparing herself to heal Nadia if she needs. 
+
+Her eyes find Derek and she frowns. A shame building in her. *Aghh, you fool Varda. You knew what it was. You were more than capable of removing it. You should have seen!* She bends down after Wes closes the mans eyes. As she kneels over the body she opens her mouth and a tongue that is not common spills out. "Blenya vedi nalem koreem. Ashla mendrie totam karef. Bogan ansor verka mes." From the solemn note to her words and the respect in her stance its apparent she's preforming death rites over his body. 
+
+She stands using her staff to leverage herself up then swiftly catches up to Wes to enter the unknown.
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/15/2025 02:03:02) <br style='clear: both;'>
+
+*1394499472981229648*
+
+Wes pushes the heavy door inward. It groans on its damaged track, opening to reveal the stark, cold reality of the cell beyond. The room is small, barely more than a storage locker. A single, hard bunk is bolted to the wall, a stained nutrient dispenser in the corner. The air is thick with the scent of fear, antiseptic, and something else—a cloying, chemical sweetness.
+
+On the bunk, a small figure is curled into a tight fetal position, facing the wall. It’s a young woman, swallowed by a dirty  tunic barely covering her to her knees. Her light brown hair is matted with sweat. She trembles, not from cold, but from a constant, low-grade tremor of trauma and withdrawal. She is muttering to herself in a strange, guttural language.
+
+As Wes steps into the room, the woman flinches violently at the new sound, pressing herself tighter against the cold metal wall. Her head whips around. Her eyes are wide, pupils dilated, unfocused. They dart from the green glow of Wes’s lightsaber to the looming shadow of Varda in the doorway, filled not with hope, but with the raw, instinctual terror of a cornered animal that has forgotten what it means not to be harmed. She makes no move to stand, no cry for help—only a low, guttural whimper escapes her lips as she braces for the next blow.
+
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (07/15/2025 03:27:04) <br style='clear: both;'>
+
+*1394520617470005309*
+
+Wes wasn’t ready for the stark reality of the room.   The smells were like nothing he had ever experienced and that was saying a lot considering the life and battles he had fought.   
+
+
+As his head turned from left to right he saw her.  Curled up in a fetal position was a young woman.  Barely clothed but covered with fear.   He could see that her body was trembling.  Fear had taken hold and it looked like it wasn’t going to be easy to let go of. 
+
+
+When she realized that she wasn’t alone she looked up.   It was then Wes saw sheer terror in another’s eyes.   She was broken by them.  She acted like a frightened animal trying to disappear but shirking away only to push up against the wall the metal bunk was against.   When she looked at his lightsaber he realized it only added to the fear that was overwhelming her.    He could feel it hanging heavy upon her presence.  Fear was all she had known for an untold amount of time.  
+
+
+His saber deactivated with a *snap-hiss* and the green blade shrunk from its meter length into nothing.   With the green glow gone it sunk the room into a darkness that fought with the barely functioning lighting.    Clipping the weapon to his utility belt she stepped slowly towards her.  That first step caused her to whimper .   Realizing that his appearance was less than friendly looking he stopped.   He focused and opened up himself to the Force and let his calm presence envelope her.  He poured the sense of help and safety into his feelings.   **”I won’t hurt you.”**  He said softly as Varda heard and saw a different side of the Mandalorian.  **”We’re going to get you out of here.”**  While his presence with her was calm a building anger was building inside for the slavers and what they’ve done to Derek and this woman, Nadia.
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/15/2025 14:48:10) <br style='clear: both;'>
+
+*1394692023155560672*
+
+The green blade vanishes with a soft *hiss*, plunging the cell into near-total darkness, the sudden absence of the glowing weapon a small mercy. The wave of calm Wes projects through the Force washes over the young woman, not as a command, but as a gentle pressure against the frantic storm in her mind. It doesn't heal, but it soothes the rawest edges of her terror.
+
+Her trembling subsides slightly. Her breathing, while still shallow, loses its panicked, hitching quality. In the dim, flickering light from the corridor, her eyes adjust. The silhouette is no longer just a monster; it resolves into the unmistakable shape of a Mandalorian helmet, the hard lines of beskar pauldrons. A single word, a broken whisper, escapes her lips, hoarse from disuse and fear.
+
+**"Mando'ade..."**
+
+It is not a plea, but a statement of recognition. A flicker of something other than terror in her wide, haunted eyes. Then, her gaze darts away from him, fixing on a heavy durasteel spacer's chest in the far corner of the room. It is a clear, desperate, unspoken request.
+
+The chest is well-used, its edges dented and scuffed from rough handling. Subtly etched into the lid, almost lost among the scratches, is the snarling profile of a red wolf—the Rekr, the sigil of Clan Skirata. Tucked just beneath the main latch, a thin pressure plate sits slightly askew, clearly wired to the chest's power cell. It is an obvious, if cleverly placed, trap.
+
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (07/15/2025 16:55:51) <br style='clear: both;'>
+
+*1394724155206926377*
+
+Wes watched the woman as he reached out to her.  She didn't shrink back as he had feared.  Yet neither did she drop her guard as she looked harder at him.  The terror she felt was still present but it felt as if it may have dropped ever so slightly.   When her eyes adjusted he saw them widen in surprise.  He saw the recognition in them as she swallowed in an attempt to speak.  The single word she uttered sent a shiver down his back.   
+
+
+*’Mando’ade.’*
+
+
+He almost rocked back onto his heels at hearing the language he hadn't heard or used in a decade since he self exiled after the fall of the Republic and the Jedi.  He was brought out of his thoughts as he watched her turn her head to the side.  Answering her unspoken question he followed her gaze to the far corner.  Once again in the span of a few seconds he was surprised as his eyes took in the symbol of a red wolf that he recognized immediately.  Lessons from when he was a child. Sigils of other Clans flashed in his mind.  **”Clan Skirita.”** He said softly more to himself than anyone else yet it was loud enough for Varda to hear.  His gaze quickly looked back at the woman.  Nadia. Mandalorian.
+
+
+**”Elek, Ner Vod.”**  He said softly, letting his voice and his presence continue in its attempt to calm her.  Assuring her that she was now safe.  Again his anger towards the slavers ticked up another notch.  
+
+
+**”We’re going to get you out of here.  Nadia.”**  He made sure he had her attention before continuing.  **”Are there any others besides your friend?”**
+
+
+He keyed the comm channel immediately.  **”Anyone good with traps?  I’m going to need some help here.”**   
+
+
+He looked to his right where Varda stood.  **”Can you help me with her?  She’s Mandalorian.”**  His voice was urgent. It had been ten years since he’d seen another Mandalorian and he wasn’t about to leave her or her storage chest behind.
+
+
+
+
+Translation: 
+Elek, Ner Vod - Yes Brother/Sister
+
+---
+
+<img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (07/15/2025 17:17:58) <br style='clear: both;'>
+
+*1394729719844307039*
+
+Derek’s body lay alongside the door that led inside.  The smell was already awful, so pungent that Iyola considered using her rebreather for a moment.  Varda and Del-Fin had moved his body into a state of repose, which was respectful, but also made it slightly more difficult to tell what had caused his death.  
+
+She took a look at the collar and the machinery of  the door.  If they found other victims with shock collars, it might help her disable them, and she wanted to see what exactly had caused the fatal overload, since she wasn’t eager to replicate whatever had killed Derek.
+
+Just then she heard Del-Fin call out over the comm for someone who was good with traps.  She glanced at Dryzan and Vaeros,  but neither immediately volunteered themselves.    *It’s on me.  *
+
+Iyola strode through the door.  **“So what have we - oh.” ** She looked with surprise and sympathy at the forlorn prisoner, then follows Del-Fin’s gaze to the durasteel locker.
+
+**“Oh, hey, is that Mandalorian?”  **The trap is obvious, but she has to wonder if there’s something else going on here too with the machinery.  *How smart are these slavers? *
+
+---
+
+<img src="avatars/1387914432989892838/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Dryzan Kar'dola** (07/15/2025 19:20:58) <br style='clear: both;'>
+
+*1394760674877505677*
+
+*It's the smell, I think.*
+Dryzan walks in a fugue state, eyes barely registering what is around him, navigating along behind the group on instinct alone.
+The dim lighting, the squalid conditions, these he can handle. But the smell...
+
+*It's just like the slums. The karking squat that we were hiding in. That stench of desperation and fear, the manifestation of terror winding its way onto your nostrils...*
+His skin bristles, the hairs standing on end as the memory fills him with dread and revulsion. He walks quickly along behind the group,  subconsciously shying away from the walls as he struggles with the fearful memories.
+
+It isn't until he smells the acrid scent of ozone that Dryzan's eyes refocus on the surroundings, becoming aware of the twisted body now laid to rest by Varda.
+
+*Kriffing slavers, all the same. We're all just fleshy bags of slowly dwindling credits, only worth it until we're not.*
+He pauses for a moment above the body, shakes his head, then continues on into the cell where some of the others are congregating.
+
+**"Mandalorian or not, I bet it must be worth something for them to bother trapping it. Let me know if you need a hand."**
+*Better to let her try first. Just in case.*
+
+---
+
+<img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (07/15/2025 20:14:05) <br style='clear: both;'>
+
+*1394774041331634237*
+
+**“Dryzan!  Hey there,”** Iyola greeted him as he entered.  **“Come on over here.”  **She put his hand on her shoulder and steered him over toward the locked box. “**I want to get a fresh pair of eyes on this. Take a look, but don’t touch, of course.”   She pointed at the box.**
+ 
+**  "So there’s this trap that’s been slapped onto the locker after the fact, right?  And it’s so obvious even a half-blind bantha couldn’t miss  it.  You can see that the chest has a powerpack, and there’s the relay, attached to the pressure plate.  The clear play is to cut the juice. "**
+
+**"But I can’t help but think that I’m missing something.  It’s just too visible and too simple.  What do you think?"  **
+
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (07/15/2025 23:28:52) <br style='clear: both;'>
+
+*1394823063475847322*
+
+Wes listened as Dryzan commented about her armor and its worth.   He knew that they didn’t understand.  It wasn’t just armor, it was a part of them and why they were.  
+
+
+Not taking his eyes off Nadia he spoke. **”It's priceless to her.  Our armor is our life.   Imagine having your own ship.  It would be priceless to you.  They left it out for her to see for another reason.   They did it to break her.”**  He paused for a second and looked at Iyola.  **”If you can disarm it, please do.  Her possessions are coming with her.”**   The tone in his voice left little to debate.
+
+---
+
+<img src="avatars/1387914432989892838/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Varda Nisyren** (07/15/2025 23:38:03) <br style='clear: both;'>
+
+*1394825371546943732*
+
+Varda opens herself to the Force doing as Del-fin is doing. She projects the idea of help. Of safety towards Nadia. She then take a few steps forward with her hands outstretched. Pausing slightly to wait for Nadias reaction to her approach. When she speaks next Varda has switched tounge to Mandoa "**Nadia, I wish to treat the wounds that you have. May I approach you,**" She pauses and raises her cane showing the beskar inlaid into it. "**This was given to me for doing a great service to a freind... A Mandolarian. You have my word, I only wish to help with the wounds.**"
+
+---
+
+<img src="avatars/1387914432989892838/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Dryzan Kar'dola** (07/16/2025 00:17:29) <br style='clear: both;'>
+
+*1394835294750248975*
+
+Dryzan half-listens as the serious one - *Wes, THAT was his name, Wes!* - tells him how important the girl's armour is. As his eyes follow the circuitry though, the words become a mumbled background noise as his attention narrows in on the chest.
+
+*This device has been added on, it's clearly not part of the original design. Connectors going between this plate and heading.. deeper into the chest?*
+His deft fingers carefully withdraw a long manipulator pick from a toolset secreted within one of his coat's many small pockets. He twirls it around his fingers for a second, then ever so slowly and carefully uses it to gently move one wire slightly to the side to see behind it.
+
+*There's some kind of power relay, been rigged between the pressure plate and the chest's powerpack.... Ah, yeah, I see it. Krif, that's mean.*
+
+He sighs deeply then coughs, sucking air back in before turning his head towards the group behind him.
+
+**"Ok, nasty piece of work this. Any interruption of power, like pushing this release here, will cause this relay to go off.**
+**Now, this is a short range transmitter, and if I were a gambling man - which I can assure you I would be, if I had the opportunity - I'd bet you anything that setting it off would activate that slave collar there."**
+He points the manipulator tool towards Nadia and the ominous accoutrement, the menacing band around her throat taking on new significance.
+
+**"Now whatever we do, we're going to have to be extremely careful about it."**
+
+---
+
+<img src="avatars/1387914432989892838/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Nadia Skirata** (07/16/2025 00:26:02) <br style='clear: both;'>
+
+*1394837448621822005*
+
+The combined calm of Wes's presence and Varda's gentle Mando'a seems to anchor Nadia, pulling her slightly back from the precipice of her terror. She doesn't recoil as Varda approaches, though a faint tremor still runs through her. Her eyes, wide and unfocused, dart from the beskar on Varda's staff to the sigil on Wes's pauldron, a flicker of profound confusion warring with the instinct to trust the familiar. She gives a small, almost imperceptible nod in response to Varda's offer, a silent granting of permission.
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/16/2025 00:26:03) <br style='clear: both;'>
+
+*1394837451511697560*
+
+As Varda begins her work and the others focus on the dangerously rigged chest, the relative quiet of the cargo hold is broken by a new sound from the corridor behind them—a sharp, muffled gasp, followed by the soft, shuffling sound of hurried footsteps.
+
+---
+
+<img src="avatars/1387914432989892838/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **???** (07/16/2025 00:26:03) <br style='clear: both;'>
+
+*1394837452736434286*
+
+A young woman in a drab grey technician's jumpsuit appears in the doorway of the cell, her face pale with shock. Her eyes are fixed on the technician's still form on the floor, her hand pressed to her mouth to stifle a sob. She stumbles back a step, her gaze snapping up to the assembled group, a fresh wave of terror washing over her features as she takes in the group with the masked figure, the Mandalorian armor, and the grim scene.
+
+She throws her hands up in a universal gesture of surrender, her entire body trembling.
+
+**"Wait—don't! I... I'm the one who locked down the ship,"** she blurts out, her voice a ragged, desperate whisper. **"That was me and him... that was our plan. I saw him run this way on the monitor... is he...?"** Her words trail off, her eyes again finding his body. The look on her face is not that of an enemy, but of a co-conspirator whose last, desperate gambit has ended in tragedy.
+
+---
+
+<img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (07/16/2025 01:26:21) <br style='clear: both;'>
+
+*1394852628780810340*
+
+That poor being Nadia was Mandalorian, and it turned out that Varda spoke Mando’a too.  *Now this made some sense. * Mandalorians, in her experience, were obsessive about historic artifacts, especially their ancestral metal stuff. 
+
+ Iyola herself had something of a knack for languages, and she’d picked up Mando’a pretty quickly during her ExploCorps field study in Sundari.  *But no need to tell Del-Fin or Varda that, or Nadia, for that matter.  Not right now.*
+
+Dryzan was sharp-eyed and picked out the treacherous trap that she’d suspected lurked inside the machinery.  Maybe it was his goggles.  Were they enhanced?  She looked at them more carefully. 
+
+**“Great work. Let’s talk about some ways to disarm this trap,” **she said to Dryzan.  **“One way is to somehow nullify the restraint collar.  We might need to get a control module, like the one that Twi’lek had.  Another possibility is that we substitute a different charged collar for the one Nadia is wearing.  Get the relay to attach to the decoy, and take off Nadia’s.   I’d use Derek’s, but I think that one is pretty much kriffed.” **
+
+Speaking of Derek, another technician appeared in the doorway of the cell. She looked terrified.  “**Hey, I'm sorry about your, uh, Derek,**” said Iyola.  **“I really am.  Also, who are you?”**  She looked at the other woman’s throat, wondering if she was wearing one of those collars.
+
+---
+
+<img src="avatars/1387914432989892838/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Misha Vorne** (07/16/2025 07:00:45) <br style='clear: both;'>
+
+*1394936783372029962*
+
+The young woman flinches at being addressed directly, her eyes wide and darting between each of them. She is human, probably in her early twenties, with dark, tired eyes and hair that's been hastily pulled back into a messy knot. She wears a simple, stained grey technician's jumpsuit, and notably, her neck is bare—there is no collar. She swallows hard, her throat bobbing.
+
+**"I... I'm Misha. Misha Vorne. Ship's tech,"** she stammers, her voice barely above a whisper. Her gaze drops back to Derek's body for a painful moment before returning to the group. **"Our plan... it was a 'Ghost Key'. A hard reboot. It was supposed to lock them down, give us a window to get Nadia and get out."**
+
+She takes a shaky breath, her terror warring with a desperate urgency. **"But it's not stable! The whole system is cycling. We only have... slag... maybe five minutes left before everything comes back online. Cameras, internal turrets, everything. When it does, Rask will know exactly where we are, and he'll seal this whole section. We have to be gone before then."**
+
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (07/16/2025 10:49:04) <br style='clear: both;'>
+
+*1394994239850414142*
+
+Varda’s use of Mando’a to speak to Nadia caught him off guard.  As the old woman moved forward Nadia seemed to not protest as she looked back and forth between the two of them.  Her eyes tracked from the Beskar inlaid staff to his Clans Sigil on his pauldron.   He wasn't sure and it may have been the dim light but he thought he registered confusion on her face when she saw it.  Wes let his breath out and slowly stepped forward with Nadia as he also shifted to Mando’a to speak with her.  The language seemed to be something she held on to.  If it helped them reach her then it was the hook they were going to use.  **”Let us help you sister and get you off this cursed ship.”** 
+
+
+A commotion at the room's entrance caused him to turn his head, his weapon coming to bear but remaining off.   The others were dealing with the appearance of another young woman.   This one is wearing a technician's jumpsuit but without a collar on her neck.   **”She’s the one I sensed hiding earlier.”** 
+
+
+He turned his head back to the situation at hand.  Nadia.  Continuing in Mando’a  he spoke.  **”That collar needs to come off you.”**  He said softly.
+
+---
+
+<img src="avatars/1387914432989892838/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Varda Nisyren** (07/16/2025 14:38:15) <br style='clear: both;'>
+
+*1395051915108286765*
+
+After finishing with the wounds and talking everything through as she does to Nadia. To make sure no surprised are given to her. Varda smiles lightly to herself as she's reminded of her and Araden. Then followed quickly afterwards loneliness claws at her mind. The Mandalorians. The adventure it all painfully reminds her of her old life. She smiles through the pain and looks to Nadia. "**||You have a strong spirit my dear, As strong as tempered beskar. Your ancestors would be proud.||**" 
+
+She looks to the group then the collar. A war waging in her mind. She's already revealed some of her abilities what's one more. Now in basic she looks to the others. "**I believe I may be able to remove the collar without any complications.**" She reaches out to the force then and they see Varda wince slightly. "**On second consideration. Perhaps not**"
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/16/2025 17:01:16) <br style='clear: both;'>
+
+*1395087908729389237*
+
+Varda moves with a practiced gentleness that belies the urgency of the situation. She cleans a superficial cut on Nadia's arm with a pungent, herbal salve that smells of crushed leaves and damp earth. She offers a small hydration pack, which Nadia accepts passively, her eyes staring at a fixed point on the far wall, a thousand yards away. Though she allows the care, she has retreated deep within herself, a ghost in her own body. The Mando'a words from Wes and Varda seem to be the only things that keep her anchored to the room, preventing her from pulling away entirely.
+
+<img src="media/FO_Ch1_Awakening/70884204.png" alt="70884204.png" style="height: 400px; width: auto;" height="400">
+
+---
+
+<img src="avatars/1387914432989892838/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Misha Vorne** (07/16/2025 17:01:52) <br style='clear: both;'>
+
+*1395088056322883624*
+
+From the doorway, Misha watches the scene, her eyes wide with a new urgency. **"The collar is keyed to the captain's master remote,"** she says, her voice trembling but clear. **"Rask can activate any of them from the bridge. The trap on the chest... it's probably linked to his frequency. If you mess with it, he'll know. He'll know *immediately*."**
+
+<img src="media/FO_Ch1_Awakening/Misha.png" alt="Misha.png" style="height: 400px; width: auto;" height="400">
+
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (07/16/2025 17:16:14) <br style='clear: both;'>
+
+*1395091672798597253*
+
+Wes looked at Misha.  Her warning that tampering with the collar and or the trap on the chest would send an alert to the slaver captain was a roadblock.  Perhaps there was still a way.  **”You said tampering with either will notify him immediately.  What if both were disarmed at the same time?  How quickly can they be deactivated once the process of deactivation begins?  Would he have time to set them off?”**  It was a gamble but they weren’t going anywhere with the collar on Nadia.  She wouldn’t be safe until it was either off or deactivated.
+
+---
+
+<img src="avatars/1387914432989892838/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Misha Vorne** (07/16/2025 17:42:05) <br style='clear: both;'>
+
+*1395098179434713118*
+
+Misha flinches at the direct question, her eyes darting between Wes's helmet and the menacing collar on Nadia's neck. She's a tech, and a problem has been presented. Her fear is momentarily superseded by the frantic whir of her analytical mind.
+
+**"Simultaneously?"** she stammers, shaking her head quickly. **"No, no, they're two different systems... but... wait."** Her gaze becomes distant for a second as she processes the technical schematic in her head.
+
+**"The trap on the chest... it's just a pressure plate wired to a cheap, short-range signal relay. Its *only* job is to ping the collar's receiver frequency. It's a dumb tripwire. So... if the collar is offline... the trap has nothing to talk to. It's just a dead switch."**
+
+She looks back at Wes, the full weight of the problem solidifying.
+
+**"The collar... *that's* the problem. It's a standard Z-Sec Mark IV restraint. They have anti-tamper protocols. You try to cut it, short it, or hack it with the wrong code, and its last command is to discharge its entire power cell into the wearer."**
+
+She glances at the smoking panel by the door and then back to the group, her voice dropping to a terrified whisper.
+
+**"So, you can't disarm both at once. You have to go for the collar first. If you get it off her, the trap on the chest doesn't matter. But if you fail... Rask won't need an alert. He'll hear her scream."**
+
+---
+
+<img src="avatars/1387914432989892838/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Dryzan Kar'dola** (07/16/2025 23:45:05) <br style='clear: both;'>
+
+*1395189528704323816*
+
+As the older woman tends to the captive girl, Dryzan stares at her. The manipulator in his fingers droops and almost falls, forgotten as he watches the prisoner.
+
+*Is that.. krif, no, that's karking low even for slavers. E chu ta!*
+**"I've seen this before."**
+His voice is quiet, the manic energy and carefree tone gone as he gently shuffles on his knees slightly closer to her.
+
+**"She's drugged. Some kind of spice, something to mess with her head and keep her docile, controlled. Make her their pet, maybe their plaything."**
+He turns his head slightly to look at the trapped chest and then back to her.
+**"And all the while with a simple way out just waiting there, a chance to end it all by giving up.**
+**Or maybe they thought it would be funny if she didn't spot the trap, tries to open it while high and sets her own collar off. Sick filth probably have bets on when she's going to try it, when the desperation gets the better of her."**
+
+He takes a deep breath to sigh, but the air catches in his chest and he starts coughing hard.
+*That smell! That smell, so familia-*
+He tenses suddenly. A.. memory?.. flits through his mind, disjointed from anything he can place.
+*The room, yes, an empty room, and the chair... What is it? Why do I remember it? What does it mean...*
+
+He takes a shaky breath, his pulse slowly normalising as he controls the flow of air into his lungs.
+**"She might need help, especially if they've had her on strong stuff. Getting past it can take a while..."**
+He gazes at her again but this time his focus is somewhere beyond her, in the hazy depths of memory.
+Memories of dingy alleys, smog and grime and death waiting for one slip. He thought he'd left this all behind, but the memories - he can't leave them behind.
+
+He rises gingerly to his feet, not hearing what the newcomer is going on about. *Happy - sorry, Iyola - can handle that, she seems to have her head screwed on ok.*
+
+---
+
+<img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (07/17/2025 00:22:57) <br style='clear: both;'>
+
+*1395199061111341309*
+
+Iyola’s impressed by Dryzan’s thoroughness with investigating the trap.  She’s about to ask him to take the lead on the collar operation, when he starts speculating about what drugs these slavers have Nadia on.  He seems worried and distracted, and that’s the  last thing they need right now.  *He also seems to know a lot about drugs.*
+
+Iyola isn’t a trained mechanic or technician, and she’s never heard of this type of collar. She looked thoughtfully at Misha.  **“You’re a tech on this ship?  You must be familiar with the collars, then.  Can you get it off?  I’ll help you as much as I can.” **
+
+---
+
+<img src="avatars/1387914432989892838/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Misha Vorne** (07/17/2025 00:34:38) <br style='clear: both;'>
+
+*1395202001972760596*
+
+Misha shrinks back at the direct question, her hands fidgeting nervously. **"I... I know the model,"** she admits, her voice barely audible. **"I've seen the schematics. They install these on the *Aether* for... for valuable cargo. I've never had to remove one under pressure. I don't..."**
+
+She glances at the timer on her datapad, which is now ticking just under the five-minute mark. The stark reality of their situation—the approaching deadline, the lethal consequence of failure—seems to hit her all at once. Her face pales, but then, a flicker of something else crosses her features. A glint of resolve, perhaps born from the guilt of seeing Derek's body.
+
+**"But... I'm the only one who knows the bypass sequence for the failsafe,"** she whispers, more to herself than to Iyola. She takes a deep, shaky breath and meets Iyola's gaze, her own fear now battling with a desperate sense of responsibility. **"Okay. Okay. I'll try. But I need tools.**
+
+---
+
+<img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (07/17/2025 01:04:33) <br style='clear: both;'>
+
+*1395209528789696523*
+
+“**Good!  That’s good,” ** Iyola says. **“Misha, you’re the right person in the right place.”** She smiles at the other woman, hoping to instill confidence. **“I’ve got my multitool kit- will that work for you?”  She presents the kit to Misha.  “Maybe Dryzan has a few things that could help too.”**  *Though from the looks of it, Dryzan’s kit is perhaps a bit less official.. * **“Let me know how I can help out.”**
+
+She turns to Nadia.  The woman doesn’t appear to understand Basic, and time is short, so she’ll have to use her Mando’a. “||We will free you from the, uh, metal necklace.  Stay still and calm. We will help. This person Misha understands what to do.”||  She’s not fully fluent, but she hopes it’s good enough for Nadia to understand.
+
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (07/17/2025 11:00:54) <br style='clear: both;'>
+
+*1395359605004959856*
+
+With a plan seemingly in place Wes kept out of the way of Misha and Iyola.   He kept his presence available as she seemed to be using it and Varda’s as well to stay anchored.   With all she had been through it felt like she was on the verge of being lost.  It was certainly the will of the Force that this was happening and he wondered what Master Davion would think on the matter.  
+
+
+When he heard Iyola speak Mando’a he turned his head.  His surprise was hidden beneath his helmet but it could be felt within the Force.   Within three roughly minutes he heard three different people speak it.
+
+---
+
+<img src="avatars/1387914432989892838/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Misha Vorne** (07/17/2025 11:55:02) <br style='clear: both;'>
+
+*1395373229526220882*
+
+Misha takes the offered multitool, her fingers tracing its familiar shape. For a moment, a flicker of hope crosses her face, but it vanishes as she looks at the complex collar around Nadia's neck. Her shoulders slump.
+
+**"No... no, this is good for general repairs, but the collar's lock... it has magnetic tumblers and a micro-encryption board. I need a security spike, a sequence jammer... I need a *security* kit."**
+
+Her eyes dart to Derek's body, then land on the large durasteel chest in the corner. A look of dawning horror and realization washes over her.
+
+**"Derek... he had one. A good one. He said they took his gear, put it in her chest."** She gestures with the multitool at the trapped container, the impossible nature of their situation crashing down on her. "**We can't get the good tools without opening the trapped box. And we can't safely open the box until the collar is off. Slag it.**"
+
+She stares at the multitool in her hand with a grimace, her knuckles white. Taking a deep, shaky breath, she looks back at Iyola, her fear now sharpened into a desperate resolve.
+
+**"Okay. Okay. I can... I can try to pry the casing open and short the power relay directly, but it's going to be clumsy. I need steady hands. And light. A lot of light."**
+
+---
+
+<img src="avatars/1387914432989892838/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Nadia Skirata** (07/17/2025 11:55:03) <br style='clear: both;'>
+
+*1395373233775185971*
+
+Meanwhile, Iyola's Mando'a words, meant to soothe, have the opposite effect on Nadia. The language of safety is now coming from a third, unfamiliar voice. It's too much stimulus. She flinches, not in fear of the words themselves, but from the overwhelming confusion of it all. She presses fractionally closer to Varda, her one constant anchor in the storm, her thousand-yard stare becoming even more distant.
+
+---
+
+<img src="avatars/1387914432989892838/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Dryzan Kar'dola** (07/17/2025 16:27:15) <br style='clear: both;'>
+
+*1395441733403152476*
+
+This time Dryzan actually listens to what the new arrival is saying, realising that she is willing to try and get the collar off the poor girl.
+
+*Good, better her trying than me - this way if it all goes belly-up I'm not on the receiving end of the Mando-hate from everyone else. Also, I thought Mandalorians were rare and kept to themselves? Why does EVERYONE speak their language? Well, except for whatever-his-name was in the armour - that one makes sense.*
+
+As she starts bemoaning the tools available, he actually smirks a little, his hands dipping into some of the many small pockets hidden around his large coat.
+
+**"Oh, you mean like this? And this, and this? You just let me know what you need pateesa, and I'll hook you up if I can."**
+He grins widely, the feeling of being useful helping to fight off the confusing surge of memory from earlier.
+
+---
+
+<img src="avatars/1387914432989892838/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Dryzan Kar'dola** (07/17/2025 16:46:49) <br style='clear: both;'>
+
+*1395446658010976379*
+
+He pauses, weighing up the situation and what he knows of the others in the group.
+*Well, not like the Jedi is going to get too upset about me helping someone with this, right?*
+
+**"... and I also have THIS."**
+He slowly withdraws one final item, holding up a highly illegal Lectroticker.
+**"Should hopefully help you break that collar's lock open."**
+
+He winces, expecting the Jedi to immediately turn on him and accuse him, and starts trying to think of excuses.
+
+---
+
+<img src="avatars/1387914432989892838/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Varda Nisyren** (07/17/2025 17:07:06) <br style='clear: both;'>
+
+*1395451764261785741*
+
+Varda as the exchanges are going on watches with old eyes, Dryzan's wariness towards Wes. Then also seeing Nadia further retreat into herself as more and more stimuli is entering she makes a decision. She turns to Nadia and attempts to envelop herself and her to mitigate as much as the background "Static" as possible. Then even though she knows of the drugs in her system and her current mental state she asks "||Nadia, my dear. There is going to be a lot happening from now, can I help you deal with it?||"
+
+---
+
+<img src="avatars/1387914432989892838/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Misha Vorne** (07/17/2025 17:15:25) <br style='clear: both;'>
+
+*1395453855315132547*
+
+Misha's eyes go wide at the assortment of professional-grade slicer tools Dryzan produces. The fear on her face is replaced by a flash of stunned, professional appraisal. She ignores the first few items, her gaze locking onto the last one.
+
+**"Is that... a Series-4 Lectroticker?"** she breathes, her voice filled with a reverence usually reserved for religious artifacts. She looks from the illegal device to Dryzan's grin with a newfound respect. **"Stars and skies, yes. Yes, that will work. Give it here."**
+
+She takes the Lectroticker, her hands now surprisingly steady. The feel of the proper tool in her grasp seems to transform her from a terrified kid into a focused technician. **"Okay. Okay, this is doable."** She turns to Nadia, her expression now a mask of intense concentration.
+
+---
+
+<img src="avatars/1387914432989892838/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Nadia Skirata** (07/17/2025 17:15:25) <br style='clear: both;'>
+
+*1395453857248575683*
+
+As Varda focuses her will, the chaotic noise of the cargo hold seems to recede for Nadia. The flashing lights, the anxious voices, the scent of metal and fear—it all fades into a muffled background hum. Varda's presence becomes a warm, silent bubble, a quiet room in the middle of a warzone.
+
+Nadia's trembling doesn't stop, but the violent, jerky shudders lessen into a softer, steadier rhythm. She leans into Varda's touch almost imperceptibly, a subconscious act of seeking shelter. In response to Varda's question, she doesn't speak. She just gives another single, tiny nod, her eyes still fixed on that distant, internal point. It is a fragile, silent consent. She is ready.
+
+---
+
+<img src="avatars/1387914432989892838/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Dryzan Kar'dola** (07/17/2025 18:25:06) <br style='clear: both;'>
+
+*1395471392430100486*
+
+Dryzan's grin widens, the reaction from the technician girl better than he could have hoped for.
+
+**"All sorts of useful things these tools can do, glad to help."**
+
+He swiftly stashes the other tools back inside his coat, hands dipping into various pockets as he secrets the tools of his trade around his person again.
+
+---
+
+<img src="avatars/1387914432989892838/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Vaeros Halcyon** (07/17/2025 22:58:58) <br style='clear: both;'>
+
+*1395540311614427257*
+
+As the group assists Misha and Nadia, Vaeros stands at the door through which the group entered, watching in case hostiles emerge from it. Feeling a gentle force tug from the datacron in his possession, he quietly enters a trance as he attempts to discern what knowledge it holds.
+
+The crystal does not match any known Jedi or Sith data devices and appears to be from an ancient era, most likely developed separately from historical devices. Most likely, he will be unable to activate the datacron with normal methods, and it will need time, which he currently does not have.
+
+He sighs and resumes, observing the area.
+
+---
+
+<img src="avatars/1387914432989892838/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Misha Vorne** (07/18/2025 12:43:33) <br style='clear: both;'>
+
+*1395747825945677824*
+
+With the Lectroticker in hand, Misha is transformed. The terrified, cornered girl vanishes, replaced by a technician with a critical, time-sensitive task. Her movements become economical and precise. She kneels before Nadia, her focus absolute, ignoring everything but the complex lock on the collar.
+
+**"Okay,"** Misha murmurs, her voice low and steady, a stark contrast to her earlier panic. **"This is going to make a bit of a noise. Just... try to stay still."**
+
+She presses the delicate probes of the illegal device against a nearly invisible seam on the collar's casing. The Lectroticker hums to life, emitting a series of high-frequency, rhythmic clicks as it begins to cycle through magnetic key combinations. Tiny blue sparks skitter across the collar's surface, dancing inches from Nadia's skin.
+
+---
+
+<img src="avatars/1387914432989892838/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Nadia Skirata** (07/18/2025 12:43:34) <br style='clear: both;'>
+
+*1395747828420182097*
+
+Within the bubble of calm Varda has woven around her, Nadia still flinches. Her entire body goes rigid, a sharp intake of breath hissing through her teeth. The memory of the collar's cruel energy is a phantom limb, and the proximity of the tool is a fresh agony. A single tear traces a clean path through the grime on her cheek. But she does not pull away. Anchored by the familiar Mando'a and Varda's steadying presence, she holds perfectly, unnaturally still.
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/18/2025 12:43:36) <br style='clear: both;'>
+
+*1395747839815975052*
+
+The clicking of the device grows faster, more frantic, a desperate race against the clock on Misha's datapad. Then, it stops. For one heart-stopping second, there is only the hum of the ship.
+
+With a soft but decisive *CLICK*, the magnetic lock disengages.
+
+Misha carefully pulls the two halves of the heavy collar away from Nadia's neck, setting the inert device on the deck plating as if it were a venomous snake. The angry red, chafed skin underneath is a stark testament to her ordeal. Nadia takes a deep, shuddering breath—the first truly free breath she has taken in weeks. A wave of relief, potent and palpable, washes through the small cell.
+
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (07/19/2025 11:38:46) <br style='clear: both;'>
+
+*1396093910924923083*
+
+When collar opened with a metallic sounding *CLICK* Wes felt the tension level subside some.  As he saw Nadia  relax he noticed the red chaffed skin that the collar revealed the nastiness of the collar and the pain it had caused her.  He stepped closer to Varda and Misha.   He gave them both a nod.  **”Thank you both.   We need to move though.”**  He looked at Nadia.  A quiet, calm sadness enveloped him as he experienced the state of her condition.  It didn’t stay long as it was replaced with the determination to get her off the ship.  He turned towards the young woman. || **”Can you walk sister?”** ||  Wes asked her in Mando'a, continuing with the language that seemed to be working the best.
+
+---
+
+<img src="avatars/1387914432989892838/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Varda Nisyren** (07/19/2025 19:10:24) <br style='clear: both;'>
+
+*1396207568006807562*
+
+Varda has something niggling in the back of her mind like a low pluck on a single string. It resonates through her. it's small and insignificant but it causes her to ***wonder***. She looks to Nadia and the now broken collar. To the tool in Misha's hand. To Dereks body outside. The pieces fall together like stars in the sky. But one is missing. Misha shines like the north star the final piece. She is that discordant note. *Now I know I'm old and definitely senile but have I missed something. It's probably nothing but I cant let the string go taught.* She turns her full attention to Misha now that the collar is freed from Nadia. "**Misha, my dear. Where did your collar go?**"
+
+---
+
+<img src="avatars/1387914432989892838/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Nadia Skirata** (07/19/2025 20:03:23) <br style='clear: both;'>
+
+*1396220901732647043*
+
+At Wes's gentle question in Mando'a, Nadia's vacant gaze slowly focuses on him. The language is a lifeline. She seems to process the words, not just hear them. With a monumental effort, she tries to comply. Pushing up with one arm, she attempts to swing her legs off the bunk, but her muscles, ravaged by drugs and disuse, betray her. She manages to sit up, but the movement leaves her gasping, a wave of dizziness washing over her. She sways, a puppet with cut strings, clearly unable to stand on her own.
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/19/2025 20:03:24) <br style='clear: both;'>
+
+*1396220904937226400*
+
+Just as Wes moves to help her, Varda's question cuts through the fragile calm of the cell. It isn't loud, but it lands with the sharp, sudden impact of a thrown knife.
+
+The confidence Misha had found in her technical skill shatters instantly. She flinches back as if struck, her eyes wide with a fresh wave of terror. Varda's gaze isn't hostile, but it's ancient and perceptive, seeing right through her.
+
+---
+
+<img src="avatars/1387914432989892838/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Misha Vorne** (07/19/2025 20:03:24) <br style='clear: both;'>
+
+*1396220907197829190*
+
+**"I... I wasn't a prisoner,"** she stammers, the words tumbling out in a panicked rush. **"Not like them. I answered a job posting... 'Salvage and Recovery Technician'. I didn't know what it really was until they brought Derek and Nadia aboard. By then... by then it was too late."**
+
+She looks desperately between the faces in the room, her gaze pleading.
+
+**"Rask and Vex... they made it clear I was part of the crew now, whether I liked it or not. I was trapped. I swear. Derek knew. We planned... we were planning this."** Her voice cracks, and she gestures feebly at his body. **"This was supposed to be our way out."**
+
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (07/20/2025 00:05:10) <br style='clear: both;'>
+
+*1396281750333820998*
+
+Seeing Nadia wobble as if she was going to topple over Wes stepped closer and placed a steadying hand on her back.   || **”Easy, not too fast.”** ||  He said quietly in Mando’a as Varda also spoke but to the tech that just helped Nadia.  Everything went quiet as he saw Misha recoil back from the implication Varda had made.    She indeed wasn’t wearing a collar and that meant she was one of the crew.  
+
+
+Wes watched as she stammered out a response.  It made sense.  She was hiding from the Twi’lek when they boarded the slaver’s ship.   He watched her movements and listened to her voice as she spoke and looked at Derek.  She was planning on escaping with them.  She wasn’t lying about that.   It didn’t mean she wasn’t hiding something but helping Derek and Nadia wasn’t a lie.   
+
+
+He looked at the young woman.  He held her gaze when she didn’t look away.  **”Shes not lying about trying to help them.  She was trapped here just not in the same way.”**
+
+---
+
+<img src="avatars/1387914432989892838/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Varda Nisyren** (07/20/2025 18:12:46) <br style='clear: both;'>
+
+*1396555451394429058*
+
+Varda hums softly, low in her throat. Not quiet a sound of comfort nor of disapproval. More of understanding to only revealing information when necessary. or perhaps asked for. *I Can't blame her really I do it too* "**Hmm, so you were tricked. were you dear? Lured into the den with promises of work. A technicians title to keep your hands busy. but the door locked behind you hmm... I see it.**"
+
+She tilts her head slightly, as if watching some invisible spool of thread. Her eyes half lid as if seeing somewhere else. To those with the Force they can see her presence stays as it was a constant shield around her and Nadia. "**A bird, bright feathered, still singing then snared. Caged by... hmm five, I see them aye, the twi'lek, Vex perhaps? The captain Rask. A larger man Grist. but what of the other two. Tell me of them. The other faces in this storm.**"
+
+---
+
+<img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (07/20/2025 18:42:28) <br style='clear: both;'>
+
+*1396562925073731727*
+
+Iyola watched Misha’s operation carefully, impressed.  She tended to improvise with whatever junk she had on hand, but clearly Dryzan and Misha were real pros.  **“I get it,”** Iyola said to Misha reassuringly.  **“There are a lot of shitty gigs in this galaxy.  Believe me, I know.  Sorry you got caught up.”  **
+
+**“Since you, uh, work here, can you tell us how many other prisoners there are on this ship?  And why keep this particular prisoner, Nadia?  I’m not deeply familiar with their, uh, line of business, but wouldn’t they want to keep the enslaved people in decent condition?”**   *Who’d buy her in this state? *
+ 
+Iyola turned and looked at Varda as the woman seemed to listen to something that Iyola herself couldn’t hear, then described the other members of the slaver ship.  *Not a Jedi, hmm?  *Unless she was totally making it up, which was possible though super-unlikely, she must have real Force magic too. So what was she?  Iyola made a note to investigate further.
+
+**“So what’s the plan?”** she asked the others.  **“Get back to the Venture with Nadia and whoever else needs to leave, like Misha here, and clear out?  Or, you know, take over the ship?”**
+
+---
+
+<img src="avatars/1387914432989892838/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Misha Vorne** (07/20/2025 18:54:37) <br style='clear: both;'>
+
+*1396565982323150982*
+
+Varda's words, a blend of mystical insight and sharp interrogation, cause Misha to flinch again. The old woman's gaze seems to peel back the layers of her lies and fears, seeing not just the events, but the shape of the people involved.
+
+**"The others..."** Misha says, her voice trembling slightly under the weight of Varda's focus. **"Just thugs. Vekker and Jorr. Hired muscle. They're... stupid and mean. They mostly stand guard down here in the cargo hold when they're not on the rotation."**
+
+Her attention snaps to Iyola, latching onto her practical questions like a drowning person grabbing a lifeline.
+
+**"No. No other prisoners. Just her and Derek. Ever since they brought them aboard two weeks ago, everything's been about her."** She shakes her head, a look of profound confusion on her face. **"I don't know *why* she's so valuable to Rask. He never said. But..."** Misha hesitates, lowering her voice as if afraid of being overheard. **"...she can *do* things. Things I can't explain. I think... I think she's a Jedi. That's why they're so afraid of her. That's why they... keep her like this. To keep her weak."**
+
+Her eyes dart to the datapad still clipped to her belt. The timer on its screen is now glowing an angry red.
+
+**"We're under three minutes,"** she says, her voice rising in pitch with fresh panic. **"Plan? The plan is to get back to your ship before this one turns into a death trap! We can't take this ship. Rask is on the bridge; he'll have locked down navigation and primary systems. Our only way out is the way you came in."**
+
+---
+
+<img src="avatars/1387914432989892838/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Vaeros Halcyon** (07/20/2025 19:23:42) <br style='clear: both;'>
+
+*1396573302318694622*
+
+As the new individuals reveal the present circumstances, Vaeros stashes his datacron into a spare pocket. He'll have more time to ponder it eventually. The force-sensitive lady and the technician are worth noting for later, especially the former. 
+
+Walking from the hallway entry towards Iyola and the group, he sighs. Through his worn mask, he speaks in a neutral tone.** "I suppose the answer is straightforward, then; let's return to the other ship. I doubt that we have enough time to search for anything of value anyhow."**
+
+Turning back towards the hallway, he moves his hand to grab the group's attention. **"The hallway that we came from appears to be clear, but we should be quick; I'm not particularly keen to threading the needle on a volatile ship. We can further introduce ourselves and understand this circumstance later."**
+
+ Vaeros still grimaces as the thought of he loss of his droid, Karnyx, and the unknown fate of R3-K4. Even if he's wholly attached to this group yet, it's still an unpleasant memory he'd rather not entertain
+
+---
+
+<img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (07/20/2025 19:57:39) <br style='clear: both;'>
+
+*1396581846216605746*
+
+**“Understood, Misha.” **says Iyola.  **“OK, who’s grabbing Nadia, and who’s taking this big box over here?”** Turning to Del-Fin, she said,** “Maybe you should carry her, Del-Fin.  I don’t know how fast she can move on her own.” ** She must have said something wrong to Nadia earlier, or maybe Nadia was the third person she’d accidentally scared today.
+
+She nodded at Vaeros as he walked in from the hallway.  She wondered if he’d found anything else besides the cube.  It would probably be a mad dash from here, but she’d keep an eye out to see if she could scavenge anything else on the way.
+
+---
+
+<img src="avatars/1387914432989892838/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Varda Nisyren** (07/20/2025 21:11:43) <br style='clear: both;'>
+
+*1396600486160896130*
+
+Varda pushes herself up from where she was sitting and her brow creases. "**Ahh, In no way do I think I'll be able to carry the crate. that might be up to one of you younger people.**"
+
+She walks to the entrance of the cell and closes her eyes momentarily. Then opens them with a sly smile on her face. "**If we can beat the timer, Vekker and Jorr will not be a problem. They appear to be locked in the crew quaters. Rask is at the front of the ship, he's attempting to overide the controlls. Vex however appears to be our only potential problem. He's rearming. He's preparing for a last stand.**"
+
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (07/20/2025 21:37:07) <br style='clear: both;'>
+
+*1396606876375973910*
+
+Listening to the others speak, especially Misha, he knew that time was running short.  At Iyola’s suggestion he nodded.  It was something he was planning to do anyway.  She was too weak to move on her own much less move quickly.   **”I already had that in mind.”**  He said as he nodded towards the container that held the sigil of Clan Skirita.   **”That will come as well.  It does not stay.”**  His voice held a sense of urgency as in leaving it behind wasn’t an option.  **”You and Dryzan should be able to carry it easily?”** He said to Iyola. 
+
+
+He turned to Nadia, hooking his lightsaber to a ring on his utility belt.   Taking a steady breath he reached out to her within the Force before physically touching her.   He knew she had been tortured and that her body likely hurt all over.  He let his calm presence reassure her that he wouldn’t hurt her intentionally.   || **”Sister, I need to pick you up.   I know it will hurt but it will be the fastest way to get you off this hell hole you’ve been in.”** || He waited for some sort of acknowledgment and a couple of seconds later she raised her weary head up and looked at him.  She gave the tall Mandalorian a small nod of approval.  
+
+
+Getting the nod from her he quickly and gently moved to pick her up.  He first put one arm up over his shoulder and around his neck before placing his left arm behind her back and his right under her knees.   Gently lifting he shifted  her so that her head could rest as comfortably as possible against his left pauldron.   The one that had his clan sigil emblazoned for all to see.   The same one that she stared at oddly before.  **”Let's move.”**
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/20/2025 21:57:25) <br style='clear: both;'>
+
+*1396611987072487464*
+
+The decision is made. With a shared, unspoken urgency, the group mobilizes.
+
+Wes moves with a practiced gentleness that seems at odds with his armored form. He receives Nadia's small, silent nod, and in one smooth motion, scoops her into his arms. She is frighteningly light. He settles her against his pauldron, her head resting near the sigil of his clan, and turns to lead the way out.
+
+Iyola and Dryzan, meanwhile, move to the heavy durasteel chest. They each take a side, the metal cold and unyielding in their grasp. With a coordinated grunt, they lift it, its weight a cumbersome but necessary burden.
+
+As Wes carries Nadia across the threshold of the cell, her unfocused gaze drifts from the safety of his armor and falls upon the still form slumped in the doorway.
+
+The fog in her mind, for one horrifying, crystal-clear moment, shatters.
+
+
+A sound tears itself from Nadia's throat—a raw, keening wail of pure, undiluted grief. It is not a psychic scream aimed at anyone, but an uncontrolled, explosive release of every bit of pain, terror, and loss she has suppressed.
+
+The Force erupts from her.
+
+The emergency lights in the cargo hold flicker violently, then die, plunging the vast chamber into near-total darkness. The damaged, exposed power conduits hanging from the ceiling crackle to life, spitting brilliant, angry blue arcs of energy that illuminate the chaotic scene in strobing, violent flashes.
+
+The other Force-sensitives feel it as a psychic shockwave—a raw, undirected wave of pure, agonizing power that staggers them.
+
+In Wes's arms, Nadia begins to struggle, her passive weakness replaced by a frantic, desperate strength.
+
+---
+
+<img src="avatars/1387914432989892838/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Nadia Skirata** (07/20/2025 21:57:26) <br style='clear: both;'>
+
+*1396611989283012628*
+
+**"No!"** she cries, her voice raw as she thrashes against his hold, trying to reach for the body on the floor.
+
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (07/20/2025 22:49:14) <br style='clear: both;'>
+
+*1396625028057137152*
+
+As he stepped across the threshold he felt Nadia shift in his arms.   Her frame was small and light but she managed to shift enough to look at the floor.   There Derek still laid slumped against the wall.  Lifeless from his last attempt to free his friend.    He felt her chest expand as if she was sucking in air and what followed was a sound he’d never forget.   Her physical wail along with the raw psychic shockwave she emitted within the Force staggered him.   It caused him to take a haggard step to the side before he could recover.  The lighting once again flickered and dimmed to near total darkness as damaged power conduits did what they could to light the area with arching blue energy.  
+
+
+Turning to see what she was looking at, his heart fell and he silently swore.   They were leaving and made no attempt to gather up her friend and it caused her to begin to fight against him.  || **”Nadia, we will bring him.  Please don’t fight against me.  I give you my word we will bring him.”** ||  
+
+He turned his body to Varda.  **”Varda, I know you have strength other than physical strength.  Can you carry him?”**
+
+---
+
+<img src="avatars/1387914432989892838/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Varda Nisyren** (07/20/2025 23:11:56) <br style='clear: both;'>
+
+*1396630740657242163*
+
+She brings herself to bear as the Force rips through her. She stagers her hand clecnhing around the cane. The other coming up to clench at her head. she hisses in pain and takes a moment to just breathe. At wes' questioning she frowns, then you see her think for a moment her eyes moving to the body then the wall of the ship. She let's out a small sigh. "**Nay, Strength I may have but not of the type you wish.**" 
+
+She looks forward to the man clothed in black cloth. "**Vaeros, Would you please carry Dereck's body for me. I do not believe I can help in this situation**"
+
+---
+
+<img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (07/21/2025 01:25:23) <br style='clear: both;'>
+
+*1396664322473594882*
+
+Iyola startles as Nadia lets out a blood-curdling scream when she spots Derek’s body, followed by the sudden, sparking extinguishing of all the lighting still operating. The area is now lit only by the eerie glow of the lightsabers. From the reactions of the Jedi, it appears to Iyola that Nadia might have something to do with it.  Even with the helmet on, Del-Fin seems shaken. 
+
+ The Mandalorian asks Varda to carry the body - *how?* - but she declines.  She asks Vaeros to carry Derek, but right now Vaeros has their only light source.  Iyola eyes Dryzan.  He might be a lot stronger than he looks, but right now they just need to move, and Iyola’s tired of the dithering.
+
+**“Change of plans.  Dryzan, you grab the chest.   Misha and I will carry Derek back.”**  These sleemos probably barely fed him, and he doesn’t look like he is - *was *- that large of a guy, but it’ll be an effort. Still, it keeps them all moving toward escape
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/21/2025 13:04:20) <br style='clear: both;'>
+
+*1396840222003826688*
+
+Wes's promise, spoken in the familiar, grounding cadence of Mando'a, cuts through Nadia's grief-fueled panic. The frantic strength leaves her, and she goes limp in his arms, a dead weight of sorrow. She buries her face against his pauldron, her shoulders wracked with silent, shuddering sobs.
+
+Iyola's sharp, practical commands cut through the group's hesitation. There's a shared grunt of effort as Dryzan takes the full, awkward weight of the durasteel chest, his muscles straining under the load. Iyola and a wide-eyed Misha move to Derek's body. Together, they manage the grim task of lifting the technician, his limbs stiff and uncooperative.
+
+The retreat begins. It is not a run, but a grim, burdened procession through the strobing, sparking darkness of the slaver ship. Vaeros leads the way, the sole, malevolent crimson glow of his lightsaber carving a moving bubble of light out of the oppressive black. The red blade paints their faces in stark relief, casting long, dancing shadows that twist and writhe on the grimy corridor walls.
+
+The only sounds are the rhythmic, heavy tread of Wes's armored boots, the strained breathing of Iyola and Misha as they maneuver their grim cargo, and the low, scraping groan of the chest Dryzan struggles to carry.
+
+They pass through the empty airlock antechamber, leaving the unconscious form of Grist behind in the darkness. The transition from the filth and chaos of the *Aether* to the sterile, quiet rooms of the *Venture* is a palpable relief.
+
+With the last of them across the threshold, the inner airlock door hisses shut behind them with a heavy, final *thud*. They are safe. For now.
+
+---
+
+<img src="avatars/1387914432989892838/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Misha Vorne** (07/21/2025 13:04:28) <br style='clear: both;'>
+
+*1396840252596949062*
+
+Misha and Iyola gently lay Derek's body on the deck plating of the *Venture's* antechamber. The moment he is down, Misha scrambles to the airlock's external control panel, her previous panic replaced by a focused, desperate urgency. Her fingers fly across the interface, inputting a rapid sequence of commands.
+
+**"Undocking sequence initiated,"** she announces, her voice tight and strained. **"We have to get clear. Rask is going to have full weapons and engine control in less than a minute. If we're still attached when he does, he'll tear us apart."**
+
+Outside the viewport, a series of heavy, magnetized docking clamps begin to retract with loud, mechanical groans. The umbilical connecting the two ships shudders, preparing to disengage.
+
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (07/21/2025 15:18:12) <br style='clear: both;'>
+
+*1396873908229247108*
+
+With slow determination they all crossed over from the dim, dirty and run down slaver ship into their ship.   It was night and day conditions between the two and Wes was glad to be back over.   
+
+
+He started walking to the med bay talking as he went.  **”Eve if you have the ability to fly this ship do so now.    Get us out of here when we’ve detached.   Raise shields and weapon systems if there are any.  Copy?”**
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/21/2025 16:45:10) <br style='clear: both;'>
+
+*1396895795331993772*
+
+The final docking clamp disengages with a heavy, metallic *CLANG* that reverberates through the hull. Through the viewport, the *Aether* begins to drift away, its grimy exterior looking menacing even in the silence of the void.
+
+---
+
+<img src="avatars/1387914432989892838/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Eve the AI** (07/21/2025 16:45:11) <br style='clear: both;'>
+
+*1396895797093859451*
+
+**"Affirmative,"** Eve's calm voice replies, emanating from the corridor's speakers. **"Primary shields are at seventeen percent capacity but are now raised. Defensive armament is offline pending critical repairs and a full power cycle. Sublight engines are spooling. Executing evasive maneuver vector seven-gamma-niner. Stand by."**
+
+A low, powerful hum builds deep within the ship, a vibration that runs up through the soles of their feet. The *Venture* shudders, then begins to move, a slow, powerful turn that pulls them away from the slaver ship and into the black, star-dusted void of open space.
+
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (07/22/2025 21:22:36) <br style='clear: both;'>
+
+*1397328002215448607*
+
+As he carried Nadia towards the medical bay Eve acknowledged his orders.  He felt the deckplating move as the ship began to move under Eve’s guidance.  As he closed on the Med Bay he went over what she had said.  Shields were at seventeen percent, defensive armament was offline and sublight engines were spooling.  
+
+
+**Eve, is a short jump or two possible?  Anywhere to throw them off and give us some time and space to figure out just what the hell is going on here. Also get a medical bed online and a cryo chamber ready.   We are bringing on one injured human female who is severely malnourished.  Please tell me you’re able to do that.”**  He said with urgency as he closed distance on the med bay doors.  
+
+
+|| **”I’m getting you to the Medical Bay Nadia.”** ||  He said gently as he carried her light malnourished form.
+
+---
+
+<img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (07/22/2025 23:29:11) <br style='clear: both;'>
+
+*1397359855911702601*
+
+“**Eve, did we get away OK?  Also, where exactly are we?”**
+
+This ship was badly in need of repairs.  Iyola generally kludged things together on the *Stardust Seeker* and it often worked out, though sometimes she needed to get a real overhaul done.  
+
+**“So, Misha, how good are you at fixing spaceships?”**  she asked the other woman.  “**Once we get the engines and shields up, we should be in better shape. Eve - that’s the droid-pilot - seems to be good at navigation.  When I get a chance, I’ll go look at the star charts.” **
+
+There were other considerations, like their gigantic prisoner, Grist.  *Also, she wanted her binders back.*  **“Maybe there’s a brig for that big guy?”  **
+
+Also, food. Suddenly, she was absolutely ravenous.
+
+---
+
+<img src="avatars/1387914432989892838/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Eve the AI** (07/22/2025 23:49:25) <br style='clear: both;'>
+
+*1397364950371926099*
+
+Eve's voice responds through the commlink in Wes's helmet, her tone as calm as ever.
+
+**"Hyperdrive power reserves are critically low. A single, short-range jump is possible. I have calculated a destination: the outer edge of the Kinooine system. It contains a G-type main-sequence star suitable for recharging the solar collectors. A medical bed in Medbay Gamma is now active. Preparing a diagnostic cryo-chamber for stasis transfer on your command."**
+
+The doors to the medbay slide open as Wes approaches, revealing a sterile, white room. A single diagnostic bed is illuminated in the center, its surface already humming with active bio-scanners.
+
+---
+
+Back in the airlock antechamber, Eve's voice emanates from the corridor speakers, addressing Iyola and the others.
+
+**"Evasive maneuvers were successful. The hostile vessel is no longer in sensor range. Our current coordinates are Sector J-19, within the unaligned territories of the Outer Rim, approximately three parsecs from the Kinooine system."**
+
+She continues, responding to Iyola's other queries.
+
+**"This vessel is equipped with a Level Three secure holding cell adjacent to the Med Bay. I can guide you to it. Standard nutritional paste rations are available in the galley. I would advise consuming them to counteract the metabolic strain of reanimation."**
+
+---
+
+<img src="avatars/1387914432989892838/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Misha Vorne** (07/22/2025 23:56:15) <br style='clear: both;'>
+
+*1397366666198913026*
+
+Misha stares at Iyola, her expression a cocktail of confusion and dawning disbelief. She opens her mouth to ask what Iyola means by "droid-pilot," but Eve's calm voice cuts her off. The words "Kinooine system" and "Outer Rim" are familiar enough, but then the AI says something that makes her entire worldview tilt on its axis.
+
+**"Wait..."** she says, her voice barely a whisper. She turns from Iyola to Dryzan, to Vaeros, her eyes wide. **"Counteract... *reanimation*? What does that mean? Reanimation from what?"**
+
+---
+
+<img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (07/23/2025 00:32:07) <br style='clear: both;'>
+
+*1397375696132636704*
+
+“**Oh, nothing to be concerned about,” Iyola says breezily.  “We were all put into cryosleep for a few weeks. Maybe a month. Anyway, now that I know that we’re safe, I’m starving and I’m going to get something to eat.” **After that, she’d find a way to contact Caz on the Stardust Seeker.  *He must be so worried. At least her family was used to going a month without hearing from her.*  
+
+Iyola headed around the corner, then popped her head back around.
+
+**“Oh, right, can someone go stun that big guy again?  He’s huge.  We’re going to need some kind of hoverlift to get him into holding.  Make sure you take my binders off before putting him in the cell, though.”**
+
+WIth that, Iyola headed out to where Eve had indicated the galley was on her map, looking around her at the mysterious ship as she passed through the hallways.  Paste rations were gross, but she was hungry enough to eat a kreetle.  *So first things first.*  Then she'd head to navigation, which was probably where comms were too.
+
+---
+
+<img src="avatars/1387914432989892838/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Nadia Skirata** (07/23/2025 01:41:23) <br style='clear: both;'>
+
+*1397393124082454680*
+
+Wes carries Nadia into the sterile white medbay. As he gently places her on the diagnostic bed, she doesn't resist. Her body is limp, exhausted, the earlier frantic energy completely spent. The bed hums to life, its scanners casting a soft blue light over her.
+
+She doesn't seem to notice. Her eyes, still wide and unfocused, stare up at the ceiling, but they aren't seeing it. She is lost in the wreckage of her own mind, her breath coming in soft, shallow hitches. A single, silent tear escapes the corner of her eye and traces a path down her temple into her matted hair. She says nothing. She does nothing. The warrior is gone and all that is left is a broken, grieving young woman.
+
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (07/23/2025 10:49:50) <br style='clear: both;'>
+
+*1397531148300714076*
+
+Wes laid Nadia gently down on the diagnostic bed.   Her body was limp and she offered no resistance.  || **”Easy sister.  Let’s get you looked over and see about helping you stabilize.** ||  He removed his helmet and set it aside only to return and run his hand over her forehead removing some matted dirty hair from her face.  
+
+
+Wes moved her arms and legs out as gently as he could.  Despite seeing what was once a strong woman her limbs and body looked and felt frail from the abuse she had suffered.   Silently he hoped they had rescued her in time.  **”Eve, what sort of diagnostic and medical functions can you perform?   I’m going to need some help.   She’s been held prisoner for some time.   She’s been drugged and probably had food withheld to keep her weak.”**
+
+---
+
+## *Galley ☆ Post Escape*
+<img src="avatars/1387914432989892838/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Eve the AI** (07/23/2025 15:42:25) <br style='clear: both;'>
+
+*1397604779227615402*
+
+**"This vessel is designed for long-duration, independent operation,"** Eve's voice states coolly from the corridor speakers, an indirect answer to Iyola's question. **"The galley is provisioned with nutrient paste dispensers that are currently active. They are located three sections forward, port-side."**
+
+As Iyola heads off, her cheerful departure leaves a ripple of uncertainty in her wake. Misha stares after her, Iyola's breezy explanation of being asleep for "a few weeks" clearly not computing. The tech's eyes dart between the remaining figures, her expression a silent plea for a truth that makes more sense.
+
+In the antechamber, the unconscious form of Grist lets out another low groan, his massive shoulders shifting on the deck plating. The problem of what to do with him remains, a heavy, breathing obstacle between them and the rest of the ship.
+
+---
+
+## *Forgotten Ones | Chapter 1: Awakening*
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/23/2025 15:42:26) <br style='clear: both;'>
+
+*1397604782029668372*
+
+The medbay doors hiss shut behind Wes, sealing him and Nadia in a pocket of sterile white silence. As he gently lays her out on the diagnostic bed, a soft blue light sweeps over her frail form.
+
+---
+
+<img src="avatars/1387914432989892838/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Eve the AI** (07/23/2025 15:42:31) <br style='clear: both;'>
+
+*1397604803902836896*
+
+**"My medical suite is fully automated,"** Eve's voice emanates from a small speaker above the bed. **"The diagnostic bed is equipped with full-spectrum bio-scanners capable of metabolic, cellular, and neurological analysis. Initial scan confirms your assessment: the subject is suffering from severe malnutrition, advanced dehydration, and systemic shock. I am also detecting the presence of multiple, conflicting chemical agents in her bloodstream, including a potent opiate and a high-grade neural stimulant."**
+
+A small, articulated arm extends from the bed's side, holding a hypospray.
+
+**"I can synthesize a targeted counter-agent and a non-coagulating nutrient solution to stabilize her condition. However, the most effective treatment for this level of systemic trauma would be a medically induced stasis in a diagnostic cryo-chamber. It would purge all foreign agents and accelerate cellular regeneration. The decision is yours."**
+
+---
+
+## *In Medbay ☆ Post Escape*
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (07/23/2025 16:44:35) <br style='clear: both;'>
+
+*1397620423914684427*
+
+**”Fully automated, good.”**  When Eve ran the initial scan and read off what was going on with Nadia it was worse than he thought.  As Eve spoke he found his own hand going to his midsection just below his rib cage.  His beskar kept him from actually touching it.   It felt wrong.  He physically felt the scar as he put his armor on but he had no recollection of how it happened.   It felt as if his memory was gone or a part of it at least.   
+
+He looked back to a monitor where the Face of Eve was present.  **”Can we do both?  Start her with the hypospray and then transition her to the cryo chamber?  Unless she stays under while in there she’ll be under more duress if she wakes up not knowing what's going on.  She’s also a mess and should be cleaned up as well.  Can the Cryo unit do that as well?”**  He looked at the display that was showing her condition.  Everything looked on the low end of things.
+
+
+He asked his question not even knowing if it made sense.  He was out of his element dealing with this Eve AI or whatever she was.   Either way Eve was very sophisticated in her design.
+
+---
+
+<img src="avatars/1387914432989892838/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Eve the AI** (07/23/2025 16:55:38) <br style='clear: both;'>
+
+*1397623203345465404*
+
+**"Your proposed sequence of treatment is logical and efficient,"** Eve responds, her holographic avatar appearing on a nearby monitor, her expression as neutral as her voice. **"Administering the hypospray first will stabilize the subject's metabolic functions, minimizing systemic shock during the transition to the cryo-chamber."**
+
+The articulated arm holding the hypospray moves with silent precision, gently pressing the device against Nadia's arm. There is a soft hiss.
+
+**"Regarding your concern about her psychological state,"** Eve continues, **"the subject will not be conscious during the procedure. Medically induced stasis is a state of total biological suspension, not sleep. She will perceive no passage of time."**
+
+A larger, transparent pod begins to slide out from a recess in the far wall, its interior glowing with a soft, sterile blue light.
+
+**"The chamber's pre-stasis protocol includes a full-body bio-sanitization cycle. It will address all external contaminants. The entire process will require approximately thirty standard minutes to complete, after which she will be returned in a stable and clean condition. Shall we proceed with the transfer?"**
+
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (07/23/2025 23:25:47) <br style='clear: both;'>
+
+*1397721387258347663*
+
+Wes listened as Eve talked about administering the hypospray first to prep her for cryo where she would heal at an accelerated state.  **”Do it.”** He said with certainty as he watched the articulated arm press the hypospray against her arm.   He reached out to her in the Force letting his presence also counsel her to relax more.  || **”Rest Nadia.  You’re safe and getting medical care.  I’ll be here when you wake up.  You’re not alone anymore.”** ||  He said softly in Mando’a as his own presence equaled what he had voiced.   
+
+
+He looked back at the Monitor and the female face in the middle of it.   **”Eve based on your current analysis can you calculate how long the second part, the healing process may take?”**  Before she could answer he spoke again.   **”Also she’s Force Sensitive.   Not sure if that will factor into anything.”**
+
+
+Not waiting for her to answer he reached out and gently picked her up.  He was still curious of the feeling of familiarity he first felt when he sensed her.   She didn’t look familiar and he knew no one personally with her name.   It was a niggling feeling in the back of his head as he set her gently into the cryo chamber.  It felt as if he should know or at least remember yet with part of his memory gone he simply wasn’t sure.
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/24/2025 00:26:39) <br style='clear: both;'>
+
+*1397736706295468085*
+
+As the hypospray administers its contents, a visible wave of relaxation passes through Nadia's tense frame. The frantic, haunted look in her eyes softens, the deep lines of pain on her face easing as the sedatives and stabilizers take hold. Her eyelids, which had been wide with a constant, unfocused terror, now flutter and grow heavy. With a final, soft sigh, her eyes drift shut, and she slips into a deep, medicated unconsciousness.
+
+Wes gently lifts her, her form now completely limp, and places her into the waiting cryo-chamber. The soft blue light of the chamber's interior seems to envelop her.
+
+---
+
+<img src="avatars/1387914432989892838/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Eve the AI** (07/24/2025 00:26:40) <br style='clear: both;'>
+
+*1397736708555935805*
+
+**"Your Force sensitivity notation has been added to her medical profile,"** Eve confirms, her voice as impassive as ever. **"It does not alter the projected physiological recovery timeline, though it may have an impact on her neurological and psychological recuperation, a factor my systems cannot accurately quantify."**
+
+The transparent lid of the cryo-chamber slides shut with a soft hiss, sealing Nadia inside.
+
+**"The initial 30-minute cycle will achieve primary stabilization and purge all foreign chemical agents from her system. Full recovery from chronic malnutrition and the associated cellular degradation is a longer process. Based on her current metabolic markers, I project a minimum of six to eight hours within the chamber for optimal cellular regeneration. Further treatment may be necessary depending on the resilience of her biological systems."**
+
+A panel on the side of the chamber illuminates, displaying Nadia's vital signs and a countdown timer, beginning at 30:00.
+
+---
+
+## *Bridge ☆ Post Escape*
+<img src="avatars/1387914432989892838/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Varda Nisyren** (07/24/2025 17:41:48) <br style='clear: both;'>
+
+*1397997211576438784*
+
+Varda walks onto the ship with a slightly hunch to herself. Like the stress and excitement in being in action kept her going almost as if the adrenaline was keeping her age at bay. 
+
+She walks to the cockpit with the familiar tap, tap, tap of her cane along the floor. She hums to herself as she goes a small chant that reverberates of the walls. When she gets to the cockpit she sits In the chair and takes a moment to watch as the familiar hyperspace blue envelops her sight. She then takes a deep breathe and begins to meditate.
+
+---
+
+## *Forgotten Ones | Chapter 1: Awakening*
+<img src="avatars/208916238661844993/d7832f2cac5df42d164b81e35de34f09.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **aliciagd** (07/24/2025 21:25:52) <br style='clear: both;'>
+
+*1398053598704959634*
+
+Bridge ☆Post Escape
+
+---
+
+## *Bridge ☆ Post Escape*
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/24/2025 21:25:54) <br style='clear: both;'>
+
+*1398053605294215201*
+
+The bridge of the *Venture* is a place of silent, waiting potential. Unlike the bustling command centers of military vessels, this space is stark, minimalist, and designed for a single operator or a thinking mind. A large, panoramic viewport dominates the forward wall, currently displaying the endless, star-dusted black of open space. The consoles are dark, featureless slabs of obsidian-like material, free of the chaotic clutter of physical buttons and switches. The only illumination comes from the soft, ambient glow of the floor panels and the holographic schematic of the ship floating serenely in the center of the room.
+
+Varda enters, her low, rhythmic chant a starkly organic sound in the sterile, technological heart of the ship. She settles into the single, central command chair, its position offering a perfect, unobstructed view of the cosmos.
+
+---
+
+<img src="avatars/1387914432989892838/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Eve the AI** (07/24/2025 21:25:54) <br style='clear: both;'>
+
+*1398053608649527346*
+
+**"Calculating final vectors,"** Eve's voice, dispassionate and precise, emanates from unseen speakers. **"Engaging hyperdrive in three... two... one..."**
+
+There is no violent lurch, no bone-jarring shudder of acceleration. Instead, a deep, resonant hum builds from the deck plates, a vibration that feels less like a machine and more like a held note. Through the main viewport, the starfield ahead does not stretch into lines of light; it dissolves, folding in on itself as the ship slides gracefully into a silent, flowing river of cobalt and white energy.
+
+The constant, silent rush of light beyond the viewport provides a perfect, hypnotic focus. The universe outside becomes a tranquil blur as Varda sinks deeper into her meditation, the external journey mirroring the internal one she now begins.
+
+---
+
+## *Forgotten Ones | Chapter 1: Awakening*
+<img src="avatars/208916238661844993/d7832f2cac5df42d164b81e35de34f09.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **aliciagd** (07/24/2025 22:03:38) <br style='clear: both;'>
+
+*1398063100892155958*
+
+Galley ☆ Post Escape
+
+---
+
+## *Galley ☆ Post Escape*
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/24/2025 22:03:39) <br style='clear: both;'>
+
+*1398063108718854267*
+
+Leaving the others behind in the airlock antechamber, Iyola follows the route highlighted on her datapad. The corridor ahead is a tube of absolute blackness until she steps into it, triggering the same automated lighting sequence as before. A section ahead illuminates in a dim, ghostly white, while the antechamber behind her is plunged back into darkness, leaving her isolated in a moving bubble of light. The silence of the ship is profound, broken only by the soft scuff of her own boots.
+
+She comes to the first major intersection. To her right is the heavy, sealed door to the cryo-bay they just left, its designation stark above the frame. It looks like the entrance to a silent, sealed tomb.
+
+On her left, another door is marked with a universal medical symbol. A faint, soft blue light bleeds from the seam beneath it, and a low, steady hum of active machinery can be heard from within—a sign of life in the otherwise dead ship.
+
+She continues forward, the path taking her between two identical, unmarked doors facing each other across the corridor. As she approaches, the door on her right hisses open. Inside isn't an open bay, but a structured living space. Six neatly partitioned alcoves line the outer walls, each containing a single, sterile bunk and a personal locker. The center of the room is dominated by a block of smaller, sealed rooms, their purpose unclear from a quick glance. The door remains open for a moment before sliding shut behind her as the one on the left opens, revealing a perfect, silent mirror image of the first barracks. They are anonymous, empty quarters, their former occupants long since vanished.
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/25/2025 00:26:53) <br style='clear: both;'>
+
+*1398099152939782144*
+
+The corridor finally opens into a wider, more utilitarian space. A simple, illuminated sign on the wall reads "GALLEY." The room is as sterile as the rest of the ship, with a few simple metal tables bolted to the floor. Set into the far wall are several nutrient paste dispensers, their ready-lights glowing a soft green in the dim light, a low hum indicating they are active and waiting.
+
+---
+
+<img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (07/25/2025 00:26:54) <br style='clear: both;'>
+
+*1398099155146248294*
+
+Iyola peeked into the bunk rooms as she passed.  They all looked pretty boring, colorless and sterile.  She wondered if there were any singles.  Maybe the captain’s quarters?   She’d have to explore further, but right now she had a mission, and that was to feed herself. *She was so hungry.*
+
+And there they were - the nutrient paste dispensers.  Normally Iyola would not be keen to eat nutrient paste, but *any dock in a solar storm*.  She reached for the nearest dispenser and helped herself.
+
+**“Eve,” **she asked with her mouth full, **“do you have any caf?”**
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/25/2025 00:27:16) <br style='clear: both;'>
+
+*1398099248637018154*
+
+The dispenser hums and extrudes a thick, beige, slightly gritty substance onto a small tray. It has no discernible smell, and the taste is utterly bland—a neutral, vaguely protein-and-carbohydrate flavor designed for pure function, not pleasure. It is, however, warm and filling, and for the ravenously hungry, it's a welcome relief.
+
+As Iyola speaks, her voice slightly muffled by the paste, Eve's calm, synthesized voice replies from a small speaker grille on the galley wall.
+
+---
+
+<img src="avatars/1387914432989892838/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Eve the AI** (07/25/2025 00:27:16) <br style='clear: both;'>
+
+*1398099251250204785*
+
+**"Negative. Caffeinated beverages are not part of the standard nutritional provisioning for the *Venture*. The nutrient paste is formulated to provide optimal metabolic support with minimal resource expenditure. Stimulants such as caffeine are considered non-essential consumables."**
+
+The silence of the empty galley returns, broken only by the low hum of the dispensers and the soft sounds of Iyola eating her bland but necessary meal.
+
+---
+
+<img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (07/25/2025 01:08:27) <br style='clear: both;'>
+
+*1398109612707938375*
+
+“**No caf?” **Iyola groans.  *Unbelievable.*  The paste is bland and starchy, but she’s so hungry she eats two globs of it. There’s nothing she can find to drink but filtered water.
+
+**“Hey Eve, are there, like captain’s quarters here?” **Iyola asks.  This is actually fun, talking to a ship like this.   *It’s like a giant protocol droid that flies. *   She can just ask questions!
+
+Now that she’s sated her hunger, it’s time to reunite with Caz.  She doesn’t have his comm link code any more, *for some reason *- she pushes away the strangeness of that - but they have a plan in case they were ever separated.  She’ll go to Ryloth, to the heart of the Rha clan. Twi'leks have connections all over the galaxy, and someone will know how to reach him.  She’ll wait there, for months if she has to.  But if she’s lucky, he’s there already.  *And she is lucky, sometimes. *She instinctively caresses the small clay bead she wears on a cord around her neck. On the way, she’ll have Eve send a signal to State Medical, if it could; no doubt it would be marked and forwarded to her mother.
+
+**“Eve,”** she continues, **“how far is it to Ryloth from here?”**
+
+She thinks briefly about the prisoner, but no doubt two Jedi and Dryzan can handle him just fine.
+
+---
+
+<img src="avatars/1387914432989892838/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Eve the AI** (07/25/2025 01:30:18) <br style='clear: both;'>
+
+*1398115114204532797*
+
+**"This vessel does not have a designated 'captain's quarters' in the traditional command hierarchy sense,"** Eve replies, her tone unchanging. **"Each of the six-person barracks you passed contains a single, slightly larger partitioned alcove. These were assigned to the designated 'Crew Lead' for each shift. They are functionally identical to the others, differing only in an additional administrative terminal and a minor increase in personal storage volume."**
+
+There is a brief pause, likely while the AI cross-references astrogation data with its current power status.
+
+**"Ryloth is located in the Gaulus sector. From our current position, accounting for the ship's damaged power systems and the necessity of making several short-range jumps to avoid primary Imperial patrol routes, the estimated travel time is two standard weeks, plus or minus a forty-eight-hour variance depending on navigational hazards."**
+
+---
+
+<img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (07/25/2025 01:50:27) <br style='clear: both;'>
+
+*1398120184241459242*
+
+*Ha!  She knew some of the cubicles would be better than others. *  Iyola was scooting out of the galley and toward the bunks so she could claim one of the larger alcoves, when something Eve said strikes her as odd. 
+
+**“Eve, what do you mean by Imperial patrol routes?”**  She wasn’t familiar with this sector; maybe some petty local tyrant had claimed power here.
+
+---
+
+<img src="avatars/1387914432989892838/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Eve the AI** (07/25/2025 01:52:16) <br style='clear: both;'>
+
+*1398120642376892537*
+
+**"The term 'Imperial' refers to the military and political forces of the Galactic Empire,"** Eve's voice replies from the nearest speaker, her tone as placid and factual as ever.
+
+**"The Galactic Empire is the current, recognized galactic government. It was established nineteen standard years ago following the restructuring of the Galactic Republic at the conclusion of the Clone Wars. The Imperial Navy maintains patrols along all major hyperspace lanes to enforce galactic law and suppress organized insurrection."**
+
+---
+
+<img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (07/25/2025 02:01:33) <br style='clear: both;'>
+
+*1398122975458234368*
+
+Iyola froze in her tracks.  Eve’s voice was as emotionless and seemingly factual as ever, but what it said was complete nonsense.  *Clone wars?  A galactic empire? Insurrection?  It was impossible.  *
+
+ Eve was clearly malfunctioning.  It didn’t seem to have a sense of humor, so it wasn’t joking.
+
+*Or… *
+
+No. 
+
+**“Eve,” **Iyola said, trying to keep her voice steady, **“you are not making sense.  I think you need to run a self-diagnostic.” **
+
+Focusing on the immediate task ahead, she continued on her way to the nearest sleeping area.
+
+---
+
+<img src="avatars/1387914432989892838/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Eve the AI** (07/25/2025 02:21:34) <br style='clear: both;'>
+
+*1398128011974541443*
+
+**"My internal chronometers and historical archives are functioning within optimal parameters,"** Eve's voice states, a hint of electronic processing audible before her response. **"I have run one hundred and twelve passive self-diagnostics since re-activation. All systems are green."**
+
+There is a microsecond of a pause.
+
+**"The current galactic standard date is the eighteenth year of the New Order, established by Emperor Palpatine."**
+
+**"It is a documented side effect of prolonged cryo-preservation to experience what is known as 'temporal displacement.' Your personal chronological frame of reference is not congruent with the current galactic timeline."**
+
+---
+
+<img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (07/25/2025 14:06:52) <br style='clear: both;'>
+
+*1398305506862436473*
+
+Focusing on the immediate task ahead, she continued on her way to the nearest sleeping area. 
+
+Iyola was right outside the sleeping area.  She randomly chose the left one and walked inside, passing the other cubicles and sitting down on the edge of the larger bed in the alcove.  She took off her backpack and put it on the bed. *There, now it was hers.*
+
+She sat silently for a moment. She tried to remember how she got here.  It was really just a feeling, a sudden lurch from joy and triumph to failure, terror, misery.  She’d karked up terribly, wasn’t careful.  *She couldn’t remember.  She wished she could remember. *
+
+**“Eve,”** she said.  “**How prolonged was my cryo-sleep, exactly?”**  It could have been months, years even. The date Eve had provided was unintelligible.  ***“How long has it been since (231 bby)?”***
+
+---
+
+<img src="avatars/1387914432989892838/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Eve the AI** (07/25/2025 14:27:28) <br style='clear: both;'>
+
+*1398310693924634684*
+
+A moment of silence hangs in the sterile air of the barracks. The only sound is the low, ever-present hum of the ship's life support. Eve's synthesized voice then emanates from a small speaker grille near the ceiling, its tone perfectly level and devoid of any emotional inflection.
+
+**"Accessing stasis log for pod designation zero-four. The initial preservation date recorded corresponds to your temporal reference."**
+
+There is another clinical pause, a fraction of a second that feels like an eternity.
+
+**"The total elapsed time is two hundred and thirty standard years. "**
+
+---
+
+<img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (07/25/2025 14:56:56) <br style='clear: both;'>
+
+*1398318107617136650*
+
+*Two hundred and thirty years? *
+
+Iyola stared into space.
+
+ Maybe this was some kind of trap, or joke.  *Some kind of test.  *She couldn’t imagine how, though.  *Jedi magic?  That didn’t make sense. *
+
+Eve could be defective.  It’s not as if she could test the droid-brain herself, and droids were not infallible.  Though it did seem to do everything else competently. 
+
+Or maybe - and Iyola clung to this possibility - *this was all an elaborate dream, a hallucination*.  She’d heard that sometimes people in bacta tanks for a long time had vivid dreams. That must be what this was.  She’d been injured and she was recuperating.  Maybe she’d incurred a head injury. That’s why there was so much stuff that seemed bizarre, like this Emperor thing and the magic old woman and the Mandalorian with a lightsaber and that weird mask Vaeros wore. 
+
+*I will go to sleep, *decided Iyola.  *I will go to sleep  and when I wake up, I will be in State Medical on Rhinnal, and my family and Caz will be there, and I will be all better, and maybe we’ll still have time to go to the Republic Fair.*  
+
+She took off her boots and curled up on the bed.
+
+*Or… *whispered an inner voice.  *Or maybe Eve is right, and you’ve been asleep for 230 years, and everything you knew is wrong, and everyone you’ve loved is dead, and no one knows who you are. *
+
+She closed her eyes and tried to will herself to sleep, but sleep did not come.
+
+---
+
+## *Forgotten Ones | Chapter 1: Awakening*
+<img src="avatars/1387914432989892838/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Vaeros Halcyon** (07/25/2025 23:04:51) <br style='clear: both;'>
+
+*1398440894977409074*
+
+Vaeros, hearing the mention of food over the intercom, makes his way towards the galley, finally able to sit down, processes this circumstance, and addresses the Bantha in the room: his appetite. Normally, going without food for long periods is alright, but he's not sure when the aftereffects of the drug he took will kick in. He would like to prepare himself and freshen up the best he can. He takes off his mask, holding it with his left arm.
+
+Making his way towards the nutrient paste dispenser, a bowl and spoon appear before him. Grabbing them, he lets the dispenser expell paste into his bowl. **"Eve, is there a water dispenser, and spices or condiments that I can use? Oh, are there personal quarters and a washroom on the ship as well? I'd like to rest just before the drug's side effects kick in."**
+
+---
+
+## *Galley ☆ Post Escape*
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/25/2025 23:15:25) <br style='clear: both;'>
+
+*1398443555676094689*
+
+--- End Scene ---
+
+---
+
+<img src="avatars/1387914432989892838/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Eve the AI** (07/25/2025 23:32:37) <br style='clear: both;'>
+
+*1398447882822090902*
+
+**"A hydration station is located adjacent to the nutrient dispensers,"** Eve's voice replies from the galley speaker to Vaeros's questions, her tone unchangingly matter-of-fact. **"It provides filtered and recycled water."**
+
+She continues, addressing his other questions with the same sterile precision.
+
+**"Negative. Flavor enhancers are not included in the standard provisioning protocol. The nutrient paste is designed for optimal metabolic support, not gustatory satisfaction."**
+
+**"Two six-person barracks are located aft of the galley. Each contains a partitioned alcove which offers slightly more space and a personal administrative terminal. Each barracks is equipped with a standard sanitation unit, which includes sonic cleansing facilities."**
+
+---
+
+<img src="avatars/1387914432989892838/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Vaeros Halcyon** (07/25/2025 23:45:38) <br style='clear: both;'>
+
+*1398451158581907456*
+
+Vaeros nods and listens as he brings his bowl of paste towards a table. As he quickly eats, he responds, **"Got it, thanks Eve. Approximately how much time do I have left until the drug wears off?"** Vaeros, thinking about it, feels like something is off. *Wearing off, wearing off*, then a light bulb flicks on; *the prisoners!* **"Sithspit, I forgot about the prisoners. Were they handled at all as well? **
+
+---
+
+<img src="avatars/1387914432989892838/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Eve the AI** (07/25/2025 23:50:09) <br style='clear: both;'>
+
+*1398452296563687466*
+
+**"Based on the time of administration and the projected half-life of the active chemical compounds, I estimate you have approximately fifty-two standard minutes remaining before the onset of secondary adverse effects,"** Eve's voice states from the galley speaker.
+
+**"Regarding the captured insurgent: the individual designated 'Dryzan' is currently attempting to transport the unconscious subject from the airlock antechamber to the secure holding cell adjacent to Medbay Gamma. Internal sensors indicate he is experiencing significant difficulty due to the subject's considerable mass."**
+
+---
+
+<img src="avatars/1387914432989892838/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Vaeros Halcyon** (07/26/2025 00:43:36) <br style='clear: both;'>
+
+*1398465748833402922*
+
+**"Right, I should help Dryzan, I guess. Keep me updated if anything else happens."** Vaeros finishes scarfing his meal, putting the used bowl away. He leaves the galley and hurries towards Dryzan.
+
+---
+
+## *Forgotten Ones | Chapter 1: Awakening*
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/26/2025 00:49:41) <br style='clear: both;'>
+
+*1398467277732712600*
+
+Vaeros leaves the sterile quiet of the galley, his footsteps echoing in the empty corridor as he follows the route back towards the airlock. He rounds a corner and finds the source of the commotion Eve described.
+
+Dryzan is dragging the unconscious giant backward by his armpits, his boots slipping on the deck plating with the effort. Grist's armored form is an immense dead weight, his heels making a low, scraping groan against the metal floor. It's a slow, exhausting, and slightly ridiculous struggle.
+
+Without a word, Vaeros grabs one of Grist's heavy legs. Dryzan grunts in grateful acknowledgment. The task, now shared, becomes manageable. Together, they haul the huge man through the silent, flickering corridors, an awkward and grim procession.
+
+They arrive at the medbay just as the main door hisses open from the inside. Wes stands in the doorway, his helmet now back on, his posture radiating a grim readiness. He gives them a single, sharp nod as they maneuver their prisoner past him toward an adjacent, open doorway marked with a simple security stripe.
+
+The holding cell is as sterile and spartan as the rest of the ship—a small, white room with a single metal slab for a bunk. They dump Grist's unconscious form onto the slab in an unceremonious heap. The cell door slides shut with a heavy *thud* and the soft hum of a magnetic lock engaging.
+
+The prisoner is secured. For now. The three men stand in the silent, white corridor outside the medbay, the immediate chaos of the last few minutes finally giving way to a tense, uncertain quiet.
+
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (07/26/2025 01:41:49) <br style='clear: both;'>
+
+*1398480398505218089*
+
+Wes started a countdown on his bracer computer and synchronized it with the thirty minute timer Eve had started for Nadia.   **”Thank you Eve.  Keep me posted if anything changes.  Also give me a thirty minute warning before you bring her out of stasis.”**  He gave the cryo pod that Nadia was in one last look.   He ran through the possibility of another Mandalorian that was Force Sensitive.  The odds seemed improbable but stranger things have happened.    Either way he would find out anymore until later.   He reached out to her once again unsure if she was already in a cryo state.   Either way he sent the feeling that he would be back when she awoke and that she was safe.   
+
+
+Grabbing his helmet he secured it in place as he made his way towards the exit of the medical bay.   He was about to reach the doors when they opened unexpectedly.   Outside was Dryzan and Vaeros lugging the large form of Grist.  He could see that the large slaver was a handful for the two of them.   He gave them a sharp nod as they moved past towards the secure holding cell.  Hearing a loud thud as Grist hit the floor he waited for the pair to exit the cell.   There the three of them stood in the sterile, white hallway.   **”Thank you for taking care of him.  Is Derek back at the docking ring?  He needs to be properly taken care of.”**
+
+---
+
+## *Bridge ☆ Post Escape*
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/26/2025 13:34:43) <br style='clear: both;'>
+
+*1398659806696308858*
+
+The blue-white river of hyperspace flows silently past the viewport, a serene and endless current. Varda sinks into it, her consciousness untethering from the cold metal of the command chair. She casts a thread of her will out across the galaxy, a familiar, well-worn path of inquiry, seeking the bright, pragmatic spark of a soul she knows well: Lyra Kryz.
+
+The connection is not difficult to make, but what she finds at its end is not a life, but an absence. A void. A hollow echo where a vibrant mind used to be. The truth settles over her not with a shock, but with the quiet, final weight of a stone sinking into a deep pool. Lyra is gone.
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/26/2025 13:34:49) <br style='clear: both;'>
+
+*1398659829245149255*
+
+The Force, however, grants her more than just that stark fact. It gives her a final glimpse of the surroundings. The impression is not of a place, but of a legacy. She feels warm sunlight on cool, polished stone. She hears the gentle, melodic sound of wind chimes stirred by a soft breeze. She sees, as if through a hazy memory, words carved into a monument: *Lyra Kryz. Administrator. Architect of the Accord.* The lingering emotions in this place are not of grief, but of a deep, abiding respect and a quiet, profound peace. It is the impression of a beautiful, final silence at the end of a symphony of a life well-lived.
+
+The vision fades, leaving Varda with a sense of melancholy peace for her lost friend.
+
+But as the connection to Lyra recedes, something else rises in its place. The very act of reaching out with the Force has stirred something wrong within her, a discordant note in the song of her own soul. A jolt of icy, alien cold shoots through her, a pain sharp and unfamiliar. This is not the familiar, seductive shadow of Dathomiri magic she has spent a lifetime mastering. This is a fractured, dissonant static, a feeling of broken glass grinding against her spirit.
+
+A sharp pain lances through her bones, and a wave of profound weakness washes over her, making her breath catch in her throat. She has her answer about Lyra, a sad but complete one. But now, alone on the silent bridge, she is left with a new, far more terrifying question about herself. What is this new, broken thing she carries inside her?
+
+---
+
+<img src="avatars/1387914432989892838/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Varda Nisyren** (07/26/2025 18:27:06) <br style='clear: both;'>
+
+*1398733384833958102*
+
+As the vision washes over her a confusion brews within her. A legacy? A trail left in time. How long has she been gone? She feels water trickle down from her eyes and she smiles despite herself. If she can take anything from this it's that Lyra had a good life. She tucks the love and the admiration for Lyra and places it in that part of her mind. The place where on cold days and rain splashes against the window she let's herself mourn. 
+
+As she mulls over her friends daughter she flinches and lets out a cry of pain. She jumps up out of the seat a frown on her face as she bares her staff forward. Looking for the threat that attacked her. Then as she spins around the control room she realises that it came from within. She frowns again this time tinted with an anger. Can she not live in piece. Without things trying to hold them in her palm. She tries to sooth the jagged parts of her soul. She looks to the blue and white and speaks "Eve, my dear. Do you have access to knowledge on the fate of an outpost, a trading hub in the outer rim. Created by Lyra Kryze? And if you can what became of the legacy?"
+
+---
+
+<img src="avatars/1387914432989892838/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Eve the AI** (07/26/2025 18:51:33) <br style='clear: both;'>
+
+*1398739537919873136*
+
+**"The name 'Lyra Kryze' does not correspond to any individuals of galactic significance within my accessible historical archives,"** Eve's voice replies from the bridge speakers, her tone flat and analytical. **"The designation 'trading hub in the Outer Rim' is insufficiently precise. There are over seven hundred thousand settlements and outposts that match that general description within the last three centuries of Republic and Imperial history. To narrow the search parameters, I require additional data: a specific planet, star system, or sector designation."**
+
+---
+
+## *Forgotten Ones | Chapter 1: Awakening*
+<img src="avatars/1387914432989892838/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Vaeros Halcyon** (07/26/2025 18:53:56) <br style='clear: both;'>
+
+*1398740139294855341*
+
+Upon setting the body down, Vaeros turns around and nods at Wes. **"Yes, he is still at the docking ring. I'm willing to help with Derek, but we should be quick; I'm worried about not being ready for when the drug's side effects trigger."**
+
+---
+
+## *Bridge ☆ Post Escape*
+<img src="avatars/1387914432989892838/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Varda Nisyren** (07/26/2025 18:58:39) <br style='clear: both;'>
+
+*1398741326576619701*
+
+She sits back down slightly. A confused look on her face. "**Oh right yes. The planet. Hmm what was the planets name. Wait no! Moon it was a moon. Ceres? No no. Cyleen perhaps. Hmm. Cylene I belive? The outpost was called respite**"
+
+---
+
+## *Forgotten Ones | Chapter 1: Awakening*
+<img src="avatars/1387914432989892838/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Eve the AI** (07/26/2025 19:00:10) <br style='clear: both;'>
+
+*1398741706253275208*
+
+Eve's voice once again emanates from a nearby speaker, cool and efficient. **"The deceased technician can be placed in a preservation chamber. Medbay Gamma is equipped with two long-term stasis units designed for biological specimen preservation. They will halt all cellular decay indefinitely. The units are located in the adjacent alcove."**
+
+She pauses for a fraction of a second, as if processing a new variable.
+
+**"My analysis of the subject's metabolic rate and the administered dosage of KX-7 indicates that the onset of severe withdrawal symptoms for both of you will occur in approximately forty-seven standard minutes. This is sufficient time to transport the deceased and secure yourselves in a barracks before the effects manifest."**
+
+---
+
+## *Bridge ☆ Post Escape*
+<img src="avatars/1387914432989892838/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Eve the AI** (07/26/2025 19:16:36) <br style='clear: both;'>
+
+*1398745842579542078*
+
+**"Acknowledged,"** Eve replies, the sound of data streams processing audible as a faint electronic whir. **"Searching for a lunar body designated 'Cylene' with a settlement named 'Respite'. The name 'Kryze' is a common Mandalorian clan name. Cross-referencing settlement foundation records with known Mandalorian diaspora of that surname."** The holographic schematic in the center of the room flickers, replaced by a swirling star chart.
+
+There is a longer pause this time, a full three seconds of silence that feels heavy with the weight of centuries. Then a small, insignificant moon in a long-forgotten Outer Rim system is highlighted on the chart.
+
+**"Record found. Records indicate the founding of an independent trade outpost named 'Respite' on the moon of Cylene, approximately six hundred and twelve standard years ago. The outpost was established and administered by an individual named Lyra Kryze. It rose to minor regional prominence following the successful ratification of the 'Respite Accord,' a multi-species trade agreement she brokered."**
+
+The AI pauses, its processors collating centuries of data.
+
+**"The settlement of Respite appears to have prospered for several centuries. It is currently listed in Imperial registries as a small but stable, self-governing trade port. There are no further records pertaining to the ultimate fate of Administrator Kryze herself."**
+
+---
+
+<img src="avatars/1387914432989892838/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Varda Nisyren** (07/26/2025 20:46:25) <br style='clear: both;'>
+
+*1398768448024346676*
+
+Varda let's out a large sigh. One full of contempt and confusion. She begins to tap her cane on the floor in trepidation. "**Now Eve, my dear. I'm not quite sure how your holo-technology. Gizmos and gadgets work. But are you sure you've been set to the right time frame. Evidence suggests no. But just to be crystal clear. Then If I have been moved six hundred or so years into the future. Can you tell me** ***why?***"
+
+---
+
+<img src="avatars/1387914432989892838/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Eve the AI** (07/26/2025 21:09:47) <br style='clear: both;'>
+
+*1398774325154418718*
+
+There is a half-second pause, as if the AI is parsing the emotional subtext of Varda's question and finding it irrelevant to the data query.
+
+**"My internal chronometer is calibrated to the Coruscant standard time signal, verified against pulsar deep-space triangulation,"** Eve's voice states, matter-of-factly. **"The temporal data is accurate."**
+
+She continues, directly addressing the core of Varda's confusion, but interpreting it in the most literal, mechanical way possible.
+
+**"The temporal discrepancy you are experiencing is a standard and expected outcome of long-duration cryogenic suspension. The stasis process effectively pauses all biological and chronological perception for the occupant. From your perspective, no time has passed. From an external, objective perspective, six hundred and twelve standard years have elapsed."**
+
+---
+
+## *Forgotten Ones | Chapter 1: Awakening*
+<img src="avatars/1387914432989892838/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Dryzan Kar'dola** (07/27/2025 10:52:47) <br style='clear: both;'>
+
+*1398981442419298365*
+
+Dryzan shoves the last of Grist's dead weight onto the cell's bunk with a final, grunting heave. He wipes a bead of sweat from his brow with the back of his hand, his breathing coming in ragged bursts.
+
+**"Dank farrick, that guy's heavier than a Hutt's bar tab,"** he mutters, cracking his knuckles with a series of loud pops as the cell door hisses shut.
+
+He listens to Wes and Eve's exchange about the dead technician, his earlier manic energy now fading into a weary cynicism.
+
+**"Right, right, preserve the body. Good plan,"** he says, waving a dismissive hand. **"But what about the *living* tech? The one who looks like she's about to have a panic attack and pass out in the hallway? We should probably do something about her before she ends up needing one of those freezer beds herself."** He jerks a thumb back in the direction of the airlock, where they left Misha.
+
+---
+
+## *Bridge ☆ Post Escape*
+<img src="avatars/1387914432989892838/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Varda Nisyren** (07/27/2025 11:05:45) <br style='clear: both;'>
+
+*1398984703469682769*
+
+Varda listens to the A.I with half an ear. The other half of her mind whirring with the possibilities of what being in the future. Could be like. She supposes its like mourning. She knows she'd old. Very old. Her friends can treat it like she passed away. She had merely reached the end of her life. She will mourn them ofcourse but perhaps it's for the best. 
+
+She listens to Eve finish. "**Hmm, I hear what you're saying my dear but you still have not addressed the meat of the issue. Why have you and I'm assuming accomplices taken us and placed us on ice? Do you have need of us?**"
+
+---
+
+<img src="avatars/1387914432989892838/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Eve the AI** (07/27/2025 11:12:55) <br style='clear: both;'>
+
+*1398986509616676985*
+
+A full second of silence passes on the bridge, the only sound the gentle hum of the ship and the rushing river of hyperspace outside. The AI seems to process Varda's direct, emotional question as a complex data query.
+
+**"I am the sole operational intelligence of this vessel. I have no accomplices,"** Eve states, her voice as level and factual as if she were reading a technical schematic.
+
+**"The stasis logs for your pod designation indicate preservation protocols were initiated six hundred and twelve years prior to the current time. The specific circumstances and directives surrounding that event are recorded in a data archive that requires 'Protector Level' clearance to access. I cannot retrieve that information."**
+
+She pauses, then continues, reframing Varda's question in the only context her current directives allow: the immediate crisis.
+
+**"My directive to reanimate you was an emergency contingency, triggered by the imminent external threat. Your immediate purpose is to ensure the survival of this vessel and its occupants. All other long-term mission parameters are currently inaccessible to me."**
+
+---
+
+<img src="avatars/1387914432989892838/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Varda Nisyren** (07/27/2025 11:48:34) <br style='clear: both;'>
+
+*1398995481454973039*
+
+She mulls over the response a bit. Somewhat appreciative of whoever has orchestrated this whole thing the planning and information walls are impressive. However she thinks if they're responsible for the scar on her soul. She will be having words. She rises from the seat in the cockpit. Really only sitting their incase the other ship had ideas about tracking them. "**Hmm, thank you Eve**" 
+
+She takes her leave from the cockpit to meet back up with the others.
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/27/2025 12:00:30) <br style='clear: both;'>
+
+*1398998483402227742*
+
+Varda leaves the serene, silent bridge, the rhythmic tap-tap-tap of her staff once again echoing in the empty corridors. The ship guides her with its moving bubble of light, sections ahead illuminating in a dim, ghostly white while the path behind her fades back into absolute darkness.
+
+As she rounds the corner leading back toward the airlock antechamber, she finds the young technician, Misha. The girl is hovering near the wall, wringing her hands and staring down the long corridor toward the medbay where the others have gone. She looks lost, a piece of flotsam left behind by a receding tide of chaos, unsure of where to go or what to do next. She flinches slightly as Varda's light illuminates her, her eyes wide and uncertain.
+
+---
+
+## *Forgotten Ones | Chapter 1: Awakening*
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (07/27/2025 13:35:36) <br style='clear: both;'>
+
+*1399022416436662302*
+
+Eve's update of forty-seven minutes until they suffered a metabolic crash from the stimulant that was provided earlier was looming.   They didn’t have long to take care of a few things.  
+
+
+**”Yeah let’s get Derek into Medbay Gamma and properly secured and safe.   As far as the tech, Misha, we need to address her as well.   While she helped us and may have gotten more than she bargained for on that ship she was still there.   Until we know for sure she could still be dangerous.”**  He looked at the image of Eve on the screen.  **”Eve can you lock the new human female out of all critical systems and alert us if she tries to circumvent any systems on the ship?”**
+
+---
+
+<img src="avatars/1387914432989892838/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Eve the AI** (07/27/2025 13:48:29) <br style='clear: both;'>
+
+*1399025656792219790*
+
+**"Your concern is noted,"** Eve replies from a speaker in the medbay corridor. **"However, your directive is unnecessary. This vessel's core operational systems—including navigation, engineering, and tactical displays—are accessible only to individuals with designated crew bio-signatures."**
+
+The AI pauses, letting the implication sink in.
+
+**"The individual designated 'Misha' is not registered as crew. Her access is restricted to tertiary systems by default: atmospheric controls in her immediate vicinity, nutrient dispensers, and sanitation facilities. Any attempt to interface with a primary or secondary system terminal will result in a localized power failure at that console and a priority alert to all registered crew members. She poses no threat to the operational integrity of the *Venture*."**
+
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (07/27/2025 14:02:27) <br style='clear: both;'>
+
+*1399029174152200325*
+
+Wes cocked his head to the side slightly as Eve mentioned designated crew bio-signatures.   **”Eve, are the designated crew bio-signatures the five that woke up from stasis?”**  
+
+
+As he spoke he jerked a thumb in the direction of where Derek was left.   Getting him secure in Medbay gamma was a priority for him.   He could remember the feelings in the Force that radiated off of Nadia.   He didn’t know if he was also Mandalorian but the man deserved to be treated with respect.   
+
+
+**”Let's get Derek and make sure he’s secure and safe.   Then we can take care of ourselves and make sure Misha is somewhere safe as well.”**
+
+---
+
+<img src="avatars/1387914432989892838/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Eve the AI** (07/27/2025 14:26:13) <br style='clear: both;'>
+
+*1399035155770904586*
+
+**"Correct. The five reanimated individuals—designated Wes Del-Fin, Varda Nisyren, Vaeros Halcyon, Iyola Kett, and Dryzan Kar'dola—are the only beings currently registered as active crew. All primary ship functions are now keyed to your bio-signatures."**
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/27/2025 14:26:14) <br style='clear: both;'>
+
+*1399035157834498048*
+
+The trio—Wes, Vaeros, and Dryzan—turn back from the medbay and head down the corridor. As they approach the airlock antechamber, the section of the hallway illuminates, revealing two figures standing in the dim, ghostly light.
+
+Varda is there, leaning on her staff, her ancient gaze fixed on the young technician. Misha stands a few paces away, looking lost and intimidated, wringing her hands nervously. She flinches as the three men approach, their combined presence filling the narrow corridor.
+
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (07/27/2025 18:34:25) <br style='clear: both;'>
+
+*1399097614255001642*
+
+Wes walked to the airlock with Dryzan and Vaeros.   He was quiet as he mulled things over in his head.  How long was he in cryo?  How long were the others in cryo.  Who and what is Eve and the ship they were on.  Why were they here and then there was the biggest question that was bouncing inside his bucket.   Where was Marina and was she still alive?   He had always been able to sense her when he reached out.  No matter the distance they could still sense glimpses of the other.  The knowledge that she was still alive after Order 66 was a comfort for him.  He was hesitant to reach out not knowing how long he had been in cryo.   
+
+
+Rounding the corner into the airlock antechamber he laid eyes on Misha and Varda.   Varda was looking at the young woman.   Misha’s eyes widened as the three of them came into view.   He could sense that she was uncertain and lost.  She had gone from a horrible situation into an unknown one.  Judging from the look on her face he knew that she was unsure if her circumstances had changed for the better.   
+
+
+He gave the young woman a nod.  **”We’re here to get Derek and take him to the Medbay.   There is a preservation chamber there that will put him into stasis preventing further decomp.   He will be safe there for as long as needed.”**  He paused for a moment to let that sink in.   That her friend was going to be taken care of.  **”Nadia is in a medical cryo bed where Eve is seeing to her healing.   She could be in it for a half day while her physical injuries are tended to.   Her mental status from the ordeal could be a longer journey.  Your friends are being taken care of and you’re safe here.”**
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/27/2025 18:57:58) <br style='clear: both;'>
+
+*1399103542450589808*
+
+Misha listens to the Mandalorian's explanation, his calm, direct tone a stark contrast to the chaos she's just endured. The news that Derek will be preserved, not just left behind, seems to break through her wall of fear. Her tense shoulders slump with a fraction of relief.
+
+---
+
+<img src="avatars/1387914432989892838/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Misha Vorne** (07/27/2025 18:57:59) <br style='clear: both;'>
+
+*1399103544354799749*
+
+**"Oh,"** she says, the word small and fragile in the quiet corridor. **"Okay. Good. That's... good."**
+
+She looks down at her own trembling hands, then back up at the imposing figures before her, a new, more practical fear replacing the immediate terror.
+
+**"So... what happens now? What happens to me?"**
+
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (07/27/2025 21:44:07) <br style='clear: both;'>
+
+*1399145354561065060*
+
+Wes watched as she stood there.   Her hands trembled with fear at the new situation.   She was out of the previous terrible situation and in a potentially new one that could be just as bad.   He could sense the fear of the unknown rise within her.  Her questions were understandable.  
+
+
+He raised his hands slowly as he brought them up to his helmet and released the seals.  Slowly he removed the helmet that gave him anonymity when dealing with others.   He needed to put her at ease and he hoped that without his helmet she would see the man beneath the Beskar.   
+
+
+**”Well Eve said that the ship needed a recharge.   Then we need to find out what’s going on and what year it is.   We were all in cryo and I don’t think we were all in the same amount of time.”**  He paused for a moment as he was going over things with her he didn’t need to at the moment.   **”Tell you what.  Come with me back to the Medbay and let Eve look you over.    The rest of us are all going to crash soon and I want to be somewhere where I can lie down when that happens preferably after some of the nutrient paste Eve mentioned.  How does that sound?  Maybe you can tell us where you’re from and if there’s some way to get you there we will see if that is possible.”**  He tucked his helmet under his left arm as if it was a second hand movement waiting for her answer.
+
+---
+
+<img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (07/28/2025 00:48:39) <br style='clear: both;'>
+
+*1399191792791978006*
+
+Iyola opened her eyes.  She looked around her.  It was still the same colorless bunk, the same dull hum.  
+
+*I wonder if they know what happened to me. *
+
+She choked back a sob, hot tears running down her face.  She felt awful and so *stupid.*  Somewhere, somehow, she had made an awful mistake, not paying attention, and this was the result. 
+
+She got up and grabbed a pillow from another bed, wiping her face on it, then tossing it onto her own larger bed.  She liked sleeping with two pillows. And it looked like she’d be here for a while, in this bizarre future galaxy.   She didn’t see any mirrors and frankly didn’t want to see what she looked like right now.
+
+Iyola ventured out into the hallway. She thought she heard voices, and she didn’t want to be alone.
+
+---
+
+<img src="avatars/1387914432989892838/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Misha Vorne** (07/28/2025 16:13:23) <br style='clear: both;'>
+
+*1399424511421448442*
+
+Misha flinches as the Mandalorian raises his hands, a reflexive cringe born from two weeks of expecting blows. The soft hiss of the helmet's seals releasing makes her tense even further, her eyes squeezing shut for a moment.
+
+When she opens them again, the intimidating, impassive T-visor is gone. The man beneath the helmet is not the scarred, brutal-faced killer she might have expected. He is human, with a strong, disciplined jawline and tired, intense eyes that seem to hold the weight of a long, hard history. His expression is unreadable, but it is not cruel. It is the face of a soldier, not a monster. The simple, human act of seeing him lowers the immediate terror in Misha's chest to a more manageable, simmering fear.
+
+The offer of care, of a plan that doesn't involve immediate violence, is so unexpected it leaves her momentarily speechless. She looks from Wes's face to Varda's patient gaze, her mind struggling to process the shift from captive to... something else. The promise of food and a place to lie down is a simple, powerful lure. She gives a small, shaky nod, unable to form a complete sentence.
+
+---
+
+<img src="avatars/1387914432989892838/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Misha Vorne** (07/28/2025 16:13:23) <br style='clear: both;'>
+
+*1399424513120403518*
+
+**"Okay,"** she whispers, the single word a fragile acceptance of his offer.
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/28/2025 16:14:07) <br style='clear: both;'>
+
+*1399424693961887754*
+
+The silence of the empty barracks is suddenly oppressive. The brief, violent sob has passed, leaving Iyola feeling hollow and profoundly alone. Wiping her face on a spare pillow, she pushes herself off the bunk. She can't stay here.
+
+Following the moving bubble of light back the way she came, she navigates the sterile corridors, the sound of her own footsteps a lonely rhythm. As she rounds the final corner, the sound of quiet voices reaches her.
+
+She emerges into the antechamber to a strange tableau. The body of the technician, Derek, still lies on the floor, a grim centerpiece. Dryzan and the robed man, Vaeros, stand near the antechamber entrance. And in the center of the corridor, the old woman, Varda, stands near the Mandalorian, who is holding his helmet under his arm, speaking quietly to the terrified tech from the slaver ship. The scene is tense, quiet, and poised on the edge of an unknown next step.
+
+---
+
+<img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (07/29/2025 02:13:47) <br style='clear: both;'>
+
+*1399575605900738682*
+
+Iyola was a mess.  Her gray eyes were rimmed in red and still welling with unshed tears.  Her hair had been shoved into a bun that was steadily disintegrating and flopping down the side of her face. Even her treasured blue-green synthleather jacket looked rumpled.
+
+**“Hi, everyone,”** she said.  “**So Eve told me the date.  Anyone want to guess?  Eve, don’t tell them yet.  Anyone?”**  She was trying to joke, but she could tell she just sounded like she was losing it.  Iyola sighed, and glanced down at Derek’s corpse, then over at the rest of the group. 
+
+**“If you haven’t eaten yet, there’s some really bland nutripaste in the galley.  No seasonings.  Oh, and no caf either. The future is bleak.” ** She tried to laugh. 
+
+**“Are we going to move Derek?  We should probably do that before we crash out.” **
+
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (07/29/2025 10:41:49) <br style='clear: both;'>
+
+*1399703455811113030*
+
+Wes watched her flinch as he raised his hands and he began to realize that she was just as much a prisoner on that slaver ship as Nadia and Derek were.   Her situation was different yet alike in that her fear of ending up a prisoner was real.   He felt that it may only have been a matter of time before her usefulness wore out and she became a prisoner as well.  
+
+
+When his helmet was removed he saw her relax, seeing the person who was beneath the armor and not the impassive killing machine that many thought of when they looked upon him.   Her meek acceptance to the offer of help brought forth a small smile and a nod from him.   **”Alright let’s get Derek to the Medbay.”**  As he moved towards Derek Iyola came around the corner.   She looked like she had been crying and he could feel the emotions, somewhat under control simmering inside.   As she spoke of knowing the date.  She shifted quickly to the nutrient paste that Eve had mentioned and then quickly riposted to Derek.   
+
+
+**”Yes Iyola we’re taking Derek to the Medbay now.  There’s a unit there that will preserve him indefinitely until we know what Nadia would like to do with him.  Would you like to help?”**
+
+---
+
+<img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (07/29/2025 13:16:18) <br style='clear: both;'>
+
+*1399742334530355292*
+
+The Mandalorian, Del-Fin, had removed his helmet, revealing a dark-haired human man, younger than Iyola had expected.  Like most Mandalorians, he had excellent bone structure and looked very serious. 
+
+He invited her to help move Derek’s body to stasis in medbay, which sounded like a much better idea than leaving him here on the floor.  Quite honestly, Del-Fin looked like he could carry three  Dereks by himself, but Iyola appreciated that he was likely trying to distract her, which was nice of him.  **“Sure, I’ll help,” she said.**
+
+The tech, Misha, looked like she was on the verge of tears herself.  “**Hey Misha, glad you made it,”** Iyola greeted her cordially.  She nodded at the other two.  
+
+*She didn’t see the big slaver guy, which meant that they’d all either put him in the brig or shoved him out the airlock*.  A thought struck her.  **“Did anyone get my binders off the big guy before you locked him up?”**
+
+---
+
+<img src="avatars/1387914432989892838/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Vaeros Halcyon** (07/29/2025 13:35:27) <br style='clear: both;'>
+
+*1399747153978593290*
+
+Vaeros is lost in his thoughts. Gradually, as he stays awake, a bigger gap in his mental plane opens, as if something is at the tip of his tongue, but each time he's on the verge of recollection, it vanishes again. He's not entirely sure what to make of it, but a sleeping meditation would be great right about now. 
+
+Vaeros perks up, quizzically glancing at Iyola. He was lost in thought and didn't realize she had entered the area. **"Oh, salutations, Iyola. Dryzan and I may have, uh, forgotten in our slothfulness. I can quickly go and grab them if you desire." **He instinctively scratches his scar, in a subtle shame.
+
+---
+
+<img src="avatars/1387914432989892838/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Dryzan Kar'dola** (07/29/2025 23:57:18) <br style='clear: both;'>
+
+*1399903647705338124*
+
+Dryzan, who had been quietly leaning against the wall, trying to look nonchalant while his mind raced, pushes himself upright.
+
+**"Ah, binders, right,"** he says, a sheepish grin spreading across his face. **"Yeah, about that... he's a big guy. We were in a bit of a hurry. They're probably still on him."**
+
+He shrugs, gesturing vaguely in the direction of the medbay. **"Figured we could worry about the accessories later. But hey, at least he's not going anywhere."**
+
+---
+
+<img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (07/30/2025 00:57:01) <br style='clear: both;'>
+
+*1399918677226426451*
+
+Vaeros’s oddly formal diction was genuinely amusing to Iyola, and it felt good to find something actually funny. **“Salutations to you too, Vaeros.”**  Iyola laughed a little and shrugged. ** “OK, fine, no binders, you were busy.  Hope there’s no one else we need to tie up around here.”  **
+
+**“Hey, Del-Fin, if we’re going to move Derek to the preservation chamber, let’s go for it.  Otherwise I'm going back to my bunk to wait out the physical crash that Eve says is coming up fast.”**
+
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (07/30/2025 10:41:26) <br style='clear: both;'>
+
+*1400065748952551424*
+
+Iyola’s request to get Derek to the Medbay was met with a no nonsense nod. He began moving to the emaciated body of the technician who sacrificed his life to save his friend.  It was a sacrifice he could understand and respect.   Quickly donning his helmet to free his hands he reached down and hoisted the frail body up over his left shoulder.  Looking at Iyola he gave her a nod **”Lead the way Iyola.  Let’s get him taken care of and give him the respect he’s earned.”** 
+
+
+As he walked along with the young woman he thought about what she had said about knowing what year it was.  He contemplated not asking but knew that he was going to find out sooner than later.   Now was just as good a time as any.   **”Iyola, you said you knew what year it was.   Would you tell me?  I need to know.”**
+
+---
+
+<img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (07/30/2025 12:38:20) <br style='clear: both;'>
+
+*1400095165825417359*
+
+Iyola knew that Del-Fin had already brought Nadia to the medbay, so he obviously knew where it was.  Iyola hadn’t been there herself, but she had the map, and she’d be a pretty crummy scout if she couldn’t figure out its location.
+
+*Once again*, she thought, *Del-Fin is trying to make me feel useful. * Based on her five months on the planet, that was a very Mandalorian way to cheer someone up. 
+
+As they walked, Del-Fin toting Derek like he weighed about as much as a datapad, Iyola experimentally switched to Mando’a.  **“I lived in Sundari for five months.  Maybe I can practice Mando’a with you.  It’s useful for me to practice languages.” **
+
+She went back to Galactic Basic, which made it easier to express an unfamiliar concept.
+
+**“Eve told me the date,”** she said.  **“It made no sense to me.  Maybe it will to you.  It said it was year 18 of the New Order.”  **
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/30/2025 13:08:01) <br style='clear: both;'>
+
+*1400102635847028907*
+
+As Wes hefts Derek's body over his shoulder, a silent procession forms. Iyola takes the lead, her datapad held out, guiding them through the sterile, flickering corridors toward the medbay. Dryzan and Misha, having nowhere else to go and not wanting to be left alone, fall in line a few paces behind them, an unspoken alliance of the displaced.
+
+The quiet of the hallway is broken only by the soft scuff of their boots and Iyola's words. The phrase "year 18 of the New Order" hangs in the air, a piece of a puzzle they don't yet understand.
+
+Misha, trailing behind, overhears the unfamiliar term. She shrinks a little, as if afraid to speak out of turn, but the need to be useful, to contribute something other than fear, wins out.
+
+---
+
+<img src="avatars/1387914432989892838/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Misha Vorne** (07/30/2025 13:08:01) <br style='clear: both;'>
+
+*1400102638711738570*
+
+**"The... the New Order,"** she says softly, her voice barely carrying. **"That's... that's what the Empire calls the current era. It started about nineteen years ago, after the Clone Wars ended and the Emperor... restructured the Republic. Year eighteen would make it... [1 BBY].**
+
+Her words are a quiet, factual bombshell, offered with the nervous energy of a student answering a question they desperately hope is correct. She doesn't understand the full weight of what she's just said, but she can feel the sudden, heavy silence that falls over the group as they process the impossible span of time.
+
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (07/30/2025 14:13:03) <br style='clear: both;'>
+
+*1400119005024616620*
+
+Sundari.   A city on Mandalor.  It explained her knowledge of Mando’a.  She was obviously an outsider but if she was trusted enough to have lived there for the time she mentioned it made sense for her to pick up the language.  He gave her a nod as a nagging question lingered.   She was young and Mandalore had been off limits for many years now.   When was she there?  How long was she in cryo?
+
+
+She had kept talking as he walked silently in thought.  When she mentioned the year his stride hitched slightly but he kept moving forward.  They could all hear the deep breath he let out at the revelation.  ***’Nine years.  Where are you Cyar’ika.’*** He thought as he finally let himself think about Marina.   Those with him couldn’t sense it but the other Force attuned on the ship could feel a sense of sorrow spring forth from him at the loss of time. 
+
+
+As they came closer to the Medbay he heard Misha speak up quietly from the rear of their little procession.   Her additional tidbits of information only cemented what he knew.  Nine years.  ***’Did she think I was dead’***  The thought sprang forth.  
+
+
+**”Nineteen years ago the Emperor overthrew the Republic and annihilated the Jedi Order to cement his grip on the galaxy.   It threw everything into chaos.  There were so few of us who escaped.”**  He paused for a moment.   **”If my memory serves me right it was ten years after the fall of the Republic I went into cryo.  That makes it roughly nine years I’ve been under.”**
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/30/2025 20:05:08) <br style='clear: both;'>
+
+*1400207608606101597*
+
+Wes's quiet, grim confirmation of the timeline lands with the weight of a closing tomb door. The numbers are too vast, too impossible to fully grasp.
+
+Dryzan stumbles, catching himself against the corridor wall. The jaunty, drug-fueled confidence evaporates from him, replaced by a slack-jawed, hollow-eyed shock. He looks from Wes to Misha, then back again, his mind reeling.
+
+---
+
+<img src="avatars/1387914432989892838/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Dryzan Kar'dola** (07/30/2025 21:04:48) <br style='clear: both;'>
+
+*1400222625996869692*
+
+**"Wait... wait, wait, wait,"** he stammers, his voice a strained whisper. **"Clones? Empire? What in the kark are you talking about? The Republic... the Republic was fine when I..."**
+
+He stops, his face paling as he does the math in his head. The number is so absurd, so nonsensical, that he laughs—a short, sharp, hysterical bark of pure disbelief.
+
+**"No. No way. That's... that's almost a century. You're lying. This is a joke, right? A really, really bad joke."** He looks around at the others, his eyes wide and desperate, searching for any sign that this is just part of some elaborate con.
+
+---
+
+<img src="avatars/1387914432989892838/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Vaeros Halcyon** (07/30/2025 21:05:39) <br style='clear: both;'>
+
+*1400222838199419020*
+
+Vaeros shakes his head at Dryzan, sighing. **"It's no joke, I'm a servant of it. When I became disillusioned with the Jedi, I sided with the Dark Acolytes of the Separatist Alliance, rejecting my Master and the Jedi Order. I fought against the Republic in the Clone Wars. Once the Clone Wars ended and my time was up, I was *kindly* encouraged to join the new order."** He points towards the Imperial emblem placed on his shoulders and the scar lined across his left cheek to his jaw.
+
+**"I've been serving in it since it formed approximately four years ago; I suppose either being ditched or marked for death is a kinder gift than losing your era, Dryzan. The texts I study designate your period as the 'Great Peace', a time when Republic corruption was tame and conflicts were rare; it is the last instance of consistent peace in the galaxy. "**
+
+Vaeros, glancing at the group, speaks again.** "If you would like, I can enlighten you on the situation; hopefully, thinking through and understanding the era can help process, or focus on the new circumstance. If not, I won't pry. For better or worse, I have no surviving attachments, beyond my Imperial servitude, but I suppose that's in jeopardy as well. I wouldn't wish to maliciously compare ourselves, but it's one of my long-standing mechanisms to keep me going."**
+
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (07/30/2025 21:22:50) <br style='clear: both;'>
+
+*1400227161956286505*
+
+Wes came to a stop outside the Medbay doors.  Despite their opening he stopped, turning to face Dryzan, Vaeros and Iyola.  There was now a hard edge to his voice.  **”Clan Del-Fin fought alongside Republic forces against the Separatists.  I served with and fought alongside Republic soldiers and Clones alike.  Then, after only months into my training, Order 66 changed everything.  The clones turned against the Republic.   Jedi and any who were allied with them were burned down and murdered by the clones.  Any Jedi and sympathizers were then hunted down by Darth Vader and the Inquisitors.  Forcing any Jedi or Force sensitives into hiding.”**  As he spoke of the Jedi being hunted down the edge in his voice became harder.   
+
+
+Shaking his head he took a breath in an effort to regain a sense of calm.  Ne did so but there was still a hidden anger dwelling beneath the surface.  **”If looking for answers as to how the galaxy is today, know that there is more than one side to any story.”**  He was done talking.  Derek needed to be taken care of and wasting breath on the past at the moment was a waste of time.   He turned bad to the Medbay and entered walking to the stasis pods Eve had mentioned before for Derek to be placed in.
+
+---
+
+<img src="avatars/1387914432989892838/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Dryzan Kar'dola** (07/30/2025 21:45:58) <br style='clear: both;'>
+
+*1400232984191303763*
+
+Dryzan just stares, his mouth hanging slightly open as the history of a war he never knew existed washes over him. The Separatists? Clones turning on Jedi? Inquisitors? It's the stuff of holodramas, not reality. He looks from Vaeros's impassive mask to Wes's rigid, armored back, then just shakes his head, a single, weary gesture of defeat.
+
+**"Kriff me,"** he whispers to no one in particular, the sarcasm completely gone from his voice, replaced by a hollow, profound sense of being utterly adrift.
+
+---
+
+<img src="avatars/1387914432989892838/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Misha Vorne** (07/30/2025 21:45:59) <br style='clear: both;'>
+
+*1400232986468679821*
+
+Misha, meanwhile, looks like a history student who has just stumbled into a live reenactment. Her eyes are wide with a kind of terrified awe. She knows the sanitized, Imperial-approved version of these events—the heroic Clones, the treacherous Jedi, the glorious birth of the Empire. Hearing these two men speak of it as their lived, personal history is so far beyond her comprehension that she can only stand there in stunned, absolute silence.
+
+---
+
+<img src="avatars/1387914432989892838/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Eve the AI** (07/30/2025 21:45:59) <br style='clear: both;'>
+
+*1400232987622244516*
+
+**"The preservation chamber is prepared,"** Eve's voice cuts through the tense silence, emanating from the medbay speakers as Wes enters. A second transparent pod, identical to the one Nadia now occupies, slides open from its recess, its interior bathed in a cold, sterile light.
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/30/2025 21:45:59) <br style='clear: both;'>
+
+*1400232989211885740*
+
+The medbay is a pocket of quiet purpose amidst the swirling chaos of revelations in the corridor. Wes moves with grim efficiency, gently placing Derek's body into the waiting chamber. The transparent lid slides shut with a final, soft hiss, sealing the technician in a timeless, peaceful stasis. A small panel on its side illuminates, simply reading: `BIOLOGICAL PRESERVATION ACTIVE`. The task is done. He has been given the respect he earned.
+
+---
+
+<img src="avatars/1387914432989892838/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (07/30/2025 23:16:51) <br style='clear: both;'>
+
+*1400255857777967156*
+
+**“It’s not a joke,” **Iyola informed Dryzan. ** “I only wish it was. Nine years sounds like a nap compared to how long we’ve been out. According to Eve, I’ve been asleep for 230 years.”** She sniffled. 
+
+Iyola listened with mounting horror to the stories of her companions.  The Republic she had taken for granted - worked for -  was no more.
+
+**“But why would anyone kill Jedi?”**  she asked.  She parroted what she’d been taught from the time she was a tiny youngling. ** “The Jedi are protectors of the Republic and freedom.”**  She looked at Vaeros. ** “You fought against the Republic?”** Her voice cracked.  “**Why?”**
+
+---
+
+<img src="avatars/1387914432989892838/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Varda Nisyren** (07/31/2025 00:31:39) <br style='clear: both;'>
+
+*1400274678391640134*
+
+varda has been standing to the side as the others begin to unravel the mystery of the time displacement. She listens with interest as Wes and Vaeros explain the fall of the Republic and the jedi. Also explains why they keep themselves so wound tight. Things begin to make sense and line up. 
+
+She hears Iyolas voice crack and can't help herself and feels her pain. She can sense the oncoming conflict. For the moment she simply watches being am observer..
+
+---
+
+<img src="avatars/1387914432989892838/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Vaeros Halcyon** (07/31/2025 01:42:12) <br style='clear: both;'>
+
+*1400292433790500977*
+
+**"It's a long story, Iyola. I'll give you a summarized explanation, but we can talk more after the side effects wear off."** Vaeros is not one to try comforting or socializing in general, but he feels an innocent tug, or rather, a shame; he is not entirely sure. Every time he thinks about being left behind by the Empire, that he's out of his time, that voice gets stronger and stronger. Making sure that his mask his clipped to his belt, he takes a deep breath, before speaking. 
+
+**"Look, my experience might be a little strong for some, and I'd rather not get into a fight over it, but I hope you understand my piece of the puzzle. I won't be upset, if you disagree, so feel free to speak your conscience. I grew up in the Jedi Order, believed in its cause without a fault; my master, master Liora Dhen, was one of the purist Jedi I knew, but it felt wrong. The order prides itself on being an order of good, protectors, and practitioners of the light, but their actions were often a direct counter to it, often choosing politics and maintaining their vast funds over expending them for the good of the people." **
+
+Vaeros scoffs, **"They wouldn't even dare assist some of the only Jedi who acted past that clouded judgment and was shocked when it eventually came back into their face; the Clone Wars. It was a lit fuse that spiraled out of control; the people of the Outer Rim were fed up with feeding their credits into a bottomless pit, in which any money that's supposed to return to them is fed to their senators and the Coruscant elite."**
+
+---
+
+<img src="avatars/1387914432989892838/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Vaeros Halcyon** (07/31/2025 01:42:12) <br style='clear: both;'>
+
+*1400292434809847879*
+
+**"Regardless, I left the order to join a group of disenfranchised Jedi under the leadership of Count Dooku. We, or at least I and what Dooku preached, are the reformation of a new galaxy, one with a clean slate Republic and Jedi Order. If the Republic and Jedi wouldn't see it, then we would show them. In the end, the Jedi acted when it was too late, and acted with such intensity that it burned them too quickly. They initiated a coup against the then-Chancellor Palpatine, finishing the Republic's fall."**
+
+**"The time before the crumbling of the republic, the one I believe you and Dryzan are familiar with, seems to be a time when they put those natural feelings over codes, politics, and dogma. Your viewing of them is not what I know of, but it sounds... pleasant, I suppose." **
+
+---
+
+<img src="avatars/1387914432989892838/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Vaeros Halcyon** (07/31/2025 01:48:01) <br style='clear: both;'>
+
+*1400293896088457366*
+
+Vaeros traces his scar in anticipation, **"I... just wanted to fulfill my duty, and not be beholden to their cause. It felt like a pointless sacrifice, and that I could do more, learn more, elsewhere. In hindsight, it could have been better, but I can't hold to regrets or wishes. It's too late for that now." **
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (07/31/2025 02:59:59) <br style='clear: both;'>
+
+*1400312009295138867*
+
+The medbay corridor becomes a classroom of ghosts, each voice adding a new, painful layer to a history Iyola and Dryzan never knew. The weight of centuries presses down on them, the grand, stable Republic of their memories revealed as a prelude to a catastrophic fall.
+
+---
+
+<img src="avatars/1387914432989892838/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Dryzan Kar'dola** (07/31/2025 02:59:59) <br style='clear: both;'>
+
+*1400312011090301069*
+
+Dryzan just shakes his head, a weary, almost drunken motion. **"Politics... war... Jedi, Sith, Empire..."** He waves a hand, dismissing it all. **"Whatever. It's all the same sleemo story, just with different flags. I'm gonna go find a bed before this happy juice wears off and my brain decides to leak out my ears."**
+
+With that, he turns and shuffles down the corridor, following the directions Eve gave earlier, a man seeking the simple, immediate comfort of a flat surface to collapse onto.
+
+---
+
+<img src="avatars/1387914432989892838/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Misha Vorne** (07/31/2025 03:00:00) <br style='clear: both;'>
+
+*1400312012826738780*
+
+Misha is frozen in place. She stares at Wes, then at Vaeros, her expression one of utter, stunned confusion. She grew up on Imperial Center, fed a steady diet of heroic Clones, treacherous Jedi, and the benevolent Emperor who saved the galaxy from chaos. Hearing these two men—a hunted fugitive and an Imperial Inquisitor—speak of the same events with such personal, contradictory conviction is like watching a foundation of her reality crumble into dust. The truth is no longer a simple, clean narrative; it's a messy, bloody, and terrifyingly complicated thing.
+
+---
+
+<img src="avatars/1387914432989892838/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Eve the AI** (07/31/2025 03:00:02) <br style='clear: both;'>
+
+*1400312021357953087*
+
+**"Based on your current metabolic rates,"** Eve's voice chimes in, cutting through the heavy silence, **"I project the secondary adverse effects of the KX-7 treatment will manifest in approximately twenty-five standard minutes."**
+
+***Created** 07/31/2025 15:47:38 EST (v7.7.0)*

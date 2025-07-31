@@ -1,14 +1,14 @@
-﻿# Forgotten Ones | BB Prelude: Ghost of the *Devastation* (Vaeros}
+﻿# Prelude: Ghost of the *Devastation* (Vearos)
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/20/2025 18:21:06) <br style='clear: both;'>
+### **Storyteller** (06/20/2025 18:21:06) <br style='clear: both;'>
 
 *1385685915120173077*
 
 ***A long time ago in a galaxy far, far away....***
-### **STAR WARS**
-#### **THE GHOST OF THE *DEVASTATION***
+#### **STAR WARS**
+##### **THE GHOST OF THE *DEVASTATION***
 
 The **GALACTIC EMPIRE** reigns supreme. Having crushed the Separatist Alliance and Jedi Order, Emperor Palpatine's iron fist tightens its grip on the galaxy.
 
@@ -22,7 +22,7 @@ Distrusted by his superiors, Vaeros has been dispatched on a perilous mission by
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/21/2025 03:29:14) <br style='clear: both;'>
+### **Storyteller** (06/21/2025 03:29:14) <br style='clear: both;'>
 
 *1385823854492123217*
 
@@ -36,7 +36,7 @@ The Grand Inquisitor stands with his back to the door, his tall, slender frame s
 
 <img src="avatars/1382501818768298095/52a6bf0a537160599722aaef0e8d0af5.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Grand Inquisitor** (06/21/2025 03:29:14) <br style='clear: both;'>
+### **Grand Inquisitor** (06/21/2025 03:29:14) <br style='clear: both;'>
 
 *1385823857008709682*
 
@@ -46,7 +46,7 @@ The Grand Inquisitor stands with his back to the door, his tall, slender frame s
 
 <img src="avatars/1382501818768298095/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (06/21/2025 15:53:28) <br style='clear: both;'>
+### **Vaeros Halcyon** (06/21/2025 15:53:28) <br style='clear: both;'>
 
 *1386011147676680282*
 
@@ -58,7 +58,7 @@ Upon halting, Vaeros kneels before the Grand Inquisitor.  A million thoughts on 
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/21/2025 16:11:40) <br style='clear: both;'>
+### **Storyteller** (06/21/2025 16:11:40) <br style='clear: both;'>
 
 *1386015726191513630*
 
@@ -68,7 +68,7 @@ The Grand Inquisitor remains motionless for several heartbeats, letting Vaeros�
 
 <img src="avatars/1382501818768298095/52a6bf0a537160599722aaef0e8d0af5.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Grand Inquisitor** (06/21/2025 16:11:44) <br style='clear: both;'>
+### **Grand Inquisitor** (06/21/2025 16:11:44) <br style='clear: both;'>
 
 *1386015746248671232*
 
@@ -96,7 +96,7 @@ He steps back into Vaeros's line of sight, a cruel smirk playing on his thin lip
 
 <img src="avatars/1382501818768298095/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (06/21/2025 17:36:59) <br style='clear: both;'>
+### **Vaeros Halcyon** (06/21/2025 17:36:59) <br style='clear: both;'>
 
 *1386037197383270560*
 
@@ -108,7 +108,7 @@ Listening to the comments, he knows that the Grand Inquisitor is downplaying his
 
 <img src="avatars/1382501818768298095/52a6bf0a537160599722aaef0e8d0af5.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Grand Inquisitor** (06/21/2025 17:55:20) <br style='clear: both;'>
+### **Grand Inquisitor** (06/21/2025 17:55:20) <br style='clear: both;'>
 
 *1386041815408447600*
 
@@ -122,7 +122,7 @@ The Grand Inquisitor gives a slight, almost dismissive wave of his hand. He turn
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/21/2025 17:55:20) <br style='clear: both;'>
+### **Storyteller** (06/21/2025 17:55:20) <br style='clear: both;'>
 
 *1386041817874825246*
 
@@ -132,7 +132,7 @@ The heavy blast doors remain open, a silent imperative for Vaeros to leave. In t
 
 <img src="avatars/1382501818768298095/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (06/21/2025 18:24:24) <br style='clear: both;'>
+### **Vaeros Halcyon** (06/21/2025 18:24:24) <br style='clear: both;'>
 
 *1386049132556456098*
 
@@ -144,7 +144,7 @@ As they enter the hangar bar, the door to his TIE Reaper opens, revealing an omi
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/21/2025 18:57:23) <br style='clear: both;'>
+### **Storyteller** (06/21/2025 18:57:23) <br style='clear: both;'>
 
 *1386057433457234065*
 
@@ -156,7 +156,7 @@ The journey is brief. The ship drops back into realspace with a lurch, and the v
 
 <img src="avatars/1382501818768298095/ef1a544fd249ea30ccae6fa08758887e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **R3-K4** (06/21/2025 18:57:24) <br style='clear: both;'>
+### **R3-K4** (06/21/2025 18:57:24) <br style='clear: both;'>
 
 *1386057436359692488*
 
@@ -166,7 +166,7 @@ The astromech, plugged into a port near the cockpit, emits a series of worried, 
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/21/2025 18:57:24) <br style='clear: both;'>
+### **Storyteller** (06/21/2025 18:57:24) <br style='clear: both;'>
 
 *1386057437961785416*
 
@@ -176,7 +176,7 @@ Deep within that electrical maelstrom, a single, faint transponder signal cuts t
 
 <img src="avatars/1382501818768298095/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (06/21/2025 19:21:46) <br style='clear: both;'>
+### **Vaeros Halcyon** (06/21/2025 19:21:46) <br style='clear: both;'>
 
 *1386063570118246592*
 
@@ -188,7 +188,7 @@ He sits in the pilot seat and assists R3-K4 in navigating the nebula. Once the T
 
 <img src="avatars/1382501818768298095/ef1a544fd249ea30ccae6fa08758887e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **R3-K4** (06/21/2025 19:54:03) <br style='clear: both;'>
+### **R3-K4** (06/21/2025 19:54:03) <br style='clear: both;'>
 
 *1386071690965942393*
 
@@ -198,7 +198,7 @@ The astromech lets out a flurry of beeps, a mix of acquiescence and protest. The
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/21/2025 19:56:24) <br style='clear: both;'>
+### **Storyteller** (06/21/2025 19:56:24) <br style='clear: both;'>
 
 *1386072283898183756*
 
@@ -218,7 +218,7 @@ Ahead, cutting through the swirling mists, the immense, skeletal frame of the de
 
 <img src="avatars/1382501818768298095/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (06/21/2025 20:07:39) <br style='clear: both;'>
+### **Vaeros Halcyon** (06/21/2025 20:07:39) <br style='clear: both;'>
 
 *1386075114809856141*
 
@@ -228,7 +228,7 @@ Vaeros cracks his neck and adjusts his seating position, glancing at the shield 
 
 <img src="avatars/1382501818768298095/ef1a544fd249ea30ccae6fa08758887e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **R3-K4** (06/21/2025 21:00:42) <br style='clear: both;'>
+### **R3-K4** (06/21/2025 21:00:42) <br style='clear: both;'>
 
 *1386088463975059538*
 
@@ -238,7 +238,7 @@ The astromech lets out a low, warbling tone, processing the request. A string of
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/21/2025 21:00:42) <br style='clear: both;'>
+### **Storyteller** (06/21/2025 21:00:42) <br style='clear: both;'>
 
 *1386088466374332626*
 
@@ -252,7 +252,7 @@ The landing platform just inside appears clear, but timing the entry will be cri
 
 <img src="avatars/1382501818768298095/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (06/21/2025 22:09:53) <br style='clear: both;'>
+### **Vaeros Halcyon** (06/21/2025 22:09:53) <br style='clear: both;'>
 
 *1386105876825505853*
 
@@ -262,7 +262,7 @@ Vaeros looks at the sporadic hangar door and back towards the Astromech. **"R3, 
 
 <img src="avatars/1382501818768298095/ef1a544fd249ea30ccae6fa08758887e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **R3-K4** (06/21/2025 22:35:33) <br style='clear: both;'>
+### **R3-K4** (06/21/2025 22:35:33) <br style='clear: both;'>
 
 *1386112334019170356*
 
@@ -272,7 +272,7 @@ The astromech swivels its dome to face Vaeros and lets out a single, sharp, conf
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/21/2025 22:35:33) <br style='clear: both;'>
+### **Storyteller** (06/21/2025 22:35:33) <br style='clear: both;'>
 
 *1386112336871559482*
 
@@ -286,7 +286,7 @@ The TIE Reaper lurches forward, its engines roaring to life with sudden, shockin
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/21/2025 22:35:43) <br style='clear: both;'>
+### **Storyteller** (06/21/2025 22:35:43) <br style='clear: both;'>
 
 *1386112379292614667*
 
@@ -300,7 +300,7 @@ Across the deck, about twenty meters away, is the hangar control terminal, its s
 
 <img src="avatars/1382501818768298095/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (06/21/2025 23:29:30) <br style='clear: both;'>
+### **Vaeros Halcyon** (06/21/2025 23:29:30) <br style='clear: both;'>
 
 *1386125913481154690*
 
@@ -310,7 +310,7 @@ Vaeros looks around the hanger, scratching his mask where his scar would be, bef
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/21/2025 23:53:48) <br style='clear: both;'>
+### **Storyteller** (06/21/2025 23:53:48) <br style='clear: both;'>
 
 *1386132026968637480*
 
@@ -320,7 +320,7 @@ Vaeros extends his hands, reaching out not with his fingers but with his mind. H
 
 <img src="avatars/1382501818768298095/ef1a544fd249ea30ccae6fa08758887e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **R3-K4** (06/21/2025 23:53:48) <br style='clear: both;'>
+### **R3-K4** (06/21/2025 23:53:48) <br style='clear: both;'>
 
 *1386132029069987860*
 
@@ -330,7 +330,7 @@ The astromech lets out a quick, affirmative chirp and prepares to move, its moto
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/21/2025 23:53:49) <br style='clear: both;'>
+### **Storyteller** (06/21/2025 23:53:49) <br style='clear: both;'>
 
 *1386132030273880275*
 
@@ -344,7 +344,7 @@ The path is clear.
 
 <img src="avatars/1382501818768298095/ef1a544fd249ea30ccae6fa08758887e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **R3-K4** (06/21/2025 23:53:49) <br style='clear: both;'>
+### **R3-K4** (06/21/2025 23:53:49) <br style='clear: both;'>
 
 *1386132031288901853*
 
@@ -354,7 +354,7 @@ The astromech wastes no time. It speeds across the hangar deck, its wheels glidi
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/21/2025 23:53:49) <br style='clear: both;'>
+### **Storyteller** (06/21/2025 23:53:49) <br style='clear: both;'>
 
 *1386132032375230535*
 
@@ -364,7 +364,7 @@ The moment R3-K4 makes contact, the power conduit, now free of Vaeros's telekine
 
 <img src="avatars/1382501818768298095/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (06/22/2025 00:08:50) <br style='clear: both;'>
+### **Vaeros Halcyon** (06/22/2025 00:08:50) <br style='clear: both;'>
 
 *1386135809022754916*
 
@@ -376,7 +376,7 @@ Vaeros glances at R3-K4 before looking back at the cable. He prepares once more 
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/22/2025 02:57:09) <br style='clear: both;'>
+### **Storyteller** (06/22/2025 02:57:09) <br style='clear: both;'>
 
 *1386178169081430118*
 
@@ -386,7 +386,7 @@ As the residual sparks from the last discharge fade, the heavy cable begins to h
 
 <img src="avatars/1382501818768298095/88c5de7b719aa93f7a7d99530c51acd9.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Karnyx** (06/22/2025 02:57:09) <br style='clear: both;'>
+### **Karnyx** (06/22/2025 02:57:09) <br style='clear: both;'>
 
 *1386178170780385354*
 
@@ -396,7 +396,7 @@ The commando droid gives a silent, affirmative nod. Its photoreceptors scan the 
 
 <img src="avatars/1382501818768298095/ef1a544fd249ea30ccae6fa08758887e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **R3-K4** (06/22/2025 02:57:10) <br style='clear: both;'>
+### **R3-K4** (06/22/2025 02:57:10) <br style='clear: both;'>
 
 *1386178171954790430*
 
@@ -406,7 +406,7 @@ Ignoring the activity behind it, the astromech remains completely focused on its
 
 <img src="avatars/1382501818768298095/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (06/22/2025 02:57:10) <br style='clear: both;'>
+### **Vaeros Halcyon** (06/22/2025 02:57:10) <br style='clear: both;'>
 
 *1386178173095510026*
 
@@ -416,7 +416,7 @@ Vaeros plants his feet, his focus narrowing again to the swinging conduit. He re
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/22/2025 02:57:10) <br style='clear: both;'>
+### **Storyteller** (06/22/2025 02:57:10) <br style='clear: both;'>
 
 *1386178174097952810*
 
@@ -428,7 +428,7 @@ A triumphant, high-pitched *trill* comes from R3-K4. The terminal screen flashes
 
 <img src="avatars/1382501818768298095/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (06/22/2025 19:12:09) <br style='clear: both;'>
+### **Vaeros Halcyon** (06/22/2025 19:12:09) <br style='clear: both;'>
 
 *1386423537111269446*
 
@@ -442,7 +442,7 @@ Regardless, he needs to secure his Holocron and keep it hidden. It should hidden
 
 <img src="avatars/1382501818768298095/ef1a544fd249ea30ccae6fa08758887e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **R3-K4** (06/22/2025 20:50:42) <br style='clear: both;'>
+### **R3-K4** (06/22/2025 20:50:42) <br style='clear: both;'>
 
 *1386448337431167037*
 
@@ -454,7 +454,7 @@ The astromech's dome swivels as it processes the new commands. A schematic of th
 
 <img src="avatars/1382501818768298095/88c5de7b719aa93f7a7d99530c51acd9.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Karnyx** (06/22/2025 20:50:43) <br style='clear: both;'>
+### **Karnyx** (06/22/2025 20:50:43) <br style='clear: both;'>
 
 *1386448339968721067*
 
@@ -466,7 +466,7 @@ The commando droid's head snaps to attention, its crimson photoreceptors fixed o
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/22/2025 20:50:49) <br style='clear: both;'>
+### **Storyteller** (06/22/2025 20:50:49) <br style='clear: both;'>
 
 *1386448366472400967*
 
@@ -480,7 +480,7 @@ It is then that a new sound joins the groaning of the ship: the rhythmic, heavy 
 
 <img src="avatars/1382501818768298095/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (06/22/2025 21:22:24) <br style='clear: both;'>
+### **Vaeros Halcyon** (06/22/2025 21:22:24) <br style='clear: both;'>
 
 *1386456315043516609*
 
@@ -490,7 +490,7 @@ Vaeros stops, signaling his droids to halt. He points R3 towards cover and Karny
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/22/2025 22:47:03) <br style='clear: both;'>
+### **Storyteller** (06/22/2025 22:47:03) <br style='clear: both;'>
 
 *1386477617045045451*
 
@@ -506,7 +506,7 @@ Instantly, the other two droids halt their patrol, pivoting with unnerving speed
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/23/2025 00:42:45) <br style='clear: both;'>
+### **Storyteller** (06/23/2025 00:42:45) <br style='clear: both;'>
 
 *1386506733085786152*
 
@@ -520,7 +520,7 @@ From the shadows, Karnyx proves its worth. Without a word, the commando droid le
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/23/2025 00:42:53) <br style='clear: both;'>
+### **Storyteller** (06/23/2025 00:42:53) <br style='clear: both;'>
 
 *1386506767109849129*
 
@@ -534,7 +534,7 @@ The standoff continues, the damaged droid twitching but still a threat, and its 
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/23/2025 01:08:39) <br style='clear: both;'>
+### **Storyteller** (06/23/2025 01:08:39) <br style='clear: both;'>
 
 *1386513250287620136*
 
@@ -544,7 +544,7 @@ Picking up the rhythm of the fight, Vaeros doesn't waste a motion. He pivots fro
 
 <img src="avatars/1382501818768298095/88c5de7b719aa93f7a7d99530c51acd9.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Karnyx** (06/23/2025 01:08:39) <br style='clear: both;'>
+### **Karnyx** (06/23/2025 01:08:39) <br style='clear: both;'>
 
 *1386513253886070846*
 
@@ -554,7 +554,7 @@ From its covered position, Karnyx adjusts its aim to the lead droid, its targeti
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/23/2025 01:08:40) <br style='clear: both;'>
+### **Storyteller** (06/23/2025 01:08:40) <br style='clear: both;'>
 
 *1386513255471513611*
 
@@ -566,7 +566,7 @@ Vaeros's blade is a flurry of motion, a shield of humming crimson light. He inte
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/23/2025 01:35:13) <br style='clear: both;'>
+### **Storyteller** (06/23/2025 01:35:13) <br style='clear: both;'>
 
 *1386519939036217475*
 
@@ -576,7 +576,7 @@ Ignoring the stinging pain in his shoulder, Vaeros presses his attack. He lunges
 
 <img src="avatars/1382501818768298095/88c5de7b719aa93f7a7d99530c51acd9.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Karnyx** (06/23/2025 01:35:14) <br style='clear: both;'>
+### **Karnyx** (06/23/2025 01:35:14) <br style='clear: both;'>
 
 *1386519942186406030*
 
@@ -586,7 +586,7 @@ Seeing the opening Vaeros created, Karnyx steps out from the shadows. A surge of
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/23/2025 01:35:14) <br style='clear: both;'>
+### **Storyteller** (06/23/2025 01:35:14) <br style='clear: both;'>
 
 *1386519943797018645*
 
@@ -600,7 +600,7 @@ Silence descends, broken only by the hum of the lightsaber and the faint crackle
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/23/2025 01:55:18) <br style='clear: both;'>
+### **Storyteller** (06/23/2025 01:55:18) <br style='clear: both;'>
 
 *1386524991163596801*
 
@@ -610,7 +610,7 @@ With only one foe remaining, Vaeros moves to end the fight. He closes the distan
 
 <img src="avatars/1382501818768298095/88c5de7b719aa93f7a7d99530c51acd9.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Karnyx** (06/23/2025 01:55:19) <br style='clear: both;'>
+### **Karnyx** (06/23/2025 01:55:19) <br style='clear: both;'>
 
 *1386524994196078604*
 
@@ -620,7 +620,7 @@ Seizing the opening, Karnyx unleashes another rapid volley. Two bolts slam into 
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/23/2025 01:55:19) <br style='clear: both;'>
+### **Storyteller** (06/23/2025 01:55:19) <br style='clear: both;'>
 
 *1386524995571814663*
 
@@ -630,7 +630,7 @@ With a final, desperate screech of static, the crippled BX droid raises its dama
 
 <img src="avatars/1382501818768298095/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (06/23/2025 02:04:42) <br style='clear: both;'>
+### **Vaeros Halcyon** (06/23/2025 02:04:42) <br style='clear: both;'>
 
 *1386527359686934661*
 
@@ -642,7 +642,7 @@ Vaeros sighs, thrusting his crimson blade into the commando droid's chest before
 
 <img src="avatars/1382501818768298095/88c5de7b719aa93f7a7d99530c51acd9.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Karnyx** (06/23/2025 10:39:17) <br style='clear: both;'>
+### **Karnyx** (06/23/2025 10:39:17) <br style='clear: both;'>
 
 *1386656858814812272*
 
@@ -652,7 +652,7 @@ Vaeros sighs, thrusting his crimson blade into the commando droid's chest before
 
 <img src="avatars/1382501818768298095/ef1a544fd249ea30ccae6fa08758887e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **R3-K4** (06/23/2025 10:39:18) <br style='clear: both;'>
+### **R3-K4** (06/23/2025 10:39:18) <br style='clear: both;'>
 
 *1386656861041721444*
 
@@ -662,7 +662,7 @@ The astromech lets out a series of low, affirmative tones, its domed head alread
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/23/2025 10:39:18) <br style='clear: both;'>
+### **Storyteller** (06/23/2025 10:39:18) <br style='clear: both;'>
 
 *1386656862132371517*
 
@@ -676,7 +676,7 @@ He walks past doors bearing the names of Separatist officers he once knew, their
 
 <img src="avatars/1382501818768298095/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (06/23/2025 20:52:45) <br style='clear: both;'>
+### **Vaeros Halcyon** (06/23/2025 20:52:45) <br style='clear: both;'>
 
 *1386811240591921213*
 
@@ -690,7 +690,7 @@ He designed the security protocols and locks used on the door. First, he has to 
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/23/2025 23:55:29) <br style='clear: both;'>
+### **Storyteller** (06/23/2025 23:55:29) <br style='clear: both;'>
 
 *1386857226920132638*
 
@@ -704,7 +704,7 @@ Everything is exactly as he left it, a perfect snapshot of the man he was moment
 
 <img src="avatars/1382501818768298095/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (06/24/2025 01:00:41) <br style='clear: both;'>
+### **Vaeros Halcyon** (06/24/2025 01:00:41) <br style='clear: both;'>
 
 *1386873634483605624*
 
@@ -714,7 +714,7 @@ Vaeros eagerly removes his mask, drawing in a long, satisfying breath. Everythin
 
 <img src="avatars/1382501818768298095/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (06/24/2025 01:00:41) <br style='clear: both;'>
+### **Vaeros Halcyon** (06/24/2025 01:00:41) <br style='clear: both;'>
 
 *1386873635452489839*
 
@@ -726,7 +726,7 @@ Before exiting the room, he takes one final look at the separatist banner.  He s
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/24/2025 01:26:00) <br style='clear: both;'>
+### **Storyteller** (06/24/2025 01:26:00) <br style='clear: both;'>
 
 *1386880005325197343*
 
@@ -756,7 +756,7 @@ Vaeros's forearm communicator crackles to life.
 
 <img src="avatars/1382501818768298095/88c5de7b719aa93f7a7d99530c51acd9.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Karnyx** (06/24/2025 01:26:00) <br style='clear: both;'>
+### **Karnyx** (06/24/2025 01:26:00) <br style='clear: both;'>
 
 *1386880007879524394*
 
@@ -766,7 +766,7 @@ Vaeros's forearm communicator crackles to life.
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/24/2025 01:26:01) <br style='clear: both;'>
+### **Storyteller** (06/24/2025 01:26:01) <br style='clear: both;'>
 
 *1386880009599324281*
 
@@ -776,7 +776,7 @@ The ship lurches again, more violently this time. The race against oblivion has 
 
 <img src="avatars/1382501818768298095/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (06/24/2025 02:01:02) <br style='clear: both;'>
+### **Vaeros Halcyon** (06/24/2025 02:01:02) <br style='clear: both;'>
 
 *1386888820938510536*
 
@@ -786,7 +786,7 @@ The ship lurches again, more violently this time. The race against oblivion has 
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/24/2025 10:46:15) <br style='clear: both;'>
+### **Storyteller** (06/24/2025 10:46:15) <br style='clear: both;'>
 
 *1387020996443373618*
 
@@ -798,7 +798,7 @@ His commlink crackles with a burst of high-speed binary, which his HUD translate
 
 <img src="avatars/1382501818768298095/ef1a544fd249ea30ccae6fa08758887e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **R3-K4** (06/24/2025 10:46:15) <br style='clear: both;'>
+### **R3-K4** (06/24/2025 10:46:15) <br style='clear: both;'>
 
 *1387020998309580871*
 
@@ -808,7 +808,7 @@ His commlink crackles with a burst of high-speed binary, which his HUD translate
 
 <img src="avatars/1382501818768298095/88c5de7b719aa93f7a7d99530c51acd9.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Karnyx** (06/24/2025 10:46:16) <br style='clear: both;'>
+### **Karnyx** (06/24/2025 10:46:16) <br style='clear: both;'>
 
 *1387021000121520129*
 
@@ -818,7 +818,7 @@ A moment later, Karnyx's synthesized voice cuts through the noise, calm and prof
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/24/2025 10:46:16) <br style='clear: both;'>
+### **Storyteller** (06/24/2025 10:46:16) <br style='clear: both;'>
 
 *1387021001392656455*
 
@@ -830,7 +830,7 @@ Another tremor shakes the deck, stronger this time. Dust and wiring rain down fr
 
 <img src="avatars/1382501818768298095/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (06/24/2025 18:26:38) <br style='clear: both;'>
+### **Vaeros Halcyon** (06/24/2025 18:26:38) <br style='clear: both;'>
 
 *1387136855811686611*
 
@@ -840,7 +840,7 @@ Another tremor shakes the deck, stronger this time. Dust and wiring rain down fr
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/24/2025 20:20:29) <br style='clear: both;'>
+### **Storyteller** (06/24/2025 20:20:29) <br style='clear: both;'>
 
 *1387165509941854410*
 
@@ -852,7 +852,7 @@ His communicator chirps, translating another burst of binary from the bridge.
 
 <img src="avatars/1382501818768298095/ef1a544fd249ea30ccae6fa08758887e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **R3-K4** (06/24/2025 20:20:30) <br style='clear: both;'>
+### **R3-K4** (06/24/2025 20:20:30) <br style='clear: both;'>
 
 *1387165514517844029*
 
@@ -862,7 +862,7 @@ His communicator chirps, translating another burst of binary from the bridge.
 
 <img src="avatars/1382501818768298095/88c5de7b719aa93f7a7d99530c51acd9.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Karnyx** (06/24/2025 20:20:31) <br style='clear: both;'>
+### **Karnyx** (06/24/2025 20:20:31) <br style='clear: both;'>
 
 *1387165516115869766*
 
@@ -872,7 +872,7 @@ Immediately after, Karnyx's calm, synthesized voice cuts in. **"Bridge escape po
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/24/2025 20:20:31) <br style='clear: both;'>
+### **Storyteller** (06/24/2025 20:20:31) <br style='clear: both;'>
 
 *1387165517411782666*
 
@@ -884,7 +884,7 @@ The implication is clear. There is no easy way out. The countdown on Vaeros's HU
 
 <img src="avatars/1382501818768298095/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (06/24/2025 20:36:02) <br style='clear: both;'>
+### **Vaeros Halcyon** (06/24/2025 20:36:02) <br style='clear: both;'>
 
 *1387169421214220399*
 
@@ -898,7 +898,7 @@ Karnyx, see there's a closer docking port, EVA hatch, or hanger that I can extra
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/24/2025 20:51:00) <br style='clear: both;'>
+### **Storyteller** (06/24/2025 20:51:00) <br style='clear: both;'>
 
 *1387173188865359932*
 
@@ -910,7 +910,7 @@ His communicator crackles in response, first with R3's analytical binary.
 
 <img src="avatars/1382501818768298095/ef1a544fd249ea30ccae6fa08758887e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **R3-K4** (06/24/2025 20:51:01) <br style='clear: both;'>
+### **R3-K4** (06/24/2025 20:51:01) <br style='clear: both;'>
 
 *1387173192413479136*
 
@@ -920,7 +920,7 @@ His communicator crackles in response, first with R3's analytical binary.
 
 <img src="avatars/1382501818768298095/88c5de7b719aa93f7a7d99530c51acd9.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Karnyx** (06/24/2025 20:51:01) <br style='clear: both;'>
+### **Karnyx** (06/24/2025 20:51:01) <br style='clear: both;'>
 
 *1387173194200256533*
 
@@ -930,7 +930,7 @@ The astromech's report is immediately followed by Karnyx's clipped, even tones. 
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/24/2025 20:51:02) <br style='clear: both;'>
+### **Storyteller** (06/24/2025 20:51:02) <br style='clear: both;'>
 
 *1387173195584504004*
 
@@ -944,7 +944,7 @@ The countdown continues its merciless descent.
 
 <img src="avatars/1382501818768298095/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (06/24/2025 20:56:51) <br style='clear: both;'>
+### **Vaeros Halcyon** (06/24/2025 20:56:51) <br style='clear: both;'>
 
 *1387174659652456562*
 
@@ -956,7 +956,7 @@ Vaero's calls to the droids, but the voice comes out staticky due to the interfe
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/24/2025 21:06:45) <br style='clear: both;'>
+### **Storyteller** (06/24/2025 21:06:45) <br style='clear: both;'>
 
 *1387177153220837556*
 
@@ -966,7 +966,7 @@ Vaeros leaps up the ramp just as another tremor rocks the hangar, sending a show
 
 <img src="avatars/1382501818768298095/ef1a544fd249ea30ccae6fa08758887e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **R3-K4** (06/24/2025 21:06:46) <br style='clear: both;'>
+### **R3-K4** (06/24/2025 21:06:46) <br style='clear: both;'>
 
 *1387177156164976791*
 
@@ -976,7 +976,7 @@ A string of translated binary breaks through the noise, cool and analytical desp
 
 <img src="avatars/1382501818768298095/88c5de7b719aa93f7a7d99530c51acd9.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Karnyx** (06/24/2025 21:06:46) <br style='clear: both;'>
+### **Karnyx** (06/24/2025 21:06:46) <br style='clear: both;'>
 
 *1387177157729718322*
 
@@ -986,7 +986,7 @@ Karnyx's voice follows, but it's different. It's not a report; it's an alert, cu
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/24/2025 21:06:47) <br style='clear: both;'>
+### **Storyteller** (06/24/2025 21:06:47) <br style='clear: both;'>
 
 *1387177159025496279*
 
@@ -1000,7 +1000,7 @@ Another violent lurch rocks the TIE Reaper, and the countdown on the cockpit dis
 
 <img src="avatars/1382501818768298095/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (06/24/2025 21:59:44) <br style='clear: both;'>
+### **Vaeros Halcyon** (06/24/2025 21:59:44) <br style='clear: both;'>
 
 *1387190486007283874*
 
@@ -1012,7 +1012,7 @@ Vaeros takes off, rushing towards the maintenance port.
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/24/2025 22:13:41) <br style='clear: both;'>
+### **Storyteller** (06/24/2025 22:13:41) <br style='clear: both;'>
 
 *1387193996123836576*
 
@@ -1024,7 +1024,7 @@ On the bridge, the air is a storm of blaster fire. The two Droidekas, their shie
 
 <img src="avatars/1382501818768298095/88c5de7b719aa93f7a7d99530c51acd9.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Karnyx** (06/24/2025 22:13:42) <br style='clear: both;'>
+### **Karnyx** (06/24/2025 22:13:42) <br style='clear: both;'>
 
 *1387193998417854534*
 
@@ -1034,7 +1034,7 @@ On the bridge, the air is a storm of blaster fire. The two Droidekas, their shie
 
 <img src="avatars/1382501818768298095/ef1a544fd249ea30ccae6fa08758887e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **R3-K4** (06/24/2025 22:13:42) <br style='clear: both;'>
+### **R3-K4** (06/24/2025 22:13:42) <br style='clear: both;'>
 
 *1387193999508639765*
 
@@ -1044,7 +1044,7 @@ Amid the chaos, the astromech sends a compressed data-burst over the comm. **"Se
 
 <img src="avatars/1382501818768298095/88c5de7b719aa93f7a7d99530c51acd9.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Karnyx** (06/24/2025 22:13:42) <br style='clear: both;'>
+### **Karnyx** (06/24/2025 22:13:42) <br style='clear: both;'>
 
 *1387194000577925231*
 
@@ -1054,7 +1054,7 @@ Karnyx's voice follows, steady despite the cacophony of explosions. **"Hostile f
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/24/2025 22:13:42) <br style='clear: both;'>
+### **Storyteller** (06/24/2025 22:13:42) <br style='clear: both;'>
 
 *1387194001534226452*
 
@@ -1066,7 +1066,7 @@ The countdown timer on Vaeros's HUD continues its grim descent.
 
 <img src="avatars/1382501818768298095/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (06/25/2025 16:29:40) <br style='clear: both;'>
+### **Vaeros Halcyon** (06/25/2025 16:29:40) <br style='clear: both;'>
 
 *1387469811143016590*
 
@@ -1076,7 +1076,7 @@ Vaeros speeds to a halt, docking with the maintenance airlock. The airlock press
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/25/2025 17:12:27) <br style='clear: both;'>
+### **Storyteller** (06/25/2025 17:12:27) <br style='clear: both;'>
 
 *1387480576243793950*
 
@@ -1093,7 +1093,7 @@ Through the doorway, the scene is one of pure chaos. Energy shields shimmer, bla
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/25/2025 17:15:28) <br style='clear: both;'>
+### **Storyteller** (06/25/2025 17:15:28) <br style='clear: both;'>
 
 *1387481333789364315*
 
@@ -1113,7 +1113,7 @@ In the command pit, only **18 squares** from Varos but dangerously close to DK1,
 
 <img src="avatars/1382501818768298095/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (06/25/2025 17:38:02) <br style='clear: both;'>
+### **Vaeros Halcyon** (06/25/2025 17:38:02) <br style='clear: both;'>
 
 *1387487014886310060*
 
@@ -1124,7 +1124,7 @@ Vaeros ignites his lightsaber, moving towards the closest Droideka (DK1)
 
 <img src="avatars/1382501818768298095/88c5de7b719aa93f7a7d99530c51acd9.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Karnyx** (06/25/2025 19:10:20) <br style='clear: both;'>
+### **Karnyx** (06/25/2025 19:10:20) <br style='clear: both;'>
 
 *1387510244569252001*
 
@@ -1134,7 +1134,7 @@ First to act, Karnyx leans out from behind its barricade of destroyed consoles, 
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/25/2025 19:10:21) <br style='clear: both;'>
+### **Storyteller** (06/25/2025 19:10:21) <br style='clear: both;'>
 
 *1387510246498369586*
 
@@ -1146,7 +1146,7 @@ While the deadly exchange holds the droids' attention, Vaeros makes his move. A 
 
 <img src="avatars/1382501818768298095/ef1a544fd249ea30ccae6fa08758887e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **R3-K4** (06/25/2025 19:10:21) <br style='clear: both;'>
+### **R3-K4** (06/25/2025 19:10:21) <br style='clear: both;'>
 
 *1387510247635161200*
 
@@ -1156,7 +1156,7 @@ Amid the bedlam, a triumphant, high-pitched trill cuts through the noise. R3-K4 
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/25/2025 19:10:21) <br style='clear: both;'>
+### **Storyteller** (06/25/2025 19:10:21) <br style='clear: both;'>
 
 *1387510248532869293*
 
@@ -1167,7 +1167,7 @@ The countdown continues.
 
 <img src="avatars/1382501818768298095/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (06/25/2025 19:37:03) <br style='clear: both;'>
+### **Vaeros Halcyon** (06/25/2025 19:37:03) <br style='clear: both;'>
 
 *1387516964456632432*
 
@@ -1177,7 +1177,7 @@ Vaeros readies himself, then launches his ambush. **"Retreat, now! I'll cover yo
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/25/2025 19:58:32) <br style='clear: both;'>
+### **Storyteller** (06/25/2025 19:58:32) <br style='clear: both;'>
 
 *1387522373514825883*
 
@@ -1195,7 +1195,7 @@ The attack is perfect. The blade connects, but not with metal. It impacts the Dr
 
 <img src="avatars/1382501818768298095/ef1a544fd249ea30ccae6fa08758887e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **R3-K4** (06/25/2025 19:58:35) <br style='clear: both;'>
+### **R3-K4** (06/25/2025 19:58:35) <br style='clear: both;'>
 
 *1387522383933345862*
 
@@ -1205,7 +1205,7 @@ Hearing its master's command, R3-K4 doesn't need to be told twice. The astromech
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/25/2025 19:58:35) <br style='clear: both;'>
+### **Storyteller** (06/25/2025 19:58:35) <br style='clear: both;'>
 
 *1387522385422585878*
 
@@ -1217,7 +1217,7 @@ Another tremor shakes the bridge, and the countdown clock continues its relentle
 
 <img src="avatars/1382501818768298095/88c5de7b719aa93f7a7d99530c51acd9.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Karnyx** (06/25/2025 20:33:14) <br style='clear: both;'>
+### **Karnyx** (06/25/2025 20:33:14) <br style='clear: both;'>
 
 *1387531104688537750*
 
@@ -1227,7 +1227,7 @@ As R3-K4 begins its retreat, Karnyx moves with it, providing covering fire for t
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/25/2025 20:33:22) <br style='clear: both;'>
+### **Storyteller** (06/25/2025 20:33:22) <br style='clear: both;'>
 
 *1387531138423193610*
 
@@ -1243,7 +1243,7 @@ Seeing his loyal guardian fall, Vaeros finds a new reserve of strength born of r
 
 <img src="avatars/1382501818768298095/ef1a544fd249ea30ccae6fa08758887e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **R3-K4** (06/25/2025 20:33:31) <br style='clear: both;'>
+### **R3-K4** (06/25/2025 20:33:31) <br style='clear: both;'>
 
 *1387531174251073627*
 
@@ -1253,7 +1253,7 @@ Spared from the final volley by Karnyx's sacrifice, R3-K4 makes it through the b
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/25/2025 20:33:31) <br style='clear: both;'>
+### **Storyteller** (06/25/2025 20:33:31) <br style='clear: both;'>
 
 *1387531177828679711*
 
@@ -1265,7 +1265,7 @@ The bridge belongs to the destroyers. Vaeros is wounded, standing at the thresho
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/25/2025 20:54:42) <br style='clear: both;'>
+### **Storyteller** (06/25/2025 20:54:42) <br style='clear: both;'>
 
 *1387536506041798861*
 
@@ -1285,7 +1285,7 @@ The final countdown is ticking away.
 
 <img src="avatars/1382501818768298095/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (06/25/2025 20:59:36) <br style='clear: both;'>
+### **Vaeros Halcyon** (06/25/2025 20:59:36) <br style='clear: both;'>
 
 *1387537740119412736*
 
@@ -1297,7 +1297,7 @@ He's running out of time.
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/25/2025 22:39:31) <br style='clear: both;'>
+### **Storyteller** (06/25/2025 22:39:31) <br style='clear: both;'>
 
 *1387562886561267843*
 
@@ -1311,7 +1311,7 @@ Then, disaster. His foot catches on a piece of buckled deck plate hidden in the 
 
 <img src="avatars/1382501818768298095/ef1a544fd249ea30ccae6fa08758887e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **R3-K4** (06/25/2025 22:39:32) <br style='clear: both;'>
+### **R3-K4** (06/25/2025 22:39:32) <br style='clear: both;'>
 
 *1387562889916973277*
 
@@ -1321,7 +1321,7 @@ From the airlock, R3-K4 lets out a piercing shriek of electronic panic, its dome
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/25/2025 22:39:32) <br style='clear: both;'>
+### **Storyteller** (06/25/2025 22:39:32) <br style='clear: both;'>
 
 *1387562890877472930*
 
@@ -1335,7 +1335,7 @@ The final countdown is displayed in his flickering HUD, the numbers a terrifying
 
 <img src="avatars/1382501818768298095/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (06/26/2025 21:22:49) <br style='clear: both;'>
+### **Vaeros Halcyon** (06/26/2025 21:22:49) <br style='clear: both;'>
 
 *1387905972390854698*
 
@@ -1351,7 +1351,7 @@ It's up to R3 to get them out.
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/26/2025 21:44:14) <br style='clear: both;'>
+### **Storyteller** (06/26/2025 21:44:14) <br style='clear: both;'>
 
 *1387911358447882294*
 
@@ -1371,7 +1371,7 @@ Vaeros's eyes flutter open. He is on the floor of his TIE Reaper's hold, his mas
 
 <img src="avatars/1382501818768298095/ef1a544fd249ea30ccae6fa08758887e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **R3-K4** (06/26/2025 21:44:18) <br style='clear: both;'>
+### **R3-K4** (06/26/2025 21:44:18) <br style='clear: both;'>
 
 *1387911378555109607*
 
@@ -1381,7 +1381,7 @@ A familiar, low beep comes from the cockpit. R3-K4 is there, one of its manipula
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/26/2025 21:44:19) <br style='clear: both;'>
+### **Storyteller** (06/26/2025 21:44:19) <br style='clear: both;'>
 
 *1387911380786741329*
 
@@ -1393,7 +1393,7 @@ The immediate challenge is clear. The ship is broken. To survive, to get back to
 
 <img src="avatars/1382501818768298095/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (06/28/2025 00:49:09) <br style='clear: both;'>
+### **Vaeros Halcyon** (06/28/2025 00:49:09) <br style='clear: both;'>
 
 *1388320282988777615*
 
@@ -1405,7 +1405,7 @@ He decides to move back into the main area of the ship and mediate, hoping to ea
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/28/2025 01:08:56) <br style='clear: both;'>
+### **Storyteller** (06/28/2025 01:08:56) <br style='clear: both;'>
 
 *1388325262512361663*
 
@@ -1415,7 +1415,7 @@ The sharp clang of the maintenance hatch followed by Vaeros's groan of pain cuts
 
 <img src="avatars/1382501818768298095/ef1a544fd249ea30ccae6fa08758887e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **R3-K4** (06/28/2025 01:08:56) <br style='clear: both;'>
+### **R3-K4** (06/28/2025 01:08:56) <br style='clear: both;'>
 
 *1388325264588800081*
 
@@ -1425,7 +1425,7 @@ From the cockpit, the astromech ceases its frantic attempt to splice the sparkin
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/28/2025 01:08:57) <br style='clear: both;'>
+### **Storyteller** (06/28/2025 01:08:57) <br style='clear: both;'>
 
 *1388325267017175050*
 
@@ -1435,7 +1435,7 @@ Silence descends, broken only by the steady, rhythmic breathing of the meditatin
 
 <img src="avatars/1382501818768298095/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (06/28/2025 01:43:53) <br style='clear: both;'>
+### **Vaeros Halcyon** (06/28/2025 01:43:53) <br style='clear: both;'>
 
 *1388334058324623360*
 
@@ -1447,7 +1447,7 @@ He has enough rations for approximately 3 days, so he decides to take his time t
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/28/2025 02:20:39) <br style='clear: both;'>
+### **Storyteller** (06/28/2025 02:20:39) <br style='clear: both;'>
 
 *1388343309306560582*
 
@@ -1457,7 +1457,7 @@ With his body rested, Vaeros moves with renewed purpose. He approaches the hyper
 
 <img src="avatars/1382501818768298095/ef1a544fd249ea30ccae6fa08758887e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **R3-K4** (06/28/2025 02:20:39) <br style='clear: both;'>
+### **R3-K4** (06/28/2025 02:20:39) <br style='clear: both;'>
 
 *1388343311290597519*
 
@@ -1467,7 +1467,7 @@ As Vaeros studies the damage, R3-K4 rolls up beside him. A multi-jointed manipul
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/28/2025 02:20:39) <br style='clear: both;'>
+### **Storyteller** (06/28/2025 02:20:39) <br style='clear: both;'>
 
 *1388343312808673322*
 
@@ -1477,7 +1477,7 @@ Guided by R3's analysis, Vaeros sets to work. For the next hour, it is a symphon
 
 <img src="avatars/1382501818768298095/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Vaeros Halcyon** (06/29/2025 17:57:50) <br style='clear: both;'>
+### **Vaeros Halcyon** (06/29/2025 17:57:50) <br style='clear: both;'>
 
 *1388941548921553027*
 
@@ -1487,7 +1487,7 @@ Vaeros takes his time, removing his mask and wiping the sweat from his forehead.
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/29/2025 18:24:17) <br style='clear: both;'>
+### **Storyteller** (06/29/2025 18:24:17) <br style='clear: both;'>
 
 *1388948203269001287*
 
@@ -1497,7 +1497,7 @@ The dark thoughts coil in Vaeros's mind—a familiar, venomous echo of Imperial 
 
 <img src="avatars/1382501818768298095/ef1a544fd249ea30ccae6fa08758887e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **R3-K4** (06/29/2025 18:24:17) <br style='clear: both;'>
+### **R3-K4** (06/29/2025 18:24:17) <br style='clear: both;'>
 
 *1388948205311627407*
 
@@ -1507,7 +1507,7 @@ A sharp, insistent chirp cuts through the gloom. R3-K4 nudges his hand with its 
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/29/2025 18:24:17) <br style='clear: both;'>
+### **Storyteller** (06/29/2025 18:24:17) <br style='clear: both;'>
 
 *1388948206427050004*
 
@@ -1525,7 +1525,7 @@ The heart of the Reaper beats once more.
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (07/01/2025 00:17:55) <br style='clear: both;'>
+### **Storyteller** (07/01/2025 00:17:55) <br style='clear: both;'>
 
 *1389399586627391508*
 
@@ -1537,7 +1537,7 @@ The debriefing with the Grand Inquisitor is brief and cold. It takes place in th
 
 <img src="avatars/1382501818768298095/52a6bf0a537160599722aaef0e8d0af5.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Grand Inquisitor** (07/01/2025 00:17:55) <br style='clear: both;'>
+### **Grand Inquisitor** (07/01/2025 00:17:55) <br style='clear: both;'>
 
 *1389399589651484764*
 
@@ -1549,7 +1549,7 @@ There is no praise, only a cold accounting. The unspoken message is clear: Vaero
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (07/01/2025 00:18:28) <br style='clear: both;'>
+### **Storyteller** (07/01/2025 00:18:28) <br style='clear: both;'>
 
 *1389399727069724802*
 
@@ -1565,4 +1565,5 @@ Vaeros stands in the swirling light, the logs delivered, his duty to the Empire 
 
 ***The End***
 
-***Created** 06/30/2025 22:03:45 EST (v7.0.0)*
+
+***Created** 07/31/2025 11:04:37 EST (v7.6.0)*

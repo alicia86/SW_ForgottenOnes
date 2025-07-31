@@ -1,14 +1,14 @@
-# Forgotten Ones | BB Prelude: Price of a Vision (Varda)
+﻿# Prelude: The Price of a Vision (Varda)
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/11/2025 23:37:49) <br style='clear: both;'>
+### **Storyteller** (06/11/2025 23:37:49) <br style='clear: both;'>
 
 *1382504127287787582*
 
 ***A long time ago in a galaxy far, far away....***
-### **STAR WARS**
-#### **THE PRICE OF A VISION**
+#### **STAR WARS**
+##### **THE PRICE OF A VISION**
 
 *The **GALACTIC REPUBLIC** has stood for millennia, a beacon of civilization and law. Yet its light barely touches the vast, untamed shadows of the **OUTER RIM**. Here, on the fringes of known space, intrepid pioneers and ambitious traders build new worlds, far from the polished halls of Coruscant.*
 
@@ -20,7 +20,7 @@
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/13/2025 13:19:44) <br style='clear: both;'>
+### **Storyteller** (06/13/2025 13:19:44) <br style='clear: both;'>
 
 *1383073358761168976*
 
@@ -32,7 +32,7 @@ The source of that peace, Araden Kryz, sits nearby, his face etched with the eas
 
 <img src="avatars/1382501818768298095/ebb0ec54057d5a889cdf6d31a5638c45.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Araden Kryz** (06/13/2025 13:19:45) <br style='clear: both;'>
+### **Araden Kryz** (06/13/2025 13:19:45) <br style='clear: both;'>
 
 *1383073360950329448*
 
@@ -44,7 +44,7 @@ He looks to Varda, his smile genuine and warm. "**But enough of that. What do th
 
 <img src="avatars/1382501818768298095/eb22ffa2f334ca4c8d65444c34aaa9d8.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/13/2025 14:03:16) <br style='clear: both;'>
+### **Varda Nisyren** (06/13/2025 14:03:16) <br style='clear: both;'>
 
 *1383084310474788904*
 
@@ -58,7 +58,7 @@ She takes a slow sip, letting the warmth seep into her old bones, then draws a m
 
 <img src="avatars/1382501818768298095/ebb0ec54057d5a889cdf6d31a5638c45.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Araden Kryz** (06/13/2025 15:01:55) <br style='clear: both;'>
+### **Araden Kryz** (06/13/2025 15:01:55) <br style='clear: both;'>
 
 *1383099071560155311*
 
@@ -70,7 +70,7 @@ He settles back into his chair, content to wait, watching with patient respect a
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/13/2025 15:02:59) <br style='clear: both;'>
+### **Storyteller** (06/13/2025 15:02:59) <br style='clear: both;'>
 
 *1383099342511931612*
 
@@ -90,7 +90,7 @@ The vision collapses, and Varda is slammed back into her body. The teacup rattle
 
 <img src="avatars/1382501818768298095/eb22ffa2f334ca4c8d65444c34aaa9d8.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/13/2025 16:07:37) <br style='clear: both;'>
+### **Varda Nisyren** (06/13/2025 16:07:37) <br style='clear: both;'>
 
 *1383115607242965012*
 
@@ -106,7 +106,7 @@ She rises, the motion smooth and resolute, strength returned to her spine. She t
 
 <img src="avatars/1382501818768298095/ebb0ec54057d5a889cdf6d31a5638c45.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Araden Kryz** (06/13/2025 16:48:38) <br style='clear: both;'>
+### **Araden Kryz** (06/13/2025 16:48:38) <br style='clear: both;'>
 
 *1383125927105531927*
 
@@ -118,7 +118,7 @@ Her cryptic words hang in the air, and Araden’s expression shifts from concern
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/13/2025 17:41:18) <br style='clear: both;'>
+### **Varda Nisyren** (06/13/2025 17:41:18) <br style='clear: both;'>
 
 *1383139183614361610*
 
@@ -130,7 +130,7 @@ Her breath catches. The vision replays behind her eyes. “**Danger, Araden. Her
 
 <img src="avatars/1382501818768298095/ebb0ec54057d5a889cdf6d31a5638c45.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Araden Kryz** (06/13/2025 18:08:27) <br style='clear: both;'>
+### **Araden Kryz** (06/13/2025 18:08:27) <br style='clear: both;'>
 
 *1383146013119873134*
 
@@ -144,7 +144,7 @@ His mind immediately leaps to the most logical threat, the only one that makes s
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/13/2025 18:48:25) <br style='clear: both;'>
+### **Varda Nisyren** (06/13/2025 18:48:25) <br style='clear: both;'>
 
 *1383156072021364967*
 
@@ -162,7 +162,7 @@ Her jaw sets. “Keep the speech. Keep the setting. Alter nothing… except what
 
 <img src="avatars/1382501818768298095/ebb0ec54057d5a889cdf6d31a5638c45.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Araden Kryz** (06/13/2025 19:35:00) <br style='clear: both;'>
+### **Araden Kryz** (06/13/2025 19:35:00) <br style='clear: both;'>
 
 *1383167797080887416*
 
@@ -174,7 +174,7 @@ He stops pacing and turns to face her, his hands clenched into fists at his side
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/13/2025 20:55:04) <br style='clear: both;'>
+### **Varda Nisyren** (06/13/2025 20:55:04) <br style='clear: both;'>
 
 *1383187945204355242*
 
@@ -190,7 +190,7 @@ Her gaze holds his. “***The moment is fragile. But if we move with care... we 
 
 <img src="avatars/1382501818768298095/ebb0ec54057d5a889cdf6d31a5638c45.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Araden Kryz** (06/13/2025 22:29:44) <br style='clear: both;'>
+### **Araden Kryz** (06/13/2025 22:29:44) <br style='clear: both;'>
 
 *1383211768448286912*
 
@@ -206,7 +206,7 @@ He gives a single, decisive nod, his mind now fixed on a course of action. **"Al
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/13/2025 23:17:57) <br style='clear: both;'>
+### **Varda Nisyren** (06/13/2025 23:17:57) <br style='clear: both;'>
 
 *1383223902783668288*
 
@@ -222,7 +222,7 @@ She looks toward the window, her gaze rising to the pale sky beyond. Clouds pass
 
 <img src="avatars/1382501818768298095/ebb0ec54057d5a889cdf6d31a5638c45.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Araden Kryz** (06/14/2025 00:08:54) <br style='clear: both;'>
+### **Araden Kryz** (06/14/2025 00:08:54) <br style='clear: both;'>
 
 *1383236723160383659*
 
@@ -236,7 +236,7 @@ He runs a hand over his tired face. **"I need to speak with Lyra. I won't tell h
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/15/2025 16:09:22) <br style='clear: both;'>
+### **Varda Nisyren** (06/15/2025 16:09:22) <br style='clear: both;'>
 
 *1383840823552114888*
 
@@ -248,7 +248,7 @@ She places a hand over her heart, just briefly. “**The walk to her offcie migt
 
 <img src="avatars/1382501818768298095/ebb0ec54057d5a889cdf6d31a5638c45.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Araden Kryz** (06/15/2025 16:39:57) <br style='clear: both;'>
+### **Araden Kryz** (06/15/2025 16:39:57) <br style='clear: both;'>
 
 *1383848519537791049*
 
@@ -262,7 +262,7 @@ He pauses, his hand hovering over the panel, and looks back at Varda. The worry 
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/15/2025 16:39:58) <br style='clear: both;'>
+### **Storyteller** (06/15/2025 16:39:58) <br style='clear: both;'>
 
 *1383848521807036557*
 
@@ -272,7 +272,7 @@ With that, Araden turns his full attention to the comms, his voice dropping into
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/15/2025 17:03:38) <br style='clear: both;'>
+### **Varda Nisyren** (06/15/2025 17:03:38) <br style='clear: both;'>
 
 *1383854477756338316*
 
@@ -294,7 +294,7 @@ Always listening. Always watching. The tide is coming in.
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/15/2025 17:31:15) <br style='clear: both;'>
+### **Storyteller** (06/15/2025 17:31:15) <br style='clear: both;'>
 
 *1383861427764465674*
 
@@ -308,7 +308,7 @@ As she passes a stall laden with exotic-smelling fruits, she overhears two grizz
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Human Spacer** (06/15/2025 17:31:15) <br style='clear: both;'>
+### **Human Spacer** (06/15/2025 17:31:15) <br style='clear: both;'>
 
 *1383861430213939320*
 
@@ -318,7 +318,7 @@ As she passes a stall laden with exotic-smelling fruits, she overhears two grizz
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Rodian Spacer** (06/15/2025 17:31:16) <br style='clear: both;'>
+### **Rodian Spacer** (06/15/2025 17:31:16) <br style='clear: both;'>
 
 *1383861431723757639*
 
@@ -328,7 +328,7 @@ As she passes a stall laden with exotic-smelling fruits, she overhears two grizz
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/15/2025 17:31:20) <br style='clear: both;'>
+### **Storyteller** (06/15/2025 17:31:20) <br style='clear: both;'>
 
 *1383861450375823452*
 
@@ -340,7 +340,7 @@ Weaving through the final throng of citizens, Varda arrives at the base of the a
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/15/2025 18:36:00) <br style='clear: both;'>
+### **Varda Nisyren** (06/15/2025 18:36:00) <br style='clear: both;'>
 
 *1383877725642555433*
 
@@ -360,7 +360,7 @@ Does their loyalty run true? Is there unease when Lyra’s name is spoken? Is th
 
 <img src="avatars/1382501818768298095/7d60f74aaa25d917627e7c5e5f6116c0.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Security Guard** (06/15/2025 21:43:12) <br style='clear: both;'>
+### **Security Guard** (06/15/2025 21:43:12) <br style='clear: both;'>
 
 *1383924835780133036*
 
@@ -374,7 +374,7 @@ From the second guard, younger and standing ramrod straight, the feeling is diff
 
 <img src="avatars/1382501818768298095/7d60f74aaa25d917627e7c5e5f6116c0.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Security Guard** (06/15/2025 21:43:45) <br style='clear: both;'>
+### **Security Guard** (06/15/2025 21:43:45) <br style='clear: both;'>
 
 *1383924972245749861*
 
@@ -388,7 +388,7 @@ From the second guard, younger and standing ramrod straight, the feeling is diff
 
 <img src="avatars/1382501818768298095/7d60f74aaa25d917627e7c5e5f6116c0.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Security Guard** (06/15/2025 21:43:46) <br style='clear: both;'>
+### **Security Guard** (06/15/2025 21:43:46) <br style='clear: both;'>
 
 *1383924974741622784*
 
@@ -406,7 +406,7 @@ The younger guard with the fierce loyalty gives her a small, respectful nod as s
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/15/2025 22:03:06) <br style='clear: both;'>
+### **Varda Nisyren** (06/15/2025 22:03:06) <br style='clear: both;'>
 
 *1383929841010606081*
 
@@ -422,7 +422,7 @@ Three light knocks.
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/15/2025 22:27:25) <br style='clear: both;'>
+### **Storyteller** (06/15/2025 22:27:25) <br style='clear: both;'>
 
 *1383935960747610112*
 
@@ -434,7 +434,7 @@ A moment after Varda's knock, a voice comes from within, clear and amplified by 
 
 <img src="avatars/1382501818768298095/7f84875d0f505ae59473f263df963804.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Lyra Kryz** (06/15/2025 22:27:25) <br style='clear: both;'>
+### **Lyra Kryz** (06/15/2025 22:27:25) <br style='clear: both;'>
 
 *1383935962781847735*
 
@@ -444,7 +444,7 @@ A moment after Varda's knock, a voice comes from within, clear and amplified by 
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/15/2025 22:27:26) <br style='clear: both;'>
+### **Storyteller** (06/15/2025 22:27:26) <br style='clear: both;'>
 
 *1383935963860045954*
 
@@ -460,7 +460,7 @@ Lyra stands near the window, a datapad in one hand, her back to the door as she 
 
 <img src="avatars/1382501818768298095/7f84875d0f505ae59473f263df963804.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Lyra Kryz** (06/15/2025 22:28:07) <br style='clear: both;'>
+### **Lyra Kryz** (06/15/2025 22:28:07) <br style='clear: both;'>
 
 *1383936138603008151*
 
@@ -474,7 +474,7 @@ She finally turns, a polite, business-like smile on her face as she sees Varda. 
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/15/2025 22:39:15) <br style='clear: both;'>
+### **Varda Nisyren** (06/15/2025 22:39:15) <br style='clear: both;'>
 
 *1383938940607791228*
 
@@ -495,7 +495,7 @@ She draws in a soft breath and speaks without turning. “**Tell me, Lyra... how
 
 <img src="avatars/1382501818768298095/7f84875d0f505ae59473f263df963804.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Lyra Kryz** (06/15/2025 23:20:27) <br style='clear: both;'>
+### **Lyra Kryz** (06/15/2025 23:20:27) <br style='clear: both;'>
 
 *1383949308499595458*
 
@@ -505,7 +505,7 @@ Lyra lets out a small, wry chuckle, the sound sharp and clean in the quiet offic
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/15/2025 23:20:28) <br style='clear: both;'>
+### **Storyteller** (06/15/2025 23:20:28) <br style='clear: both;'>
 
 *1383949310558863474*
 
@@ -517,7 +517,7 @@ Her focus is drawn, inexorably, to the skeletal arm of the massive cargo crane l
 
 <img src="avatars/1382501818768298095/7f84875d0f505ae59473f263df963804.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Lyra Kryz** (06/15/2025 23:20:31) <br style='clear: both;'>
+### **Lyra Kryz** (06/15/2025 23:20:31) <br style='clear: both;'>
 
 *1383949324748329080*
 
@@ -531,7 +531,7 @@ Her words are confident, but Varda can feel the thin, brittle layer of stress be
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/15/2025 23:48:27) <br style='clear: both;'>
+### **Varda Nisyren** (06/15/2025 23:48:27) <br style='clear: both;'>
 
 *1383956356037349579*
 
@@ -549,7 +549,7 @@ Varda lets the silence stretch for a breath, then looks to Lyra fully soft, but 
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/15/2025 23:49:17) <br style='clear: both;'>
+### **Varda Nisyren** (06/15/2025 23:49:17) <br style='clear: both;'>
 
 *1383956564821413950*
 
@@ -563,7 +563,7 @@ Her gaze sharpens slightly, the weight of *something*  settling in her tone. "**
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/15/2025 23:52:01) <br style='clear: both;'>
+### **Varda Nisyren** (06/15/2025 23:52:01) <br style='clear: both;'>
 
 *1383957251626110998*
 
@@ -573,7 +573,7 @@ She laughs then "**But these are just the musings of an old woman too stuck in t
 
 <img src="avatars/1382501818768298095/7f84875d0f505ae59473f263df963804.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Lyra Kryz** (06/16/2025 00:26:23) <br style='clear: both;'>
+### **Lyra Kryz** (06/16/2025 00:26:23) <br style='clear: both;'>
 
 *1383965899568189562*
 
@@ -591,7 +591,7 @@ She gently withdraws her hand and gestures to one of the comfortable chairs near
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/16/2025 14:26:17) <br style='clear: both;'>
+### **Varda Nisyren** (06/16/2025 14:26:17) <br style='clear: both;'>
 
 *1384177267487412295*
 
@@ -611,7 +611,7 @@ She closes her eyes, not in weariness, but in peace. Resting her them till arada
 
 <img src="avatars/1382501818768298095/7f84875d0f505ae59473f263df963804.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Lyra Kryz** (06/16/2025 15:33:12) <br style='clear: both;'>
+### **Lyra Kryz** (06/16/2025 15:33:12) <br style='clear: both;'>
 
 *1384194109593616496*
 
@@ -621,7 +621,7 @@ A genuine smile lights up Lyra's face for a moment, erasing some of the tension.
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/16/2025 15:33:13) <br style='clear: both;'>
+### **Storyteller** (06/16/2025 15:33:13) <br style='clear: both;'>
 
 *1384194112357535774*
 
@@ -633,7 +633,7 @@ About twenty minutes pass in this quiet tableau. Then, a soft chime interrupts t
 
 <img src="avatars/1382501818768298095/7f84875d0f505ae59473f263df963804.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Lyra Kryz** (06/16/2025 15:33:13) <br style='clear: both;'>
+### **Lyra Kryz** (06/16/2025 15:33:13) <br style='clear: both;'>
 
 *1384194113280278569*
 
@@ -643,7 +643,7 @@ About twenty minutes pass in this quiet tableau. Then, a soft chime interrupts t
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/16/2025 15:33:14) <br style='clear: both;'>
+### **Storyteller** (06/16/2025 15:33:14) <br style='clear: both;'>
 
 *1384194114794553355*
 
@@ -653,7 +653,7 @@ The door slides open to reveal Araden. His expression is grim, his usual warmth 
 
 <img src="avatars/1382501818768298095/ebb0ec54057d5a889cdf6d31a5638c45.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Araden Kryz** (06/16/2025 15:33:14) <br style='clear: both;'>
+### **Araden Kryz** (06/16/2025 15:33:14) <br style='clear: both;'>
 
 *1384194115901587538*
 
@@ -663,7 +663,7 @@ The door slides open to reveal Araden. His expression is grim, his usual warmth 
 
 <img src="avatars/1382501818768298095/7f84875d0f505ae59473f263df963804.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Lyra Kryz** (06/16/2025 15:33:16) <br style='clear: both;'>
+### **Lyra Kryz** (06/16/2025 15:33:16) <br style='clear: both;'>
 
 *1384194123006873682*
 
@@ -675,7 +675,7 @@ She finally raises her eyes, a hint of wry amusement softening her professional 
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/16/2025 15:58:03) <br style='clear: both;'>
+### **Varda Nisyren** (06/16/2025 15:58:03) <br style='clear: both;'>
 
 *1384200360477851699*
 
@@ -689,7 +689,7 @@ She remains seated, eyes closed, letting her thoughts dip deeper into the curren
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/16/2025 16:31:30) <br style='clear: both;'>
+### **Storyteller** (06/16/2025 16:31:30) <br style='clear: both;'>
 
 *1384208780694126774*
 
@@ -711,7 +711,7 @@ The feeling is absolute. Telling Araden the specifics now would be **unfavorable
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/16/2025 16:31:36) <br style='clear: both;'>
+### **Storyteller** (06/16/2025 16:31:36) <br style='clear: both;'>
 
 *1384208806438899835*
 
@@ -721,7 +721,7 @@ Varda’s eyes snap open, the sterile air of the office a sudden shock after the
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/16/2025 16:49:12) <br style='clear: both;'>
+### **Varda Nisyren** (06/16/2025 16:49:12) <br style='clear: both;'>
 
 *1384213233606328432*
 
@@ -737,7 +737,7 @@ She adjusts her shawl, fussing with a fold that needs no fixing. “**And I prom
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/16/2025 16:49:22) <br style='clear: both;'>
+### **Varda Nisyren** (06/16/2025 16:49:22) <br style='clear: both;'>
 
 *1384213275025080462*
 
@@ -757,7 +757,7 @@ Her smile creases deep, a thing made of sun-warmed stone and old laughter. “**
 
 <img src="avatars/1382501818768298095/7f84875d0f505ae59473f263df963804.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Lyra Kryz** (06/16/2025 17:04:02) <br style='clear: both;'>
+### **Lyra Kryz** (06/16/2025 17:04:02) <br style='clear: both;'>
 
 *1384216965425397935*
 
@@ -767,7 +767,7 @@ Lyra looks up from her datapad, a weary but genuine smile touching her lips at V
 
 <img src="avatars/1382501818768298095/ebb0ec54057d5a889cdf6d31a5638c45.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Araden Kryz** (06/16/2025 17:04:02) <br style='clear: both;'>
+### **Araden Kryz** (06/16/2025 17:04:02) <br style='clear: both;'>
 
 *1384216968281723021*
 
@@ -777,7 +777,7 @@ Araden says nothing, but his eyes follow Varda's every move. He catches the subt
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/16/2025 17:04:03) <br style='clear: both;'>
+### **Storyteller** (06/16/2025 17:04:03) <br style='clear: both;'>
 
 *1384216969682620527*
 
@@ -791,7 +791,7 @@ The sun is lower now, casting long shadows that stretch like grasping fingers ac
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/16/2025 17:31:43) <br style='clear: both;'>
+### **Varda Nisyren** (06/16/2025 17:31:43) <br style='clear: both;'>
 
 *1384223933133230141*
 
@@ -801,7 +801,7 @@ Walking into the open air, Varda begins her first move on the board. The plaza u
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/16/2025 17:35:46) <br style='clear: both;'>
+### **Storyteller** (06/16/2025 17:35:46) <br style='clear: both;'>
 
 *1384224954312298496*
 
@@ -813,7 +813,7 @@ Hanging on a hook at the back of the stall is a heavy, dust-colored traveler's c
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/16/2025 17:48:21) <br style='clear: both;'>
+### **Varda Nisyren** (06/16/2025 17:48:21) <br style='clear: both;'>
 
 *1384228121309610165*
 
@@ -831,7 +831,7 @@ Her fingers brush over the edge of the tablecloth, as if steadying herself. Her 
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/16/2025 18:14:05) <br style='clear: both;'>
+### **Storyteller** (06/16/2025 18:14:05) <br style='clear: both;'>
 
 *1384234594471121019*
 
@@ -841,7 +841,7 @@ The Twi'lek woman watches Varda's performance with an unreadable expression. Her
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Twi'lek Merchant** (06/16/2025 18:14:05) <br style='clear: both;'>
+### **Twi'lek Merchant** (06/16/2025 18:14:05) <br style='clear: both;'>
 
 *1384234597386027182*
 
@@ -857,7 +857,7 @@ She drapes the cloak over a nearby crate, letting Varda inspect it more closely.
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/16/2025 18:24:55) <br style='clear: both;'>
+### **Varda Nisyren** (06/16/2025 18:24:55) <br style='clear: both;'>
 
 *1384237322131869942*
 
@@ -873,7 +873,7 @@ She sets the pouch down without drama, her gaze never leaving the merchant’s f
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/16/2025 18:46:02) <br style='clear: both;'>
+### **Storyteller** (06/16/2025 18:46:02) <br style='clear: both;'>
 
 *1384242636705104024*
 
@@ -883,7 +883,7 @@ The Twi'lek merchant lets out a slow, deliberate sigh, a theatrical gesture that
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Twi'lek Merchant** (06/16/2025 18:46:03) <br style='clear: both;'>
+### **Twi'lek Merchant** (06/16/2025 18:46:03) <br style='clear: both;'>
 
 *1384242638751924244*
 
@@ -897,7 +897,7 @@ She pushes the heavy cloak across the crate toward Varda and sweeps the thirty c
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/16/2025 18:52:16) <br style='clear: both;'>
+### **Varda Nisyren** (06/16/2025 18:52:16) <br style='clear: both;'>
 
 *1384244205198508142*
 
@@ -913,7 +913,7 @@ No farewell. Just the quiet shifting of a cloak vanishing into the crowd. She mo
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/16/2025 19:08:38) <br style='clear: both;'>
+### **Storyteller** (06/16/2025 19:08:38) <br style='clear: both;'>
 
 *1384248325884215510*
 
@@ -927,7 +927,7 @@ The area is a symphony of automated labor. Massive cargo lifters drift through t
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/16/2025 19:08:47) <br style='clear: both;'>
+### **Storyteller** (06/16/2025 19:08:47) <br style='clear: both;'>
 
 *1384248360189427943*
 
@@ -939,7 +939,7 @@ As she shuffles along the edge of the docks, feigning interest in discarded scra
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/16/2025 19:21:34) <br style='clear: both;'>
+### **Varda Nisyren** (06/16/2025 19:21:34) <br style='clear: both;'>
 
 *1384251579821064325*
 
@@ -951,7 +951,7 @@ She instead looks for abondoned buildings. *Perhaps a place for her to get a sli
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/16/2025 20:07:16) <br style='clear: both;'>
+### **Storyteller** (06/16/2025 20:07:16) <br style='clear: both;'>
 
 *1384263077406441545*
 
@@ -965,7 +965,7 @@ From the outside, she can see that the building's flat roof, while not as high a
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/16/2025 20:13:18) <br style='clear: both;'>
+### **Varda Nisyren** (06/16/2025 20:13:18) <br style='clear: both;'>
 
 *1384264598680633405*
 
@@ -977,7 +977,7 @@ She pauses just inside the threshold. Closing her eyes, she exhales slowly and l
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/16/2025 21:36:12) <br style='clear: both;'>
+### **Storyteller** (06/16/2025 21:36:12) <br style='clear: both;'>
 
 *1384285458246140036*
 
@@ -989,7 +989,7 @@ The building is still. Dead. Her senses find no immediate threat, no one hiding 
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/16/2025 21:47:35) <br style='clear: both;'>
+### **Varda Nisyren** (06/16/2025 21:47:35) <br style='clear: both;'>
 
 *1384288325279416503*
 
@@ -1003,7 +1003,7 @@ At the base of the stairwell, she pauses. The bannister stands crooked but solid
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/16/2025 22:16:30) <br style='clear: both;'>
+### **Storyteller** (06/16/2025 22:16:30) <br style='clear: both;'>
 
 *1384295601247883385*
 
@@ -1017,7 +1017,7 @@ The staircase itself, made of reinforced permacrete, seems intact, but the banni
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/16/2025 22:22:32) <br style='clear: both;'>
+### **Varda Nisyren** (06/16/2025 22:22:32) <br style='clear: both;'>
 
 *1384297121124978689*
 
@@ -1035,7 +1035,7 @@ Without the railing, her balance must come from within from the quiet strength o
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/16/2025 22:45:08) <br style='clear: both;'>
+### **Storyteller** (06/16/2025 22:45:08) <br style='clear: both;'>
 
 *1384302809591316561*
 
@@ -1051,7 +1051,7 @@ Pressing on, Varda tackles the next set of stairs. The steps are shallower, forc
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/16/2025 22:45:27) <br style='clear: both;'>
+### **Storyteller** (06/16/2025 22:45:27) <br style='clear: both;'>
 
 *1384302888263618662*
 
@@ -1065,7 +1065,7 @@ She emerges onto the fourth floor, a small, cramped maintenance nexus filled wit
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/16/2025 23:02:26) <br style='clear: both;'>
+### **Varda Nisyren** (06/16/2025 23:02:26) <br style='clear: both;'>
 
 *1384307162251006023*
 
@@ -1081,7 +1081,7 @@ Then comfortable and content she sinks into the sea of emotion. The Force greets
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/16/2025 23:02:31) <br style='clear: both;'>
+### **Varda Nisyren** (06/16/2025 23:02:31) <br style='clear: both;'>
 
 *1384307183663186126*
 
@@ -1093,7 +1093,7 @@ She does not ask questions. Not yet. For now, she listens. She watches. She beco
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/16/2025 23:29:01) <br style='clear: both;'>
+### **Storyteller** (06/16/2025 23:29:01) <br style='clear: both;'>
 
 *1384313849552961538*
 
@@ -1113,7 +1113,7 @@ It is a feeling sharp, cold, and utterly focused, a stark contrast to the diffus
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/16/2025 23:52:39) <br style='clear: both;'>
+### **Varda Nisyren** (06/16/2025 23:52:39) <br style='clear: both;'>
 
 *1384319797009055864*
 
@@ -1133,7 +1133,7 @@ The variables are many, but her intent is singular. She settles again lighter li
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/17/2025 00:29:19) <br style='clear: both;'>
+### **Storyteller** (06/17/2025 00:29:19) <br style='clear: both;'>
 
 *1384329026306572402*
 
@@ -1145,7 +1145,7 @@ From Varda's perch, the world is a beautiful, distant light show. But inside the
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/17/2025 00:49:12) <br style='clear: both;'>
+### **Storyteller** (06/17/2025 00:49:12) <br style='clear: both;'>
 
 *1384334030832668732*
 
@@ -1156,7 +1156,7 @@ The desire for sleep is immense, a crushing weight on her eyelids. She fights it
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/17/2025 00:57:32) <br style='clear: both;'>
+### **Varda Nisyren** (06/17/2025 00:57:32) <br style='clear: both;'>
 
 *1384336125681995866*
 
@@ -1178,7 +1178,7 @@ She draws the cloak tighter and closes her eyes not in surrender, but in intent.
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/17/2025 00:57:37) <br style='clear: both;'>
+### **Varda Nisyren** (06/17/2025 00:57:37) <br style='clear: both;'>
 
 *1384336149782466653*
 
@@ -1190,7 +1190,7 @@ The Force weaves gently around her as she slips into the trance, holding her in 
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/17/2025 12:09:01) <br style='clear: both;'>
+### **Storyteller** (06/17/2025 12:09:01) <br style='clear: both;'>
 
 *1384505112797511686*
 
@@ -1206,7 +1206,7 @@ Far across the docks, on the arm of the giant crane, she sees a flicker of movem
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/17/2025 14:03:06) <br style='clear: both;'>
+### **Varda Nisyren** (06/17/2025 14:03:06) <br style='clear: both;'>
 
 *1384533820220506165*
 
@@ -1234,7 +1234,7 @@ Her limbs flow with surprising grace each step a memory of Dathomir’s moons, e
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/17/2025 14:03:08) <br style='clear: both;'>
+### **Varda Nisyren** (06/17/2025 14:03:08) <br style='clear: both;'>
 
 *1384533830211473453*
 
@@ -1246,7 +1246,7 @@ She moves through the ancient gestures with quiet purpose, the chant low in her 
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/17/2025 14:31:46) <br style='clear: both;'>
+### **Storyteller** (06/17/2025 14:31:46) <br style='clear: both;'>
 
 *1384541034582638673*
 
@@ -1260,7 +1260,7 @@ Then, from the direction of the crane, a flicker of movement catches her eye. It
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/17/2025 14:43:14) <br style='clear: both;'>
+### **Varda Nisyren** (06/17/2025 14:43:14) <br style='clear: both;'>
 
 *1384543921878728825*
 
@@ -1278,7 +1278,7 @@ Her fingers twitch slightly on the shaft of her cane. Not yet. Not yet. But clos
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/17/2025 15:54:06) <br style='clear: both;'>
+### **Storyteller** (06/17/2025 15:54:06) <br style='clear: both;'>
 
 *1384561754037813261*
 
@@ -1292,7 +1292,7 @@ The sun has now climbed to its zenith, beating down on the rooftops of Respite. 
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/17/2025 17:03:44) <br style='clear: both;'>
+### **Storyteller** (06/17/2025 17:03:44) <br style='clear: both;'>
 
 *1384579280448651356*
 
@@ -1306,7 +1306,7 @@ The moment is almost here. The ambient noise from the plaza below shifts, the mu
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/17/2025 17:19:17) <br style='clear: both;'>
+### **Varda Nisyren** (06/17/2025 17:19:17) <br style='clear: both;'>
 
 *1384583194346786969*
 
@@ -1328,7 +1328,7 @@ Then.... ***Ba-dum*** A shift. ***Ba-dum*** A flicker. ***Ba-dum*** The moment b
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/17/2025 17:34:26) <br style='clear: both;'>
+### **Storyteller** (06/17/2025 17:34:26) <br style='clear: both;'>
 
 *1384587004423180349*
 
@@ -1344,7 +1344,7 @@ From her perch, Varda can see the glint of the rifle's scope as the assassin mak
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/17/2025 17:44:00) <br style='clear: both;'>
+### **Varda Nisyren** (06/17/2025 17:44:00) <br style='clear: both;'>
 
 *1384589412310192138*
 
@@ -1364,7 +1364,7 @@ In that instant, the world holds its breath again. The plaza, the rooftops, even
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/17/2025 20:17:10) <br style='clear: both;'>
+### **Varda Nisyren** (06/17/2025 20:17:10) <br style='clear: both;'>
 
 *1384627958660075561*
 
@@ -1384,7 +1384,7 @@ The assassin's nest is cluttered with wires, tools, scopes all placed with surgi
 
 <img src="avatars/1382501818768298095/0d98f252b5826248d41e20b5729e9d44.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Hired Killer** (06/17/2025 21:49:57) <br style='clear: both;'>
+### **Hired Killer** (06/17/2025 21:49:57) <br style='clear: both;'>
 
 *1384651309763792918*
 
@@ -1400,7 +1400,7 @@ The cold spot in the Force Varda felt before is now a vortex of focused, lethal 
 
 <img src="avatars/1382501818768298095/0d98f252b5826248d41e20b5729e9d44.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Hired Killer** (06/17/2025 22:49:47) <br style='clear: both;'>
+### **Hired Killer** (06/17/2025 22:49:47) <br style='clear: both;'>
 
 *1384666365616722012*
 
@@ -1410,7 +1410,7 @@ The assassin's reaction is inhumanly fast. No words, only action. The disruptor 
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/17/2025 22:50:36) <br style='clear: both;'>
+### **Storyteller** (06/17/2025 22:50:36) <br style='clear: both;'>
 
 *1384666572957941811*
 
@@ -1422,7 +1422,7 @@ It isn't a physical blow, but a psychic concussion. The assassin doesn't cry out
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/17/2025 22:54:48) <br style='clear: both;'>
+### **Varda Nisyren** (06/17/2025 22:54:48) <br style='clear: both;'>
 
 *1384667626747203624*
 
@@ -1436,7 +1436,7 @@ She gives a small sigh, not unkind, but edged with iron. "**Now. Shall we speak 
 
 <img src="avatars/1382501818768298095/0d98f252b5826248d41e20b5729e9d44.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Hired Killer** (06/17/2025 23:12:20) <br style='clear: both;'>
+### **Hired Killer** (06/17/2025 23:12:20) <br style='clear: both;'>
 
 *1384672041441169411*
 
@@ -1448,7 +1448,7 @@ A sharp *crack* echoes from the floor of the cab as a small, shaped charge deton
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/17/2025 23:12:21) <br style='clear: both;'>
+### **Storyteller** (06/17/2025 23:12:21) <br style='clear: both;'>
 
 *1384672044360273940*
 
@@ -1464,7 +1464,7 @@ When the assassin is a mere ten meters above the gantry, she acts. She doesn't m
 
 <img src="avatars/1382501818768298095/0d98f252b5826248d41e20b5729e9d44.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Hired Killer** (06/17/2025 23:12:25) <br style='clear: both;'>
+### **Hired Killer** (06/17/2025 23:12:25) <br style='clear: both;'>
 
 *1384672059774472354*
 
@@ -1474,7 +1474,7 @@ This time, there is no struggle. The assassin's body goes completely limp, all m
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/17/2025 23:34:23) <br style='clear: both;'>
+### **Varda Nisyren** (06/17/2025 23:34:23) <br style='clear: both;'>
 
 *1384677587984580638*
 
@@ -1494,7 +1494,7 @@ Her breath fogs faintly in the air. The moment stretches. And then she turns to 
 
 <img src="avatars/1382501818768298095/ebb0ec54057d5a889cdf6d31a5638c45.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Araden Kryz** (06/17/2025 23:54:03) <br style='clear: both;'>
+### **Araden Kryz** (06/17/2025 23:54:03) <br style='clear: both;'>
 
 *1384682538286715050*
 
@@ -1508,7 +1508,7 @@ Then, back to Varda, his tone a mixture of deep concern and grudging respect. **
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/17/2025 23:54:03) <br style='clear: both;'>
+### **Storyteller** (06/17/2025 23:54:03) <br style='clear: both;'>
 
 *1384682540362895540*
 
@@ -1518,7 +1518,7 @@ Down on the gantry, the assassin lies still. Their helmet, a smooth, featureless
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/18/2025 00:10:13) <br style='clear: both;'>
+### **Varda Nisyren** (06/18/2025 00:10:13) <br style='clear: both;'>
 
 *1384686608414019636*
 
@@ -1538,7 +1538,7 @@ Instead, she takes another sip, eyes half-lidded in serene contentment like a ca
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/18/2025 00:23:01) <br style='clear: both;'>
+### **Storyteller** (06/18/2025 00:23:01) <br style='clear: both;'>
 
 *1384689830465769513*
 
@@ -1554,7 +1554,7 @@ The lead specialist, a grim-faced human with a jagged scar on his cheek, recover
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Lead Specialist** (06/18/2025 00:23:02) <br style='clear: both;'>
+### **Lead Specialist** (06/18/2025 00:23:02) <br style='clear: both;'>
 
 *1384689833514897518*
 
@@ -1564,7 +1564,7 @@ The lead specialist, a grim-faced human with a jagged scar on his cheek, recover
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/18/2025 00:29:01) <br style='clear: both;'>
+### **Varda Nisyren** (06/18/2025 00:29:01) <br style='clear: both;'>
 
 *1384691340377460828*
 
@@ -1576,7 +1576,7 @@ Then she offers a faint smile. "**Aye, I’m well enough. A touch tired, and I w
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Lead Specialist** (06/18/2025 01:18:59) <br style='clear: both;'>
+### **Lead Specialist** (06/18/2025 01:18:59) <br style='clear: both;'>
 
 *1384703912715489354*
 
@@ -1594,7 +1594,7 @@ He lowers his comm, his gaze finally settling on Varda with a look of profound, 
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/18/2025 01:32:35) <br style='clear: both;'>
+### **Varda Nisyren** (06/18/2025 01:32:35) <br style='clear: both;'>
 
 *1384707335519207455*
 
@@ -1608,7 +1608,7 @@ She adjusts her cloak with a tug, casting one last look at the subdued assassin 
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/18/2025 02:13:14) <br style='clear: both;'>
+### **Storyteller** (06/18/2025 02:13:14) <br style='clear: both;'>
 
 *1384717563904262267*
 
@@ -1622,7 +1622,7 @@ The relief that washes over his face is immense, but it is immediately followed 
 
 <img src="avatars/1382501818768298095/ebb0ec54057d5a889cdf6d31a5638c45.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Araden Kryz** (06/18/2025 02:13:14) <br style='clear: both;'>
+### **Araden Kryz** (06/18/2025 02:13:14) <br style='clear: both;'>
 
 *1384717565577793719*
 
@@ -1632,7 +1632,7 @@ The relief that washes over his face is immense, but it is immediately followed 
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/18/2025 13:10:10) <br style='clear: both;'>
+### **Varda Nisyren** (06/18/2025 13:10:10) <br style='clear: both;'>
 
 *1384882888910049280*
 
@@ -1642,7 +1642,7 @@ As Araden arrives she smiles slightly at the flurry of questions. It warms her h
 
 <img src="avatars/1382501818768298095/ebb0ec54057d5a889cdf6d31a5638c45.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Araden Kryz** (06/18/2025 14:10:16) <br style='clear: both;'>
+### **Araden Kryz** (06/18/2025 14:10:16) <br style='clear: both;'>
 
 *1384898012756705371*
 
@@ -1654,7 +1654,7 @@ Araden shakes his head, a look of stunned disbelief mixing with his profound rel
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/18/2025 14:10:17) <br style='clear: both;'>
+### **Storyteller** (06/18/2025 14:10:17) <br style='clear: both;'>
 
 *1384898015399247913*
 
@@ -1672,7 +1672,7 @@ Araden freezes. His face goes pale, a look of dawning horror replacing the cold 
 
 <img src="avatars/1382501818768298095/ebb0ec54057d5a889cdf6d31a5638c45.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Araden Kryz** (06/18/2025 14:10:17) <br style='clear: both;'>
+### **Araden Kryz** (06/18/2025 14:10:17) <br style='clear: both;'>
 
 *1384898016426590429*
 
@@ -1682,7 +1682,7 @@ Araden freezes. His face goes pale, a look of dawning horror replacing the cold 
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/18/2025 14:35:18) <br style='clear: both;'>
+### **Varda Nisyren** (06/18/2025 14:35:18) <br style='clear: both;'>
 
 *1384904314060804107*
 
@@ -1702,7 +1702,7 @@ She sets the bowl down and pours a trickle of herbal tea from her thermos into i
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/18/2025 14:35:22) <br style='clear: both;'>
+### **Varda Nisyren** (06/18/2025 14:35:22) <br style='clear: both;'>
 
 *1384904329164619940*
 
@@ -1716,7 +1716,7 @@ The room around her fades. She falls inward, through the Force, into the unwritt
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/18/2025 16:04:46) <br style='clear: both;'>
+### **Storyteller** (06/18/2025 16:04:46) <br style='clear: both;'>
 
 *1384926829919600813*
 
@@ -1740,7 +1740,7 @@ The scent of her ritual tea is replaced by the sharp, metallic tang of welding f
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/18/2025 16:04:52) <br style='clear: both;'>
+### **Storyteller** (06/18/2025 16:04:52) <br style='clear: both;'>
 
 *1384926854548557844*
 
@@ -1752,7 +1752,7 @@ She's been given a view of the *why*, but doesn't have the full picture. What sh
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/18/2025 16:14:22) <br style='clear: both;'>
+### **Varda Nisyren** (06/18/2025 16:14:22) <br style='clear: both;'>
 
 *1384929245863608370*
 
@@ -1766,7 +1766,7 @@ She takes a few steps, closing the distance between them, until she stands at hi
 
 <img src="avatars/1382501818768298095/ebb0ec54057d5a889cdf6d31a5638c45.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Araden Kryz** (06/18/2025 16:25:51) <br style='clear: both;'>
+### **Araden Kryz** (06/18/2025 16:25:51) <br style='clear: both;'>
 
 *1384932134266867892*
 
@@ -1788,7 +1788,7 @@ He turns to Varda, the full, devastating weight of the situation clear in his ex
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/18/2025 16:44:19) <br style='clear: both;'>
+### **Varda Nisyren** (06/18/2025 16:44:19) <br style='clear: both;'>
 
 *1384936779345297458*
 
@@ -1804,7 +1804,7 @@ She turns back to Araden, her eyes suddenly sharp as glass. "**So how do we fina
 
 <img src="avatars/1382501818768298095/ebb0ec54057d5a889cdf6d31a5638c45.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Araden Kryz** (06/18/2025 16:51:47) <br style='clear: both;'>
+### **Araden Kryz** (06/18/2025 16:51:47) <br style='clear: both;'>
 
 *1384938660494835783*
 
@@ -1826,7 +1826,7 @@ He meets her gaze, a promise in his tired eyes. **"When he is secure, and when L
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/18/2025 18:36:16) <br style='clear: both;'>
+### **Varda Nisyren** (06/18/2025 18:36:16) <br style='clear: both;'>
 
 *1384964953571594431*
 
@@ -1840,7 +1840,7 @@ She releases his arm and begins to turn, cloak whispering against the wind. "**U
 
 <img src="avatars/1382501818768298095/ebb0ec54057d5a889cdf6d31a5638c45.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Araden Kryz** (06/18/2025 18:48:24) <br style='clear: both;'>
+### **Araden Kryz** (06/18/2025 18:48:24) <br style='clear: both;'>
 
 *1384968006819512390*
 
@@ -1850,7 +1850,7 @@ Araden gives a single, sharp nod, the grim set of his jaw showing his agreement.
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/18/2025 18:48:24) <br style='clear: both;'>
+### **Storyteller** (06/18/2025 18:48:24) <br style='clear: both;'>
 
 *1384968008987836576*
 
@@ -1864,7 +1864,7 @@ For Varda, the relief is a fragile thing, thin as morning mist. The vision's pri
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/18/2025 19:03:54) <br style='clear: both;'>
+### **Storyteller** (06/18/2025 19:03:54) <br style='clear: both;'>
 
 *1384971908306571345*
 
@@ -1876,7 +1876,7 @@ Araden breaks the silence. He reaches into a pouch at his belt and places three 
 
 <img src="avatars/1382501818768298095/ebb0ec54057d5a889cdf6d31a5638c45.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Araden Kryz** (06/18/2025 19:03:55) <br style='clear: both;'>
+### **Araden Kryz** (06/18/2025 19:03:55) <br style='clear: both;'>
 
 *1384971910546329660*
 
@@ -1890,7 +1890,7 @@ He pushes the rings gently across the table toward Varda.
 
 <img src="avatars/1382501818768298095/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Varda Nisyren** (06/18/2025 20:01:16) <br style='clear: both;'>
+### **Varda Nisyren** (06/18/2025 20:01:16) <br style='clear: both;'>
 
 *1384986344467464258*
 
@@ -1906,7 +1906,7 @@ Then, dry as cracked leather and twice as familiar, she adds: "**...Though I’d
 
 <img src="avatars/1382501818768298095/ebb0ec54057d5a889cdf6d31a5638c45.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Araden Kryz** (06/18/2025 20:25:10) <br style='clear: both;'>
+### **Araden Kryz** (06/18/2025 20:25:10) <br style='clear: both;'>
 
 *1384992359443333241*
 
@@ -1918,7 +1918,7 @@ A small, weary smile touches Araden’s lips. It’s the first genuine smile he�
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/18/2025 20:25:11) <br style='clear: both;'>
+### **Storyteller** (06/18/2025 20:25:11) <br style='clear: both;'>
 
 *1384992362119434416*
 
@@ -1932,10 +1932,10 @@ Varda takes a slow sip of the spirit, its warmth a welcome fire against the ling
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-## **Storyteller** (06/18/2025 20:26:01) <br style='clear: both;'>
+### **Storyteller** (06/18/2025 20:26:01) <br style='clear: both;'>
 
 *1384992571729776650*
 
 ***THE END***
 
-***Created** 06/18/2025 19:43:11 EST (v7.0.0)*
+***Created** 07/31/2025 11:04:37 EST (v7.6.0)*
