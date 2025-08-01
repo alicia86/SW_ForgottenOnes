@@ -4424,4 +4424,81 @@ Misha is frozen in place. She stares at Wes, then at Vaeros, her expression one 
 
 **"Based on your current metabolic rates,"** Eve's voice chimes in, cutting through the heavy silence, **"I project the secondary adverse effects of the KX-7 treatment will manifest in approximately twenty-five standard minutes."**
 
-***Created** 07/31/2025 15:47:38 EST (v7.7.0)*
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (07/31/2025 23:05:51) <br style='clear: both;'>
+
+*1400615474080776434*
+
+Wes listened as the others asked the how’s and why’s of the last ten years since Order 66.  No, not ten years, nineteen years.  He listened as Vaeros began talking.  About how he had trained with the Jedi but became disillusioned with them.    That he could understand somewhat.   He wasn’t sure he would have made it with the main order.  He didn’t really fit the mold of a typical Jedi.  It was probably the reason he was sent to train with the Altisian Jedi on the Praxium ship Chu’unthor II.   They held true to the Jedi way with a few differences where the strict codes were relaxed.   What he did find was that they were dedicated and well trained.   It was a better fit for him with his upbringing.  
+
+
+His demeanor changed when the inquisitor mentioned the beginnings of Order 66.  He stood taller.  Ore rigid when Vaeros said the Jedi initiated a coup against the Chancellor and the Republic thus ending a thousand generations of Jedi serving the Republic.    
+
+
+Wes turned from the monitors that showed the states of both Nadia and Derek.   **”Where were you when Order 66 was initiated?”**  He said directly to Vaeros.  His deep voice was calm but there was an edge to it.   **”I was on New Holstice.  Where a monument stood for Jedi who had fallen in service to the Republic or simply passed on into the Force.   Memory moths, that held a piece of the deceased jedi’s presence, flew all around the us and the monument.   My Master and a few other Padawans were there paying our respects when the image of the Chancellor started being projected everywhere.   When it started I could sense and felt the coldness in the Force as I felt it shift.   The Emperor,”**  Wes said the name with an obvious level of contempt.  **”Stated what had supposedly happened.  How the Jedi betrayed the republic and he initiated Order 66.”**
+
+---
+
+<img src="avatars/1387914432989892838/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (07/31/2025 23:06:07) <br style='clear: both;'>
+
+*1400615542779412611*
+
+The feelings and emotions of that day came crashing back to him.  It was a day he had tired to forget as the immense feeling of loss and the physical scream he felt from within the Force washed over him once again.   The clones on pretense tried to arrest us.  **”There was blaster fire from the clones all around us in the square.   The Jedi historians were cut down by blasterfire.  Their death screams were not only heard but felt in the Force as they and thousands of other Jedi, padawans and younglings all over the galaxy were simultaneously murdered by the Emperor and the Empire.”**  
+
+
+He was about to continue when Eve’s voice came across the ship's speakers.  They had roughly twenty-five minutes until they all suffered from the effects of the KX-7 treatment and the earlier hibernation sickness the KX-7 temporarily handled.   He looked away from Vaeros to the others.  He was obviously finished talking.   **”We don’t have long until we’re all in a world of hurt.  The barracks should be our immediate destination for what’s to come.”**
+
+---
+
+<img src="avatars/1387914432989892838/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Vaeros Halcyon** (07/31/2025 23:46:40) <br style='clear: both;'>
+
+*1400625748955496520*
+
+Vaeros looks at Wes, his tense face returning to an impassive look. It's a natural reflex, shutting his mind's eye closed whenever a chord is struck. "**I was fighting a failed war, but I suppose my prior explanation should imply enough of my history."**
+
+ It seems like Wes isn't a Bokken Jedi, but a survivor of a destroyed sect.  There aren't many records of this type of Jedi, at least not on the scale he's venting about. Any remote Jedi Temples run by voluntary Jedi were often abandoned or converted into outposts for the Clone Wars. The remaining temples were scuttled and deleted from maps following the war's end. No trace of the Jedi, or any force religion, was to remain. There would only be the Empire.
+
+*I should hurry along and document this discussion before resting.* Vaeros rotates his head, cracking his neck. Sleep would be nice about now. ** "I do agree, I think we all need the rest for what's to come." **
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (08/01/2025 12:02:25) <br style='clear: both;'>
+
+*1400810905490690080*
+
+The air in the corridor hangs thick and heavy with the weight of nineteen years of history, two sides of a galactic tragedy laid bare by the men who lived them. Misha, still reeling, watches them with wide, uncertain eyes, then turns and slips into the medbay. She comes to a stop before the preservation chamber holding Derek's body, her reflection a ghostly image on the cold, transparent lid. She simply stands there, a silent, lonely vigil.
+
+With the unspoken truce of mutual exhaustion, the rest of the group moves on. Following Dryzan's earlier path, they reach the two identical, unmarked doors of the barracks. The door to the right stands open, revealing the spartan living space within. Dryzan's presence is marked by a single drawn partition, a silent claim to one of the six outer alcoves. At the far end, Iyola's backpack and a spare pillow clearly mark one of the larger, private "Crew Lead" rooms as her own.
+
+Wes, his face grim and set, chooses the barracks on the left. The door hisses open to reveal a perfect, silent mirror of the first. It is a space defined by function, not comfort. Six neatly partitioned alcoves line the outer walls, each containing a single, sterile bunk with a thin mattress pad and a personal locker. The walls are a neutral grey, the lighting soft and indirect. In the center of the room, a block of smaller, sealed doors promises privacy for the refreshers and the single Crew Lead's quarters. It is a place of profound emptiness.
+
+Vaeros and Varda follow suit in finding their own berths, the door sliding shut behind them, finally granting them a measure of privacy. The clock is ticking down. With a shared, weary understanding, they each find an empty bunk. The adrenaline of the fight and the shock of their awakening are finally giving way to a bone-deep exhaustion. They have a few precious minutes of clarity left before the inevitable crash, a brief calm before the second storm hits.
+
+---
+
+<img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (08/01/2025 12:39:15) <br style='clear: both;'>
+
+*1400820175585939557*
+
+The last of the group finds their place in the silent, sterile barracks. Partitions are drawn, doors hiss shut. For the first time since their violent awakening, they are separate, safe, and alone with their own ghosts. A fragile, temporary peace settles over them, a moment to process the impossible revelations of the last hour.
+
+The bill for their brief return to normalcy comes due without warning.
+
+It is not a slow descent into fatigue, but a sudden, catastrophic system failure. The puppet's strings are cut. The vibrant, jittery energy of the KX-7 vanishes in an instant, and a wave of exhaustion so profound it feels physical slams into them. Limbs that felt strong and capable moments before turn to lead. Minds that were sharp and clear fill with a thick, syrupy fog.
+
+And for those who had reclaimed it, vision snaps back to absolute, suffocating blackness.
+
+The crushing weight of stolen sleep comes crashing down at once, pinning them to their bunks. They are blind again, weaker than before, and utterly spent. There is no strength left to fight, no will to question. There is only the low, indifferent hum of the ship and the silent, inexorable rush of the journey as the *Venture* carries its unconscious crew deeper into an unknown galaxy.
+
+***Created** 08/01/2025 08:58:25 EST (v7.8.0)*
