@@ -750,7 +750,7 @@ Moments later he passed through the doors into the Medbay.  He turned his helmet
 
 <a name="1403552175665451091"></a>*1403552175665451091*
 
-@undefined [https://discord.com/channels/661388927734775859/1402706232732811425/1402899815905366027](https://discord.com/channels/661388927734775859/1402706232732811425/1402899815905366027)
+@undefined [#1402899815905366027](#1402899815905366027)
 
 ---
 
@@ -3727,9 +3727,9 @@ Wes Del-Fin (@yogi_001)
 <a name="1412241239419654298"></a>*1412241239419654298*
 
 Pictures
-<img src="https://cdn.discordapp.com/attachments/1400816665276711024/1412241238614216806/images.jpg?ex=68ba36a5&is=68b8e525&hm=0e79481a716ea0f80071409546bbc5edff26a83910f46d4b501bb1c67e410c29&" alt="images.jpg" style="height: 400px;" height="400">
-<img src="https://cdn.discordapp.com/attachments/1400816665276711024/1412241238891171931/star-wars-battlefront-bespin-dlc-update-needs-content-that-should-have-been-there-at-la-943519.jpg?ex=68ba36a5&is=68b8e525&hm=0d5354af31ad054e2fed4249977256b35f1ea9e908e14b81b47908ae222ab17e&" alt="star-wars-battlefront-bespin-dlc-update-needs-content-that-should-have-been-there-at-la-943519.jpg" style="height: 400px;" height="400">
-<img src="https://cdn.discordapp.com/attachments/1400816665276711024/1412241239285301369/Bespin_skyscrapers.png?ex=68ba36a5&is=68b8e525&hm=7898fda6956c216a9cb0e571b8b85699c2dd39fc322972f651a8823d8ad1708d&" alt="Bespin_skyscrapers.png" style="height: 400px;" height="400">
+<img src="media/FO_Ch2_Silent-Drift/images.jpg" alt="images.jpg" style="height: 400px;" height="400">
+<img src="media/FO_Ch2_Silent-Drift/star-wars-battlefront-bespin-dlc-update-needs-content-that-should-have-been-there-at-la-943519.jpg" alt="star-wars-battlefront-bespin-dlc-update-needs-content-that-should-have-been-there-at-la-943519.jpg" style="height: 400px;" height="400">
+<img src="media/FO_Ch2_Silent-Drift/Bespin_skyscrapers.png" alt="Bespin_skyscrapers.png" style="height: 400px;" height="400">
 
 ---
 
@@ -4597,9 +4597,9 @@ Nadia pauses before the main external airlock, her hand hovering over the activa
 With a soft hiss of displaced air, the massive durasteel door slides open. Beyond it is a section of Ghurn's private hangar: a vast, well-lit space, meticulously organized. To their left, a sleek NovaSword fighter gleams under the fluorescent lights. Beyond it, larger transport vessels are docked in adjacent bays including a Citadel-Class cruiser, with its  fins folded up, and a YT-2000. The air in the hangar is clean and crisp, carrying faint undertones of hydraulic fluid and polished metal.
 
 Standing just beyond the *Venture*'s airlock ramp, observing their exit with calm, professional intensity, is a small reception party. Two armored figures in gray and black Mandalorian-style gear, their faces concealed by visored helmets, form a vigilant guard. Beside them, two squat, multi-limbed general-purpose security droids are powered on and active, their optical sensors sweeping the scene. The atmosphere is tense, expectant, yet undeniably disciplined, a reflection of Mandalorian efficiency.
-<img src="media/merged_discord_log_with_threads/Durgeship.jpg" alt="Durgeship.jpg" style="height: 400px;" height="400">
-<img src="media/merged_discord_log_with_threads/citadel_cruiser_by_asokyeesrim-d32utn9.jpg" alt="citadel_cruiser_by_asokyeesrim-d32utn9.jpg" style="height: 400px;" height="400">
-<img src="media/merged_discord_log_with_threads/Corellian_YT-2000_Transport.png" alt="Corellian_YT-2000_Transport.png" style="height: 400px;" height="400">
+<img src="media/FO_Ch2_Silent-Drift/Durgeship.jpg" alt="Durgeship.jpg" style="height: 400px;" height="400">
+<img src="media/FO_Ch2_Silent-Drift/citadel_cruiser_by_asokyeesrim-d32utn9.jpg" alt="citadel_cruiser_by_asokyeesrim-d32utn9.jpg" style="height: 400px;" height="400">
+<img src="media/FO_Ch2_Silent-Drift/Corellian_YT-2000_Transport.png" alt="Corellian_YT-2000_Transport.png" style="height: 400px;" height="400">
 
 ---
 
@@ -6223,8 +6223,8 @@ This hallway stretches towards the stern, lined with doors on either side, leadi
 Amidst these living spaces, a spacious lounge and galley/dining area break up the corridor, creating a central hub for relaxation and communal meals. Two compact refreshers are conveniently located on either side of the hall near the lounge. The passenger quarters (the twin and single cabins located furthest aft on the upper deck) appear the least used but are immaculately clean and ready for immediate occupancy.
 
 At the very stern, a **large gym** replaces what might have been additional quarters or cargo space. It is well-equipped, primarily with various weights and strength-training apparatus, all securely stowed when not in use, leaving a clear, expansive floor area perfect for martial arts practice.
-<img src="media/merged_discord_log_with_threads/spl_ilh_kk_citadel_cruiser_lower_deck_plan_by_mayhem_on_da_db0u8ig-fullview.jpg" alt="spl_ilh_kk_citadel_cruiser_lower_deck_plan_by_mayhem_on_da_db0u8ig-fullview.jpg" style="height: 400px;" height="400">
-<img src="media/merged_discord_log_with_threads/spl_ilh_kk_citadel_cruiser_upper_deck_plan_by_mayhem_on_da_db0gpvk-fullview_edited.jpg.png" alt="spl_ilh_kk_citadel_cruiser_upper_deck_plan_by_mayhem_on_da_db0gpvk-fullview_edited.jpg.png" style="height: 400px;" height="400">
+<img src="media/FO_Ch2_Silent-Drift/spl_ilh_kk_citadel_cruiser_lower_deck_plan_by_mayhem_on_da_db0u8ig-fullview.jpg" alt="spl_ilh_kk_citadel_cruiser_lower_deck_plan_by_mayhem_on_da_db0u8ig-fullview.jpg" style="height: 400px;" height="400">
+<img src="media/FO_Ch2_Silent-Drift/spl_ilh_kk_citadel_cruiser_upper_deck_plan_by_mayhem_on_da_db0gpvk-fullview_edited.jpg.png" alt="spl_ilh_kk_citadel_cruiser_upper_deck_plan_by_mayhem_on_da_db0gpvk-fullview_edited.jpg.png" style="height: 400px;" height="400">
 
 ---
 
@@ -9338,7 +9338,7 @@ She meets Iyola's gaze with a subtle, polite acknowledgment of her earlier comme
 <a name="1430596080734703759"></a>*1430596080734703759*
 
 Serena Foss
-<img src="media/merged_discord_log_with_threads/61258731.png" alt="61258731.png" style="height: 400px;" height="400">
+<img src="media/FO_Ch2_Silent-Drift/61258731.png" alt="61258731.png" style="height: 400px;" height="400">
 
 ---
 
@@ -9842,4 +9842,4 @@ The uneasy camaraderie, forged in crisis and tempered by shared displacement, no
 ---
 
 
-***Created** 12/26/2025 17:02:38 (v7.9.1)*
+***Created** 01/10/2026 16:06:01 (v7.9.6)*

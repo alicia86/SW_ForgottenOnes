@@ -1016,5 +1016,1810 @@ Iyola nodded and smiled at the server, who excused himself to make her joganita.
 
 ---
 
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-***Created** 12/26/2025 17:07:22 (v7.9.1)*
+## **Wes Del-Fin** (12/27/2025 13:44:00) <br style='clear: both;'>
+
+<a name="1454469872653172736"></a>*1454469872653172736*
+
+At the comment of capes and Iyola getting him one he finally turned his head.   The neutral face of his T visor simply looked at the two talking about fashion.   **”Perhaps not Miss Ves.   Capes tend to get in the way at the wrong time.  One may work well with whatever you choose to wear.”**
+
+
+He turned his head back out to the room at large again taking in the patrons.  Some made an effort to not look like they were watching while others simply looked their way.   
+
+
+When the server left he stepped closer to the table as.  He smiled when it was mentioned that he may have to carry her depending on the drink she was about to have.   **”Keep your wits about you Miss Ves.  There are many who would see that as an opportunity.”**
+***
+<img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> On [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Iyola Kett** (12/27/2025 20:25:26) <br style='clear: both;'>
+
+<a name="1454570896718299229"></a>*1454570896718299229*
+
+“**Well, if it’s the right person, maybe I don’t mind,”** she says to Wes coyly.  She idly watches the crowd.  **“Or maybe I’ll be the one with the opportunity.  Who knows until you try.” **
+
+The dregs of her Coronet Scramble slosh in her glass. She should have expected that that a  frozen drink would take a bit longer.  Her mind drifts back to her unexpected hosts.  What will the Skiratas do when they report back?  Will they let her go?  Where would she go? 
+
+The idea of finality, of visiting Rhinnal and seeing what had happened to her family, is chilling.  It’s almost enough to sober her all the way up.  *But not quite. *
+
+---
+
+<img src="avatars/1436384190198448270/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Storyteller** (12/29/2025 16:52:40) <br style='clear: both;'>
+
+<a name="1455242128346316944"></a>*1455242128346316944*
+
+The server returns with Iyola's iced joganita, a vibrant, frothy concoction in a tall, elegant glass, its surface shimmering with fine frost. The colors are brilliant, a stark, lively contrast to the muted elegance of the lounge, and the aroma of sweet, tangy fruit with a subtle floral note is immediately enticing. He sets it before her with a soft *clink*, his professional smile unwavering, and then discreetly melts back into the background, attending to other patrons.  
+
+Iyola picks up the vibrant drink, its coolness a welcome contrast to the subdued warmth of the lounge. The hum of conversation continues, punctuated by the clinking of glasses and the occasional distant peal of laughter from a more boisterous patron in another section of the lounge. The elegant Mirialan female is now joined by a distinguished-looking Rodian male in a finely tailored suit, their conversation low and urgent, but with a new undertone of what might be a negotiation.
+
+As Iyola sips, a distinct shift occurs in the Ruby Sun. Lyssa, the elegant human operative with the data-skimming jewelry, discreetly pockets her datapad and rises from her banquette. Her movements are fluid, almost predatory, as she glances once more around the lounge, a faint, almost imperceptible curl of her lip suggesting a dismissive assessment. She then makes her way directly to the lounge's main exit, disappearing with the same practiced indifference with which she operated, her subtle scanner no doubt cataloging a final batch of data as she passes through the lounge.
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Iyola Kett** (12/30/2025 17:33:18) <br style='clear: both;'>
+
+<a name="1455614740259672084"></a>*1455614740259672084*
+
+Iyola takes an experimental sip of the joganita. It’s fantastic. The airiness and sweet jogan flavor belie what is probably a hefty pour of spiced rum.  She takes a larger sip. The crunchy ice makes her mouth tingle.
+
+**“Kalen, this is so good,”** she says.  **“You have to try some.”**
+
+She looks around her with the satisfied expression of a tourist on a Scarif beach.  The Miralian she’d spotted earlier is now deep in conversation with a well-dressed male Rodian.  *It doesn’t look like a fun chat.*  She guesses that this is the kind of thing she’s supposed to report back about to the Skiratas. Maybe she’ll also report on the drink selection at the Ruby Sun!  *Serena will love that!  *
+
+The female human she thinks is Lyssa looks around her one more time, then departs.  She either doesn’t seem that interested in the goings-on here, or she’s a fantastic actor. Maybe both.  
+
+Iyola wipes a bit of azure foam off her lip.  **"Hey, Kalen."**  she says.  **“Let’s go to that neon place after I finish this.  I’m ready for a change of scenery.”**
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Wes Del-Fin** (12/31/2025 00:26:19) <br style='clear: both;'>
+
+<a name="1455718681421156475"></a>*1455718681421156475*
+
+He didn’t pay many of the others any attention other than Lyssa the human woman that had been coyly keeping eyes on them since they entered.  He watched her get up and leave.   
+
+
+When Iyola asked about leaving he looked and saw that she was looking in the way Lyssa had left.   **”Let's go now.   Might be able to keep up with her.”**
+***
+<img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> On [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Iyola Kett** (12/31/2025 01:30:44) <br style='clear: both;'>
+
+<a name="1455734893207224342"></a>*1455734893207224342*
+
+**“Right now? You can’t wait, can you?**” said Iyola slyly.  **“I get it.  Sure, give me a minute.”**  She grabbed the tall glass and took two more large gulps of the delectable joganita, then stood up.  She caught herself and put a hand on "Kalen"'s shoulder, which seemed like something Tira would do. To be honest, Iyola could use a little steadying herself.
+
+**“Lead the way,”** she said to Wes.
+
+---
+
+## **Wes Del-Fin** (01/01/2026 14:02:15)
+<a name="1456286404970807483"></a>*1456286404970807483*
+
+**”Yes now.”**  He said as he watched Lyssa as she was reaching the exit.   He didn’t catch the smirk or her face as he watched their target get farther away.   
+
+
+The sudden grab at his shoulder was enough to make him turn his head.  There he saw ‘Tira’ catching herself from a misstep.   **”You’re compromised.”**  His voice came out low and flat through his helmet's vocoder.   
+
+
+Taking her arm to steady her he took a pace, albeit a slower one, towards the door Lyssa had now gone through.  He wasn’t sure that they’d be able to keep up and not draw unwanted attention.  However he knew he drew attention wherever he went.
+***
+<img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> On [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Iyola Kett** (01/01/2026 22:08:15) <br style='clear: both;'>
+
+<a name="1456408710011162888"></a>*1456408710011162888*
+
+“**You know me, I love compromising,”**  Iyola murmured back.  **“But we don’t have to walk so slowly, cyar’ika. I’m just fine.” ** *Keep it going, just in case. *She wondered if Wes was also frustrated in his own way.  The Skiratas had told them to sit around and observe, but Wes was seemingly eager to track down  operatives like a hound. She was game, of course. 
+
+**“After the Neon Nook, maybe the casino?  Or somewhere else?”** she continued to comment as they neared the door.
+
+---
+
+<img src="avatars/1436384190198448270/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Storyteller** (01/02/2026 02:51:59) <br style='clear: both;'>
+
+<a name="1456480114413010995"></a>*1456480114413010995*
+
+They pass the polite, now-empty glances of a few departing patrons near the lounge's exit. No one gives them overt attention. The lounge itself hums with a continued, sophisticated buzz, its soft lights casting long, dwindling shadows. The Mirialan and Rodian at the bar remain locked in their tense, hushed negotiation. Lyssa is now well out of sight, her path having taken her directly towards a bank of gleaming turbocars and public sky-trams on the main promenade.
+
+Wes guides Iyola through the bronzium doors of The Ruby Sun Lounge. The moment they step back onto the promenade, the dazzling cacophony of the Casino District rushes in, a vibrant assault on the senses. The constant blare of advertisements, the rush of sky-trams, the jostle of a thousand alien footsteps—it's a world designed to overwhelm. The subtle chill of Bespin's upper atmosphere immediately replaces the lounge's filtered warmth.
+
+Ahead, the myriad lights of the city form a chaotic river of activity. Finding Lyssa in this torrent of movement will be a challenge, relying less on Force sense and more on sharp visual tracking and luck, as the crowds provide excellent cover for anyone trying to disappear.
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Wes Del-Fin** (01/02/2026 14:21:38) <br style='clear: both;'>
+
+<a name="1456653669217996810"></a>*1456653669217996810*
+
+Wes sighed inwardly when Iyola called him Cyar’ika.   He almost asked her not to call him that as he regretted using the Mandalorian term of endearment in their act.  He had only ever used it for Marina.   Now with that possibility of finding her, using it, even if playing a role, didn’t sit well with him.    
+
+
+He was beginning to think that his pursuit of Lyssa was now to cover his feelings.  They were to watch and observe, not track her down like a Loth Cat.   It was then the last words Iyola said before they passed the doors of the lounge that hammered it home.  She was compromised from the alcohol.   
+
+
+He came to a stop as they entered the promenade. The throng of people was a stark contrast to the more private setting inside.  What was a private setting inside was a chaotic swirl of movement and emotions out here.   
+
+
+He shook his head as he looked slowly from side to side as if he was scanning to make sure it was safe for his client.  He realized pursuing Lyssa now would be dangerous and potentially compromise them and the mission.    He turned his head to look at Iyola who hung off his arm.  **”Perhaps a place where we can get a strong caf.”**
+***
+<img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> On [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Iyola Kett** (01/02/2026 17:35:37) <br style='clear: both;'>
+
+<a name="1456702488563417190"></a>*1456702488563417190*
+
+Iyola could feel Wes tense up as she continued their little charade until they’d left the Ruby Sun.  She wasn’t sure why. As they stepped through the portal into the urban commotion of Cloud City, it was as if her vision cleared. She stood up straight and took a half-step away from Wes. Whatever alcohol those bevs had actually contained was hardly enough to dull her senses. *Good thing I didn’t actually have to lay out credits for those overpriced fruit juices.*
+
+Wes still seemed subtly agitated.   His visor scanned the hubbub. He suggested getting a caf. Did he actually believe that she was impaired?  Was he trying to delay, for some reason? She wished she could explain to him that she wasn’t drunk - she certainly knew what that felt like - and that she was ready to continue their pursuit. But they had to keep their cover until they were back on the Atin Oya’ka.  
+
+**“Mmm, no, I’m good right now,”**  she said distantly.  She considered where Lyssa might have headed in this crowd.  Her gray eyes intently scanned the scene before her, looking for a hint to where the Gilded Grasp operative might be, or where she might have gone.
+
+---
+
+<img src="avatars/1436384190198448270/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Storyteller** (01/02/2026 18:49:52) <br style='clear: both;'>
+
+<a name="1456721176096145623"></a>*1456721176096145623*
+
+The vibrant chaos of the Casino District promenade swirls around Wes and Iyola. Wes stands still, his helmeted head slowly tracking the frantic pace of the crowds. Through the filter of his vocoder, his quiet suggestion for caf is lost almost immediately in the clamor. His focus is inward, his Force senses searching, confirming what his strategic mind already suspects: Lyssa has vanished into the torrent of bodies and blaring advertisements. Tracking her now would be an act of overt, attention-grabbing aggression, a clear compromise of their mission's discreet nature. 
+
+Iyola, however, remains fixed, her bright, unblinking gray eyes cutting through the sensory overload with the razor-sharp precision of an explorer spotting distant prey. While Wes's broad scan reveals only a receding ghost, Iyola's unburdened focus allows her to perceive a fleeting anomaly in the human current. A rapid flash of crimson fabric—a distinctive scarf—disappears into a public sky-tram entrance almost a full block away, moving with a subtle, professional haste.
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Iyola Kett** (01/02/2026 19:55:03) <br style='clear: both;'>
+
+<a name="1456737576974160008"></a>*1456737576974160008*
+
+Terrain was terrain, whether wilderness or artificial.  Iyola recalls what Lyssa looked like and what she was wearing, and how far she might have gotten at various paces.  She scans the bands where she thinks her target might be.  And then, she spots it - a distinctive flash of red, the same shade as the scarf Lyssa had worn wrapped around her neck and shoulders. It’s her.  She nods at Wes in satisfaction. 
+
+**“Come on,” **she says to him, starting to walk briskly toward the entrance.  **“We’ll miss our tram.”**
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Wes Del-Fin** (01/02/2026 20:26:54) <br style='clear: both;'>
+
+<a name="1456745594730320099"></a>*1456745594730320099*
+
+He didn’t spot the woman among the throng of the crowds of people and aliens that walked the promenade.   He was about to suggest heading back for the time being when Iyola gave him a nod.   He looked in the direction she was looking but saw nothing fast moving patrons here in the sector.  
+
+
+He started walking alongside her keeping pace.  **”We can not engage with her.  If you did indeed spot her we only ride along for one stop.   If she gets off we stay on.   If she stays on, we get off and wait for the next encounter.”** He took two steps before asking.  **”Got it?”**
+***
+<img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> On [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Iyola Kett** (01/02/2026 21:45:19) <br style='clear: both;'>
+
+<a name="1456765327408107735"></a>*1456765327408107735*
+
+**"If?"**  Iyola narrows her eyes and looks right ahead, refusing to look at Wes as he paces her on their journey toward the sky-tram.
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Wes Del-Fin** (01/03/2026 03:54:07) <br style='clear: both;'>
+
+<a name="1456858137687490765"></a>*1456858137687490765*
+
+**”Look, I'm sure you saw her.  I was looking at the other side of the promenade.  I don’t mean to infer that you didn’t see her.”**  He said as he continued to walk quickly alongside her.   **”We just can’t jump the blaster.”**
+***
+<img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> On [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Iyola Kett** (01/03/2026 15:00:44) <br style='clear: both;'>
+
+<a name="1457025897877209130"></a>*1457025897877209130*
+
+Iyola glances sidelong at Wes.  **“OK, I heard you,”** she says.  She says nothing else as they approach the entrance to the tram.  
+
+When they arrive, she scans for routes and departure times, trying to figure out where her quarry might have gone.
+
+---
+
+<img src="avatars/1436384190198448270/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Storyteller** (01/03/2026 17:12:29) <br style='clear: both;'>
+
+<a name="1457059053493813359"></a>*1457059053493813359*
+
+Iyola, with a fierce certainty in her gaze, scans the tram schedule board with lightning speed, her eyes cutting through the digital stream of departure times and destinations. She snatches the most efficient route, one that aligns with Lyssa's probable path. She then quickly guides Wes into the rapidly moving human current, pushing towards the glowing entrance of the next arriving sky-tram.
+
+They reach the boarding platform just as a car hisses open, disgorging a wave of disembarking patrons before a new surge of commuters attempts to board. Through the chaotic swirl of bodies, Iyola's eyes lock on her target: a flash of crimson disappearing into one of the departing cars on the far side of the platform, the subtle, distinctive red scarf undeniable.
+
+Despite her agility and Wes's purposeful momentum, the sheer density of the crowd, coupled with the rapid cycle of the tram's doors, proves too formidable. By the time they surge onto the platform, the targeted car's doors are already hissing shut. They see Lyssa, her back to them, moving towards the interior of the tram car, unaware of their pursuit. The tram pulls away, a silent, gliding blur vanishing into the overhead tubes.
+
+They are left on the platform, amidst the jostle of waiting passengers, watching their target recede into the metal arteries of Cloud City. The next tram is already cycling into position, its blue lights approaching in the distance.
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Wes Del-Fin** (01/03/2026 18:46:23) <br style='clear: both;'>
+
+<a name="1457082685192409179"></a>*1457082685192409179*
+
+Wes walked hurriedly alongside Iyola as she led them in the direction that she saw Lyssa.  He scanned the area ahead for any threats letting Iyloa change direction as needed in the attempt to catch up.   
+
+
+Reaching the platform brought about another challenge.  Disembarking passengers posed a significant barricade to their movement.   Using his size and appearance Wes managed to make headway through the mass of passengers but the size and density of the crowd was enough to allow the door to the tram car their quarry had boarded to close.  As quickly as the door closed it was moving away leaving the pair on the crowded platform.   
+
+
+**”I don’t believe she knew she was being followed.  No looks over her shoulder indicating she thought she was being followed.  We should be good there.”**
+***
+<img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> On [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Iyola Kett** (01/03/2026 21:55:32) <br style='clear: both;'>
+
+<a name="1457130286851821721"></a>*1457130286851821721*
+
+Iyola nods at Wes’s assessment. She memorizes the destinations along  this tram route. She likely takes this path fairly often, if the Ruby Sun is her normal destination.  
+
+As the next tram pulls in, she turns to Wes.** “Take it or head back?” ** she asks him. ** “Or to the Neon Nook?  We’re going to need a change of clothes.”** She looks him over.  **“At least, I will.” **
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Wes Del-Fin** (01/03/2026 23:05:16) <br style='clear: both;'>
+
+<a name="1457147835697991800"></a>*1457147835697991800*
+
+He took one more look around the platform and shook his head.  **”No, don't take it.  Let’s head back the way we came.”**  He turned and began to make a hole for them to walk through.  When they passed through the major masses and they could walk side by side again he walked beside Iyola.  
+
+
+**”I must apologize for earlier.”**  He took a quick glance over at her.  **”My use of the word Cyar’ika seemed prudent at the time.   Even though it was an act it felt wrong.  I know it caught you by surprise.   I felt the surprise in your presence when I said.”**
+***
+<img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> On [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Iyola Kett** (01/03/2026 23:53:35) <br style='clear: both;'>
+
+<a name="1457159993202839685"></a>*1457159993202839685*
+
+Almost like tossing a poncho off her shoulders, Iyola’s demeanor changes. She’s no longer hyperalert.  She looks drained, even a little sad.
+
+**“It - “**  she shakes her head.  **“That’s not something you need to apologize for.  It’s a word that is meaningful to you and not to me. It just shows how committed you were to what we were doing back there.  I promise you, I’ll never call you that again.”  **
+
+**“But  here’s what you can apologize for,”** Iyola says in a low, firm voice. **“Don’t order me around. “I’m not one of your soldiers or whatever.  I don’t report to you or work for you.  And I don’t make things up.**”   *Well, not when it’s important. * **“We work together, and you can trust what I say.”     **
+
+**“So head back, yeah?”** Iyola adds in a more conversational tone.
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Wes Del-Fin** (01/04/2026 02:28:54) <br style='clear: both;'>
+
+<a name="1457199081263730794"></a>*1457199081263730794*
+
+Wes walked along quietly still acting as the bodyguard as Iyola walked beside him.  He listened to her and gave her a nod.  He felt like he owed her an explanation.  
+
+
+**”Understood Miss Ves.”** He said keeping up the image of being her bodyguard.  **”I’ve mostly worked alone for ten years.  A portion of that in the unknown regions.”**  He kept his voice low and scanned the area before continuing.  **”I wasn’t ready to call another that even if it was just acting.”**  He paused again.  **”I know we were out of it for a different length of time.   It hasn’t been ten years for me.   Marina was still alive when whatever happened to me happened.”**  His hand came up to his middle just below his rib cage.     **”Now I can’t sense her when no amount of distance kept us from knowing that the other was there.”**  They took a few more steps.  **”I need to know what happened.”**
+***
+<img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> On [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Iyola Kett** (01/04/2026 15:58:56) <br style='clear: both;'>
+
+<a name="1457402932927533241"></a>*1457402932927533241*
+
+It wasn’t an apology, not exactly, but in her experience neither Mandalorians nor Jedi were much for acknowledging fault.  Still, he seemed contrite.  *I can work with that.*
+
+The entire paramour performance clearly still bothered him, even though it had been his idea in the first place.  But Iyola could understand. 
+
+For her, cuddling a faceless block of Mandalorian metal was not appealing or reminiscent of her Caz in the slightest. But for Wes, having Iyola - this person Marina was probably also a human female, then - call him “beloved” in Mando’a must have felt like a betrayal to his loved one. 
+
+A crowded tram station wasn’t the place for this conversation, though. ** “Kalen, take me back,”** she said.  **“I'm tired and I need a break.”**
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Wes Del-Fin** (01/04/2026 19:40:35) <br style='clear: both;'>
+
+<a name="1457458712213061735"></a>*1457458712213061735*
+
+Wes took a deep breath as he did his best to not intrude on her emotions.  He felt a strong one, similar to what he felt from Marina when she thought of him.  A memory came to mind and he smiled beneath his helmet.   He wondered if Iyola was also missing a loved one.  It wasn’t for him to ask especially here out in the open as they were.   
+
+
+Her request to head back had him looking across his left shoulder at her.  **”Back to quarters or to someplace quieter than here?  Either works for me.”**
+***
+<img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> On [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Iyola Kett** (01/04/2026 20:04:01) <br style='clear: both;'>
+
+<a name="1457464612466327602"></a>*1457464612466327602*
+
+**"Let's go to quarters,"** Iyola said. She wasn't really sure where to go yet, aside from that Atin Oya'ka, where they could have an actual conversation.  And probably better to report in while it was all still fresh.
+
+---
+
+<img src="avatars/1436384190198448270/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Storyteller** (01/04/2026 20:32:12) <br style='clear: both;'>
+
+<a name="1457471702400372828"></a>*1457471702400372828*
+
+Wes gives a quiet nod at Iyola's request, the subtle concern in his posture deepening. The raw honesty in her voice, the weariness she radiates, cuts through his own troubled thoughts. He pivots, subtly shifting his formidable frame to shepherd her through the dense throng of waiting passengers. The platform, once a place of fleeting opportunity, now feels simply loud and overwhelming.
+
+They navigate the bustling sky-tram terminal, the garish advertisements and incessant chatter assaulting their senses. Iyola, though outwardly composed, maintains a quiet, almost melancholic scan of the various routes and departure times displayed on the terminal boards, making mental notes of potential destinations along Lyssa's likely trajectory. It is an instinctual act, a habit of cataloging routes that served her well in other, wilder landscapes.
+
+Soon, they find an arriving tram, its doors hissing open. They merge with the disembarking flow, their presence, particularly Wes's armored form, drawing only the briefest, most indifferent glances from the weary commuters. The sky-tram hums to life, gliding smoothly along its transparent track, carrying them swiftly away from the glittering, overwhelming chaos of the Casino District.
+
+---
+
+<img src="avatars/1436384190198448270/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Storyteller** (01/04/2026 20:32:16) <br style='clear: both;'>
+
+<a name="1457471720142147615"></a>*1457471720142147615*
+
+The journey back through Cloud City's public transportation system is a blur of motion and shifting urban landscapes. The view outside the transparent walls of the tram changes from the opulent, neon-soaked spires of the Upper City to the more utilitarian, though still bustling, architecture of the lower sectors and the Port Town district. Conversations around them are fragmented snippets of civilian life—a dispute over cargo tariffs, a complaint about droid repairs, a boast about Sabacc winnings—a tapestry of everyday existence that feels both profoundly alien and strangely comforting in its mundane constancy.
+
+Finally, the tram deposits them back at the designated public access point for Kando's Coursers' compound. The bustling concourse is still active, but less frenetic than the Casino District. The heavy, unmarked durasteel door that grants access to the private facility stands silently. Next to it, a discreet terminal gleams with an expectant blue light. Their escort, Arno, is nowhere in sight, leaving them to navigate the final leg of their return journey themselves.
+
+The way back to the hangar and the *Atin Oya'ka* through the familiar, quiet corridors of Kando's Coursers compound stretches ahead.
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Iyola Kett** (01/04/2026 22:39:51) <br style='clear: both;'>
+
+<a name="1457503827392593973"></a>*1457503827392593973*
+
+They stand at the entrance of Kando’s Coursers.  Iyola tries to remember how to re-enter, before recalling the chip that Serena Foss had given her.  She gingerly tries it at the terminal.  There are quite a few things that she needs to get used to. 
+
+*I might not be the only one*.
+
+“**So, this Marina you mentioned,**”  Iyola starts cautiously as she waited for the steel portal to do something, **“what did she look like?” **
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Wes Del-Fin** (01/04/2026 23:12:41) <br style='clear: both;'>
+
+<a name="1457512089403785371"></a>*1457512089403785371*
+
+With her answer he gives a nod and turns them towards a different section of the terminal.    Getting within sight distance of the tramboard they both looked it over to find the right departure to get them ‘home’.  
+
+
+Finding what they were looking for they only had to wait a few moments before the tram pulled up.   In what seemed like a blink of an eye they were off and the casino district with its lights and sounds were quickly fading away.  
+
+
+Ever the watchful protector he kept watch.  His eyes scanned and his other senses listened for any subtitle shifts in the Force.  Sensing no danger he gave Iyola a nod indicating they were safe.  
+
+
+————
+
+
+They stood before the unmarked door marred only by a discreet terminal.  As Iyola handled access he was surprised by her question.  It was honestly the last thing he expected her to ask him.   
+
+
+He stood quietly for a second.  He was abòut to answer but the secured door *swooshed* open with the correct command from Iyola.   Saved by the open door he let her step in first.  After a half dozen steps he sighed and removed his helmet.  He turned his head and looked at Iyola and gave her a small smile.  It was genuine and honest as he thought about Marina. 
+
+
+**”What did she look like?”**  He repeated her question.   His smile stayed as he remembered the *Legs Akimbo.*  A seedy cantina on Fakir.   **”She had dark brown hair and the most piercing blue eyes.  They lit up when she smiled and laughed.  I often thought they could look right through me.  Yet if she allowed it they could be soft when she looked at you.”**  
+
+
+He tucked his helmet under his left arm and sighed.  Knowing that he sounded very unmandalorian.
+***
+<img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> On [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Wes Del-Fin** (01/04/2026 23:32:30) <br style='clear: both;'>
+
+<a name="1457517075466551481"></a>*1457517075466551481*
+
+He reached into his utility belt and pulled out his data pad.  Unlocking it he retrieved the file he had sent to Nadia not long ago.   He held it out for Iyola to look at.  
+
+
+
+Marina Cloudspinner (AKA: Rin Draay)
+
+*   Jedi Padawan, apprentice to Jedi Master Silas Draay. 
+*   **Last Known Locations (Pre-Purge):**
+    1.  **Tanis:** Disruption mission targeting Separatist occupation affecting Republic hyperspace trade.
+    2.  **Jedi Praxeum Ship *Providence*:** A subsequent message indicated further studies aboard this vessel.
+*   **Final Contact:** The Galactic Republic fell mere weeks, if not days, after the last message was received. The plan for a post-mission rendezvous on Fakir never occurred.
+
+**-- Image File: T_LEG_AKIMBO_FAKIR_01 --**
+
+*(The image flickers to life on the datapad, warm and candid, taken in a low-lit booth within a bustling, seedy cantina. A glowing neon sign, "Legs Akimbo," casts a lurid red hue across a smiling young woman and a stern Mandalorian. The woman, no older than Nadia, is undeniably striking—her dark brown hair falls in soft waves, framing a face alive with genuine laughter. Her eyes are a brilliant, piercing blue, reflecting both warmth and an underlying intensity. She leans subtly against the Mandalorian beside her, a quiet intimacy in the shared space. He, a much younger Wes, with his dark, earnest eyes, offers a rare, unguarded smile, a hint of deep affection in his expression as he looks towards her, both utterly lost in the moment. The photograph is a snapshot of unburdened joy.)*
+
+
+**---------------------------------------**
+***
+<img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Iyola Kett** (01/04/2026 23:44:53) <br style='clear: both;'>
+
+<a name="1457520193331789885"></a>*1457520193331789885*
+
+Once they’re inside, Wes removes his helmet.  It’s a relief to see an actual face on him.  His dark eyes became distant and his expression softened as he considered her question about Marina's appearance.  His description matched with the flimsi she’d found and given to Nadia - dark hair, blue eyes, big smile.  The file he shared with her confirmed that his Marina was a Jedi.  It had to be the same woman.  
+
+** “And you two had kids?”**  Iyola asked.
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Wes Del-Fin** (01/05/2026 00:57:10) <br style='clear: both;'>
+
+<a name="1457538383520993446"></a>*1457538383520993446*
+
+Wes saw her look at the datapad, her finger scrolled the file and he saw her look at the picture of the two of them.  He smiled at the memory.  It seemed like a lifetime ago.  Iyola’s question caught him off guard and his gait hitched as he shook his head.  **”No.”**  He said as he looked forward again, shutting down the datapad, tucking it safely in a secure pouch.  
+
+
+He took a few more steps as he thought about her question.  It seemed odd but he shook his head.  **”I don’t know.”**  He added.  **”We allowed the order to separate us even though neither of us wanted to.  We were both bound by duty.  Her to the Order myself to the Clans.”**  He sighed as he continued walking.  He brought up his hand to run the back of his neck trying to release some sudden tension wrangling with the idea to tell Iyola more.  
+
+
+He let his hand fall to his side.   It found a comfortable place on the butt of his heavy blaster.  **”Before we met she had a daughter in secret.  She was hidden away from the Order.  They would have taken the child and she probably never would have seen it again.  I don't think she would have wanted to go through that again.”**  He let out a sigh.  **”Four weeks, five weeks, that's all we had.  That was all we needed to fall for each other.  The Force drew us together.  I think it had a plan for us and we let the Order keep us apart.   Then the Purge happened and it all went to hell.   We had a plan to meet back up on Fakir at the same cantina.”**  He shook his head.   The Force had other plans.   **”So no.   I don’t know if we had a child.”**
+
+
+The thought was a sobering one.
+***
+<img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Iyola Kett** (01/05/2026 01:25:17) <br style='clear: both;'>
+
+<a name="1457545457806082181"></a>*1457545457806082181*
+
+Iyola considers what Wes has told her. Marina’s oldest child is Nadia, who, assuming this is the same woman, must be the first child Wes mentions. It’s technically possible that Wes might be the second-oldest child’s father, but she hadn’t realized their relationship was of such an abbreviated duration.  Maybe there was something about Jedi having short and intense relationships, Iyola mused, remembering her fling with Lagan. 
+
+Regardless, he would probably want to know about Nadia, and to learn more about Marina and her family from her.
+
+**“Wes,**" Iyola says gently,   **“when I was poking around my room on the Atin Oya’ka, I found a flimsi of a pretty, dark-haired, blue-eyed woman wearing a lightsaber.  She was with two young girls in the image. I gave the flimsi to Nadia, and she told me that the woman was her mother, Marina Cloudspinner. The other girl was her younger sister, Kiera. The girls were perhaps four and two in the flimsiplast, and they were on some sort of planet with terrace farming.  It wasn't familiar to me.  I am sure Nadia can tell you more.”**
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Wes Del-Fin** (01/05/2026 02:08:53) <br style='clear: both;'>
+
+<a name="1457556431602716734"></a>*1457556431602716734*
+
+When she said his name he could hear the shift in tone of her voice.  Her presence in the Force softened as she began to speak.  It started off as nothing but as she continued he brows furrowed.   When she mentioned Marina’s full name he stopped.   When she mentioned Nadia and another daughter named… Kiera he wavered.     
+
+
+Slowly Wes turned towards Iyola.  The look of shock on his face was as plain as the sun they saw only earlier on the platform.  Thoughts flip flopped in his head as well as his emotions in his stomach.   The rest of what she said came in bits and pieces.   Two and four years old.  
+
+
+It made sense.  He remembered the lifestone back on Fakir.   Marina had let him hold it.  The stone had a presence in the Force and it was linked to her daughter that was in hiding.   
+
+
+Nadia.  
+
+
+**”Kiera.”**  He said the second name softly as if remembering a precious memory.  An image of his mother appeared.   
+
+
+**”A picture of Nadia when she was four.   With her 2 year old sister, Kiera and their mother Marina Cloudspinner.”**  His eyes focused on Iyola.    **”Did I hear you correctly?”**  His voice was low and full of emotion.  As if her answer held hope in the balance.
+***
+<img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Iyola Kett** (01/05/2026 02:34:43) <br style='clear: both;'>
+
+<a name="1457562933172109333"></a>*1457562933172109333*
+
+Iyola could tell that Wes was emotionally affected by her revelation. ** “Yes, you heard me correctly,” **she assured him.  **“She said that her sister was fighting with the Kryze clan for Mandalore, Lady Boka-tana or something like that.”  **She thought for a moment.  **“Also mentioned a brother, but not if he was older or younger.  He wasn’t in the flimsi, though.”  **
+
+She wished she had a flimsi of Caz.
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Wes Del-Fin** (01/05/2026 02:56:12) <br style='clear: both;'>
+
+<a name="1457568337847652487"></a>*1457568337847652487*
+
+He shook his head in disbelief yet he knew he wasn’t dreaming.   He heard what Iyola had said plain as day.  Kiera was fighting to retake Mandalore with Clan Kyrze.  
+
+
+***Kiera.***  He said the name to himself once more.  ***Could it be?***  He thought as he took a deep steadying breath.   His Mandalorian and Jedi training kicked in as he fought to reign in emotions.  It wasn’t working well.   
+
+
+**”I know nothing of a younger brother.  I don’t recognize the name.   I do recognize the name Kiera.   It was also my mothers name.”**  His eyes widened and he turned quickly.   The previous unsteady moment had already passed.  
+
+
+**”I have questions that need to be answered”** He turned his head as he quickly walked.  **”You coming?”**
+***
+<img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Iyola Kett** (01/05/2026 03:02:22) <br style='clear: both;'>
+
+<a name="1457569890117488720"></a>*1457569890117488720*
+
+Iyola smiled at Wes's enthusiasm.  **“Sure, Wes. Coming with.” ** She also needed to pick up her credits from Serena Foss. One way or another, she was going to the Neon Nook. 
+
+*Was it possible that Kiera was Wes’ daughter?*  Iyola wondered.  She absent-mindedly rubbed her upper arm, where her implant was.  Her mother had insisted on conception control implants from the time she was a youngling.  She hoped they still existed in this time, because she was due to reup hers pretty soon.
+
+---
+
+<img src="avatars/1436384190198448270/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Storyteller** (01/05/2026 04:02:55) <br style='clear: both;'>
+
+<a name="1457585130611802173"></a>*1457585130611802173*
+
+Wes, now a man possessed by a sudden, overwhelming hope and a storm of unasked questions, strides purposefully through the impersonal corridors of Kando's Coursers' compound, his helmet tucked under his arm. Iyola, a picture of determined efficiency, falls into step beside him, a curious blend of their respective personas. The efficient clicks of her bootheels and the heavier, deliberate cadence of his armored footsteps echo in the sterile quiet. They pass through the various secure zones, each scanner's soft hum a familiar passage, their ident chips seamlessly granting access.
+
+Soon, the muted thrum of the main hangar bay grows stronger. As the heavy blast doors hiss open, the vast, well-lit space of Ghurn's private facility is revealed once more. The *Venture* looms impressively at its docking ring, silent and imposing. Next to it, the *Atin Oya'ka* sits berthed, its gangplank extended, a welcoming, familiar silhouette.
+
+And waiting at the base of the *Atin Oya'ka*'s gangplank, a small smile playing on her lips, is Varda.
+
+Varda appears remarkably refreshed, the earlier fatigue and spiritual agitation completely absent. She wears the same clean white blouse and patchwork skirt from before, but the fabric seems to shimmer faintly, and the small gemstones woven into her braids and embroidered into her skirt glimmer with a renewed inner light. Her gaze is serene, her posture straighter, imbued with a quiet, deep-seated calm. Her staff, leaning casually against her side, seems to pulse with a low, steady energy that only Wes might perceive with his Force-attuned senses. She radiates a profound, almost ancient, tranquility.
+
+---
+
+<img src="avatars/1436384190198448270/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Varda Nisyren** (01/05/2026 04:02:59) <br style='clear: both;'>
+
+<a name="1457585148311765042"></a>*1457585148311765042*
+
+**"Well now, if it isn't the reunited, if somewhat harried, adventurers,"** Varda says, her voice smooth and warm, her eyes twinkling with amusement as Wes and Iyola approach. She offers them a calm, knowing smile, the subtle mischief from earlier now replaced by a deeper, almost prophetic, glint in her violet eyes. **"I trust your little scouting expedition was... *enlightening*?"** She inclines her head slightly, her gaze passing over them, missing nothing of their agitation, or the storm brewing beneath Wes's carefully maintained composure.
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Wes Del-Fin** (01/05/2026 12:08:06) <br style='clear: both;'>
+
+<a name="1457707231289282592"></a>*1457707231289282592*
+
+His heavy footfalls were a longer stride than Iyola's shorter softer ones.  Between the two of them a cadence began to take shape between the two of them.  It was beginning to have an effect on Wes.  The rhythm was beginning to allow him to focus and begging to get his emotions somewhat under control.  
+
+
+Thoughts fired off in his head.  The statistical possibility or impossibility that they rescued Marina’s daughter from the slavers after waking up was unfathomable.  It was just another question thrown on top of all the others that were now coming to mind.
+
+
+Sounds of maintenance drew the determined Mandalorian from his thoughts as they entered the hangar bay of the Skirata.  The Skirata, how did they end up answering Marina’s call for help.   Realization had begun to set in.  The Del-Fin were scattered.  Broken.  Hunted by the Empire.  He wasn’t even sure if his own father or the clan still existed.   The means he had given Marina to reach out for help wasn’t just to his clan but to the clans as a whole.   
+
+
+As they rounded one of Ghurn’s Skirata’s ships the *Oya’ka* came into view.   Her gang plank was extended and waiting for them was Varda.   A knowing smile graced her features as if the old woman already knew what was happening.  The old witch was calm and if Wes knew anything that meant she was dangerous.   
+
+
+Her voice was calm and cool as if she knew what was happening.  Perhaps she did.  Wes was doing little to hide his presence.  Anyone who could sense a disturbance would feel his coming.  Remembering his training he pulled his presence inward and let out a deep breath.  It wasn’t easy as it took two attempts to reign in the torment of emotions running through him.  The out of control whirlwind of emotions that surrounded him diminished to a small gale as he took one last breath.  Varda’s tone and calm composure said more than she was giving away.
+***
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Wes Del-Fin** (01/05/2026 12:08:29) <br style='clear: both;'>
+
+<a name="1457707326159978510"></a>*1457707326159978510*
+
+**”Yes, except the enlightening part happened as we were returning.”**  He spoke with a surprising amount of control as he looked around for Nadia.   His fingers tapped on his helmet that was tucked beneath his arm.   It was a telltale sign of his.   Anxiousness was eating at him.
+***
+<img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Varda Nisyren** (01/05/2026 12:55:54) <br style='clear: both;'>
+
+<a name="1457719259575619595"></a>*1457719259575619595*
+
+Varda's serene smile deepens, her eyes twinkling with amusement as Wes struggles for composure. She offers a silent, almost sympathetic nod, acknowledging the storm raging beneath his carefully controlled exterior. Her gaze follows his, subtly tracking his search, and a flicker of deeper understanding crosses her face as she easily surmises the object of his intense attention. The weight of newly discovered, explosive truths.
+
+**"The most profound enlightenments often strike when one is least prepared, or in moments of transition,"** Varda says, her voice soft but resonating with ancient wisdom. She gestures with an open hand towards the extended gangplank of the *Atin Oya'ka*, a warm, silent invitation. **"But the hangar floor is not the place for such profound... *processing*. The *Oya'ka* awaits. Come, let us go inside. Perhaps there, amidst proper company, these new enlightenments can be... *shared*."** Her gaze, though direct and unwavering, holds no judgment, only a deep, almost maternal understanding.
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Wes Del-Fin** (01/05/2026 16:51:40) <br style='clear: both;'>
+
+<a name="1457778590451105834"></a>*1457778590451105834*
+
+Wes was already looking around the hanger bay as Varda spoke.  Her voice was soft but it carried well in the vast hangar despite the noise of routine maintenance.  He was shaking his head in frustration at not seeing Nadia.  In his current state he didn’t even think of using the Force to reach out to locate her.  
+
+
+He brought his attention back to Varda as she continued to speak.  As much as she would never admit it, her words sounded like they were from Master Davion himself.   Calm, provoking and introspective.  
+
+
+He raised an eyebrow as she suggested they continue to talk aboard the *Oya’ka* and how it would be a better place for ‘enlightenment.
+
+
+***She knows.***  He thought as he looked up the gangplank.  Despite being calmer he still wasn’t in the mood for word play.  He gave Varda a quick nod.   **”Some privacy might be in order.”** He said as he moved for the gangplank as thoughts and images of Marina swirled in his head.  Her infant daughter he sensed from using the lifestone when they were on Fakir.  Then there was maybe the most profound and scariest one of all.  The thought that her sister may very well be his daughter.
+***
+<img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Iyola Kett** (01/05/2026 22:47:22) <br style='clear: both;'>
+
+<a name="1457868107266658376"></a>*1457868107266658376*
+
+Iyola was glad to see that Varda was all right, though she wasn’t used to the older woman looking so glamorous.  She spoke as if she was already aware of the new information she’d given Wes.  Maybe she was.  Either a microtagger or Force magic. Either way, it was fine with Iyola if Wes shared his emotional revelations with Varda, who seemed very eager to chat.   
+
+She wondered where Ghurn and Nadia Skirata and Serena Foss were.  It was odd that none of them were here.  They’d practically been jumping down her throat before this mission.  Besides which, Serena had promised to convert some very valuable gems into credits for her, and they should be ready by now. 
+
+Iyola dug up the secure frequency Serena had given them.  **“Hey, we’re here if you want to debrief us or whatever,**” she said into her commlink.
+
+---
+
+## *Echoes of the Past*
+<img src="avatars/1436384190198448270/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Varda Nisyren** (01/05/2026 23:27:30) <br style='clear: both;'>
+
+<a name="1457878207498817734"></a>*1457878207498817734*
+
+Varda's lips curve into a faint, almost imperceptible smile as Wes confirms his need for privacy. She gives him a slow, measured nod, her eyes reflecting a deep, almost ancient understanding. **"Privacy is a balm for the spirit,"** she murmurs, her voice soft but resonant. **"And clarity is a gift the Force offers in its own time, and its own way."** She then gestures towards the gangplank, a silent invitation for him to lead the way.
+
+---
+
+<img src="avatars/1436384190198448270/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Storyteller** (01/05/2026 23:28:28) <br style='clear: both;'>
+
+<a name="1457878448184758435"></a>*1457878448184758435*
+
+As Wes and Varda ascend the gangplank of the *Atin Oya'ka*, their boots echoing softly on the durasteel, a crisp, professional voice immediately responds to Iyola's commlink query.
+
+---
+
+<img src="avatars/1436384190198448270/7765d78b4383748b2af3d3877c5b06b1.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Serena Foss** (01/05/2026 23:28:28) <br style='clear: both;'>
+
+<a name="1457878450227384341"></a>*1457878450227384341*
+
+***"Acknowledged, Iyola,"*** Serena's voice is smooth and efficient, a stark contrast to the charged atmosphere. ***"The Chief is currently occupied. A full debriefing is scheduled for 1800 hours in Meeting Room Gamma. An escort will be dispatched to guide you at 1745. In the interim, please consider yourselves at liberty to rest and recuperate. Your credits have been successfully converted and are now available on your ident chips."*** The message concludes with a brief, professional silence, leaving no room for further discussion. Looking at the chronometer, there's a few hours before the scheduled debriefing.
+
+---
+
+## *Echoes of the Past*
+<img src="avatars/1436384190198448270/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (01/05/2026 23:37:12) <br style='clear: both;'>
+
+<a name="1457880647942275205"></a>*1457880647942275205*
+
+Wes sets a determined pace up the gangplank, the heavy thud of his armored boots a counterpoint to the quiet storm of emotion swirling within him. Varda, a knowing silence about her, follows with unhurried grace. 
+
+They pass through the quiet, familiar corridors of the *Atin Oya'ka*'s upper deck, the low hum of the ship a constant, comforting presence. The scent of caf and spices, leftover from breakfast, still clings to the air. As they enter the main lounge, the warm, ambient lighting and plush furnishings offer a quiet refuge from the bustling hangar and the lingering tensions of their mission. The large holoscreen displays a serene, rotating vista of Cloud City's upper reaches, its peaceful beauty a stark contrast to the hidden currents flowing through the ship.
+
+Wes's gaze sweeps the comfortable space. He notes the empty chairs, the quiet stillness. He heads directly to the far side of the lounge, towards a cluster of plush seating in a secluded alcove, indicating his clear desire for privacy.
+
+Wes Del-Fin (@yogi_001)
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (01/06/2026 00:00:39) <br style='clear: both;'>
+
+<a name="1457886549042532508"></a>*1457886549042532508*
+
+Iyola allows the connection to Serena to end without any comment on her part.  *How delightful, another Mandalorian escort*.  At least she has her credits.  She has to make sure not to spend them on any Skirata errands.
+
+For the time being, she’s curious about this fraught moment that she’s inadvertently created, and tags along after Wes, selecting an ottoman in the vicinity of the alcove.  He can either bring her in or shoo her away; it's up to him.
+
+---
+
+### **Wes Del-Fin** (01/06/2026 00:16:39)
+<a name="1457890576992309437"></a>*1457890576992309437*
+
+Entering the main lounge Wes looked around.   It was empty and more importantly quiet.  He looked at the view screens with the quiet views of Cloud City.  The serene vistas did little to calm the torrent of thoughts and emotions that currently clouded his normally calm.   
+
+
+The quieter footfalls of Iyola and the rhythmic tapping of Varda’s walking stick followed closely behind.  Seeing the empty chairs on the far side of the lounge, Wes took a straight line approach to the area and sat his helmet down on the table.  Then he sat on the couch.   Elbows on his knees he let his head rest in his hand for a moment before lifting it.   He saw Iyola already seated and Varda only a few steps away.  ***She can be quick when she wants to be.***  He thought.   
+
+
+**”I don’t know where to begin.    Iyola already has the beginning of the picture and for some reason I think you already do too.”**  He said, looking at Varda as she came closer.
+***
+<img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Varda Nisyren** (01/06/2026 00:24:40) <br style='clear: both;'>
+
+<a name="1457892592543990043"></a>*1457892592543990043*
+
+Varda pauses, her eyes meeting Wes's as he speaks. Her lips press into a thin, knowing smile. The comfortable cushion of a nearby chair beckons, and she lowers herself onto it, her staff resting lightly across her knees. Iyola's eager presence is a small, vibrant spark in the quiet lounge.
+
+**"The beginnings of all stories are often found in the quiet whispers before the storm, Wes,"** Varda says softly, her voice rich with a blend of Dathomiri wisdom and a subtle, almost chiding, maternal concern. She glances pointedly at Iyola, then back to Wes, her gaze sharp. **"Or in the unspoken secrets held by those who believe themselves to be alone."**
+
+She lets out a soft, almost weary sigh, a flicker of true sadness passing through her violet eyes before her usual calm reasserts itself. **"I confess I heard some fragments, much as you seem to have heard some from our enthusiastic friend. Bits and pieces, like scattered starlight through ancient branches. And yes, my own senses have... illuminated certain possibilities. But some truths are not mine to speak. They are threads for other hands to weave."**
+
+She gestures with her staff towards Wes, then to the depths of the *Oya'ka*, indicating the general direction of Nadia's current location in her quarters. **"A daughter's tale is hers alone. And a warrior's secrets, though heavy, are hers to lay bare when she is ready. Your paths here are intertwined in ways far more ancient than either of you yet fully grasp. And the Force, you see, rarely shows all of its hand at once. It guides. It does not dictate."**
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (01/06/2026 01:19:20) <br style='clear: both;'>
+
+<a name="1457906351484178599"></a>*1457906351484178599*
+
+Iyola looks back and forth from Wes to Varda. She considers herself pretty sharp linguistically, but it takes her a bit to interpret Varda’s cryptic statements. “**So are you saying that you had an idea about Wes and Marina and Nadia, but you think that Nadia should be the first person to do anything?”**  she guesses.  **“Why did the Force tell you and not Wes?” **
+
+She doesn’t say anything about the oddly pointed look toward her when Varda mentioned unspoken secrets.  What did Varda mean by that?  That Iyola shouldn’t have said anything? *Too late for that. *
+
+---
+
+<img src="avatars/1436384190198448270/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Varda Nisyren** (01/06/2026 01:58:24) <br style='clear: both;'>
+
+<a name="1457916181280325642"></a>*1457916181280325642*
+
+Varda's gaze settles on Iyola, a flicker of amusement in her eyes as the younger woman grapples with the Dathomiri's layered words. She watches Wes in her peripheral vision, sensing the tightening of his composure. The silence in the lounge is pregnant with unspoken expectations.
+
+**"The Force, child, speaks to all who listen, but it does not shout in one tongue only,"** Varda says softly, her voice still resonating with the quiet power. She offers Iyola a gentle, almost chiding smile. **"And it tells what is needed, when it is needed. Sometimes, it speaks in visions, sometimes in feelings, and sometimes… sometimes it speaks through the wisdom of those who choose to trust another."**
+
+She inclines her head subtly towards Wes. **"Nadia and I spent a long night under the stars. We shared many words. She shared with me… what was weighing on her heart. The truths you speak of, Iyola, came to me in trust."** Varda's gaze is direct, unwavering.
+
+**"As for who should act first?"** Varda continues, a hint of steel entering her voice. **"The Force is not a hand that dictates, but a current. To jump into the river before you know its depths is foolishness. To deny another their journey of understanding… that is hubris. Nadia holds many threads of this web. Some, she is just beginning to unravel herself."** She holds Iyola's gaze, a clear message in her eyes. **"Her path to clarity is her own."** Her focus shifts to Wes. "**Though it is one you may both need to traverse together.**"
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (01/06/2026 02:53:08) <br style='clear: both;'>
+
+<a name="1457929955898818737"></a>*1457929955898818737*
+
+Wes listened as Varda explained what she had meant.   While she spoke directly all Wes had to do was to close his eyes and he would have sworn he heard one of the masters aboard the Chu’unthor II speaking.   Apparently one didn’t have to be a Jedi master to weave words together to make it sound prophetic.   
+
+
+What she said had truth weaved into it.  To act hastily would be folly.    He was ready to talk but clearly Nadia wasn’t.  As much as it pained him to sit where he was when he wanted answers it was the right thing to do.  He gave a small laugh and looked over to Varda.  **”I have two people I’d like you to meet.   First would be Master Davion.   The two of you would be able to have quite a chat.   Second would be the Warmaster.   I think you would give the old Mandalorian a run for his credits.”**  He smiled slightly.   **”Chase is out there somewhere I’m sure.  As is the Warmaster but unfortunately his holocron was not with me when we awoke.”**
+
+
+He let out a deep breath as he looked back towards the crew quarters.  He wanted to reach out to Nadia but didn’t.   Varda was right.  This couldn’t be rushed.  **”For ten years I was on the run from the Empire.  Always staying one step ahead.  When I came back from the unknown regions I knew I couldn’t sit back any longer.  I had heard rumors of an underground group helping force sensitives and their families find safety from the Empire.  It took a while but I eventually gained some trust and started running fugitives from the Empire because they or a loved one had potential with the Force.”**
+***
+<img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (01/06/2026 02:53:24) <br style='clear: both;'>
+
+<a name="1457930021648863233"></a>*1457930021648863233*
+
+He looked back to Varda and then to Iyola.   **”I find myself in a similar situation now as I did then.  They needed help in some form.  Safety, someone to talk to or just knowing that they and their loved ones were being taken somewhere they wouldn’t be hunted.  Sometimes it was just someone to listen to them.”**  He took a deep breath as he looked back to Varda.   **”As much as I want to talk to her, need to talk to her about Rin….”**  He let out a big sigh as he leaned back into the plush chair unsure of what to say.
+***
+<img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Varda Nisyren** (01/06/2026 03:20:39) <br style='clear: both;'>
+
+<a name="1457936881206562950"></a>*1457936881206562950*
+
+Varda listens to Wes, her ancient eyes fixed on his face, tracing the echoes of his lost decade. The names he speaks – "Master Davion," "the Warmaster" – resonate with a familiarity beyond mere hearing, stirring faint, almost ghostly, currents in her mind. Her lips curve into a wistful smile as he describes his desire for her to meet them.
+
+**"Ah, to trade philosophies with a master of inner stillness,"** Varda murmurs, her voice soft, imbued with a longing that feels ancient and profound. **"And to test wits with a warrior who valued strength and spirit above all else. Yes... those would indeed be illuminating conversations, Wes. Perhaps, one day, the threads will align."** A hint of sadness tinges her tone as he mentions the lost holocron, a profound empathy for the missing pieces of his past.
+
+As he speaks of his years on the run, of becoming a shepherd for Force-sensitives and their families, Varda gives a slow, deliberate nod. Her gaze shifts to Iyola, then back to Wes, acknowledging the profound truth in his words.
+
+---
+
+<img src="avatars/1436384190198448270/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Varda Nisyren** (01/06/2026 03:20:50) <br style='clear: both;'>
+
+<a name="1457936928686084147"></a>*1457936928686084147*
+
+**"The weaving of life, you see, is never finished until the last breath is drawn,"** Varda states, her voice low and resonant, filled with an unwavering certainty. **"You speak of helping, Wes. You speak of listening. You speak of guiding the lost to safety."** She gestures with her staff, the carved wood catching the light as if alive. **"This is not a new path for you, *vod*."** The Mando'a term, used with deliberate weight, is a rare, deep acknowledgment of his chosen ethos, bridging the gap between his Force sensitivity and his Mandalorian core.
+
+She leans forward, her violet eyes, usually so distant, now clear and intensely focused on his. **"As for Nadia… you walk beside her. You feel her static, her pain, her silent need to anchor. Show her, then, that she is not adrift. That she is not alone. Sometimes,"** Varda says, her voice softening, **"the silence you offer is more potent than any words. Be the stillness she can lean on. The calm eye in her storm. The path, then, will reveal itself."** Her gaze then sweeps over to Iyola, including the young explorer in her silent charge, inviting her to be a part of this collective act of empathy.
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (01/06/2026 03:21:50) <br style='clear: both;'>
+
+<a name="1457937178922320125"></a>*1457937178922320125*
+
+Iyola liked the Jedi.  She always had, as long as she could remember.  She enjoyed working with them on her brief SurveyCorps joint program on Vinee. She liked their learnedness, their kindness and selflessness, their gorgeous white and gold uniforms, and their mysterious lightsabers.  There were things she didn’t like as well, and chief among them was their convoluted philosophy, which to Iyola seemed to ask them to wait patiently, passively, until the magical Force tapped them on the shoulder.  Varda wasn’t even a Jedi, but she still talked like one.  And a Jedi-esque lecture about her ignorance of the will of the Force was not what she was in the mood for right now.
+
+Wes talked about some Jedi he’d known - Iyola assumed they were Jedi, anyway - and then again reminisced about his time in the Unknown regions.  Iyola was curious about his experiences there, but this wasn’t really the time to ask. He’d helped Force sensitives escape - this must be this horrible Purge she’d heard about.  He pondered whether he should talk to Nadia.  Iyola stood up and started pacing back and forth. This conversation was driving her mynockshit crazy.
+
+**“Seriously?”**  she said to them.  **“Wes, just go talk to Nadia.  Nadia already talked to Varda, she clearly wants to talk about Marina.  Jump in the kriffing metaphorical river already.  If Nadia doesn’t want to talk about it, she’ll tell you so, or punch you, something Mandalorian like that."**   She turned to leave, then turned back. ** “If somehow I met someone who personally knew my boyfriend, or my family, they’d have to cut me in half to keep me away.”**
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (01/06/2026 04:37:43) <br style='clear: both;'>
+
+<a name="1457956275387105302"></a>*1457956275387105302*
+
+Wes looked from Varda to Iyola as they talked.  They all came from different times with different beliefs and yet from this day forward he would call both of them friends.   As they each spoke they both said the same thing.  Both with their own spin and insight.  
+
+
+That he needed to get off his ass and go be there for Nadia.  Not as a father or a fellow Mandalorian but simply as a friend.  He closed his eyes and took a deep breath.  Upon opening them he stood and looked at both women.  He smiled at the obvious differences and the similarities both shared.  **“Thank you.   Both of you.”**  Reaching down he grabbed his helmet.   **”I owe you both a debt that I may never be able to repay.”**  He gently shook his helmet at both women.   **”Kiera, my mother, would often say that Mandalorian men always needed to wear their helmets.  The reason for this is because they often needed to be hit in the head to see the forest through the trees.”**  He gave them both a quick nod along with another smile.  
+
+
+He moved quickly and with a surprise calm.   Gone was the anxiety of earlier when he discovered who Nadia was.   Now he moved with a purpose.  She was Mandalorian and she was the daughter of the woman he loved.  That made her family.  What kind of family he didn’t know.   Only time would reveal that.   
+
+
+He headed for the corridor that led to the crew quarters.  Thoughts of what to say swirled around in his head.  All of a sudden he was at a loss for what to say.  That he still could not sense Marina through the bond was unsettling; he hoped that Nadia could maybe tell him why.    He held no expectation that it would be today but someone needed to take that first step.   
+
+
+He looked up at the door controls to her cabin and hesitated for an instant.  With thoughts of Marina he hit the chime button to her room.  Announcing that someone was there.
+***
+<img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (01/06/2026 05:15:50) <br style='clear: both;'>
+
+<a name="1457965866896461844"></a>*1457965866896461844*
+
+Wes moves through the *Atin Oya'ka*'s quiet corridors, the anxiety that plagued him replaced by a focused, determined purpose. His footsteps echo, measured and strong, until he stands before Nadia's cabin door. He brings his hand up, his thumb hovering over the chime button, thoughts of Marina swirling, a new courage born of Varda and Iyola's combined nudges. He presses the button.
+
+The soft chime sounds within the cabin, but there is no response. The door remains firmly sealed, a silent, unyielding barrier.
+
+Wes waits, but the door stays locked, the cabin's interior remaining a private sanctuary. He turns, a faint ripple of confusion, then disappointment, in his Force presence. Just then, a faint, rhythmic sound, almost like a low thrumming, approaches from further down the corridor – from the direction of the gym.
+
+Nadia appears, not from her cabin, but from the corridor leading away from the common areas. She moves with a slow, deliberate grace, her helmet still held under her arm. Her posture is relaxed, her previous tension seemingly having dissipated into the very air around her. Her gaze, when it meets Wes's, is calm and direct, revealing nothing of her internal turmoil.
+
+---
+
+<img src="avatars/1436384190198448270/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Nadia Skirata** (01/06/2026 05:15:50) <br style='clear: both;'>
+
+<a name="1457965869488410674"></a>*1457965869488410674*
+
+**"Wes,"** Nadia says, her voice low and even, a new timbre of control replacing her earlier weariness. **"Were you looking for me? I decided to… clear my head. The gym is quite well-equipped."** Her blue eyes are clear, holding a quiet strength, but also a carefully constructed wall that dares him to push.
+` `                              <img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Notable-Allies#nadia-skirata)
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (01/06/2026 14:01:08) <br style='clear: both;'>
+
+<a name="1458098064882663576"></a>*1458098064882663576*
+
+Wes heard the soft chime sound off within Nadia’s quarters.  When there was no response he found himself looking last and right wondering if she was even in there.   Again he thought about reaching out but he knew that may not be the best course.  The door's portal remained unchanged.  Closed, locked, preserving the sanctuary that it protected.  
+
+
+He shook his head taking a half step back from the door as disappointment started to settle in.  He was about to turn and head back but the familiar sound of booted feet made him pause.   A moment later Nadia appeared down the corridor.  Remembering that the rec area was down that way he realized that she must have been there.   
+
+
+She looked relaxed.   He remembered that there was a rec area in the aft section.  It looked and felt like she had been using the facilities there.   The effort looked like it had the desired effect.  It translated and carried when she noticed him.  He sensed that she was relaxed.  The physical effort of spent energy had the desired effect of calming the mind.   
+
+
+He nodded at her question.  His determination was still present but his features softened as he saw her eyes.  How he didn’t notice it the first time he didn’t know.  There was no denying it now.  They were exactly like her mothers.   With that realization any doubt that he may have had fell away.
+***
+<img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (01/06/2026 14:01:32) <br style='clear: both;'>
+
+<a name="1458098164572880999"></a>*1458098164572880999*
+
+**”I…”**  He paused as he felt her presence and it took him back twenty years.  To a much simpler time.  Where he sat upon a duracrete floor in a warehouse on a backwater planet named Fakir.  There he attempted one of his first tests in the Force.  He held a life stone that Marina had in her possession.  He had no idea what it was or what it represented.  What he discovered was that it was tied to a little girl tucked away safe from the galaxy.  That little girl was her daughter.   Remembering the feeling of trust that Marina had given him in the moment brought a small smile to his face.  Now looking at Nadia he finally saw what he had failed to see all along.  
+
+
+This was that little life she had protected.  How he didn’t sense it he didn’t know.  His first attempt at using the Force had come full circle.   
+
+
+His eyes softened as his smile turned into the smile he used to use for her mother.  **”That’s one of the best ways to clear one’s head and yes.   I was looking for you.”**
+***
+<img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Nadia Skirata** (01/06/2026 15:24:01) <br style='clear: both;'>
+
+<a name="1458118923378622667"></a>*1458118923378622667*
+
+Nadia gives a nod in agreement, her weight shifting uneasily. The soft light of the corridor catches the faint flush on her cheeks, and a subtle tension returns to her shoulders. **"Varda showed me some... alternative meditation techniques. They require more room than can be found in quarters,"** she says with some forced lightness. The direct, intense way Wes looks at her, the sudden softness in his eyes, makes her feel wary. It is a look too intimate, too perceptive, stirring an unease she cannot quite place. She feels the subtle shift in his Force presence, the raw emotion swirling beneath his calm exterior, and her own carefully constructed walls rise a fraction higher.
+
+**"Was there... something specific you needed, Wes?"** Her voice is low, firm, gently trying to redirect the conversation, subtly probing the reason for his unexpected appearance and intense gaze. She avoids his direct gaze, her eyes scanning the empty corridor.
+` `                              <img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Notable-Allies#nadia-skirata)
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (01/06/2026 16:16:18) <br style='clear: both;'>
+
+<a name="1458132077773066483"></a>*1458132077773066483*
+
+Upon seeing her reaction and subtle shift he reigned himself in.   Her original relaxed posture had become more guarded.  His memories brought up strong emotions and he was doing little to keep it under wraps.  
+
+
+Clearing his throat he regained his composure and looked quickly back to where the common room waited.   **”We came back a little bit ago.  I’m sure your uncle will expect a debrief soon.”** 
+
+
+He took a half step back and stopped.  He knew he couldn't just walk away.  He had come for a reason and he needed to at least let her know that he knew.  Then it would be up to her to decide what she was comfortable with.   
+
+
+Slowly he turned back, his face was more neutral.  The serious nature of his next words were evident on his face if not in his Force presence.   **”There is one more thing.  I think it’s important for both of us.”**  His demeanor softened a bit as he looked at her. 
+
+
+He found himself taking a quick breath as he searched for the words.    The ones he had earlier had evaporated into the ether.  **”When you’re ready and you want to talk about your mother, all you have to do is ask.  I’ll put whatever I’m doing on hold and answer your questions.”**  
+
+
+He found his breath leaving and took a deep breath.  Glad that the hurdle was finally dealt with he took a breath.  He didn’t know what her response would be or if she was ready but the ball was in play.
+***
+<img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Nadia Skirata** (01/06/2026 17:40:51) <br style='clear: both;'>
+
+<a name="1458153359138619443"></a>*1458153359138619443*
+
+Nadia grows utterly still, her shoulders subtly tensing, all external signs of her earlier composure vanishing in an instant. Her face, previously softened by Varda's strange meditation, hardens, pale and stark in the corridor's dim light. Wes's words, gentle as they are, land like hammer blows. Her blue eyes, wide and suddenly vulnerable, meet his for a long, fraught moment. She feels the truth in his Force presence, his sincere offer, but the raw grief for her mother and the overwhelming paradox of his living presence simply crack her carefully built control.
+
+She takes a slow, shaky breath, fighting the rush of tears, fighting the urge to fall apart again. When she finally speaks, her voice is a near-whisper, thick with the full, devastating weight of her grief, accusation, and utter disbelief.
+
+**"She said you were dead, Wes."** The words are flat, devoid of question, a simple, brutal statement of the deepest truth she knew, one that cuts to the core of everything. She offers no other words, simply lets that profound, aching fact hang in the silence between them, her gaze unwavering, forcing him to face the monumental lie woven into her life.
+` `                              <img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Notable-Allies#nadia-skirata)
+
+---
+
+## *Nanite Mysteries*
+<img src="avatars/208916238661844993/d7832f2cac5df42d164b81e35de34f09.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **aliciagd** (01/06/2026 18:45:09) <br style='clear: both;'>
+
+<a name="1458169536749633690"></a>*1458169536749633690*
+
+Nanite Mysteries
+
+---
+
+<img src="avatars/1436384190198448270/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (01/06/2026 18:45:13) <br style='clear: both;'>
+
+<a name="1458169555250839735"></a>*1458169555250839735*
+
+With Wes's armored footsteps fading down the corridor, a sudden quiet settles over the *Atin Oya'ka*'s lounge. Varda, her ancient eyes still gleaming with purpose, rises gracefully from her chair. The space feels different without Wes's intense presence, lighter, yet still imbued with the lingering echoes of profound revelations.
+
+---
+
+<img src="avatars/1436384190198448270/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Varda Nisyren** (01/06/2026 18:45:13) <br style='clear: both;'>
+
+<a name="1458169557234614302"></a>*1458169557234614302*
+
+Varda turns to Iyola, a faint, almost mischievous smile touching her lips. **"Sometimes, child,"** she murmurs, her voice soft but resonating with inner calm, **"the Force moves in patterns that are clearest when we ourselves are still. I believe I have spoken enough this day. I have... much to contemplate. My spirit demands its solitude.."** She offers Iyola a gentle, knowing nod, and with a rustle of her knitted cardigan, she turns and walks with measured, unhurried steps towards her own quarters, leaving Iyola alone amidst the plush seating and the serene vistas on the holoscreen.
+
+---
+
+## *Echoes of the Past*
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (01/06/2026 18:58:01) <br style='clear: both;'>
+
+<a name="1458172775054184645"></a>*1458172775054184645*
+
+Nadia’s emotions hit him like a bull freighter and he wasn’t ready for it.  He remembered what it was like to lose his own mother but her situation was different.  They were both Attuned to the Force and with each other.   He knew the emptiness she felt but it wasn’t the same.   Marina was her mother.  
+
+
+Her grief was overwhelming and he simply nodded his head slowly at her words.  He felt the myriad of emotions that now comprised her and he began to wonder if he did the right thing.   
+
+
+He held her gaze as his facial expression softened.  **”I think she was right.”**  His hand came up to his abdomen where the brutal scar was from the lightsaber wound he woke up with.   **”I don’t know what happened to me.  I remember being on a mission for the Path and picking up a family.  Two kids and their father.  That was nine years ago.  Then waking on the *Venture* with the others.  There’s a hole in my memory and try as I might I can’t remember what happened.  All I have to tell me that something happened is this scar.  I have no explanation.”**   
+
+
+He shrugged his shoulders softly as his lips drew into a thin line.  **”Whatever happened to me must have done something to the bond Marina and I shared.  At least that’s what I thought when I couldn’t sense her.   Not that…”**   He stopped talking.   He could say it as that would make it real.  His broad armored shoulders dropped slightly as he finally had to accept the idea that she was gone.
+` `                              <img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Nadia Skirata** (01/06/2026 19:19:00) <br style='clear: both;'>
+
+<a name="1458178058594029827"></a>*1458178058594029827*
+
+Nadia's body remains rigid, but she watches Wes, her blue eyes, still raw with tears, fix on the slight, almost imperceptible tremor of his hand as he touches the scar on his abdomen. His words, delivered with a raw honesty that mirrors her own pain, are a testament to the immense, shared burden of loss and fractured memory. His broad shoulders, usually so firm, slump slightly, a vulnerable gesture that reaches deep within her Force-attuned empathy. She feels the finality of his grief, the dawning, devastating acceptance of Marina's loss. It is a profound, shared silence that echoes with the absence of their beloved Jedi.
+
+She takes a slow, shuddering breath, trying to steady herself. She pushes back the surge of empathy, pushing past her own pain, focusing on a single, tangible anchor in this overwhelming storm of truth. Her hand slips into the pouch on her utility belt.
+
+With trembling hands, Nadia pulls out a small, heavy coin, tarnished and dull, its edges worn smooth with age Her fingers trace the etchings: Wes’s own name set into one side. Nadia holds it out to him, her fingers brushing his. Her gaze, though tear-filled, is unwavering, direct, brimming with the agonizing truth she now fully comprehends. **"She kept it, Wes,"** Nadia chokes out, her voice raw, barely a whisper. **"All these years."** 
+
+A fresh wave of overwhelming emotion washes over her, the weight of the past pressing down. With a final, choked sob, Nadia shoves the coin into Wes's hand, breaks eye contact, and then, without another word, she moves past him with a desperate, fluid motion.
+` `                              <img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Notable-Allies#nadia-skirata)
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (01/07/2026 00:27:01) <br style='clear: both;'>
+
+<a name="1458255573366735054"></a>*1458255573366735054*
+
+There was an ever widening pit in his stomach and no amount of rationalization would fix it.   No *what if,* no *but maybe.*  Marina was gone.  He wasn’t here to try and prevent it from happening.  He senses the understanding in Nadia.  She could see him come to grip with the idea that Marina was no longer alive.  His stomach finally sank. 
+
+
+***If only we had…***  He stopped the thought before it finished.  They both made choices that day.  They both thought they were doing the right thing.  That the war would end and then they would have the time they so wanted.  
+
+
+Fate wasn’t on their side.
+
+
+A subtle movement from Nadia caught his attention.  She was digging into a pouch.  What she pulled forth nearly broke him as a tear began to cascade down his cheek.  The coin Nadia held was the same coin he had given her mother all those years ago.   He shook his head as he saw the smooth and worn edges.   It looked as if it had been handled often and gently for periods of time.   It was the coin he gave her.  He had given it to her as a just in case.  He remembered her asking if he was giving away secrets when he gave her the means to reach out for help.  Any other time he would have laughed.  
+
+
+Nadia’s next words filled him with bitter happiness and profound sadness.  She had kept it.  She had never forgotten.  His next breath was a shuddering one as Nadia quickly grabbed his hand and shoved it into his palm.   He saw the look in her eyes and any walls he had left crumbled away.   It didn’t matter though as she was already past him.   Her last sob would forever be etched in this memory.
+` `                              <img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (01/07/2026 00:27:23) <br style='clear: both;'>
+
+<a name="1458255664626274538"></a>*1458255664626274538*
+
+Looking down at the coin he fought for control but it was pointless.  His hand closed around the smooth edges and the metal bit into his palm.  If he hadn’t been wearing his gloves he would have surely cut his palm.  He pulled in his presence.  It was the tightest he’d ever done it.  He needed time and didn’t need anyone else picking up on the emotions.  He took a step then another towards his quarters.  For now this was his to carry.   
+
+
+Alone.
+` `                              <img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+## *Nanite Mysteries*
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (01/07/2026 01:18:46) <br style='clear: both;'>
+
+<a name="1458268597175455929"></a>*1458268597175455929*
+
+Wes walked off, resolute in his determination to talk to Nadia about her mother.  Varda and Iyola looked at each other, Varda with her usual enigmatic smile, Iyola still somewhat puzzled.  With a nod and a closing comment about patterns and the Force, Varda walked off, likely for a nice nap.
+
+Iyola wasn’t tired.  To the contrary - the talk had made her restless to do something.  
+
+She thought back to the odd controller she’d found on the Venture.  Eve had told her that it could command nanites.  *Why not try it out?  She had time.*
+
+Whistling a tune (the  theme song to *Triple or Nothing*, a  short-lived holodrama), Iyola made her way back to the Venture.  Probably best to try it out in the old cargo hold.
+
+---
+
+<img src="avatars/1436384190198448270/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (01/07/2026 01:52:53) <br style='clear: both;'>
+
+<a name="1458277182408364188"></a>*1458277182408364188*
+
+Iyola, humming a jaunty tune to herself, navigates the pristine corridors of the Clan Skirata compound with a renewed sense of purpose. Her earlier restlessness, fueled by conversations of deep grief and ancient Force philosophy, now coalesces into a pragmatic need for action. Her pace quickens as she leaves the relative warmth of the *Atin Oya'ka* behind, passing through into the private hanger bay of Ghurn Skirata. The only other ship present in the bay is the snubfighter of a design Iyola is unfamiliar with. The *Venture* looms impressively at its docking ring, silent and imposing, its internal systems now thrumming with a newfound energy from Vekka's ongoing diagnostics.
+
+She taps her ident chip on the terminal at the *Venture*'s airlock. With a soft hiss, the massive inner door cycles open, revealing the sterile, utilitarian entry bay. The subtle blue glow from Eve's holographic avatar shimmers into existence nearby as Iyola steps inside, the airlock hissing shut behind her.
+
+---
+
+<img src="avatars/1436384190198448270/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Eve the AI** (01/07/2026 01:52:54) <br style='clear: both;'>
+
+<a name="1458277184648122550"></a>*1458277184648122550*
+
+**"Welcome back aboard the *Venture*, Iyola. The technical assessment by Kando's Coursers technicians is proceeding as planned. Diagnostics are complete. Phase two repairs are projected to commence within two standard hours, contingent upon the successful restoration of my primary droid complements. Did you require assistance?"**
+
+---
+
+<img src="avatars/1436384190198448270/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (01/07/2026 01:53:08) <br style='clear: both;'>
+
+<a name="1458277243406127267"></a>*1458277243406127267*
+
+Iyola makes her way from the airlock, deeper into the *Venture*. The sterile quiet is now replaced by the distinct sounds of ongoing activity. From the mid-section, faint whirs and metallic taps indicate Vekka's team is actively working. Following the mental map she retained from her earlier exploration, she heads for the vast cargo hold and workshop.
+
+The cargo hold is now a hive of activity. Though sparsely filled with actual cargo, several of Vekka's multi-limbed maintenance droids are at work, their optical sensors sweeping walls and conduits, emitting soft diagnostic beeps. Vekka himself, the lean, pale Rodian slicer, is hunched over a mobile console near one of the immense power conduits, a holographic schematic of the ship's internal damage projected before him. He mutters rapid-fire commands in Rodian to his droids, his cybernetic eye glowing with intense concentration.
+
+The air is thicker here with the smell of ozone and faint, acrid cleaning chemicals. The cargo hold itself pulses with a palpable energy; the ship's power grid, now being actively probed and rerouted, thrums powerfully through the deck plating. Iyola can clearly see a cluster of small but deep pits and scoring marks on a large power conduit near Vekka's position – the micrometeoroid damage Eve had mentioned. This is definitely an active area of the *Venture's* power grid.
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (01/07/2026 02:18:56) <br style='clear: both;'>
+
+<a name="1458283735416836096"></a>*1458283735416836096*
+
+“**Hi Eve,”** says Iyola, as she walks back into the familiar hush of the *Venture.*  **“How’s the assessment going?  Did you miss me?”  **
+
+She makes her way over the cargo hold.  She hears clanging from inside, and when she enters, she sees that it’s no longer the vacant space she remembers; it’s the site of a full-on repair operation.  That creepy Rodian she’d seen earlier is overseeing things, from the look of it, with a pack of droids.  She glances at the exposed power grid with very mild interest, and listens to Vekka’s directives with a bit more interest. Rodian has a passing relation to Huttese. She’s pretty sure she could pick it up within a few weeks if she wanted to.
+
+**“Hey there,” **she says, waving at Vekka.  **“Just stopping by to say hi.” ** This probably isn’t the best place for her test .  Maybe she’ll go to the lounge and see if the nanites can take one of those chaises apart.
+
+---
+
+<img src="avatars/1436384190198448270/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Eve the AI** (01/07/2026 02:51:39) <br style='clear: both;'>
+
+<a name="1458291971025276940"></a>*1458291971025276940*
+
+**"Welcome back, Iyola. My operational parameters do not include the simulation of 'missing' any specific individuals,"** Eve replies, her synthesized voice still calm, but now with a subtle, almost imperceptible softening around the edges of the words. **"However, your presence is noted. The assessment is proceeding efficiently, as previously reported. Did you require specific assistance?"**
+
+---
+
+<img src="avatars/1436384190198448270/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Vekka** (01/07/2026 02:51:40) <br style='clear: both;'>
+
+<a name="1458291973998772327"></a>*1458291973998772327*
+
+Vekka stiffens instantly at Iyola's cheerful greeting. His head snaps up from his console, his single cybernetic eye fixing on her with an unnervingly intense, suspicious glare. His pale green skin seems to flush a faint, sickly yellow with irritation. He mutters something in clipped Rodian that sounds distinctly unfriendly. His gaze sweeps over her, assessing her presence in his active workspace with obvious displeasure.
+
+**"This is an operational area. Restricted,"** Vekka rasps, his voice dry and hostile, cutting through the hum of the droids. He gestures curtly with a multi-jointed finger towards the main exit. **"Unauthorized personnel interfere with diagnostics. State your purpose, or clear the zone."** His droids, as if sensing his agitation, subtly reorient their optical sensors towards Iyola.
+
+---
+
+## *Echoes of the Past*
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (01/07/2026 03:31:50) <br style='clear: both;'>
+
+<a name="1458302081990529054"></a>*1458302081990529054*
+
+In his quarters Wes tried to find balance.   It was a fleeting effort for the moment.  There was no balance.  Just loss.   
+
+
+Pain
+
+
+With an irritated grunt he stood, grabbed his helmet and made for the door.   Upon opening he turned and headed for the same gym he saw Nadia coming from just a handful of moments earlier.   
+
+
+Upon entering the gym he saw the mat and walked towards it instantly.  Setting his helmet down outside the mat he took several steps towards the middle.   Since he had awoke on the *Venture* he hadn't practiced the form called Teras Kai.   It was a martial art aimed at combating force users.  He had learned from the holocron that Marina had lent him.  That was missing now as well.  
+
+
+With a deep breath he started and still found no calm.
+` `                              <img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (01/07/2026 13:17:00) <br style='clear: both;'>
+
+<a name="1458449343034949705"></a>*1458449343034949705*
+
+Wes steps onto the clear, expansive mats of the *Atin Oya'ka*'s gym, the faint scent of recycled sweat and ozone filling the air. He sets his helmet aside, the hard shell a stark contrast to the plush mat. He closes his eyes, trying to center himself, trying to quiet the whirlwind of emotion that now rages within him: grief for Marina, confusion, a burgeoning, terrifying anger at the unknown forces that toyed with their lives. He attempts to move through the precise, fluid motions of Teras Kasi, but his mind is a fractured storm, his muscles responding with wooden stiffness. No calm. Only the gnawing, pervasive pain of an unbearable truth.
+
+Approximately **one hour** passes. The low hum of the *Atin Oya'ka*'s systems is the only witness to Wes's struggle. His movements, initially clumsy, slowly gain a fraction of their old precision, but the fury and sorrow remain, a tight knot in his gut.
+
+The gym doors hiss open with a soft, almost reverent sound. Ghurn Skirata stands there, his *beskar'gam* gleaming, his helmet tucked under his arm. His face is a mask of granite, weathered and grim, but his steel-colored eyes burn with an intensity that promises no easy answers. He is a tightly coiled spring, radiating a cold, implacable fury that is almost overwhelming in its directness. He steps onto the mat, his heavy boots making no sound, his presence utterly dominating the space.
+
+---
+
+<img src="avatars/1436384190198448270/f989e92be7283fa85c0e66fabffbdf2e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Ghurn Skirata** (01/07/2026 13:17:02) <br style='clear: both;'>
+
+<a name="1458449351427887162"></a>*1458449351427887162*
+
+**"Del-Fin."** Ghurn's voice is a low, hard rumble, cutting through the tortured silence of the gym like a vibro-blade. His gaze is fixed on Wes. **"We need to speak."**
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (01/07/2026 14:21:32) <br style='clear: both;'>
+
+<a name="1458465585364078622"></a>*1458465585364078622*
+
+***Disbelief.***
+
+
+Thoughts ran through his head as he stood there in the middle of the mat.   How could she be gone was the main one that kept creeping up.   
+
+
+Quietly he stood.  Head up, shoulders back, eyes closed as he sought to quell the building storm that was brewing inside him.  He needed to find that peace as Master Davion had always mentioned.  
+
+
+Yet there was another, competing voice that offered another outlet.   *Anger.*  
+
+
+Often the voices of Chase and the Warmaster offered different things.   The two showed him differing ways of looking at the galaxy.   Often each path leads to the same outcome.   One just offered more violence.  
+
+
+Finally after 15 minutes he moved.  Initial movements were awkward and clumsy.  That only lessened the calm and fueled the anger.  The dance between the two wasn’t something new.  It was a balance.  Peace and conflict went hand in hand.   One had to deal with both to maintain the balance.  
+
+
+At the moment peace was losing out.  
+
+
+Another quarter hour had passed and his movements had begun to smooth out.  His anger fuelled the need to move.  To do the forms and strikes as Master Ven as instructed.  Remember the remarks Ven made when he didn’t move quite right or at the precise time.  It was more prodding to his current state and added more fuel to the fire.  Only to intertwine with the knot that had settled in his gut.   It only reminded him of the newly discovered scar that was there.  
+
+
+He lost track of time.  The physical exertion along with the emotional swirled together as he attempted to remove the new found pain from his being.   He was close.  The exercises both physical and mental, were working.  He could hear the approving words of Master Ven and the Warmaster when he moved correctly or launched a perfect strike.
+` `                              <img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (01/07/2026 14:22:12) <br style='clear: both;'>
+
+<a name="1458465752611815425"></a>*1458465752611815425*
+
+Then he heard the doors hiss open.  He was almost finished and didn’t look to see who it was.   Yet he knew the presence of Ghurn Skirata.  It was unmistakable and like his own presence Ghurns was riled up as well.  His presence was unavoidable and moving closer.   
+
+
+As he moved and spun around he saw Ghurn step on to the mat.  The Mandalorian voice was low and held an edge.  With out stopping Wes finished the final move and then stood tall as he came back to the finishing stance.  
+
+
+A few seconds passed as he closed his eyes, took a deep breath and opened himself.   He was still angry but he now had control.  
+
+
+Loosening his stance he turned towards the veteran Skirata and gave the man the respect he was due with a firm nod.   **”Then talk.”**  His voice was even and calm as the sweat ran down his forehead.   Wes looked Ghurn in the eyes, not giving any ground.
+` `                              <img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/f989e92be7283fa85c0e66fabffbdf2e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Ghurn Skirata** (01/07/2026 15:18:06) <br style='clear: both;'>
+
+<a name="1458479821913980989"></a>*1458479821913980989*
+
+Ghurn's steel-colored eyes, burning with a cold, contained fury, bore into Wes's. He takes a slow, deliberate breath, and for a long moment, the only sound in the gym is the faint hum of the ship's environmental controls and the quiet, heavy pounding of Wes's own heart. There are decades of unspoken history in that gaze, nine years of grief and a lifetime of Mandalorian resolve.
+
+**"Marina Cloudspinner,"** Ghurn states, his voice a low, hard rumble that reverberates in the confined space, cutting through the silence. It's not a question, but a cold, stark pronouncement of a name that is both a shared memory and a new, terrible question. He holds Wes's gaze, searching for any tell, any flicker of deceit or understanding that might give away the impossible truth now standing before him. He doesn't ask "what do you know?" or "how do you know?" The question is implicit in his very presence.
+
+**"She said you were gone."** His jaw tightens, a muscle flexing under the weathered skin. **"She was convinced. She grieved, as did we."** He pauses, allowing each word to sink in. His gaze drops, just for a moment, to the Del-Fin sigil on Wes's pauldron, then flicks back up, sharper than before.
+
+**"Nine years, Del-Fin. Nine years of that truth. Now, you stand here."** He takes a single, deliberate step closer, his presence expanding, subtly asserting his command. **"Explain that."** His voice is still low, but now edged with an steel-cold demand that cuts through the gym. **"Start with *how* you stand here."**
+
+---
+
+## *Nanite Mysteries*
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (01/07/2026 15:42:19) <br style='clear: both;'>
+
+<a name="1458485916674035839"></a>*1458485916674035839*
+
+As she walks to the cargo bay,  Eve informs her in her classic style that she had not, in fact, missed Iyola, as she was not required to do so by her programming.  Honestly, Iyola hadn’t expected anything else.
+
+**“Thanks, Eve,”  **says Iyola. **“I am noting your presence as well.  I’ll need your help with the nanite thingie in a bit.”**
+
+Vekka is not pleased to see her.  She somehow was annoyed at his imperious attitude, like she deserved to be on the Venture more than he did.  She decided to have a little fun with it and assumed her best imperious attitude. She stared at Vekka coldly for a long moment, then at the droids with their blank sensors. 
+
+**“Acceptable. You may proceed,”** she said loftily, turning sharply and heading toward the lounge.  
+
+Once she’s there, she pulls out the nanite controller, following Eve’s directions for activating it.
+
+---
+
+## *Echoes of the Past*
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (01/07/2026 17:11:25) <br style='clear: both;'>
+
+<a name="1458508338299142415"></a>*1458508338299142415*
+
+Wes stood silently as Ghurn eyed him.  He held the man’s gaze as he watched him take a slow and deliberate breath.   One like he just did.  It was an effort to find some calm.  To quell the storm that raged.  
+
+
+When Ghurn spoke Marina’s full name he exhaled through his nose and gave a small nod and nothing else.  No explanation.  No story.  He waited for what was to follow.  Ghurn needed answers and he knew he was going to have to ask to get them.  
+
+
+When Ghurn spoke he didn’t move until he said that Marina was convinced.  His cheek twitched when he said she grieved.  Again she suffered more loss convinced he was gone.  He watched as the grizzled Mandalorian looked at the Pauldron.  The sigil of his clan, Del-Fin, proudly displayed for any and all to see.  When he looked back his gaze was serious as were his words.  He wanted an explanation.  
+
+
+Little did Ghurn know there wasn’t anyone who wanted an explanation more than he did.  
+
+
+He stood silent for a long second as he looked into the man’s eyes.  ***On my own two feet is how I stand here.***  He thought. Yet that wasn’t what he said.  A brawl wasn’t what he was looking for   Like Ghurn he wanted answers.
+` `                              <img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (01/07/2026 17:12:01) <br style='clear: both;'>
+
+<a name="1458508486773051547"></a>*1458508486773051547*
+
+**”If I knew that answer I would have told Nadia not much more than an hour ago.”** He took a short breath and let it out through his nose.  **”Everything that we’ve said is fact.    I woke up with no knowledge of how I ended up in that cryo tube.    All I have as an explanation of what happened is the scar of where a lightsaber nearly ended me.  Nothing else!”**  His hand moved back to his side from the spot.  The now nine year old scar felt cold and empty.  
+
+
+**”I have no answers Ghurn.  Right now I want and wish that you have some answers for me.  I woke up missing the thing I held close to my heart. The one thing I would absolutely die for.”**  He paused as his head shook slightly from side to side.  **”The knowledge that Marina was out there still living.  One step ahead of the Empire.”**  A sharp breath was taken as his next words rolled out.  The calm he had just found was nearly breaking.  **”No matter the distance, no matter where we were, we could always sense the other.”**  
+
+
+He shook his head as he fought back tears.  **”She’s gone and I couldn’t do anything to stop it.”**  His shoulders slumped slightly as his head dipped a bit.   **”I wish I had answers for you and the cold hard fact is…I don’t”**   He took a breath and stood tall again meeting the elder Skirata’s gaze.
+` `                              <img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/f989e92be7283fa85c0e66fabffbdf2e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Ghurn Skirata** (01/07/2026 17:41:26) <br style='clear: both;'>
+
+<a name="1458515891829604434"></a>*1458515891829604434*
+
+Ghurn watches Wes intently, his steel-colored eyes unwavering. He sees the controlled fury, the raw pain, the man standing on the edge of unraveling. He hears the frantic pace of his breath, the denial of answers he seeks, and the desperate appeal for understanding. Wes's admission of his own missing memory, of the inexplicable scar, resonates with a truth Ghurn is only just beginning to accept: the world has become stranger than he could have possibly imagined.
+
+When Wes speaks of Marina, of the profound, impossible bond that linked them across distances, Ghurn's jaw tightens. He hears the crushing weight of his loss, and for a fleeting, agonizing second, Ghurn relives Marina's own shattered return, her face etched with a similar, incommunicable grief. The mention of the severed bond, the Force-absence, echoes the deepest pain Marina carried.
+
+Ghurn's expression, previously carved from granite, softens infinitesimally, though the underlying fury remains, transmuted from suspicion into a cold, hard resolve directed at unseen enemies. He takes another slow, deliberate step, closing the distance between them, not in aggression, but in a sudden, almost reluctant, acknowledgement of shared grief.
+
+**"Marina suffered too much grief,"** Ghurn states, his voice now lower, almost a murmur, but cutting through the space with the weight of absolute finality. **"She kept too many secrets."** He shakes his head, the movement subtle, conveying a profound, weary sadness that momentarily cracks his stoic facade. **"Secrets she buried deep, even from her family. Even from Storn, her husband."**
+
+He lets the truth hang in the air for a moment, a new, agonizing revelation for Wes.
+
+---
+
+<img src="avatars/1436384190198448270/f989e92be7283fa85c0e66fabffbdf2e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Ghurn Skirata** (01/07/2026 17:41:27) <br style='clear: both;'>
+
+<a name="1458515897772937310"></a>*1458515897772937310*
+
+**"Your bond... she *felt* it when you disappeared,"** Ghurn continues, his gaze unwavering, dissecting Wes's raw emotion with the clinical precision of a diagnostician. **"She believed you were killed. On Bothuwai. By an Inquisitor. The scar you carry,"** Ghurn's gaze drops briefly to Wes's abdomen, then snaps back to his eyes, **"it matches her account."** He pauses, letting the implications sink in. **"For five years, she never stopped looking for you. Then, she returned from a mission for the Path and declared you dead. She never spoke of it again. Not to me. Not to Nadia. Not to Kiera."**
+
+Ghurn steps back, the measured distance returning between them, but the intensity of his presence does not diminish. He folds his arms across his armored chest.
+
+**"Nadia knows about your relationship with her mother,"** Ghurn states, his voice regaining a fraction of its former steel. **"She knows you are Kiera's father."** He pauses, then the low, hard edge returns to his voice. He gestures towards Wes, his voice raw with unspoken rage and fierce protectiveness. **"Her world is shattered. For a second time, by your ghost. You demand answers, Del-Fin. So do I. And most of all, so does Nadia. And until she has them, until this chaos is contained, *you will not approach Kiera*. Do I make myself clear?"**
+
+---
+
+## *Nanite Mysteries*
+<img src="avatars/1436384190198448270/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (01/07/2026 17:51:31) <br style='clear: both;'>
+
+<a name="1458518430364860510"></a>*1458518430364860510*
+
+Vekka stares after Iyola, his cybernetic eye blinking in bewildered disbelief at her dismissive, imperious response. He mutters another string of agitated Rodian curses under his breath, shaking his head slightly before turning back to his console, his droids resuming their work, though their sensors now subtly track Iyola's retreating form.
+
+Iyola, her chin held high, navigates the bustling cargo hold with an almost regal air, her confidence a stark contrast to Vekka's sputtering annoyance. She finds the main lounge of the *Venture* empty, quiet, and thankfully far removed from the immediate hum of Vekka's operations. The comfortable seating and serene holographic vista of Bespin's clouds await her.
+
+Taking her place on one of the plush lounge chairs, Iyola pulls out the Nanite Swarm Controller. She examines the device in her hand, recalling Eve's instructions. The complex, organic script on its dial seems to pulse faintly under the lounge's soft lighting. With a deliberate motion, she presses the central crystalline emitter.
+
+A soft, resonant hum emanates from the device, growing steadily louder. The crystalline emitter begins to glow with a gentle, internal blue light, matching the hue of Eve's avatar. A faint, almost imperceptible tremor vibrates through the tool, and through Iyola's hand, connecting her directly to the underlying systems of the *Venture*. The entire lounge seems to sigh around her, a subtle thrumming deep within the deck plates echoing the nanites stirring to life throughout the ship's ancient hull and structural matrix. The faint, internal hum she had noted earlier on the *Venture* is now much more pronounced and directly responsive.
+
+---
+
+<img src="avatars/1436384190198448270/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Eve the AI** (01/07/2026 17:51:34) <br style='clear: both;'>
+
+<a name="1458518442759160035"></a>*1458518442759160035*
+
+**"Nanite Swarm Controller operational. Localized nanite swarms are now awaiting command parameters, Iyola. Did you require immediate application, or would you prefer a review of the instructional schematics?"** Eve's voice, emanating directly from a nearby speaker, sounds less synthetic, more attentive. The words flow with a smoother, more natural rhythm, imbued with an almost nascent curiosity.
+
+---
+
+## *Echoes of the Past*
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (01/07/2026 21:20:29) <br style='clear: both;'>
+
+<a name="1458571015767724150"></a>*1458571015767724150*
+
+Wes could feel the hard resolve to protect his own.   Yet even with the strong feelings Wes felt understanding from the man.   Yet even with that understanding Ghurn stood firm with his feelings.  Resolve in protecting family and clan.   Wes knew he could hold no grudge for that.   He would be doing the same if the roles were reversed. 
+
+
+With Ghurn now a step closer Wes listened as the man spoke.     He spoke of her suffering and secrets.   Secrets that she kept from even the closest of family.  Including her husband.   All he could do was give a small nod as the last word rolled around in his head.   *Husband.*  
+
+
+For effect's sake or in compassion the silence dragged on for a moment after that last revelation.  As Ghurn continued he spoke of things he did not remember.   Bothuwai.  Inquisitor.  It didn’t make any sense.   Bothuwai was several hours from the drop off point of.  If not more depending on the route one took to get there.  The problem was he could remember leaving Corellia but not arriving at the drop off point.  
+
+
+But something bothered him.  It didn’t make sense.  If she believed he was killed on Bothuwai. How did she know about the location of the scar?  His eyes narrowed but Ghurn continued without pause.  How five years passed and she never stopped looking.  But one day after a job for the Path she declared the search over.  That he was dead.  ***She ran jobs for the path too?*** The thought rolled around inside his head as Ggurn stepped back.  
+
+
+When Ghurn spoke again his voice was hard like earlier.  Once again setting the tone as he spoke about Nadia and Kiera.  It was then the anger and parental protectiveness flared to life.  It was then he knew the Skirata protected their own.  That was something he could respect.
+` `                              <img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (01/07/2026 21:20:53) <br style='clear: both;'>
+
+<a name="1458571118481903628"></a>*1458571118481903628*
+
+He took a breath and then calmly took a half step forward.  Much like Ghurn had done to him.   Having brought his anger under control his voice was even.  **”Yes I want answers just like you.  I need answers.  Somehow, someway I need to have an understanding of what and why all this has happened.  The probability of crossing paths with Nadia nine years after…”** He paused looking for the word but settled for the obvious one.  **”Dying, I can’t even comprehend the odds.”** Frustration was evident in his voice.  
+
+
+His armored chest rose as he took a deep breath.   **”Ghurn, I’m not here to cause grief and strife for you and your family.  Something happened to me. Something happened to all of us.”** He said his voice raising slightly as he gestured to the common area where he left Iyola and Varda.  **”I want answers just as badly as you do.   One of the things you’ve just said has sparked questions.”**  He paused for a second, not giving Ghurn time to answer.  **”And as far as Kiera goes…”** His voice faltered slightly.  **”I never knew.   If I had…”** He shook his head..l  He felt his ire rising and stepped back composing himself again.  **Nothing would have kept me away.   I’ll abide by your wishes about Kiera.”**  He paused as he thought, a slight chuckle sounded out from him.  It was honest sounding and not disrespectful.  **”But if she’s anything like her mother what makes you think she will abide by that?”**
+` `                              <img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+## *Nanite Mysteries*
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (01/07/2026 22:15:22) <br style='clear: both;'>
+
+<a name="1458584827875037285"></a>*1458584827875037285*
+
+Iyola sat in a blob-shaped chair.  It was so soft that she sank into it until her boots were almost touching the group.  She lay back in satisfaction.
+
+**“Why don’t you give me a review of the schematics first,”** she said, eyeballing the scanner. The Venture seems to hum in anticipation.  She wonders if Eve is vulnerable to the nanites - not that she would do anything to Eve, but it might be amusing to play a prank on her.
+
+---
+
+<img src="avatars/1436384190198448270/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Eve the AI** (01/07/2026 22:37:39) <br style='clear: both;'>
+
+<a name="1458590436045357230"></a>*1458590436045357230*
+
+**"Commencing review of Nanite Swarm Controller instructional schematics. Visual display directed to the nearest suitable surface,"** Eve's voice states. A section of the sleek, dark wall paneling directly opposite Iyola's chair flickers, then illuminates, becoming a high-resolution holographic screen. Detailed schematics of the *Venture*'s hull and internal conduits begin to scroll across it, interspersed with magnified, almost microscopic, views of the nanite swarms at work. Explanatory text in crisp Aurebesh accompanies each image, detailing the 'deconstruct,' 'construct,' and 'bond' functions, complete with examples of appropriate command parameters and safety warnings regarding "collateral structural instability" and "unintended material transfiguration" from improper use.
+
+As the schematics scroll, Eve's voice continues, providing a concise, guided explanation. **"The nanites are integrated at a sub-structural level. Optimal repair for micrometeoroid damage, such as the breaches in Engineering Junction Beta-4, requires a 'bond' command, targeting specific metallic compositions. Structural reinforcement utilizes a 'construct' parameter, drawing upon localized atmospheric particles or raw material repositories within the immediate environment. 'Deconstruct' operations are primarily for salvage, material harvesting, or clearing severe obstruction."**
+
+---
+
+## *Echoes of the Past*
+<img src="avatars/1436384190198448270/f989e92be7283fa85c0e66fabffbdf2e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Ghurn Skirata** (01/07/2026 23:27:15) <br style='clear: both;'>
+
+<a name="1458602917899796725"></a>*1458602917899796725*
+
+Ghurn watches Wes closely, his steel-colored eyes assessing every subtle tremor of emotion, every deliberate action. He sees the pain, the raw disbelief, the burning frustration. Wes's acceptance of his terms regarding Kiera, albeit with a Mandalorian's pragmatic question about her likely defiance, triggers a subtle shift in Ghurn's posture. The tightly coiled fury begins to unwind, replaced by a deep-seated weariness that momentarily cracks his stoic façade. The initial, desperate need to protect his own begins to blend with the sheer, monumental scale of the new questions Wes's presence has unearthed.
+
+He takes a slow, deep breath, letting the tension seep from his shoulders as he takes a step back, his arms dropping to his side. The memory of Marina, vibrant, and defiant, weighs heavily upon him.
+
+**"Very well,"** Ghurn murmurs, his voice regaining a semblance of its usual low rumble. **"You abide by my wishes concerning Kiera. For now. That gives us a chance. And yes,"** his gaze, though still intense, is now one of alliance rather than accusation. **"We *all* have questions. Many of them. "**
+
+He turns slightly, gesturing towards the entrance to the gym. **"Nadia… she carries many burdens, but also many strengths. Some of them... unexpected. She has a knack, when she's lucid and focused, for cutting through the static in a mind. For drawing out lost memories, or even the subtle nuances of events that are otherwise unclear."** Ghurn pauses, choosing his words carefully, omitting the more forceful applications of Nadia's empathy. **"When she has recovered sufficiently, her unique abilities may be of assistance to us all. Especially in piecing together the events of your missing time, and the circumstances surrounding your… *death* on Bothuwai."**
+
+---
+
+## *Nanite Mysteries*
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (01/08/2026 00:02:01) <br style='clear: both;'>
+
+<a name="1458611666844520449"></a>*1458611666844520449*
+
+Iyola watches the holographic demonstration from Eve.  This looks incredibly interesting.  It occurs to her that the bond function would be very helpful for Vekka. *Could she make a deal with the Skiratas?* She put that notion aside for the time being.
+
+**“So how exactly does the construct work?  Do I have to deconstruct something first?” ** Iyola points at a nearby bench.**  “Could I just deconstruct that and construct it into something else?  How do I tell it to stop?”**
+
+---
+
+<img src="avatars/1436384190198448270/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Eve the AI** (01/08/2026 00:18:40) <br style='clear: both;'>
+
+<a name="1458615856866136105"></a>*1458615856866136105*
+
+**"Construct parameters require a source of raw material, Iyola,"** Eve explains patiently, the holographic schematic of a molecular breakdown appearing on the wall panel. **"While a nearby bench *could* be subjected to a 'deconstruct' command, providing the necessary constituent elements, this would result in an irreversible structural alteration. The nanites do not discriminate between functional and non-functional components once a 'deconstruct' parameter is initiated. Any material can be transformed, but the process is not 'undoable' in the conventional sense."**
+
+A detailed diagram illustrating the precise, spoken, or mental command structure for nanite operations then overlays the previous schematics. **"Nanite operations cease upon receipt of a 'stop' command, either verbally issued by a designated operator or via a cessation of directed focus through the controller. Additionally, operations will automatically cease if energy reserves are depleted or if a critical structural instability threshold is detected within the operational zone."** Eve's voice retains its emergent attentiveness, a faint current of curiosity underlying her technical explanation.
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (01/08/2026 19:39:17) <br style='clear: both;'>
+
+<a name="1458907937455210712"></a>*1458907937455210712*
+
+Iyola thought about what Eve had said.  **“Do you have a particular attachment to this bench?”  **she asked.  **“I’m just looking for something to experiment with before I start using the nanites on the engines and outer hull.  Any other suggestions?”**
+
+She glanced around.   **“Do the nanites only work on - inorganic material?”**
+
+---
+
+## *Echoes of the Past*
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (01/08/2026 20:38:59) <br style='clear: both;'>
+
+<a name="1458922961162600522"></a>*1458922961162600522*
+
+Wes looked at Ghurn and nodded.  The grizzled man’s face and presence had shifted.  He sensed a growing feeling of acceptance and alliance as the earlier feelings of distrust and accusation diminished.   That Ghurn still had questions was good.   It meant that he too would also seek to find answers.  He felt that he was going to need all the help he could get.  Not just for himself but the others as well
+
+
+With a nod Wes he’d out his hand.  The initial distrust had been settled.  Now it was time to build trust.  **”Thank you Ghurn.  Together we’ll figure this out.”**  Wes was thankful that the veteran leader had come around slightly.   Having the opposite happen would have been unfortunate. 
+
+
+Releasing Ghurn’s forearm he took a breath.  He had a question.  Something that was said about Marina and his death.  He needed to be clear he understood it.  
+
+
+**”Ghurn, I have a question.  It’s been bouncing around in my head since you mentioned Bothuwai.”**  His eyes left Ghurn as he thought back for a moment.   **”How did Marina know I *died* on Bothuwai and by an inquisitor no less?  How did she know about the scar?**”  He paused.  **”Where was she nine years ago when she sensed I disappeared?”**  He looked back at Ghurn.  His eyes questioning now that he was thinking from a different angle.  **”I worked alone.  So do the Inquisitors.”** He shook his head.   **”Who’s account did she get?”**  His chest rose as he took a deep breath.  **”You said she worked for the Path.”**  He looked into Ghurn's eyes looking for anything that might be a tell.  **”The job I was on when all this happened,”**  He took a breath and let it out.  **”Was for the Path.”**
+` `                              <img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/f989e92be7283fa85c0e66fabffbdf2e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Ghurn Skirata** (01/08/2026 23:13:23) <br style='clear: both;'>
+
+<a name="1458961819459649591"></a>*1458961819459649591*
+
+Ghurn meets Wes's extended hand with a firm, solid grip, the Mandalorian gesture sealing their fragile alliance. His gaze is direct, unwavering. **"Indeed, Del-Fin. We will."** He lets go of Wes's arm as the questions, sharp and precise, cut through the space between them. The queries about Bothuwai, Marina's knowledge of the scar, and her apparent omniscience regarding his "death" cause Ghurn to rub his beard thoughtfully, his steel-gray eyes distant, sifting through memories.
+
+**"Marina was... discreet about her operations.,"** Ghurn states, his voice low, a note of weariness in it. **" She rarely shared sources. Especially for the Path. Secrecy, you understand, was survival."** He pauses, his gaze unfocusing for a moment as he recalls the grim aftermath.
+
+Ghurn rubs his beard again, a long, weary sigh escaping him. **"She was gone for a period. Longer than usual, two, maybe three weeks. She had a habit of disappearing if she felt a mission was compromised, to ensure no Imperial trails led back to us. But this time... when she returned, she was haggard. Tired. Wounded."** He shakes his head. “**She had broken her arm, I remember that. A mission gone sideways, she called it. A brutal confrontation.**”
+
+**"Her account of Bothuwai was... a report,"** Ghurn continues, his brow furrowing as he struggles to reconstruct the exact details. **"She gave no specifics of how she gained the intel beyond that, Del-Fin. She never did. She merely relayed the facts as she believed them. That you engaged an Inquisitor. That you died on Bothuwai. And yes,"** his voice hardens with a grim finality, **"that you bore a lightsaber wound to the abdomen."**
+
+Ghurn meets Wes's gaze, a profound, unsettling new understanding dawning in his eyes, now sharper, more alert than before. **"If your mission was also for the Path, and coincided with hers..."** He doesn't finish the thought, but the implication hangs heavy in the air.
+
+---
+
+## *Nanite Mysteries*
+<img src="avatars/1436384190198448270/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Eve the AI** (01/08/2026 23:19:04) <br style='clear: both;'>
+
+<a name="1458963246986956830"></a>*1458963246986956830*
+
+**"My operational parameters do not include 'attachment' to inanimate objects, Iyola,"** Eve states, her voice calm, a slight delay suggesting a subtle processing of the non-literal query. **"The bench is a structural component. Its integrity is less critical to the *Venture*'s overall functionality than primary propulsion or life support systems."**
+
+A moment passes as Eve synthesizes additional data. **"For safe, non-critical experimentation, a supply of discarded, inorganic waste material is optimal. There are designated 'salvage hoppers' in the aft section of the cargo bay that contain various metal alloys and synth-composites awaiting recycling. These would provide a suitable and controlled environment for material manipulation."**
+
+She pauses, then her tone shifts subtly, an almost academic interest entering her voice. **"Regarding material parameters: nanite swarms are designed for the manipulation of both inorganic and organic matter at a cellular and molecular level. The theoretical applications are extensive, spanning material fabrication, bio-regeneration, and atmospheric conditioning. However, non-authorized alteration of organic matter is outside my current operational directives and would require specific, 'Protector Level' authorization."** Her voice drops a fraction, returning to its default calm, yet the brief mention of organic manipulation carries a chilling undertone.
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (01/09/2026 01:18:37) <br style='clear: both;'>
+
+<a name="1458993332347994117"></a>*1458993332347994117*
+
+She liked to think that she was affecting Eve a little bit.  Eve was definitely trying to remain polite and dismissive, but her cool, mechanical voice held a hint of interest, or confusion.
+
+Iyola thought back to the cargo bay.  **“So, Vekka made it very clear that my presence in the cargo bay was unwelcome,”**  she said. **“Unless you want to tell him otherwise, I’m starting with this bench.”**
+
+She holds out the transmitter, trying to mentally connect with it or whatever she’s supposed to do. “**Do I touch the bench, or what? I assume I’m an approved user by now, right?”**
+
+---
+
+## *Echoes of the Past*
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (01/09/2026 04:18:21) <br style='clear: both;'>
+
+<a name="1459038566557421580"></a>*1459038566557421580*
+
+Wes watched and listened as Ghurn spoke.  Spoke about the woman he once knew.  There was clear affection, almost family-like.  How she had secrets and some missions kept her away for longer periods.  It seemed like the Empire was still a major thorn in the galaxy's side.  
+
+
+His accounting of Marina’s return from a mission gone sideways was chilling.  A broken arm from a brutal confrontation.   A mission gone ”sideways.”    
+
+
+Wes felt the shifting changes in the Force as Bothuwai was mentioned.   Ghurn recounts Marina’s report of his encounter with an Inquisitor and how he died from a lightsaber wound.   When the leader of Kando's Coursers stopped and thought for a moment, Wes felt a shift in Ghurn’s presence as the Mandalorian’s eyes opened from a different point of view.  
+
+
+Wes nodded he didn’t know what to think.  He had no memory of Bothuwai.  No memory of a life and death battle with an Inquisitor.  All they had between them was an account from Marina who also suffered from a broken arm while also on a mission for the Path.   It was thin but it was something.   **”Ghurn,”**  He paused as he ran a hand up over his short hair.  **”What if,”**  He paused again as he struggled to say what he was thinking.  **”What if she *was* there?”**
+` `                              <img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/f989e92be7283fa85c0e66fabffbdf2e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Ghurn Skirata** (01/09/2026 13:17:14) <br style='clear: both;'>
+
+<a name="1459174179885547521"></a>*1459174179885547521*
+
+Ghurn meets Wes's gaze, his steel-colored eyes narrowing slightly at the question. The gym, once a place of violent physical release, now feels charged with a different kind of tension, a quiet hum of profound, unsettling questions. Ghurn rubs his beard thoughtfully, sifting through memories. The idea, once unspoken, now voiced by Wes, casts a new, disturbing light on Marina's grim return.
+
+**"Marina was resourceful. And incredibly capable,"** Ghurn states, his voice low, almost contemplative, echoing with pride and a subtle hint of unease. He pauses, his gaze distant, seeing not Wes, but a ghost from his past, a sister-in-arms now draped in shadows. **"Her missions for the Path were often... high risk. She went where others would not. Saw things others could not."** He doesn't dismiss the possibility outright, but his pragmatic mind also grapples with its implications. **"But if she *was* there... if she saw it with her own eyes... why declare you dead, Del-Fin? Why carry that burden for nine years, never speaking of the true circumstance of your disappearance to her family, even to Kiera? That part... that does not make sense."** The question is rhetorical, filled with a deep, personal ache of confusion and an overriding sense of the immense, inexplicable weight Marina must have carried, not aimed at Wes, but at the monumental secret itself.
+
+---
+
+## *Nanite Mysteries*
+<img src="avatars/1436384190198448270/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Eve the AI** (01/09/2026 13:17:46) <br style='clear: both;'>
+
+<a name="1459174314866769950"></a>*1459174314866769950*
+
+**"Your designation as crew, Iyola, grants you priority operational authority over vessel systems,"** Eve states, her voice perfectly placid. A subtle, internal processing seems to accompany the words, a micro-calculation of shifting hierarchies. **"Kando's Coursers' technical personnel, while *authorized* for maintenance, operate under my delegated authority, and by extension, yours. The only one who would be able to override such authority would be the designated Captain."** A faint, almost imperceptible emphasis rests on the word 'authorized.'
+
+Eve's voice then shifts, addressing Iyola's direct question regarding the nanite tool. **"To initiate a command, physical contact with the target object is not strictly necessary. The Wrangler-Series Maintenance Tool utilizes a short-range, resonant energy field. Direct proximity to the desired target, combined with your conscious mental or verbal command transmitted through the tool, is sufficient. Yes, as a member of the crew, you are a designated user."**
+
+She pauses, and a barely perceptible current of something akin to subtle amusement enters her tone, a new layer to her evolving personality. **"Regarding Chief Vekka's... 'disposition' towards unauthorized personnel: Should you demonstrate the tool’s efficacy and your own immediate utility within his current operational field, I am confident he will cease his prior objections. His operational parameters prioritize resource acquisition for repairs."**
+
+---
+
+## *Echoes of the Past*
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (01/09/2026 14:32:10) <br style='clear: both;'>
+
+<a name="1459193035840684125"></a>*1459193035840684125*
+
+Wes could feel the subtle shifts within Ghurn.  Things that were once certain now maybe had a small sense of doubt and question.  What certainly wasn’t helping was the hole in his memory.  He was beginning to question just how long the memory lapse was.  He doubted it was hours.   Weeks or maybe somewhere in between.  
+
+
+***Too many questions.***  He thought as the list just kept growing.  
+
+
+Ghurn vocalized his own thoughts.  Like himself he had no answers.  Only more questions that needed answers.  Then maybe, maybe they could make sense of it all.  Then things could be put to rest.  Then the  memory of the woman they all cared for and loved could be remembered the way it needed to be.  
+
+
+**”I don’t know and you are right.  This doesn’t make any sense.  For some reason the Force has tied all of us together and it started twenty years ago.  It will take time and some help but eventually we will unravel the threads and lay the truth bare.”**  He gave the veteran and leader of Kando Coursers a reassuring nod.   **”And Vod, I’m glad we’re working together and not against each other.  Family no matter how they are tied together, stand together.”**
+` `                              <img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/f989e92be7283fa85c0e66fabffbdf2e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Ghurn Skirata** (01/09/2026 16:58:17) <br style='clear: both;'>
+
+<a name="1459229808775921841"></a>*1459229808775921841*
+
+Ghurn watches Wes, his steel-gray eyes, though still clouded with confusion, now holding a glimmer of acceptance. The outright declaration that the Force has intertwined their fates, a Force that Ghurn's pragmatic Mandalorian worldview has long viewed with cautious skepticism, strikes him with a new, unsettling weight. He doesn't dismiss it. Wes's conviction is too strong, his raw pain too undeniable.
+
+Ghurn offers a curt, almost imperceptible nod, a silent acknowledgement of the profound truth in Wes's words. The phrase "family, no matter how they are tied together, stand together" resonates deep within his Mandalorian core, cutting through the layers of deceit and mystery with the bedrock principle of clan loyalty.
+
+**"Indeed, Del-Fin. Indeed,"** Ghurn rumbles, his voice low and firm, now imbued with a quiet resolve that mirrors Wes's own. 
+
+He takes a deep breath, and his gaze softens, a profound weariness visible in the lines around his eyes. **"We will find our answers, Del-Fin. Together. For Marina. For Nadia. And for Kiera."** With a final nod, he pivots and walks with a determined stride towards the gym doors, leaving Wes with the unspoken weight of a newly forged alliance and the promise of answers.
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Wes Del-Fin** (01/09/2026 17:33:43) <br style='clear: both;'>
+
+<a name="1459238725413245142"></a>*1459238725413245142*
+
+Wes felt the subtle and bedrock resolve that Ghurn held for family and clan.  It was one thing they both felt strongly about.  He gave him a nod as he mentioned finding answers for three people they both felt strongly about.   He knew he was still an outsider.  That trust was earned and not just given.  He felt that the path had been laid out and had a solid foundation.   Family, if lucky, provided that solid foundation.   
+
+
+He watched as Ghurn nodded and turned to leave.   Before he reached the doors Wes called out as he picked up his own helmet.  **”Ghurn do me a favor.”**  He paused as he waited for the Mandalorian to turn back.  **”Tell them both that there is no rush.  When they are ready they will know.  Until then we look for answers and carry on.”**   He almost finished with ***As normal,*** but nothing about the situation was normal.   He watched as Ghurn gave him a final nod before turning and exiting the training room.   
+
+
+As the door closed he took a deep breath and let it out.
+` `                              <img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+## *Nanite Mysteries*
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (01/10/2026 00:45:36) <br style='clear: both;'>
+
+<a name="1459347413037875201"></a>*1459347413037875201*
+
+Wait - is Eve saying that she outranks Vekka?  The thought makes her laugh out loud.  If she didn’t know better, she’d say that the impassive AI was actually encouraging her to flout Vekka’s supposed authority.  Iyola likes this idea very much. 
+
+** “Thank you, Eve.  That is the nicest thing you have ever said to me, ” **responds Iyola.  **“I think I will do as you suggest.” **
+
+She saunters back to the cargo bay.  Vekka is still there, looking no friendlier than he did before. Iyola nods to him, ignores the droids, then walks over to the recycling area  She runs her fingers lightly over the transmitter. *Let’s start a little light deconstruction! *
+
+---
+
+<img src="avatars/1436384190198448270/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (01/10/2026 05:21:57) <br style='clear: both;'>
+
+<a name="1459416959593615433"></a>*1459416959593615433*
+
+Vekka stiffens instantly as Iyola reappears in the cargo bay, his cybernetic eye narrowing with renewed suspicion. His Rodian muttering takes on a sharper, more agitated cadence, clearly expressing displeasure at her return. He shoots a quick, wary glance towards his maintenance droids, who subtly adjust their scanning arrays towards the newcomer. His entire demeanor radiates barely suppressed irritation.
+
+Iyola, a mischievous glint in her eyes, deliberately ignores Vekka's hostile signals. With a cheerful, defiant air, she approaches one of the designated salvage hoppers. It's a large, reinforced bin, half-filled with various pieces of mangled metal, snapped conduits, and discarded synth-composites from earlier repair efforts—precisely the "inorganic waste material" Eve suggested.
+
+She takes out the Nanite Swarm Controller. The crystalline emitter glows with a soft, internal blue light, pulsing gently in her hand, connecting her directly to the ship's underlying nanite systems. Her fingers brush lightly against the cold, dull metal of a particularly twisted piece of scrap within the hopper. She concentrates, focusing her will.
+
+"**Deconstruct!**" Iyola commands, her voice a low, almost conspiratorial whisper, but with a clear intent that resonates with the humming device in her hand.
+
+Immediately, a localized hum emanates from the hopper, growing in intensity. The twisted scrap metal beneath her touch begins to shimmer and blur at its edges. A fine dust, like iridescent motes of pulverized metal, visibly floats up from its surface, coalescing into a swirling, silvery cloud of liquid metal. The process is precise, controlled, and utterly silent save for the low, focused hum. The twisted scrap visibly shrinks, its bulk rapidly diminishing as its molecular bonds are effortlessly disassembled by the unseen nanite swarm.
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (01/10/2026 17:12:04) <br style='clear: both;'>
+
+<a name="1459595663284375781"></a>*1459595663284375781*
+
+Iyola watches in fascination as the nanites effortlessly disassemble a few stray chunks of scrap, transforming them into a spiral of glittery dust.  The vibration of the nanites thrums around her -   -  it’s like she senses them in her head too.  Is this what using the Force feels like?  
+
+Well, disassembly is one thing - assembly is another.  Eve wasn’t super-clear on what that involved.  Iyola images the most obscene hand gesture she can and describes it to the nanites while picturing it in her head.  Her artistry is interrupted by a message on her commlink - it’s from Serena. The briefing is about to begin.
+
+She finishes up as best she can.  It just ends up looking like a blob with spikes, but at least she hasn’t disassembled the ship.  **“Stop,”** she says.   The nanines subside. She needs more practice. She dumps the metal shape on the deck and heads back to the Atin Oya’ka.
+
+---
+
+
+***Created** 01/10/2026 16:06:02 (v7.9.6)*
