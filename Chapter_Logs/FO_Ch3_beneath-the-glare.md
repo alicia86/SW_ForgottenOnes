@@ -1,4 +1,4 @@
-﻿# Forgotten Ones | Chapter 3: Beneath The Glare
+﻿# Forgotten Ones | FO Ch3 Beneath The Glare
 
 <img src="avatars/1436384190198448270/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
@@ -2821,5 +2821,629 @@ She finishes up as best she can.  It just ends up looking like a blob with spike
 
 ---
 
+## *Echoes of the Past*
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-***Created** 01/10/2026 16:06:02 (v7.9.6)*
+### **Wes Del-Fin** (01/11/2026 13:58:57) <br style='clear: both;'>
+
+<a name="1459909451594207464"></a>*1459909451594207464*
+
+Still standing in the middle of the mat there was a storm of thoughts that were brewing.  How did Marina know how he died?   She had specific info.   He worked alone and so did the Inquisitors.   *Who* was there to recount the tale of what happened?   How was she hurt?  How did he end up in cryo for nine years and why declare him dead? 
+
+
+He let out a sigh.   He could run these thoughts round and round and it wouldn’t change.   There was just not enough info and a gap in his memory to further compound the problem.  He could hear the voice of Master Davion.  **”Patience Wes.”**  He took a calming breath.  It did little to quell the thoughts or instill any patience.      
+
+
+Wes looked at his bracer computer and saw the time.  He had about an hour until the scheduled debrief.  He decided to head back to his quarters to clean up some.  He had a feeling that the near future was going to be busy.  He had the next hour to quell the new thoughts and regain the calm he sought.
+` `                              <img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Storyteller** (01/12/2026 02:35:15) <br style='clear: both;'>
+
+<a name="1460099782474469428"></a>*1460099782474469428*
+
+The two hours pass from when the initial meeting was scheduled. The *Atin Oya'ka* settles into a quiet rhythm. Iyola, having returned from her nanite experiments on the *Venture*, now finds herself in the lounge, engrossed in the vivid, fantastical world of *The Green Veil*, a welcome escape. Wes, still processing the monumental revelations from his conversation with Ghurn, has retreated to a quiet corner, his face a mask of deep, troubled contemplation. Dryzan and Misha have made themselves scarce, likely finding solace in their new quarters, while Vaeros remains a figure of intense, meditative stillness.
+
+As the appointed time of 1800 hours approaches, the internal comm chimes softly.
+
+serena::**"This is Serena Foss. Your escort is waiting at the main gangplank for the debriefing in Meeting Room Gamma."**
+
+---
+
+<img src="avatars/1436384190198448270/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Storyteller** (01/12/2026 02:35:17) <br style='clear: both;'>
+
+<a name="1460099791114600724"></a>*1460099791114600724*
+
+Wes and Iyola, refreshed and prepared, make their way to the gangplank. Varda, with a quiet, almost apologetic nod to the others, remains behind, her presence a silent, watchful stillness.
+
+Kella, the lean Mandalorian enforcer, waits for them, her helmet's T-visor a blank, impassive mask. She offers a curt nod, then turns, leading them back through the familiar, utilitarian corridors of Kando's Coursers' compound.
+
+The journey to Meeting Room Gamma is a swift, silent affair. The door hisses open to reveal Ghurn Skirata and Serena Foss, already waiting. Ghurn, his helmet resting on the polished table before him, offers a nod of acknowledgment. His expression, though still etched with a deep weariness, has lost its earlier, hard-edged fury, replaced by a quiet, focused resolve. Serena, as always, is a picture of professional calm, her datapad glowing softly in her hands.
+
+---
+
+<img src="avatars/1436384190198448270/f989e92be7283fa85c0e66fabffbdf2e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Ghurn Skirata** (01/12/2026 02:35:17) <br style='clear: both;'>
+
+<a name="1460099792997842977"></a>*1460099792997842977*
+
+**"Thank you for coming,"** Ghurn begins, his voice a low rumble, devoid of its earlier, accusatory tone. He gestures to the comfortable chairs around the table. **"Please, sit. Let's hear what you've learned. The Gilded Grasp... their recent activities... every detail is important."** His gaze is direct, intense, but it is the gaze of a commander seeking vital intelligence, not a judge passing sentence.
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Iyola Kett** (01/13/2026 03:12:23) <br style='clear: both;'>
+
+<a name="1460471514527957126"></a>*1460471514527957126*
+
+Iyola is rapt, curled up on one of the low, wide seats in the lounge, scanning *The Green Veil.*  Aradara has just commenced an undercover operation where she’s impersonating an Umbaran exotic dancer (Tsalee)  in order to strike at the cruel yet undeniably alluring underworld boss Ne’x’Ha’Ro, who has never shown his true face.  If she had to guess, this is where the eponymous green veil will enter the plot.  But before she can go on stage, she has to somehow circumvent security in the cantina vault in order to obtain an extraordinarily rare snifter of brandy for - she forgets why, something from *The Sky, The Eye *(volume three).  
+
+And of course, it’s just then that the chime sounds. They’re being summoned by Ghurn . **“Dank ferrik,”** Iyola groans loudly, for the benefit of all these Mandalorians.  
+
+They’re led back to the conference room.  Ghurn and Serena are already there, in their usually unsmiling manner. Ghurn Skirata invites them to share whatever they’ve learned about the Gilded Grasp.
+
+Iyola glances over at Wes with the tiniest smirk on her face.  It will be fun explaining their cover story to Ghurn.  *Maybe I needed a green veil,* she thought to herself.
+
+But she can start off.
+
+**“OK, first of all, the drinks at the Ruby Sun are tasty, but they’re really watered down.  Total ripoff.  **
+
+**People meet at the bar if they have pre-planned meetings - I saw this Mirialan meet a Rodian -  but I didn’t see anyone being approached there.  We saw that operative you mentioned, Lyssa.  She was wearing some very pretty jewelry that I assume had scanners in it, but she just sort of lounged around and looked bored..  **
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Iyola Kett** (01/13/2026 03:12:23) <br style='clear: both;'>
+
+<a name="1460471515689648307"></a>*1460471515689648307*
+
+She glanced at the two Skiratas, then continued.** "So there was this male human,  wrinkled suit, flat ugly tie, looked like he hadn’t slept in a few days.  At some point he headed toward the back corridor.  This was just around when I decided I needed to hit the freshers, which are also down that corridor.  The freshers are very clean, by the way, great housekeeping.  **
+
+**And then I ran into my friend and yours, Kalen.  Want to take it from here for a bit?”**  she asked Wes, trying to hide the smile on her face.
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Wes Del-Fin** (01/14/2026 12:08:46) <br style='clear: both;'>
+
+<a name="1460968890338381927"></a>*1460968890338381927*
+
+Wes sat at the table listening to Iyola begin to give a run down of what they had seen on their first foray.   When Iyola decided to be the first one to speak, Wes simply nodded, thankful for her taking the first opportunity to talk.  He looked around the room as she began to talk.  Thoughts of his recent talk with Ghurn flashed.  Nadia and her ability to work though mind blocks and help people to remember.  Marina and her account of how he was ‘no more.’  Her injury and finality that he was gone.  What was maybe the most surprising was Kiera.  She was Marina's second daughter.  She was also his daughter.  It was then he heard Iyola mention his name.   He cleared his throat as he looked at her and then back to Ghurn and Serena.  Clearly had been caught deep in thought.  
+
+
+**”Yes,”**  He started.   **”The agitated human.   After Iyola had left for the freshers,”**  Wes had decided to not use her alias.  **”I observed the human male also leave the lounge.   Seeing that he had headed in the same direction as Iyola, I decided to follow.”**  He took a breath.  **”I had traced him to a private room.   I didn’t see him go in but I could sense his presence in the room and he was agitated.  Something was going on.   I convinced Iyola to go along with me on finding out.”**  He looked to his side at Iyola and he couldn’t help but see the knowing smile she was attempting to hide but failing miserably at knowing what was coming.  
+
+
+He looked back at their employers.  **”I wanted to surprise whomever was in the room. It was locked and we had no access.  Fortunately I was able to tamper with the door's locking mechanism.”**  He saw the subtle movement of Serena’s head tilt to the side.  He looked at her.  **”I used the Force to ‘jimmy the lock’ to give us access.  We then stumbled in acting as a couple looking for a private place to be alone.  Little did me know the human was having a meeting with a Gran.   Xylo I believe his name was.  We bid a hasty retreat after that.”**
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Wes Del-Fin** (01/14/2026 12:08:47) <br style='clear: both;'>
+
+<a name="1460968891101479056"></a>*1460968891101479056*
+
+` `                              <img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/f989e92be7283fa85c0e66fabffbdf2e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Ghurn Skirata** (01/14/2026 14:18:26) <br style='clear: both;'>
+
+<a name="1461001518747619370"></a>*1461001518747619370*
+
+Ghurn listens intently, his expression unreadable, a muscle ticking in his jaw as Iyola describes her initial observations. He nods slowly as she recounts the nervous human male, then turns his sharp gaze to Wes as he takes over the narrative. The mention of using the Force to "jimmy the lock" and the impromptu 'lovers' ruse elicits a faint, almost imperceptible quirk of Ghurn's lips, a flicker of something that might be amusement, or perhaps a grudging respect for their audacity. He says nothing, merely steeples his fingers, his gaze unwavering as he waits for them to continue.
+
+---
+
+<img src="avatars/1436384190198448270/7765d78b4383748b2af3d3877c5b06b1.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Serena Foss** (01/14/2026 14:18:26) <br style='clear: both;'>
+
+<a name="1461001521134309459"></a>*1461001521134309459*
+
+Serena, meanwhile, makes a quick, precise note on her datapad. Her professional smile remains, but a new, almost clinical, interest glints in her dark eyes. **"Xylo,"** she confirms, her voice smooth and even. **"That aligns with our intelligence. He is one of their primary 'client acquisition' specialists. To find him in a private meeting with a distressed corporate type... that is significant."** She looks up from her datapad, her gaze meeting theirs. **"Did you happen to catch the human's name? Or his corporate affiliation?"** Her question is direct, professional, a clear indication that every detail is valuable.
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Iyola Kett** (01/14/2026 14:46:34) <br style='clear: both;'>
+
+<a name="1461008599626285147"></a>*1461008599626285147*
+
+**“Oh, yeah, the human’s name was Koral,” **said Iyola.  **“Didn’t catch his affiliation, but Xylo did say something about his collateral being forfeit, and that Silas Vane didn’t like inefficiency.”  **
+
+**“When Lyssa left, we trailed her,**” Iyola added. ** “I saw which tram she got on, and I tracked the possible routes.  Don’t worry, she didn’t see us.  If she leaves on the same route from the Ruby Sun on a regular basis, she could probably be followed to her destination, if that’s something you want to do.” **
+
+---
+
+<img src="avatars/1436384190198448270/f989e92be7283fa85c0e66fabffbdf2e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Ghurn Skirata** (01/14/2026 18:41:28) <br style='clear: both;'>
+
+<a name="1461067715039985777"></a>*1461067715039985777*
+
+Ghurn's gaze sharpens, a flicker of genuine interest in his steel-gray eyes. **"Koral,"** he repeats, the name a low rumble. He glances at Serena, who is already tapping the name into her datapad, cross-referencing it with their internal databases. The information about "collateral forfeit" and Lyssa's tram route is clearly of high value.
+
+
+**"Good,"** Ghurn states, a note of approval in his voice. **"That is actionable intelligence. Your methods are... *unorthodox*,"** he glances at Wes, the corner of his mouth twitching slightly, **"but effective. You've confirmed a target and a potential point of leverage. And a pattern of movement for their slicer."** He leans back in his chair, deep in thought.
+
+---
+
+<img src="avatars/1436384190198448270/7765d78b4383748b2af3d3877c5b06b1.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Serena Foss** (01/14/2026 18:41:48) <br style='clear: both;'>
+
+<a name="1461067797177307197"></a>*1461067797177307197*
+
+Serena looks up from her datapad, her expression still professionally composed, but her eyes now hold a spark of keen analytical interest. **"Koral,"** she confirms, her voice crisp. **"We have a preliminary match. Koral Wex, a mid-level logistics manager for the Tibanna Gas Guild. He has... significant gambling debts, according to public records. A prime target for Xylo's methods."**
+
+
+She makes a final note, then looks directly at Iyola. **"Your observation of Lyssa's departure route is also invaluable. Establishing a pattern of movement is critical. We will analyze the routes you've identified."** She offers a rare, genuine smile of professional respect. **"Your team's first outing has been… productive. This is precisely the kind of data we need to build a comprehensive picture of Vane's operations."**
+
+
+Serena finishes inputting the last of the data, her fingers moving with practiced speed across the datapad's surface. She looks up, her gaze sweeping over Wes and Iyola, her professional smile firmly back in place.
+
+**"This has been a very productive initial report,"** she states, her voice smooth and appreciative. **"The information on Koral Wex and Lyssa's movements provides us with several new avenues for investigation."** She pauses, giving them a moment to absorb her praise before continuing. **"Before we conclude this debriefing, is there anything else you observed? Any other unusual interactions, overheard conversations, or subtle details that struck you as out of place during your time in the Casino District?"** Her question is open-ended, a final, thorough sweep for any missed intelligence before they move on to the next phase of their operations.
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Iyola Kett** (01/14/2026 19:08:46) <br style='clear: both;'>
+
+<a name="1461074582915256519"></a>*1461074582915256519*
+
+*I was the most out of place thing there, * thinks Iyola.  Aloud, she says,  **“Well, there was a Besalisk drumming his fingers on his top two hands on the bar.  It seemed very rhythmic, like a message or a code.**”
+
+She thinks a bit more. **“Obviously the private consultation room is supposed to be sound-proofed, right?  But when I went into Fresher 2, I could just kind of hear through the wall.  Not words, exactly, just enough to know that Xylo and Koral were arguing.  If you sent someone in there with a listening device, I bet they’d be able to pick up anything from that room.” **
+
+She’s been making notes in her datapad and slides it over to Serena.  **“That’s the tram route Lyssa took, number and time, and those are the possible transfer points.” **
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Wes Del-Fin** (01/14/2026 23:53:10) <br style='clear: both;'>
+
+<a name="1461146157353799690"></a>*1461146157353799690*
+
+Wes nodded as Iyola mentioned the Besalisk business man.   He also thought that the drumming fingers seemed odd.  Perhaps there was a method to the drumming.  He made a mental note to get a recording if he noticed it again.  
+
+
+**”There was also a Mirialian female there.  She was on a call but other than that there wasn’t much about her that caught attention.  Also, Lyssa was using a device of some sort.  Maybe a listening device that would allow her to eavesdrop the whole area.  It operated at a higher frequency.   The audio pickups in my helmet helped me pick up on it.  A device that would disrupt multiple frequencies or a range of frequencies would be a good idea.”**
+` `                              <img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/7765d78b4383748b2af3d3877c5b06b1.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Serena Foss** (01/15/2026 01:28:43) <br style='clear: both;'>
+
+<a name="1461170203219066942"></a>*1461170203219066942*
+
+Serena's expression remains composed, but her eyes sharpen with keen interest as Iyola and Wes detail their further observations. She makes several quick, precise notes on her datapad, her stylus flying across the screen.
+
+**"A rhythmic pattern... intriguing,"** Serena murmurs, more to herself than to the room, as she logs the detail about the Besalisk. She then looks up at Iyola, a flicker of genuine appreciation in her eyes. **"And a potential acoustic vulnerability in a sound-proofed consultation room. That is an excellent tactical observation, Iyola. A significant oversight on their part. We will certainly explore that possibility."** She accepts the datapad from Iyola, quickly downloading the tram route data with a grateful nod.
+
+Her attention then snaps to Wes as he describes the high-frequency device. **"A wide-spectrum passive scanner,"** Serena confirms, her voice taking on a harder, more analytical edge. **"Lyssa is more equipped than our initial intelligence suggested. A frequency jammer... yes, that is a sound countermeasure. We will look into procuring a suitable, discreet device."**
+
+She finishes her notes and looks to Ghurn, offering a slight, almost imperceptible nod, indicating that the debriefing is complete and the intelligence gathered is significant.
+
+---
+
+<img src="avatars/1436384190198448270/f989e92be7283fa85c0e66fabffbdf2e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Ghurn Skirata** (01/15/2026 01:28:46) <br style='clear: both;'>
+
+<a name="1461170216871395571"></a>*1461170216871395571*
+
+Ghurn, who has been listening in stony silence, slowly pushes his chair back. He stands, his formidable presence once again filling the room. He looks from Wes to Iyola, his gaze lingering for a moment on each of them. The faintest hint of a smile, a flicker of genuine, hard-won respect, touches his lips before vanishing.
+
+**"Good work,"** he rumbles, the two words carrying the weight of a full commendation. **"You have proven yourselves to be... resourceful. Serena will process this intelligence and provide you with your next set of directives when they are ready. Until then, you are at your leisure. Rest. Re-equip. Familiarize yourselves with the city. But remain discreet."**
+
+With a final, decisive nod, Ghurn turns and strides from the room, leaving the *Venture* crew in the quiet, professional care of Serena Foss, their first mission for Kando's Coursers a clear and resounding success.
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Iyola Kett** (01/15/2026 04:04:23) <br style='clear: both;'>
+
+<a name="1461209375656902793"></a>*1461209375656902793*
+
+Iyola looks over at Wes and gives him a tiny nod.  It looks like they did a pretty good job after all.
+
+Ghurn suggests they relax - but Iyola is just getting started, and she has a destination in mind.  “**Serena, when I was at the Ruby Sun, I learned about a boutique called the Vertigo Spire Galleria.  It was suggested to me that I’d have a better visit if an invitation was arranged for me. Is that something you can do?”  **Iyola smiled winningly.
+
+---
+
+<img src="avatars/1436384190198448270/7765d78b4383748b2af3d3877c5b06b1.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Serena Foss** (01/15/2026 17:46:59) <br style='clear: both;'>
+
+<a name="1461416393051213904"></a>*1461416393051213904*
+
+Serena’s professional smile remains perfectly in place, though a flicker of amusement dances in her eyes at Iyola's directness. She makes a swift, elegant note on her datapad.
+
+**"Of course, Iyola,"** she replies, her voice smooth as polished synth-wood. **"Arranging access to establishments like the Vertigo Spire is a standard client service. I will contact my liaison and schedule a private viewing for 'Tira Ves' tomorrow afternoon."**
+
+She pauses, her gaze meeting Iyola's. **"Regarding your assets, the conversion is complete. Your gems yielded a favorable rate. Those credits, along with the initial stipend and the bonus for a successful operation, have been transferred to your ident chip. You should find your balance quite sufficient for an establishment like the Galleria."** She offers a small, knowing smile. **"Do let me know if you require a discreet transport. Your ident cards handle transportation utilizing the public services, however private transport must be handled separately."**
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Wes Del-Fin** (01/15/2026 23:37:02) <br style='clear: both;'>
+
+<a name="1461504484827074702"></a>*1461504484827074702*
+
+**”Serena I have a question for you before you leave.”**   When she gave him a small nod Wes waited for the two women to finish talking.  He had a question and figured that since Serena had her hands deep in the Skirita organization she may have some info for him.  He just hoped that if she did she was authorized to divulge it.  
+
+
+Waiting patiently Wes ran through a calming technique to quell the abundance of thoughts that ran through his mind.  Ghurn’s account of Marina’s return from a mission nine years ago.  Nadia being Marina’s daughter. The same one he sensed through the life stone almost twenty years ago.  Then the image of a young girl, Nadia’s younger sister came to mind.  Kiera.  His and Marina’s daughter.  He let out a deep breath when he saw Serena look at him and ask a question.  
+
+
+His eyes focused on the impeccably dressed Serena.   He sensed that if anyone may know or have the ability to tell him the answer to his question that it’s most likely her.   **”Yes I have a couple questions.   Clan Def-Fin and my father Cal, is there any information on them that you know of or can find out.”**
+` `                              <img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/7765d78b4383748b2af3d3877c5b06b1.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Serena Foss** (01/16/2026 00:04:31) <br style='clear: both;'>
+
+<a name="1461511401964175477"></a>*1461511401964175477*
+
+Serena turns her full attention to Wes, her professional demeanor softening with a hint of genuine curiosity. She gives him a patient, understanding nod as he gathers his thoughts.
+
+**"Of course, Wes,"** she replies, her voice retaining its smooth, measured cadence. **"Regarding Clan Del-Fin and your father, Cal... your name and clan affiliation are not common in recent registries, which, given the times, is not surprising. Many of the old clans have gone to ground or operate under new banners."**
+
+She makes a few swift, precise notes on her datapad. **"Kando's Coursers maintains an extensive network of contacts, both public and... less so. I will initiate a discreet inquiry through our channels. We will cross-reference old Republic military contracts, Mandalorian clan registries, and any shadow-net chatter that might mention Cal Del-Fin or the clan's sigil. It will be a 'deep archive' search. Such inquiries take time, but if there is a trace to be found, our resources are well-suited to the task."**
+
+She looks up from her datapad, her gaze direct and reassuring. **"I will inform you personally the moment we have anything credible. Is there any other information you can provide that might aid the search? Last known associates, ship transponder codes, specific sectors of operation?"**
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Wes Del-Fin** (01/17/2026 14:40:58) <br style='clear: both;'>
+
+<a name="1462094352531587125"></a>*1462094352531587125*
+
+Wes nodded and spoke, his voice low.   **”Thank you Serena.  The clan went to ground shortly after Order 66.”**  He paused.  **”Apparently even though I had just joined the Jedi Order just weeks before, their record keeping must have been up to par.  The last contact I had with my Father was to stay on the run.   It didn’t sit well with me but I followed his order.   When I came back from the Unknown Regions there was nothing left of Clan Del-Fin or my father that I could discretely find.”**  He took a breath as memories and emotions had come back from those times.  He shook his head and let the breath out.  He was a much different man now.   **”I’ll get that information off to you shortly.”**
+` `                              <img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/7765d78b4383748b2af3d3877c5b06b1.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Serena Foss** (01/17/2026 17:55:16) <br style='clear: both;'>
+
+<a name="1462143253280198900"></a>*1462143253280198900*
+
+Serena gives Wes a slow, empathetic nod, her expression softening with a hint of genuine understanding. **"A difficult path, to be sure,"** she says, her voice a low, respectful murmur. **"The galaxy has consumed many good names in the last two decades. We will do what we can to find yours."**
+
+She makes a final, decisive note on her datapad, then straightens, her professional composure returning. Her gaze sweeps over Wes and Iyola, offering each a brief, direct look.
+
+**"Very well,"** Serena states, her tone shifting to one of brisk efficiency. **"Before I take my leave to coordinate these matters, are there any other immediate logistical requests?"** Her question is a final, professional courtesy, a last opportunity before she resumes her other tasks.
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Wes Del-Fin** (01/17/2026 22:29:20) <br style='clear: both;'>
+
+<a name="1462212223492689950"></a>*1462212223492689950*
+
+Wes gave Serena a small nod at her words.  Since waking up he hadn’t gone looking for info.   He didn’t have the connections for that kind of deep dive of information.  He silently hoped that his father and the clan had managed to survive the fall of the Republic.   At Serena’s follow-up before she rose to leave Wes nodded.  Having more funds on hand was a good idea.  **”It’s not an immediate need with the payout of the mission we just did but if you could arrange for a buyer for the gems?   I’d be willing to part with two thirds of them.”**  He watched Serena nod as she jotted down the request.
+` `                              <img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/7765d78b4383748b2af3d3877c5b06b1.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Serena Foss** (01/17/2026 23:31:34) <br style='clear: both;'>
+
+<a name="1462227885376012511"></a>*1462227885376012511*
+
+Serena gives Wes a small, professional nod, her stylus making another quick, silent note on her datapad. **"Certainly, Wes. I can facilitate that."**
+
+She looks up, her expression a careful balance of professional honesty and reassurance. **"Iyola's transaction benefited from very favorable market conditions at the time of appraisal. I cannot guarantee an identical rate, as the market for such high-value, unregistered assets is... fluid. It depends heavily on the immediate needs of a very select clientele."**
+
+She offers a slight, confident smile. **"However, if the quality of the stones is similar to Iyolas then the gems you all recovered is exceptional. That will work in your favor. I am confident our network can secure a competitive offer."**
+
+After collecting the gems and placing them into a secure pouch she pauses, her gaze sweeping over the pair one last time. **"If there is nothing else, I have several matters to attend to. Ghurn will expect a full report. I will leave you to your planning."** With a final, crisp nod, she turns and exits the room, her footsteps silent and efficient, leaving them to the quiet luxury of the meeting room.
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Iyola Kett** (01/19/2026 02:09:51) <br style='clear: both;'>
+
+<a name="1462630105745457175"></a>*1462630105745457175*
+
+**“I don’t need anything else, right now,” **says Iyola.  **“Have a good night.**  *At least, nothing that Serena could do for her.*
+
+She turns to Wes.
+
+**“So, I hear there’s a gym around here,”** she says.  “I**s there a climbing wall?”**  Normally she’d climb in the cargo bay, but Vekka and his droids were mucking with everything there.  
+
+**“What are your plans for tomorrow, Wes?”** she asks.  **“Tira’s going to that Vertigo Spire place.”**  She looks around. ** “Anyone seen Misha, Vaeros, or Dryzan recently?”**  She would not be surprised if Dryzan made a break for it.  *Cloud City seemed to be his kind of place.  *
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Wes Del-Fin** (01/19/2026 03:03:37) <br style='clear: both;'>
+
+<a name="1462643637060899003"></a>*1462643637060899003*
+
+Wes watched Serena leave the briefing room.   He raised an eyebrow as Iyola asked about a gym and a climbing wall.  A corner of his mouth rose up to form a half smile.  **”Yeah there is.”** He nodded.  **”On the *Oya’ka.*  I’m not sure if there is a wall.  If there is, it's not very big.  As far as tomorrow I’m not sure but hanging around here may not be the best thing right now.”**
+` `                              <img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Iyola Kett** (01/19/2026 17:01:02) <br style='clear: both;'>
+
+<a name="1462854377919348796"></a>*1462854377919348796*
+
+**“Well, if you’re bored, feel free to tag along tomorrow,**” she says.  **“I’m going to go to the Vertigo place, and then I’m checking out whatever else this city has to offer.  I hear there’s a museum.  It would be interesting to see how they present artifacts and history in this time and place. I’m going to hit the gym.  I’m a little wired up right now.” **
+
+Iyola headed back to her quarters.  There was one school of thought that one should exercise in whatever you wore on a regular basis, and certainly her outfits were normally selected for durability and flexibility.   She was sure that Mandalorians who wore armor likely spent their time lifting weights or punching walls or whatever they did in their full beskar.  If she was practicing mountain climbing, she’d be up on an icy rockface. It occurred to her that Bespin might have some fantastic climbing opportunities on their girders. She’d forgotten to ask Serena about that.  She guessed even Serena, the closest she’d even seen a human come to being a protocol droid, wasn’t working all the time.
+
+ However, this was a fitness-focused workout, not a live simulation.  And Mandalorians, for whatever other qualities they possessed, were practical beings.  Iyola rummaged through her pack.  Shedding her green jacket, she changed into a supportive strappy bandeau and wrapped her hands and wrists, sticking the chain and comm link into a pouch around her supportive belt. 
+
+She headed to the gym and took a look around.  She assessed the walls to see how difficult a traverse climb would be - then she’d do some footwork and agility drills.  She was pretty confident that there would be a lot of things for her to hit at this Mandalorian gym.
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Iyola Kett** (01/19/2026 17:01:13) <br style='clear: both;'>
+
+<a name="1462854426703171645"></a>*1462854426703171645*
+
+<img src="media/FO_Ch3_Beneath-the-Glare/Iyola_at_the_gym.png" alt="Iyola_at_the_gym.png" style="height: 400px;" height="400">
+
+---
+
+<img src="avatars/1436384190198448270/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Wes Del-Fin** (01/19/2026 18:09:36) <br style='clear: both;'>
+
+<a name="1462871635857244171"></a>*1462871635857244171*
+
+Wes nodded at Iyola’s thoughts on heading out tomorrow.   It was something to do and it would help keep his mind active.   He had a feeling that alone time wasn’t going to be prudent to keep him from thinking about recent revelations.  Meditation might help but he wasn’t exactly sure if it would help.   **”Sure, give me a little lead time and I’ll be ready to escort you out once again.”**  
+
+
+He placed both hands on the meeting table and stood.   The sturdy chair moved back along the floor barely making a sound.  A small smile crossed his face the first since his talk with Ghurn.   ***Made sturdy for the added bulk of armor.***  He thought as he picked up his helmet.  **”I’ll be on the *Oya’ka* if you need anything.”**
+
+
+Together they walked quietly back to their temporary home.  Quietly and in thought Wes went to his quarters where he methodically removed his armor.  The ritual of the actions was comforting as it drew his mind from the cascade of thoughts that battled to be dwelled upon.  He took out his tool kit and began looking over the pieces of his armor.
+` `                              <img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
+
+---
+
+## *Epilogue: Iyola*
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (01/20/2026 01:42:11) <br style='clear: both;'>
+
+<a name="1462985529439031461"></a>*1462985529439031461*
+
+Iyola’s about to start her workout in  the gym on the Oya’ka. Then she stops.  The Oya’ka is a smaller gym - she bets the main gym in the compound will have much more equipment and fun things to play with.  She leaves and heads in that direction. She hopes they have a jet pack simulator.  She’s always wanted a jet pack.
+
+---
+
+<img src="avatars/1436384190198448270/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (01/20/2026 03:46:28) <br style='clear: both;'>
+
+<a name="1463016809576923203"></a>*1463016809576923203*
+
+The doors to the *Atin Oya'ka*'s gym slide open with a soft hiss, revealing a space that, while compact, is a model of Mandalorian efficiency. One wall is lined with racks of heavy, polished durasteel weights and various resistance machines, all secured and meticulously maintained. The opposite wall is padded for sparring and close-quarters combat drills, bearing the faint scuff marks of countless training sessions. The floor is a wide, open expanse of shock-absorbent matting, perfect for grappling or martial arts practice. It's a space designed for building raw, functional strength, not for complex agility training. There is no climbing wall.
+
+Iyola assesses the room, a flicker of disappointment crossing her face. While practical, it lacks the variety she craves for a full workout. Her eyes drift to the walls, assessing their smooth, featureless surfaces. A traverse climb would be possible, but unchallenging, a mere test of grip strength rather than skill.
+
+With a shrug, she pivots and heads back out, her mind already set on a new objective. Leaving the quiet confines of the *Atin Oya'ka*, she navigates back through the familiar corridors of the Kando's Coursers' compound, her ident chip granting her access as she moves. She follows the Mando'a signage for 'Training Facilities,' her curiosity piqued.
+
+---
+
+<img src="avatars/1436384190198448270/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (01/20/2026 03:47:01) <br style='clear: both;'>
+
+<a name="1463016948152537213"></a>*1463016948152537213*
+
+The doors to the main compound gym slide open, revealing a space that is significantly larger and more utilitarian than the one on the cruiser. This is a communal training area for the entire security detail. The air is thick with the scent of sweat, ozone, and metal. The low hum of ventilation systems is punctuated by the rhythmic clank of weights and the distant, muffled thud of blaster fire from an adjacent firing range.
+
+The space is dominated by a full-sized sparring ring in the center, its floor scuffed with the marks of countless duels. Racks of heavier weights line one wall, along with more advanced strength-training apparatus. Another wall is a dedicated, multi-angled climbing surface, its surface a complex matrix of handholds and footholds designed to simulate a variety of terrains, from sheer rock faces to the hulls of starships. However, to Iyola's disappointment, there is no jetpack simulator to be found. It seems Kando's Coursers prefer their flight training to be conducted in the open, unforgiving skies of Bespin, not in the controlled environment of a simulator.
+
+Iyola Kett (@undefined)
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (01/20/2026 03:57:01) <br style='clear: both;'>
+
+<a name="1463019464579878923"></a>*1463019464579878923*
+
+*Now this is more like it.*  She can forgive the lack of jet pack simulation devices, because there is a gorgeous climbing wall here, a tantalizing set of problems.  She notes some rappelling equipment, which she doesn’t bother with.  Is this supposed to be a cargo freighter hull?  Lovely.  She likes the fact that there are others using the gym here too; makes it less lonely. 
+
+ Examining the wall for a moment, Iyola wedges her hands into what passes for holds on this wall, pulling herself upward.  *I wonder if I can climb right onto the ceiling from here*, she muses.
+
+---
+
+<img src="avatars/1436384190198448270/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (01/20/2026 04:22:22) <br style='clear: both;'>
+
+<a name="1463025840337064027"></a>*1463025840337064027*
+
+Iyola, her hands and wrists already wrapped, approaches the climbing wall, a grin of pure, unadulterated joy spreading across her face. She finds her first handholds on the complex, metallic surface, her climber's instincts immediately taking over. The texture is a mix of smooth, angled plates and rough, friction-coated grips, simulating the hull of a starship under repair. She moves with a fluid, confident grace, her muscles responding with practiced ease. Her initial ascent is swift, a blur of motion as she finds her rhythm, the mundane worries of the day falling away with each upward pull.
+
+A few meters up, as she pauses to plan her next move, a voice from below cuts through her concentration, sharp and tinged with a familiar, professional authority.
+
+---
+
+<img src="avatars/1436384190198448270/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **???** (01/20/2026 04:22:22) <br style='clear: both;'>
+
+<a name="1463025842585075902"></a>*1463025842585075902*
+
+**"You've got a good reach, but your footwork is sloppy. You're relying too much on upper body strength. On a real hull breach, with zero-g and a failing magnetic seal, that'll get you killed."**
+
+---
+
+<img src="avatars/1436384190198448270/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (01/20/2026 04:22:22) <br style='clear: both;'>
+
+<a name="1463025844145492094"></a>*1463025844145492094*
+
+Iyola glances down. Standing at the base of the wall, arms crossed over her chest, is a tall, lean human woman she doesn't immediately recognize. Stripped of her bulky Mandalorian armor, she's dressed in simple, gray and black athletic gear that does little to hide a frame honed by years of intense, disciplined training. Her dark hair is pulled back in a severe, practical bun, and her face, though currently set in a look of critical assessment, is sharp and intelligent. Faint, silvery scars, thin as a razor's edge, trace a path along one side of her jawline, disappearing into her hairline—the marks of a life lived on the edge.
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (01/20/2026 13:31:55) <br style='clear: both;'>
+
+<a name="1463164140549046312"></a>*1463164140549046312*
+
+Iyola locks off and stops her ascent for a moment.  She considers the woman below, and her commentary, hanging off the wall like a mynock.  Irritation at being called sloppy and genuine curiosity battle inside her for moment, and ultimately, as usual, the curiosity wins. 
+
+**“Have you climbed a hull in zero-g?”**  Iyola asks.  **“I assume that’s without magno boots?” ** Magno boots, of  course, would do some of the work for the legs. ** “I’m used to more natural climbing environments.”**  
+
+This woman, like most of the Mandalorians of this time - even younger ones, like Wes and Nadia - looks like she’s been through many a hard fight.  This is a cruel and more violent era that she’s found herself in.
+
+---
+
+<img src="avatars/1436384190198448270/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **???** (01/20/2026 16:21:21) <br style='clear: both;'>
+
+<a name="1463206779348586677"></a>*1463206779348586677*
+
+The woman's lips quirk into a faint, almost imperceptible smile, a flash of professional pride in her eyes. **"Twice,"** she states, her voice calm and even. **"Once during a boarding action in the Abregado system. The other time... less formal. And yes. Without magno-boots. They're a luxury you can't always afford."**
+
+She uncrosses her arms and gestures to a lower section of the wall. **"Natural climbing gives you a feel for the material. But a hull... it's all about weight distribution. Balance. You lead with your legs, find your anchor points, and let your arms guide you. It's a different kind of dance."** She watches Iyola, her gaze direct, analytical, a flicker of something that might be respect in her sharp eyes.
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (01/20/2026 19:11:57) <br style='clear: both;'>
+
+<a name="1463249713141780563"></a>*1463249713141780563*
+
+Iyola thinks for a moment. **“I get it.” ** She gives it a try, wedging her feet upwards and body close to the wall, so close that her stomach kisses the metal.  Her hand aches a bit in this crimp handholds. ** “Without magno boots, you can’t risk pulling away, everything is a push in and up, or whichever way up is at the time.”  **
+
+She’s near the top anyway, an off=kilter rectangle meant, she thinks, to loosely simulate an aperture in the hull. Probably a created one.  With one last push, she grabs hold of it and scrambles in.  Now she can rest for a bit and have more of a conversation. 
+
+She looks down at the woman.  **“I hope I’m never in a situation to put that into action,”** she says. “**But good to know.  Thank you.”   **She pauses for a moment.  **“Who exactly were you boarding in a Core Worlds sector?”**  *Admittedly, Abregado-Rae was a bit on the rough side, but enough to warrant a Mandalorian raid?*
+
+---
+
+<img src="avatars/1436384190198448270/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **???** (01/20/2026 19:32:01) <br style='clear: both;'>
+
+<a name="1463254762865561701"></a>*1463254762865561701*
+
+The woman watches, a flicker of genuine approval in her eyes as Iyola adjusts her technique, demonstrating a quick, intuitive grasp of the core principles. She offers a curt, almost imperceptible nod. **"You learn fast,"** she states, her voice still calm, but now with a subtle undertone of professional respect. She then moves to a nearby bench, picking up a towel to wipe the sweat from her brow, a silent signal that the impromptu lesson is over.
+
+At Iyola's question, the woman's expression hardens almost imperceptibly, the brief warmth of the training session vanishing. **"The Abregado system is a hub for... *unregulated* commerce,"** she replies, her voice now flat and noncommittal. **"We were retrieving a stolen asset for a client. A delicate matter. The boarding was... complicated."** She offers no further detail, her tone a clear, professional boundary, a reminder that some questions are not meant to be answered, especially not by a stranger in a gym. She then gestures back to the wall. **"The descent is harder. Tests your control. Try to maintain three points of contact at all times."**
+
+---
+
+<img src="avatars/1436384190198448270/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Storyteller** (01/20/2026 20:13:44) <br style='clear: both;'>
+
+<a name="1463265259937599671"></a>*1463265259937599671*
+
+The evening on Cloud City settles into a comfortable rhythm. Inside Kando's Coursers' compound, the various members of the *Venture* crew find their own ways to process the day's revelations and decompress from the tension of their first mission.
+
+Iyola, finding the compound's main gym more to her liking, spends a solid hour on the climbing wall, the physical exertion a welcome distraction. The complex routes and challenging holds are a familiar language, a puzzle of strength and agility that quiets the noise in her mind. Afterwards, she returns to the *Atin Oya'ka*, retrieves her datapad and the copy of *The Green Veil*, and settles into the quiet comfort of the lounge, losing herself in tales of galactic adventure from a time before her own.
+
+Wes, in the solitude of his quarters, meticulously cleans and recalibrates each piece of his *beskar'gam*. The familiar ritual, the scent of cleaning solvents and the feel of worn metal beneath his hands, is a grounding meditation. He methodically works through the memories of his conversation with Ghurn, the name 'Kiera' a constant, echoing refrain in his thoughts. The pain of Marina's loss is still a raw, open wound, but now it is overlaid with a new, profound, and terrifying sense of purpose.
+
+The hours pass. The low hum of the *Atin Oya'ka*'s systems is a constant, soothing presence. For the first time since their violent awakening, a fragile sense of peace settles over the displaced crew. They are safe, for now, adrift in a sea of time, but anchored by the unlikely hospitality of Clan Skirata. The mysteries of the *Venture* and their own fractured pasts still loom large, but for tonight, there is only the quiet promise of rest and a new, uncertain dawn.
+
+---
+
+<img src="avatars/1436384190198448270/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Storyteller** (01/20/2026 20:14:29) <br style='clear: both;'>
+
+<a name="1463265448534741311"></a>*1463265448534741311*
+
+**End Chapter 3: Beneath the Glare**
+
+---
+
+## *Epilogue: Iyola*
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (01/20/2026 20:54:59) <br style='clear: both;'>
+
+<a name="1463275643528544441"></a>*1463275643528544441*
+
+Iyola catches the shift in tone as she blithely inquires about the Abregado raid.  It was easy to forget how touchy Mandalorians were, when they were being sociable. Wes was extraordinarily even-tempered for a Mandalorian.  The other woman shifted back into advice about the descent.  Iyola bounced back down the wall, keeping close contact and earning a few bruises, nothing a bacta mist wouldn’t fix. 
+
+**“Thanks for sharing your experience,”** Iyola said, turning to head back to the Oya'ka. **“My name is Iyola Kett.|| Su cuy’gar! ||"**
+
+---
+
+<img src="avatars/1436384190198448270/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Storyteller** (01/20/2026 21:18:10) <br style='clear: both;'>
+
+<a name="1463281476912156910"></a>*1463281476912156910*
+
+The woman watches Iyola's descent, her expression unreadable. She offers a final, curt nod of professional approval at the climber's controlled, if slightly bruised, landing. At Iyola's self-introduction and the casual Mando'a greeting, however, the woman's posture stiffens almost imperceptibly.  A flicker of genuine surprise, quickly masked, crosses her features. She watches Iyola turn to leave, her sharp eyes taking in the younger woman with a new, more intense, and slightly less hostile, curiosity.
+
+---
+
+<img src="avatars/1436384190198448270/d676192176568b6b0ac19a3c7a91a825.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Kella Skirata** (01/20/2026 21:18:11) <br style='clear: both;'>
+
+<a name="1463281481014317148"></a>*1463281481014317148*
+
+**"I know who you are, Iyola Kett,"** she replies, her voice now devoid of its earlier, critical edge, replaced by a cool, almost neutral, professionalism. She gives a curt, almost imperceptible nod of her head, a silent acknowledgment of the unexpected courtesy.  **"I am Kella. We've met."**  She offers no further explanation, letting the simple, unadorned statement hang in the air, a stark reminder of their previous, more formal, encounter.
+
+---
+
+<img src="avatars/1436384190198448270/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+### **Iyola Kett** (01/20/2026 23:45:34) <br style='clear: both;'>
+
+<a name="1463318571533992144"></a>*1463318571533992144*
+
+Kella Skirata.  Of course.  **“Sorry I didn’t recognize you,”  **Iyola said breezily.  **“You’re a lot more talkative and less metallic than I remember**. ”  She gave Kella a nod. Mandalorians hated smiling.. **“I’m sure I’ll see you around soon. Thanks for the climbing tips. || Ret'||!”**
+
+With that, satisfied with her climbing experience, she returned to the Oya’ka, greedily making it through three chapters of *The Green Veil.*
+
+---
+
+
+***Created** 03/08/2026 15:16:43 (v7.9.6)*
