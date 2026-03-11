@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chapter 1: The Awakening
+title: "Chapter 1: The Awakening"
 ---
  
  # Forgotten Ones | Chapter 1: Awakening
