@@ -123,6 +123,90 @@
         background: var(--border-color);
         margin: 20px 0;
     }
+    /* Dashboard Grid */
+.dashboard-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+    margin-top: 40px;
+}
+
+@media (max-width: 768px) {
+    .dashboard-grid { grid-template-columns: 1fr; }
+}
+
+/* Hero Section */
+.hero-section {
+    text-align: center;
+    padding: 40px 0;
+    border-bottom: 1px solid var(--gh-border);
+}
+
+.site-logo {
+    max-width: 300px;
+    filter: drop-shadow(0 0 10px var(--gh-blue));
+}
+
+.flavor-text {
+    font-style: italic;
+    color: var(--sw-yellow);
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+/* Panel Styling */
+.update-panel, .wiki-panel {
+    background: #161b22;
+    border: 1px solid var(--gh-border);
+    border-radius: 6px;
+    padding: 20px;
+}
+
+.update-panel h3, .wiki-panel h3 {
+    margin-top: 0;
+    font-size: 14px;
+    color: #8b949e;
+    text-transform: uppercase;
+}
+
+/* Log List */
+.log-list { list-style: none; padding: 0; }
+.log-list li a {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #21262d;
+    text-decoration: none;
+    color: var(--gh-text);
+}
+
+.log-list li a:hover { background: #21262d; color: var(--gh-blue); }
+.chapter-date { color: var(--text-muted); font-size: 12px; }
+
+/* Wiki Cards */
+.wiki-cards {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.wiki-card {
+    background: #0d1117;
+    border: 1px solid var(--gh-border);
+    padding: 15px;
+    border-radius: 6px;
+    text-decoration: none;
+    color: var(--gh-text);
+    transition: transform 0.2s;
+}
+
+.wiki-card:hover {
+    border-color: var(--gh-blue);
+    transform: translateX(5px);
+}
+
+.wiki-card strong { display: block; color: var(--gh-blue); }
+.wiki-card span { font-size: 12px; color: var(--text-muted); }
 </style>
 
 
