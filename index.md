@@ -5,7 +5,7 @@ title: Home
 
 <div class="hero-section">
   <img src="{{ site.baseurl }}/assets/internal/logo.png" alt="Forgotten Ones Logo" class="site-logo">
-  <p class="flavor-text">Centuries after the fall of the Republic, an ancient cryo-ark awakens over Bespin. The past is forgotten. The future is uncertain.</p>
+  <p class="flavor-text">Placeholder</p>
 </div>
 
 <div class="dashboard-grid">
@@ -13,17 +13,20 @@ title: Home
   <section class="update-panel">
     <h3><span class="icon">📡</span> Recent Chapter Logs</h3>
     <ul class="log-list">
-      {% for page in site.pages %}
-        {% if page.path contains 'Chapter_Logs/' and page.extname == '.md' %}
+      {% assign logs = site.static_files | where_exp: "file", "file.path contains 'Chapter_Logs/'" %}
+      {% for file in logs %}
+        {% if file.extname == '.md' %}
         <li>
-          <a href="{{ site.baseurl }}{{ page.url }}">
-            <span class="chapter-date">{{ page.date | date: "%b %d" }}</span>
-            <span class="chapter-title">{{ page.title }}</span>
+          <a href="{{ site.baseurl }}{{ file.path }}">
+            <span class="chapter-date">{{ file.modified_time | date: "%b %d" }}</span>
+            <span class="chapter-title">
+              {{ file.basename | replace: "-", " " | replace: "_", " " | capitalize }}
+            </span>
           </a>
         </li>
         {% endif %}
       {% endfor %}
-    </ul>
+  </ul>
     <a href="{{ site.baseurl }}/logs" class="view-all">View Full Archive →</a>
   </section>
 
