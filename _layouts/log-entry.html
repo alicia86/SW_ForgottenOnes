@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<div class="log-wrapper">
+  <aside id="toc-sidebar" class="toc-sidebar">
+    <div class="toc-header">
+      <span>CONTENTS</span>
+      <button onclick="toggleTOC()" class="toc-close">×</button>
+    </div>
+    <div class="toc-content">
+      {{ content | toc }}
+    </div>
+  </aside>
+
+  <article class="log-content">
+    <button onclick="toggleTOC()" class="toc-open-btn">☰ View Index</button>
+    {{ content }}
+  </article>
+</div>
+
+<script>
+  function toggleTOC() {
+    const sidebar = document.getElementById('toc-sidebar');
+    sidebar.classList.toggle('active');
+  }
+</script>
