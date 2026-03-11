@@ -4,11 +4,13 @@ title: "Prelude: Vaeros"
 order: 0
 ---
 
-﻿ ## Ghost of the *Devastation* (Vearos)
+# Prelude: Vaeros
+
+## Ghost of the *Devastation* (Vearos)
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# Prelude: Vaeros
+### **Storyteller** (06/20/2025 18:21:06) <br style='clear: both;'>
 
 *1385685915120173077*
 

@@ -4,11 +4,13 @@ title: "Prelude: Iyola"
 order: 0
 ---
 
-﻿ ## The Sunken Star of Xylos (Iyola)
+# Prelude: Iyola
+
+## The Sunken Star of Xylos (Iyola)
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# Prelude: Iyola
+### **Storyteller** (06/23/2025 19:45:42) <br style='clear: both;'>
 
 *1386794368551358485*
 

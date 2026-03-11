@@ -4,11 +4,13 @@ title: "Prelude: Varda"
 order: 0
 ---
 
-﻿ ## The Price of a Vision (Varda)
+# Prelude: Varda
+
+## The Price of a Vision (Varda)
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# Prelude: Varda
+### **Storyteller** (06/11/2025 23:37:49) <br style='clear: both;'>
 
 *1382504127287787582*
 
