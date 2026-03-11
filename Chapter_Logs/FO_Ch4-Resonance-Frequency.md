@@ -1,8 +1,3 @@
----
-layout: default
-title: "Chapter 4: Resonance Frequency" 
----
- 
  # Forgotten Ones | Ch 4 Resonance Frequency
 
 <img src="avatars/1463271466035581155/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
