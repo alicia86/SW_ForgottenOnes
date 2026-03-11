@@ -21,12 +21,11 @@ title: Home
         {% if file.extname == '.md' %}
         <li>
           <a href="{{ site.baseurl }}{{ file.path }}">
-            <span class="chapter-date">{{ file.modified_time | date: "%b %d" }}</span>
             <span class="chapter-title">
               {% if file.path contains 'Prelude' %}
                 [Prelude] {{ file.basename | replace: 'FO_BB_Prelude-', '' | replace: '-', ' ' }}
               {% else %}
-                {{ file.basename | replace: 'FO_Ch', 'Ch ' | replace: '-', ' ' | replace: '_', ' ' }}
+                {{ file.basename | replace: 'FO_Ch', 'Chapter ' | replace: '-', ' ' | replace: '_', ' ' }}
               {% endif %}
             </span>
           </a>
