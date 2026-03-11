@@ -16,12 +16,6 @@ keep_files:
   - Image_Resources
   - CNAME
 
-# Collections for the future JSON rendering
-collections:
-  chapters:
-    output: true
-    directory: Chapter_Logs/JSON
-
 # Markdown settings
 markdown: kramdown
 highlighter: rouge
