@@ -1,11 +1,26 @@
-# Include these folders in the final build
+title: "Star Wars: Forgotten Ones"
+description: "A Star Wars Sage TTRPG Campaign"
+baseurl: "" # Leave empty if using a custom domain, or set to /repo-name/
+url: "https://fo.galacticcampaigns.com"
+
+# Force Jekyll to include these folders
 include:
   - Chapter_Logs
   - Image_Resources
   - assets
+  - .github # Optional: if you want to see your workflows in the site
 
-# Optional: If you want to use these as data collections later
+# This prevents Jekyll from ignoring files it doesn't recognize
+keep_files:
+  - Chapter_Logs
+  - Image_Resources
+
+# Collections for the future JSON rendering
 collections:
   chapters:
     output: true
     directory: Chapter_Logs/JSON
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
