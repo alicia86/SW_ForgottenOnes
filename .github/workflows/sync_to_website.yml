@@ -7,6 +7,7 @@ on:
     paths:
       - 'Chapter_Logs/**'
       - 'Image_Resources/**'
+  workflow_dispatch:
 
 # Opt into Node.js 24 to clear the deprecation warning
 env:
