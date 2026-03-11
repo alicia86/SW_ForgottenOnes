@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Chapter 2 Silent Drift"
+title: "Chapter 2: Silent Drift"
 order: 2
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Chapter 3 beneath the glare"
+title: "Chapter 3: Beneath The Glare"
 order: 3
 ---
 

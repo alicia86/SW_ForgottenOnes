@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Chapter 4 Resonance Frequency"
+title: "Chapter 4: Resonance Frequency"
 order: 4
 ---
 

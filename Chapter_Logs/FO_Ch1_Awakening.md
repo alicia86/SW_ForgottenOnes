@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Chapter 1 Awakening"
+title: "Chapter 1: Awakening"
 order: 1
 ---
 
