@@ -1,8 +1,3 @@
----
-layout: default
-title: "Chapter 1: The Awakening"
----
- 
  # Forgotten Ones | Chapter 1: Awakening
 
 <img src="avatars/1387914432989892838/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
