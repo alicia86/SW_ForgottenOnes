@@ -1,0 +1,81 @@
+/* --- UNIVERSAL VARIABLES --- */
+:root {
+    --gh-bg: #0d1117;
+    --gh-border: #30363d;
+    --gh-text: #c9d1d9;
+    --text-muted: #8b949e;
+    --sw-blue: #58a6ff;
+    --sw-yellow: #d29922;
+    --panel-bg: #161b22;
+}
+
+/* --- BASE STYLES --- */
+body {
+    background-color: var(--gh-bg);
+    color: var(--gh-text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    margin: 0;
+    line-height: 1.5;
+}
+
+main {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+/* --- REUSABLE COMPONENTS --- */
+
+/* Panels used on Home and Archive pages */
+.panel {
+    background: var(--panel-bg);
+    border: 1px solid var(--gh-border);
+    border-radius: 6px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.panel h3 {
+    margin-top: 0;
+    font-size: 13px;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    border-bottom: 1px solid var(--gh-border);
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+/* Common Links & Buttons */
+a { color: var(--sw-blue); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+.view-all {
+    display: inline-block;
+    margin-top: 15px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+/* --- SHARED LOG FORMATTING --- */
+/* (Both MD and JSON readers can use these classes) */
+.st-gold {
+    color: var(--sw-yellow);
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    margin: 1.5rem 0;
+}
+
+.timestamp {
+    color: var(--text-muted);
+    font-size: 0.8rem;
+}
+
+/* --- FOOTER --- */
+footer {
+    text-align: center;
+    padding: 40px 20px;
+    border-top: 1px solid var(--gh-border);
+    margin-top: 60px;
+}
