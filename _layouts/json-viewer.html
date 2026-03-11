@@ -56,11 +56,6 @@
             font-size: 1rem;
         }
 
-        .timestamp {
-            color: #8b949e;
-            font-size: 0.75rem;
-        }
-
         .msg-content {
             line-height: 1.5;
             font-size: 0.95rem;
@@ -73,12 +68,7 @@
         
         /* Storyteller Gold Style (***text***) */
         .st-gold {
-            color: var(--sw-yellow);
-            font-style: italic;
-            font-weight: bold;
-            display: block;
             margin: 10px 0;
-            text-align: center;
             font-size: 1.1rem;
         }
 
@@ -114,26 +104,30 @@
             output.innerHTML = "<em>Decrypting stream...</em>";
 
             try {
-                const response = await fetch(`{{ site.baseurl }}/Chapter_Logs/JSON/${jsonFile}`);
-                const messages = await response.json();
+                // Use relative_url filter for the fetch path
+                const response = await fetch("{{ '/Chapter_Logs/JSON/' | relative_url }}" + jsonFile);
+                const data = await response.json();
+                
+                // Discord Chat Exporter usually puts the array in data.messages
+                const messages = data.messages || data; 
                 const folderBase = jsonFile.replace('.json', '');
                 
-                output.innerHTML = ""; // Clear loader
+                output.innerHTML = ""; 
 
                 messages.forEach(msg => {
                     const div = document.createElement('div');
                     div.className = 'message-group';
 
-                    // Avatar Path: Chapter_Logs/avatars/[ID]/[HASH].png
-                    const avatarUrl = msg.author.avatar 
-                        ? `{{ site.baseurl }}/Chapter_Logs/avatars/${msg.author.id}/${msg.author.avatar}.png`
-                        : `{{ site.baseurl }}/Chapter_Logs/avatars/default.png`;
+                    // Use the correct JSON fields: msg.author.id and msg.author.avatar
+                    const avatarUrl = (msg.author && msg.author.avatar) 
+                        ? "{{ '/Chapter_Logs/avatars/' | relative_url }}" + msg.author.id + "/" + msg.author.avatar + ".png"
+                        : "{{ '/Chapter_Logs/avatars/default.png' | relative_url }}";
 
                     div.innerHTML = `
-                        <img src="${avatarUrl}" class="avatar" onerror="this.src='{{ site.baseurl }}/Chapter_Logs/avatars/default.png'">
+                        <img src="${avatarUrl}" class="avatar" onerror="this.src='{{ '/Chapter_Logs/avatars/default.png' | relative_url }}'">
                         <div class="msg-body">
                             <div class="msg-header">
-                                <span class="username">${msg.author.username}</span>
+                                <span class="username">${msg.author.nickname || msg.author.name}</span>
                                 <span class="timestamp">${new Date(msg.timestamp).toLocaleString()}</span>
                             </div>
                             <div class="msg-content">${parseMarkdown(msg.content)}</div>
@@ -143,6 +137,7 @@
                     output.appendChild(div);
                 });
             } catch (err) {
+                console.error(err);
                 output.innerHTML = `<b style="color:red">ERROR: Signal Lost. ${err.message}</b>`;
             }
         }
@@ -150,22 +145,18 @@
         function parseMarkdown(text) {
             if (!text) return "";
             return text
-                // Storyteller Gold (***)
                 .replace(/\*\*\*(.*?)\*\*\*/g, '<span class="st-gold">$1</span>')
-                // Bold (**)
                 .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
-                // Italics (*)
                 .replace(/\*(.*?)\*/g, '<i>$1</i>')
-                // Custom Emojis (Discord format <:name:id>)
                 .replace(/<:(.*?):(\d+)>/g, (match, name, id) => {
-                    return `<img src="{{ site.baseurl }}/Chapter_Logs/emojis/${name}_${id}.png" class="emoji" alt="${name}">`;
+                    return `<img src="{{ '/Chapter_Logs/emojis/' | relative_url }}${name}_${id}.png" class="emoji" alt="${name}">`;
                 });
         }
 
         function renderAttachments(attachments, folder) {
             if (!attachments || attachments.length === 0) return "";
             return attachments.map(a => 
-                `<img src="{{ site.baseurl }}/Chapter_Logs/media/${folder}/${a.filename}" class="attachment-img">`
+                `<img src="{{ '/Chapter_Logs/media/' | relative_url }}${folder}/${a.fileName}" class="attachment-img">`
             ).join('');
         }
 
