@@ -8,6 +8,10 @@ on:
       - 'Chapter_Logs/**'
       - 'Image_Resources/**'
 
+# Opt into Node.js 24 to clear the deprecation warning
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   sync-assets:
     runs-on: ubuntu-latest
@@ -15,7 +19,6 @@ jobs:
       - name: Checkout Main Branch
         uses: actions/checkout@v4
         with:
-          ref: main
           path: main_repo
 
       - name: Checkout Website Branch
@@ -26,50 +29,60 @@ jobs:
 
       - name: Sync Content and Resources
         run: |
-          # Create folders on website branch if missing
           mkdir -p website_repo/Chapter_Logs
           mkdir -p website_repo/Image_Resources
           mkdir -p website_repo/assets/internal
 
-          # Sync Chapter Logs (JSON, avatars, emojis, media)
+          # Sync folders
           rsync -av --delete main_repo/Chapter_Logs/ website_repo/Chapter_Logs/
-          
-          # Sync PC/NPC Resources
           rsync -av --delete main_repo/Image_Resources/ website_repo/Image_Resources/
-          
-      - name: Inject Markdown Headers with Order
+
+      - name: Inject Markdown Headers
         run: |
-          cd website_repo/Chapter_Logs
-          for file in *.md; do
-            [ -e "$file" ] || continue
+          # Find all .md files, excluding the JSON folder if it's inside
+          find website_repo/Chapter_Logs -maxdepth 1 -name "*.md" | while read file; do
+            filename=$(basename "$file")
             
-            # 1. Determine the Order Number
-            if [[ "$file" == *"Prelude"* ]]; then
-              ORDER=0
+            # 1. Check if header already exists (checks first line for ---)
+            if ! head -n 1 "$file" | grep -q "^---"; then
+              
+              # 2. Determine Order
+              if [[ "$filename" == *"Prelude"* ]]; then
+                ORDER=0
+              else
+                # Extracts the digits after 'Ch'
+                ORDER=$(echo "$filename" | grep -oP '(?<=Ch)\d+' || echo "99")
+              fi
+
+              # 3. Clean Title (FO_Ch1_Awakening -> Chapter 1: Awakening)
+              TITLE=$(echo "$filename" | sed 's/\.md//' | sed 's/FO_Ch/Chapter /' | sed 's/FO_BB_Prelude-/Prelude: /' | sed 's/[-_]/ /g')
+
+              # 4. Inject using a temporary file for safety
+              {
+                echo "---"
+                echo "layout: default"
+                echo "title: \"$TITLE\""
+                echo "order: $ORDER"
+                echo "---"
+                echo ""
+                cat "$file"
+              } > "$file.tmp" && mv "$file.tmp" "$file"
+              
+              echo "✅ Injected header into $filename (Order: $ORDER)"
             else
-              # Extracts number from "FO_Ch1", "FO_Ch12", etc.
-              ORDER=$(echo "$file" | grep -oP '(?<=Ch)\d+')
-            fi
-
-            # 2. Generate Title
-            TITLE=$(echo "$file" | sed 's/\.md//' | sed 's/FO_Ch/Chapter /' | sed 's/FO_BB_Prelude-/Prelude: /' | sed 's/[-_]/ /g')
-
-            # 3. Inject Front Matter (Only if not already present)
-            if ! grep -q "^---" "$file"; then
-              echo -e "---\nlayout: default\ntitle: \"$TITLE\"\norder: $ORDER\n---\n\n$(cat "$file")" > "$file"
+              echo "⏭️ Skipping $filename (Header exists)"
             fi
           done
 
-      - name: Commit and Push to Website Branch
+      - name: Commit and Push
         run: |
           cd website_repo
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          # Check for changes to avoid empty commits
           if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "Auto-sync: Updated chapter logs and resources from main"
+            git commit -m "Auto-sync: Processed logs with Node 24 and Headers"
             git push origin website
           else
-            echo "No changes to sync."
+            echo "No changes detected."
           fi
