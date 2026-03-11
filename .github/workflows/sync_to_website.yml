@@ -43,42 +43,39 @@ jobs:
           find website_repo/Chapter_Logs -maxdepth 1 -name "*.md" | while read file; do
             filename=$(basename "$file" .md)
             
-            # --- 1. STRIP LEADING WHITESPACE FROM ALL HEADERS ---
-            # This ensures " # Title" becomes "# Title" so sed can find it reliably
+            # 1. CLEANUP: Strip leading whitespace and fix potential BOM/Encoding issues
+            # We use sed to remove the BOM if it exists (the 1s/...) and leading spaces on # lines
+            sed -i '1s/^\xEF\xBB\xBF//' "$file"
             sed -i 's/^[[:space:]]*#/#/g' "$file"
 
-            # --- 2. GENERATE CLEAN METADATA (TITLE & ORDER) ---
+            # 2. GENERATE CLEAN METADATA
             if [[ "$filename" == *"Prelude"* ]]; then
               ORDER=0
               RAW_NAME=$(echo "$filename" | sed 's/FO_BB_Prelude-//')
-              # Title Case logic: capitalized every word
               CLEAN_NAME=$(echo "$RAW_NAME" | sed 's/[-_]/ /g' | perl -pe 's/\b(\w)/\U$1/g')
               TITLE="Prelude: $CLEAN_NAME"
             else
-              # Extract Chapter Number
               ORDER=$(echo "$filename" | grep -oP '(?<=Ch)\d+' || echo "99")
-              # Extract Chapter Name after the Ch number
               RAW_NAME=$(echo "$filename" | sed -E 's/FO_Ch[0-9]+[-_]?//')
               CLEAN_NAME=$(echo "$RAW_NAME" | sed 's/[-_]/ /g' | perl -pe 's/\b(\w)/\U$1/g')
-              
-              if [ -z "$CLEAN_NAME" ]; then
-                TITLE="Chapter $ORDER"
-              else
-                TITLE="Chapter $ORDER: $CLEAN_NAME"
-              fi
+              TITLE="Chapter $ORDER: $CLEAN_NAME"
             fi
 
-            # --- 3. STANDARDIZE THE H1 HEADER ---
-            # This finds the very first # header in the file and replaces it 
-            # with the standardized Title. This ensures # Forgotten Ones | ... 
-            # becomes # Chapter X: Title
-            sed -i "0,/^#.*/s/^#.*/# $TITLE/" "$file"
+            # 3. STANDARDIZE THE H1
+            # Logic: If the file ALREADY has a single '#' header, replace it. 
+            # If it only has '##' or higher (like Preludes), prepend the H1 at the very top of content.
+            if grep -q "^#[[:space:]]" "$file"; then
+                # Replace the existing H1
+                sed -i "0,/^#[[:space:]].*/s/^#[[:space:]].*/# $TITLE/" "$file"
+            else
+                # Prepend the H1 if only subheaders exist
+                sed -i "1i # $TITLE\n" "$file"
+            fi
 
-            # --- 4. FIX SUB-HEADER SPACING ---
-            # Ensures all subheaders (##, ###) have exactly one space after the hashes
+            # 4. FIX SUB-HEADER SPACING (##Title -> ## Title)
             sed -i 's/^\(#\+\)\([^#[:space:]]\)/\1 \2/g' "$file"
 
-            # --- 5. INJECT FRONT MATTER ---
+            # 5. INJECT FRONT MATTER
             if ! head -n 5 "$file" | grep -q "layout:"; then
               {
                 echo "---"
@@ -89,9 +86,9 @@ jobs:
                 echo ""
                 cat "$file"
               } > "$file.tmp" && mv "$file.tmp" "$file"
-              echo "✅ Processed & Standardized: $TITLE"
+              echo "✅ Standardized: $TITLE"
             else
-              echo "⏭️ Header exists, standardized content for: $filename"
+              echo "⏭️ Cleaned: $filename"
             fi
           done
       - name: Commit and Push
