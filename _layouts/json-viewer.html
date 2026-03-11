@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.2.0/github-markdown-dark.min.css">
+    <style>
+        body { background-color: #0d1117; color: #c9d1d9; font-family: sans-serif; padding: 40px; }
+        #log-container { max-width: 900px; margin: 0 auto; background: #0d1117; }
+        
+        .message-group { display: flex; padding: 10px; border-bottom: 1px solid #30363d; }
+        .avatar { width: 40px; height: 40px; border-radius: 4px; margin-right: 15px; flex-shrink: 0; }
+        .content { flex-grow: 1; }
+        
+        .header { display: flex; align-items: baseline; gap: 10px; margin-bottom: 4px; }
+        .username { color: #58a6ff; font-weight: bold; font-size: 1rem; }
+        .timestamp { color: #8b949e; font-size: 0.75rem; }
+        
+        .text { line-height: 1.5; white-space: pre-wrap; }
+        .text strong { color: #fff; }
+        .text em { font-style: italic; color: #d29922; } /* Storyteller gold */
+
+        /* Media attachment styling */
+        .attachment { margin-top: 10px; max-width: 100%; border-radius: 4px; border: 1px solid #30363d; }
+        
+        #selector { margin-bottom: 30px; text-align: center; }
+        select { background: #161b22; color: white; padding: 5px; border: 1px solid #30363d; }
+    </style>
+</head>
+<body>
+
+    <div id="selector">
+        <label>Select Chapter JSON: </label>
+        <select id="json-picker" onchange="loadLog(this.value)">
+            <option value="FO_Ch3_beneath-the-glare.json">Chapter 3: Beneath the Glare</option>
+            <option value="FO_Ch1_Awakening.json">Chapter 1: Awakening</option>
+        </select>
+    </div>
+
+    <div id="log-container">
+        <div id="chat-output"></div>
+    </div>
+
+    <script>
+        async function loadLog(fileName) {
+            const output = document.getElementById('chat-output');
+            output.innerHTML = "<em>Accessing encrypted archives...</em>";
+            
+            try {
+                // Adjust this path to match your synced branch structure
+                const response = await fetch(`{{ site.baseurl }}/Chapter_Logs/JSON/${fileName}`);
+                const data = await response.json();
+                
+                output.innerHTML = ""; // Clear loader
+                
+                data.messages.forEach(msg => {
+                    const group = document.createElement('div');
+                    group.className = 'message-group';
+                    
+                    // Construct Avatar Path
+                    // Note: JSON usually provides avatars/ID/hash.png
+                    const avatarPath = `{{ site.baseurl }}/Chapter_Logs/${msg.author.avatarUrl}`;
+                    
+                    group.innerHTML = `
+                        <img src="${avatarPath}" class="avatar" onerror="this.src='{{ site.baseurl }}/Chapter_Logs/avatars/default.png'">
+                        <div class="content">
+                            <div class="header">
+                                <span class="username">${msg.author.nickname || msg.author.name}</span>
+                                <span class="timestamp">${new Date(msg.timestamp).toLocaleString()}</span>
+                            </div>
+                            <div class="text">${formatDiscordText(msg.content)}</div>
+                            ${renderAttachments(msg.attachments)}
+                        </div>
+                    `;
+                    output.appendChild(group);
+                });
+            } catch (e) {
+                output.innerHTML = `<b style="color:red">Error loading JSON: ${e.message}</b>`;
+            }
+        }
+
+        function formatDiscordText(text) {
+            // Simple regex for Discord-style MD in the JSON content
+            return text
+                .replace(/\*\*\*(.*?)\*\*\*/g, '<em><strong>$1</strong></em>')
+                .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+                .replace(/\*(.*?)\*/g, '<i>$1</i>');
+        }
+
+        function renderAttachments(attachments) {
+            if (!attachments || attachments.length === 0) return "";
+            return attachments.map(a => `<img src="{{ site.baseurl }}/Chapter_Logs/media/${a.fileName}" class="attachment">`).join('');
+        }
+
+        // Initial Load
+        loadLog(document.getElementById('json-picker').value);
+    </script>
+</body>
+</html>
