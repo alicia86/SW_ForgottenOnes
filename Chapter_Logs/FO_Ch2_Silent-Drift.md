@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chapter 2: Silent Drift
+title: "Chapter 2: Silent Drift"
 ---
   
  # Forgotten Ones | Chapter 2: Silent Drift
@@ -9848,4 +9848,5 @@ The uneasy camaraderie, forged in crisis and tempered by shared displacement, no
 
 
 ***Created** 01/10/2026 16:06:01 (v7.9.6)*
+
 
