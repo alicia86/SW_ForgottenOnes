@@ -82,7 +82,7 @@ jobs:
             if ! head -n 5 "$file" | grep -q "layout:"; then
               {
                 echo "---"
-                echo "layout: default"
+                echo "layout: log-entry"
                 echo "title: \"$TITLE\""
                 echo "order: $ORDER"
                 echo "---"
