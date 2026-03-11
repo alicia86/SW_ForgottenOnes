@@ -18,7 +18,7 @@ title: Home
     {% comment %} 2. Sort by our new 'order' field (Newest/Highest Chapter first) {% endcomment %}
     {% assign sorted_logs = log_pages | sort: "order" | reverse %}
 
-    {% for p in sorted_logs limit:5 %}
+    {% for p in sorted_logs limit:15 %}
       <li>
         <a href="{{ p.url | relative_url }}">
           <span class="chapter-title">{{ p.title }}</span>
@@ -26,7 +26,7 @@ title: Home
       </li>
     {% endfor %}
   </ul>
-  <a href="{{ '/logs' | relative_url }}" class="view-all">View Full Archive →</a>
+  <!-- <a href="{{ '/logs' | relative_url }}" class="view-all">View Full Archive →</a> -->
 </section>
 
   <section class="wiki-panel">
