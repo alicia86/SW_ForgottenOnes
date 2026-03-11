@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chapter 2 Silent Drift"
+order: 2
+---
+
  # Forgotten Ones | Chapter 2: Silent Drift
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
