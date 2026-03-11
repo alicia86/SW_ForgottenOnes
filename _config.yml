@@ -8,13 +8,13 @@ include:
   - Chapter_Logs
   - Image_Resources
   - assets
-  - .github # Optional: if you want to see your workflows in the site
 
 # This prevents Jekyll from ignoring files it doesn't recognize
 keep_files:
   - Chapter_Logs
   - Image_Resources
   - CNAME
+  - assets
 
 # Collections for the future JSON rendering
 collections:
