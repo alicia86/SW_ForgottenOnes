@@ -10,67 +10,100 @@
 <style>
     :root {
         --sw-blue: #00aaff;
+        --sw-yellow: #ffcc00;
         --border-color: #444;
+        --text-main: #e0e0e0;
+        --text-muted: #888;
     }
+
     body {
         max-width: 900px;
         margin: 0 auto;
         padding: 20px;
-        line-height: 1.6;
+        line-height: 1.7;
         font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-    }
-    
-    /* Post Container - ensures avatars and text stay together */
-    main p, main h2, main h3 {
-        clear: both; /* Prevents text from overlapping floating images */
+        background-color: #1a1a1a;
+        color: var(--text-main);
     }
 
-    /* Avatar Styling */
+    /* --- LAYOUT & CLEARFIX --- */
+    /* This prevents text from wrapping awkwardly around the floating avatars */
+    main h2, main h3, main hr {
+        clear: both;
+        padding-top: 10px;
+    }
+
+    /* --- AVATARS --- */
     img[alt="avatar"] {
         border-radius: 4px;
         border: 1px solid var(--border-color);
         margin-right: 15px !important;
         margin-bottom: 10px;
         box-shadow: 0 0 10px rgba(0, 170, 255, 0.1);
+        /* Ensures the image doesn't shrink */
+        min-width: 40px; 
     }
 
-    /* Character Names */
-    h2, h3 {
-        color: var(--sw-blue);
-        margin-bottom: 5px;
-        font-size: 1.2rem;
+    /* --- HEADERS (Character Names) --- */
+    h1 { border-bottom: 2px solid var(--border-color); padding-bottom: 10px; }
+    h2, h3 { color: var(--sw-blue); margin-bottom: 5px; font-size: 1.25rem; }
+    h4, h5 { color: var(--text-main); text-transform: uppercase; letter-spacing: 1px; }
+
+    /* --- TEXT FORMATTING --- */
+    /* Bold dialogue */
+    main strong {
+        color: #ffffff;
+        font-weight: 700;
     }
 
-    /* Timestamps and IDs */
-    em {
-        font-size: 0.85rem;
-        color: #888;
+    /* Regular Italics (Narration) */
+    main em {
+        font-style: italic;
+        color: var(--text-main);
+    }
+
+    /* The Discord ID (Numbers) and Timestamps */
+    /* Targets the italicized ID numbers specifically */
+    main a + em {
+        display: block;
+        font-size: 0.8rem;
+        color: var(--text-muted);
+        margin-top: -10px;
+        margin-bottom: 15px;
         font-style: normal;
     }
 
-    /* The "Star Wars" Intro Text (Italics) */
-    main p em {
-        color: #ffcc00; /* Classic Star Wars Yellow */
+    /* --- THE STAR WARS INTRO --- */
+    /* Only targets the triple-italicized intro line if it's at the top */
+    main p:first-of-type em strong em,
+    main p:first-of-type strong em {
+        color: var(--sw-yellow);
+        font-style: italic;
         display: block;
-        padding: 10px 0;
+        margin-bottom: 20px;
+        font-size: 1.1rem;
     }
 
-    /* Dividers */
+    /* --- DIVIDERS --- */
     hr {
         border: 0;
         height: 1px;
         background-image: linear-gradient(to right, transparent, var(--border-color), transparent);
-        margin: 2rem 0;
+        margin: 2.5rem 0;
     }
 
-    /* Blockquotes for IC/OOC separation */
-    blockquote {
-        border-left: 3px solid var(--sw-blue);
-        background: rgba(0, 170, 255, 0.05);
-        padding: 1px 20px;
-        margin: 10px 0;
+    /* --- NAVIGATION --- */
+    .back-link {
+        text-decoration: none;
+        font-weight: bold;
+        color: var(--sw-blue);
+        display: inline-block;
+        margin-bottom: 20px;
     }
-</style>
+    .back-link:hover {
+        text-decoration: underline;
+    }
+</style
 
 </head>
 <body>
