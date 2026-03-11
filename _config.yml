@@ -5,12 +5,13 @@ baseurl: "" # Leave empty if using a custom domain, or set to /repo-name/
 
 # Force Jekyll to include these folders
 include:
+  - assets
   - Chapter_Logs
   - Image_Resources
-  - assets
 
 # This prevents Jekyll from ignoring files it doesn't recognize
 keep_files:
+  - assets
   - Chapter_Logs
   - Image_Resources
   - CNAME
