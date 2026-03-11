@@ -79,23 +79,24 @@ a:hover { text-decoration: underline; }
 }
 
 /* The Sidebar itself */
+/* Ensure the sidebar is ALWAYS on top when active */
 .toc-sidebar {
     position: fixed;
     top: 0;
-    left: -300px; /* Hidden by default */
+    left: -300px; /* Start hidden */
     width: 280px;
     height: 100vh;
-    background: var(--panel-bg);
-    border-right: 1px solid var(--sw-blue);
-    z-index: 1000;
-    transition: left 0.3s ease;
-    padding: 20px;
-    overflow-y: auto;
-    box-shadow: 5px 0 15px rgba(0,0,0,0.5);
+    background: #161b22; /* Use a solid dark color to test visibility */
+    border-right: 2px solid var(--sw-blue);
+    z-index: 9999; /* Higher than everything else */
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    visibility: hidden; /* Hide from screen readers when closed */
 }
 
 .toc-sidebar.active {
-    left: 0; /* Slide in */
+    left: 0;
+    visibility: visible;
+    box-shadow: 10px 0 20px rgba(0,0,0,0.8);
 }
 
 .toc-header {
@@ -116,16 +117,15 @@ a:hover { text-decoration: underline; }
 .toc-content a:hover { color: var(--sw-yellow); }
 
 /* Toggle Buttons */
+/* Make sure the toggle button is actually clickable */
 .toc-open-btn {
-    position: sticky;
-    top: 20px;
-    background: var(--panel-bg);
-    border: 1px solid var(--sw-blue);
-    color: var(--sw-blue);
-    padding: 8px 15px;
+    z-index: 100;
+    position: relative;
     cursor: pointer;
-    border-radius: 4px;
-    margin-bottom: 20px;
+    background: #1c2128;
+    color: var(--sw-blue);
+    border: 1px solid var(--sw-blue);
+    padding: 10px 20px;
 }
 
 .toc-close {

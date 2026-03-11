@@ -19,8 +19,18 @@ layout: default
 </div>
 
 <script>
-  function toggleTOC() {
-    const sidebar = document.getElementById('toc-sidebar');
-    sidebar.classList.toggle('active');
-  }
+    document.addEventListener("DOMContentLoaded", function() {
+        const sidebar = document.getElementById('toc-sidebar');
+        const openBtn = document.querySelector('.toc-open-btn');
+        const closeBtn = document.querySelector('.toc-close');
+
+        function toggleTOC() {
+            sidebar.classList.toggle('active');
+            console.log("Sidebar status: ", sidebar.classList.contains('active'));
+        }
+
+        // Assigning the clicks via JS instead of inline HTML for better reliability
+        if (openBtn) openBtn.onclick = toggleTOC;
+        if (closeBtn) closeBtn.onclick = toggleTOC;
+    });
 </script>
