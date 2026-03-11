@@ -38,34 +38,48 @@ jobs:
           rsync -av --delete main_repo/Chapter_Logs/ website_repo/Chapter_Logs/
           rsync -av --delete main_repo/Image_Resources/ website_repo/Image_Resources/
 
-      - name: Inject Markdown Headers and Fix Content
+      - name: Inject Markdown Headers and Standardize Content
         run: |
           find website_repo/Chapter_Logs -maxdepth 1 -name "*.md" | while read file; do
             filename=$(basename "$file" .md)
             
-            # 1. Check if Jekyll header already exists
-            if ! head -n 1 "$file" | grep -q "^---"; then
+            # --- 1. STRIP LEADING WHITESPACE FROM ALL HEADERS ---
+            # This ensures " # Title" becomes "# Title" so sed can find it reliably
+            sed -i 's/^[[:space:]]*#/#/g' "$file"
+
+            # --- 2. GENERATE CLEAN METADATA (TITLE & ORDER) ---
+            if [[ "$filename" == *"Prelude"* ]]; then
+              ORDER=0
+              RAW_NAME=$(echo "$filename" | sed 's/FO_BB_Prelude-//')
+              # Title Case logic: capitalized every word
+              CLEAN_NAME=$(echo "$RAW_NAME" | sed 's/[-_]/ /g' | perl -pe 's/\b(\w)/\U$1/g')
+              TITLE="Prelude: $CLEAN_NAME"
+            else
+              # Extract Chapter Number
+              ORDER=$(echo "$filename" | grep -oP '(?<=Ch)\d+' || echo "99")
+              # Extract Chapter Name after the Ch number
+              RAW_NAME=$(echo "$filename" | sed -E 's/FO_Ch[0-9]+[-_]?//')
+              CLEAN_NAME=$(echo "$RAW_NAME" | sed 's/[-_]/ /g' | perl -pe 's/\b(\w)/\U$1/g')
               
-              # 2. Extract Data for Front Matter
-              if [[ "$filename" == *"Prelude"* ]]; then
-                ORDER=0
-                RAW_NAME=$(echo "$filename" | sed 's/FO_BB_Prelude-//')
-                CLEAN_NAME=$(echo "$RAW_NAME" | sed 's/[-_]/ /g' | perl -pe 's/\b(\w)/\U$1/g')
-                TITLE="Prelude: $CLEAN_NAME"
+              if [ -z "$CLEAN_NAME" ]; then
+                TITLE="Chapter $ORDER"
               else
-                ORDER=$(echo "$filename" | grep -oP '(?<=Ch)\d+' || echo "99")
-                RAW_NAME=$(echo "$filename" | sed -E 's/FO_Ch[0-9]+[-_]?//')
-                CLEAN_NAME=$(echo "$RAW_NAME" | sed 's/[-_]/ /g' | perl -pe 's/\b(\w)/\U$1/g')
                 TITLE="Chapter $ORDER: $CLEAN_NAME"
               fi
+            fi
 
-              # 3. FIX CONTENT: Replace the Pipe with a Dash and ensure Space after #
-              # This targets the specific "# Forgotten Ones |" line inside the file
-              sed -i 's/^# Forgotten Ones |/# Forgotten Ones -/g' "$file"
-              # Safety: Ensure all # headers have a space after them (e.g., #Title -> # Title)
-              sed -i 's/^#\([^ ]\)/# \1/g' "$file"
+            # --- 3. STANDARDIZE THE H1 HEADER ---
+            # This finds the very first # header in the file and replaces it 
+            # with the standardized Title. This ensures # Forgotten Ones | ... 
+            # becomes # Chapter X: Title
+            sed -i "0,/^#.*/s/^#.*/# $TITLE/" "$file"
 
-              # 4. Inject Front Matter
+            # --- 4. FIX SUB-HEADER SPACING ---
+            # Ensures all subheaders (##, ###) have exactly one space after the hashes
+            sed -i 's/^\(#\+\)\([^#[:space:]]\)/\1 \2/g' "$file"
+
+            # --- 5. INJECT FRONT MATTER ---
+            if ! head -n 5 "$file" | grep -q "layout:"; then
               {
                 echo "---"
                 echo "layout: default"
@@ -75,8 +89,9 @@ jobs:
                 echo ""
                 cat "$file"
               } > "$file.tmp" && mv "$file.tmp" "$file"
-              
-              echo "✅ Processed: $TITLE"
+              echo "✅ Processed & Standardized: $TITLE"
+            else
+              echo "⏭️ Header exists, standardized content for: $filename"
             fi
           done
       - name: Commit and Push
