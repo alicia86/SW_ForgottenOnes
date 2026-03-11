@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }} | SW: Forgotten Ones</title>
+    <title>{{ page.title }} | Star Wars: Forgotten Ones</title>
     
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/dark.css">
     
@@ -225,8 +225,11 @@
     </main>
 
     <footer>
+        <hr>
         <p>Campaign: <strong>Star Wars: Forgotten Ones</strong></p>
-        <p>Last updated: {{ "now" | date: "%Y-%m-%d" }}</p>
+        <p style="font-size: 0.8rem; color: #666;">
+            Archive Version: {{ site.time | date: "%Y-%m-%d %H:%M:%S" }} UTC
+        </p>
     </footer>
 
 </body>
