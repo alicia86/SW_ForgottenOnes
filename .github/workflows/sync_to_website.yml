@@ -38,42 +38,34 @@ jobs:
           rsync -av --delete main_repo/Chapter_Logs/ website_repo/Chapter_Logs/
           rsync -av --delete main_repo/Image_Resources/ website_repo/Image_Resources/
 
-      - name: Inject Markdown Headers
+      - name: Inject Markdown Headers and Fix Content
         run: |
           find website_repo/Chapter_Logs -maxdepth 1 -name "*.md" | while read file; do
             filename=$(basename "$file" .md)
             
-            # 1. Check if header already exists
+            # 1. Check if Jekyll header already exists
             if ! head -n 1 "$file" | grep -q "^---"; then
               
+              # 2. Extract Data for Front Matter
               if [[ "$filename" == *"Prelude"* ]]; then
-                # Handle Preludes (e.g., FO_BB_Prelude-Dryzan)
+                ORDER=0
                 RAW_NAME=$(echo "$filename" | sed 's/FO_BB_Prelude-//')
-                # Capitalize and format
                 CLEAN_NAME=$(echo "$RAW_NAME" | sed 's/[-_]/ /g' | perl -pe 's/\b(\w)/\U$1/g')
                 TITLE="Prelude: $CLEAN_NAME"
-                ORDER=0
               else
-                # Handle Chapters (e.g., FO_Ch4-Resonance-Frequency)
-                # Extract Number
                 ORDER=$(echo "$filename" | grep -oP '(?<=Ch)\d+' || echo "99")
-                
-                # Extract the part after the number
-                # This removes 'FO_Ch' + the digits + the following separator (_ or -)
                 RAW_NAME=$(echo "$filename" | sed -E 's/FO_Ch[0-9]+[-_]?//')
-                
-                # Capitalize every word and replace separators with spaces
                 CLEAN_NAME=$(echo "$RAW_NAME" | sed 's/[-_]/ /g' | perl -pe 's/\b(\w)/\U$1/g')
-                
-                # Format with the colon
-                if [ -z "$CLEAN_NAME" ]; then
-                  TITLE="Chapter $ORDER"
-                else
-                  TITLE="Chapter $ORDER: $CLEAN_NAME"
-                fi
+                TITLE="Chapter $ORDER: $CLEAN_NAME"
               fi
 
-              # 2. Inject the header
+              # 3. FIX CONTENT: Replace the Pipe with a Dash and ensure Space after #
+              # This targets the specific "# Forgotten Ones |" line inside the file
+              sed -i 's/^# Forgotten Ones |/# Forgotten Ones -/g' "$file"
+              # Safety: Ensure all # headers have a space after them (e.g., #Title -> # Title)
+              sed -i 's/^#\([^ ]\)/# \1/g' "$file"
+
+              # 4. Inject Front Matter
               {
                 echo "---"
                 echo "layout: default"
@@ -84,9 +76,7 @@ jobs:
                 cat "$file"
               } > "$file.tmp" && mv "$file.tmp" "$file"
               
-              echo "✅ Formatted: $TITLE (Order: $ORDER)"
-            else
-              echo "⏭️ Skipping $filename (Header exists)"
+              echo "✅ Processed: $TITLE"
             fi
           done
       - name: Commit and Push
