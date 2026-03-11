@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="hero-section">
-  <img src="{{ '/assets/internal/logo.png' | relative_url }}" alt="Forgotten Ones Logo" class="site-logo">
+  <img src="{{ './assets/internal/logo.png' | relative_url }}" alt="Forgotten Ones Logo" class="site-logo">
   <p class="flavor-text">A long time ago, in a galaxy far, far away...</p>
 </div>
 
