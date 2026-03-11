@@ -8,13 +8,13 @@ order: 0
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/11/2025 23:28:39) <br style='clear: both;'>
+# Prelude: Dryzan
 
 *1382501819497971736*
 
 ***A long time ago in a galaxy far, far away....***
-# ### **STAR WARS**
-# #### **THE STATIC ON THE LINE**
+#### **STAR WARS**
+##### **THE STATIC ON THE LINE**
 
 *The **HIGH REPUBLIC** era is a time of prosperity, but shadows lengthen in the Outer Rim. For the desperate and the daring, forgotten legends and whispered rumors are often the only currency that matters.*
 
@@ -26,7 +26,7 @@ order: 0
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/13/2025 13:26:13) <br style='clear: both;'>
+### **Storyteller** (06/13/2025 13:26:13) <br style='clear: both;'>
 
 *1383074987593961556*
 
@@ -39,7 +39,7 @@ The ship is cold, running on bare minimum power to save credits, and the only ot
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Kar’dola Recording** (06/13/2025 13:26:32) <br style='clear: both;'>
+### **Kar’dola Recording** (06/13/2025 13:26:32) <br style='clear: both;'>
 
 *1383075066321047562*
 
@@ -49,7 +49,7 @@ The ship is cold, running on bare minimum power to save credits, and the only ot
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/13/2025 13:26:32) <br style='clear: both;'>
+### **Storyteller** (06/13/2025 13:26:32) <br style='clear: both;'>
 
 *1383075068439036028*
 
@@ -60,7 +60,7 @@ The audio log clicks off, the last word swallowed by an abrupt silence that feel
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/13/2025 21:32:16) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/13/2025 21:32:16) <br style='clear: both;'>
 
 *1383197307587137536*
 
@@ -76,7 +76,7 @@ He puts his glasses back on and gazes at the droid, the round red frames masking
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (06/13/2025 22:04:07) <br style='clear: both;'>
+### **GE-3** (06/13/2025 22:04:07) <br style='clear: both;'>
 
 *1383205321669083136*
 
@@ -94,7 +94,7 @@ The droid pauses for a fraction of a second, its head tilting almost imperceptib
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/13/2025 23:17:05) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/13/2025 23:17:05) <br style='clear: both;'>
 
 *1383223682905800764*
 
@@ -121,7 +121,7 @@ Turning to the controls Dryzan starts prepping the ship to begin their hunt.
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (06/14/2025 00:05:24) <br style='clear: both;'>
+### **GE-3** (06/14/2025 00:05:24) <br style='clear: both;'>
 
 *1383235844273475648*
 
@@ -131,7 +131,7 @@ The droid's head swivels back to the main console. A low-resolution star chart f
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/14/2025 00:05:25) <br style='clear: both;'>
+### **Storyteller** (06/14/2025 00:05:25) <br style='clear: both;'>
 
 *1383235847041585182*
 
@@ -141,7 +141,7 @@ The cockpit of the freighter shudders as Dryzan's hands move across the control 
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (06/14/2025 00:05:28) <br style='clear: both;'>
+### **GE-3** (06/14/2025 00:05:28) <br style='clear: both;'>
 
 *1383235861055012995*
 
@@ -151,7 +151,7 @@ The droid remains perfectly still, its photoreceptors tracking the readouts on a
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/14/2025 08:41:24) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/14/2025 08:41:24) <br style='clear: both;'>
 
 *1383365697660260403*
 
@@ -170,7 +170,7 @@ He quickly punches the console buttons, getting the aging vehicle ready for the 
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/14/2025 11:00:12) <br style='clear: both;'>
+### **Storyteller** (06/14/2025 11:00:12) <br style='clear: both;'>
 
 *1383400630990802945*
 
@@ -182,7 +182,7 @@ For a heart-stopping moment, the only response is a deep, resonant shudder that 
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (06/14/2025 11:02:26) <br style='clear: both;'>
+### **GE-3** (06/14/2025 11:02:26) <br style='clear: both;'>
 
 *1383401190582259734*
 
@@ -192,7 +192,7 @@ The droid’s photoreceptors dim slightly to compensate for the sudden brillianc
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/14/2025 19:49:03) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/14/2025 19:49:03) <br style='clear: both;'>
 
 *1383533720467935313*
 
@@ -205,7 +205,7 @@ The relief is clear on Dryzan's face when the failing ship finally makes the jum
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/14/2025 20:15:12) <br style='clear: both;'>
+### **Storyteller** (06/14/2025 20:15:12) <br style='clear: both;'>
 
 *1383540301590958161*
 
@@ -215,7 +215,7 @@ The ship settles into the steady, hypnotic rhythm of hyperspace travel. The chao
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (06/14/2025 20:15:13) <br style='clear: both;'>
+### **GE-3** (06/14/2025 20:15:13) <br style='clear: both;'>
 
 *1383540304002547822*
 
@@ -225,7 +225,7 @@ The droid’s head swivels away from the main console and tilts down toward a lo
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/14/2025 20:15:13) <br style='clear: both;'>
+### **Storyteller** (06/14/2025 20:15:13) <br style='clear: both;'>
 
 *1383540305101324368*
 
@@ -235,7 +235,7 @@ The panel in question emits a low, oscillating hum, and a faint smell of burnt o
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/15/2025 06:31:19) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/15/2025 06:31:19) <br style='clear: both;'>
 
 *1383695349880717423*
 
@@ -250,7 +250,7 @@ Standing and stretching, Dryzan removes the long trench coat and dumps it over t
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/15/2025 10:50:39) <br style='clear: both;'>
+### **Storyteller** (06/15/2025 10:50:39) <br style='clear: both;'>
 
 *1383760612584325235*
 
@@ -260,7 +260,7 @@ GE-3's head tilts in acknowledgment. A soft whirring sound is followed by the fa
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Kar’dola Recording** (06/15/2025 10:50:39) <br style='clear: both;'>
+### **Kar’dola Recording** (06/15/2025 10:50:39) <br style='clear: both;'>
 
 *1383760615176146984*
 
@@ -270,7 +270,7 @@ GE-3's head tilts in acknowledgment. A soft whirring sound is followed by the fa
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/15/2025 10:50:40) <br style='clear: both;'>
+### **Storyteller** (06/15/2025 10:50:40) <br style='clear: both;'>
 
 *1383760618217148426*
 
@@ -280,7 +280,7 @@ The recording clicks off. As Dryzan pries open the access panel with a groan of 
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/15/2025 23:33:41) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/15/2025 23:33:41) <br style='clear: both;'>
 
 *1383952640097914892*
 
@@ -301,7 +301,7 @@ The sealant tape carefully and precisely snugs around the damaged cable, sheathi
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/15/2025 23:52:26) <br style='clear: both;'>
+### **Storyteller** (06/15/2025 23:52:26) <br style='clear: both;'>
 
 *1383957354529292319*
 
@@ -311,7 +311,7 @@ The moment the sealant tape makes its final wrap around the frayed wire, the low
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (06/15/2025 23:52:26) <br style='clear: both;'>
+### **GE-3** (06/15/2025 23:52:26) <br style='clear: both;'>
 
 *1383957356576112660*
 
@@ -321,7 +321,7 @@ The droid’s photoreceptors brighten, scanning the internal diagnostic readouts
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/16/2025 13:50:03) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/16/2025 13:50:03) <br style='clear: both;'>
 
 *1384168148156154089*
 
@@ -338,7 +338,7 @@ His hands pat his pockets unconsciously, the reaction as autonomous as the thin 
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (06/16/2025 14:22:07) <br style='clear: both;'>
+### **GE-3** (06/16/2025 14:22:07) <br style='clear: both;'>
 
 *1384176221264285730*
 
@@ -356,7 +356,7 @@ A new data schematic flashes onto GE-3's chest-mounted display screen, showing t
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/16/2025 14:45:52) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/16/2025 14:45:52) <br style='clear: both;'>
 
 *1384182196084019404*
 
@@ -370,7 +370,7 @@ The idea of creeping around the wreck in a suit, barely able to see or breathe, 
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (06/16/2025 15:50:23) <br style='clear: both;'>
+### **GE-3** (06/16/2025 15:50:23) <br style='clear: both;'>
 
 *1384198432885051445*
 
@@ -390,7 +390,7 @@ The droid's head tilts, its photoreceptors focusing on Dryzan.
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/16/2025 18:56:10) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/16/2025 18:56:10) <br style='clear: both;'>
 
 *1384245187194257489*
 
@@ -407,7 +407,7 @@ As he focuses on the problem his hands and mind still, the nerves (and longing f
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (06/16/2025 19:09:45) <br style='clear: both;'>
+### **GE-3** (06/16/2025 19:09:45) <br style='clear: both;'>
 
 *1384248603362721944*
 
@@ -419,7 +419,7 @@ As he focuses on the problem his hands and mind still, the nerves (and longing f
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/16/2025 19:09:45) <br style='clear: both;'>
+### **Storyteller** (06/16/2025 19:09:45) <br style='clear: both;'>
 
 *1384248605648355500*
 
@@ -431,7 +431,7 @@ Simultaneously, a small, unassuming maintenance airlock near the aft engineering
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (06/16/2025 19:09:49) <br style='clear: both;'>
+### **GE-3** (06/16/2025 19:09:49) <br style='clear: both;'>
 
 *1384248621968654376*
 
@@ -449,7 +449,7 @@ The display holds steady, presenting the two glowing paths into the heart of the
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/16/2025 23:39:37) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/16/2025 23:39:37) <br style='clear: both;'>
 
 *1384316517268852807*
 
@@ -470,7 +470,7 @@ All the while the ship hurtles closer to the destination, and the date with what
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/16/2025 23:53:27) <br style='clear: both;'>
+### **Storyteller** (06/16/2025 23:53:27) <br style='clear: both;'>
 
 *1384320001380712503*
 
@@ -484,7 +484,7 @@ It is a terrifyingly beautiful sight. Vast, churning clouds of crimson and deep 
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (06/16/2025 23:53:28) <br style='clear: both;'>
+### **GE-3** (06/16/2025 23:53:28) <br style='clear: both;'>
 
 *1384320004127719425*
 
@@ -494,7 +494,7 @@ The droid’s photoreceptors adjust, analyzing the swirling chaos. **"Arrival co
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/16/2025 23:53:28) <br style='clear: both;'>
+### **Storyteller** (06/16/2025 23:53:28) <br style='clear: both;'>
 
 *1384320005520228362*
 
@@ -504,7 +504,7 @@ The ship drifts at the edge of the storm, the first tendrils of gas licking at t
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/18/2025 06:29:25) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/18/2025 06:29:25) <br style='clear: both;'>
 
 *1384782037982122055*
 
@@ -521,7 +521,7 @@ He begins to take them into the nebula, to whatever fate the swirling gas contai
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/18/2025 23:21:14) <br style='clear: both;'>
+### **Storyteller** (06/18/2025 23:21:14) <br style='clear: both;'>
 
 *1385036668352073758*
 
@@ -537,7 +537,7 @@ It is a silent, breathtaking leviathan. Far larger than Dryzan's freighter, it�
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (06/18/2025 23:21:15) <br style='clear: both;'>
+### **GE-3** (06/18/2025 23:21:15) <br style='clear: both;'>
 
 *1385036670981767230*
 
@@ -547,7 +547,7 @@ The droid’s optical sensors focus on the derelict. **"Target acquired. Analysi
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/18/2025 23:21:16) <br style='clear: both;'>
+### **Storyteller** (06/18/2025 23:21:16) <br style='clear: both;'>
 
 *1385036677931728986*
 
@@ -557,7 +557,7 @@ A quick scan reveals what the schematics predicted: the main hangar is a mangled
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/19/2025 09:59:05) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/19/2025 09:59:05) <br style='clear: both;'>
 
 *1385197187511750698*
 
@@ -582,7 +582,7 @@ Dryzan quickly finishes the shutdown of non-essential systems before rising from
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/19/2025 10:02:42) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/19/2025 10:02:42) <br style='clear: both;'>
 
 *1385198099969998970*
 
@@ -592,7 +592,7 @@ As he strides towards the airlock he can feel his hands shake slightly. Not just
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/19/2025 10:29:29) <br style='clear: both;'>
+### **Storyteller** (06/19/2025 10:29:29) <br style='clear: both;'>
 
 *1385204837381181625*
 
@@ -604,7 +604,7 @@ Dryzan powers down the primary systems, and the familiar thrum of his own ship d
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (06/19/2025 10:29:29) <br style='clear: both;'>
+### **GE-3** (06/19/2025 10:29:29) <br style='clear: both;'>
 
 *1385204839868399616*
 
@@ -614,7 +614,7 @@ The droid’s head swivels to face the airlock door. **"Informative Statement: D
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/19/2025 10:29:29) <br style='clear: both;'>
+### **Storyteller** (06/19/2025 10:29:29) <br style='clear: both;'>
 
 *1385204840858128416*
 
@@ -624,7 +624,7 @@ The airlock door of the freighter stands ready. Beyond it lies the outer door of
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/19/2025 12:01:43) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/19/2025 12:01:43) <br style='clear: both;'>
 
 *1385228051998183425*
 
@@ -644,7 +644,7 @@ Keying the hatch controls, the door hisses open to reveal the maintenance hatch.
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/19/2025 12:35:49) <br style='clear: both;'>
+### **Storyteller** (06/19/2025 12:35:49) <br style='clear: both;'>
 
 *1385236631077912677*
 
@@ -654,7 +654,7 @@ GE-3’s head rotates 180 degrees to face Dryzan as he dons the bulky environmen
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (06/19/2025 12:35:49) <br style='clear: both;'>
+### **GE-3** (06/19/2025 12:35:49) <br style='clear: both;'>
 
 *1385236633242046575*
 
@@ -664,7 +664,7 @@ GE-3’s head rotates 180 degrees to face Dryzan as he dons the bulky environmen
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/19/2025 12:35:50) <br style='clear: both;'>
+### **Storyteller** (06/19/2025 12:35:50) <br style='clear: both;'>
 
 *1385236634575831205*
 
@@ -676,7 +676,7 @@ The corridor beyond is a black maw, untouched by any light. A fine layer of crys
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (06/19/2025 12:35:50) <br style='clear: both;'>
+### **GE-3** (06/19/2025 12:35:50) <br style='clear: both;'>
 
 *1385236635490324526*
 
@@ -686,7 +686,7 @@ The droid follows him through the airlock, its own metallic feet making soft, de
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/19/2025 15:46:05) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/19/2025 15:46:05) <br style='clear: both;'>
 
 *1385284513826996355*
 
@@ -706,7 +706,7 @@ Steeling himself, he continues creeping on in silence, GE-3 a not-quite-comforti
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/19/2025 16:14:20) <br style='clear: both;'>
+### **Storyteller** (06/19/2025 16:14:20) <br style='clear: both;'>
 
 *1385291624334233751*
 
@@ -718,7 +718,7 @@ Behind him, GE-3 follows with its steady, measured gait. But the droid's systems
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (06/19/2025 16:14:21) <br style='clear: both;'>
+### **GE-3** (06/19/2025 16:14:21) <br style='clear: both;'>
 
 *1385291626385244222*
 
@@ -728,7 +728,7 @@ The droid freezes mid-stride. Its head swivels to look at the offending leg, the
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/19/2025 16:14:21) <br style='clear: both;'>
+### **Storyteller** (06/19/2025 16:14:21) <br style='clear: both;'>
 
 *1385291627852988436*
 
@@ -738,7 +738,7 @@ For a tense moment, there is only the echo. Then, from the darkness far down the
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/19/2025 19:21:18) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/19/2025 19:21:18) <br style='clear: both;'>
 
 *1385338673213603873*
 
@@ -760,7 +760,7 @@ He begins frantically trying to recall the schematics, while hoping that GE-3 wi
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (06/19/2025 19:34:54) <br style='clear: both;'>
+### **GE-3** (06/19/2025 19:34:54) <br style='clear: both;'>
 
 *1385342099330961519*
 
@@ -774,7 +774,7 @@ The schematic on the droid's chest flickers, updating instantly. The blue line r
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/19/2025 19:34:55) <br style='clear: both;'>
+### **Storyteller** (06/19/2025 19:34:55) <br style='clear: both;'>
 
 *1385342101457207372*
 
@@ -786,7 +786,7 @@ Dryzan's suit lamp sweeps to the left, illuminating a low, rectangular panel set
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/20/2025 10:14:51) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/20/2025 10:14:51) <br style='clear: both;'>
 
 *1385563544397025281*
 
@@ -805,7 +805,7 @@ His breathing grows faster as he works, his mind fighting against his body's gro
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/20/2025 10:18:02) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/20/2025 10:18:02) <br style='clear: both;'>
 
 *1385564344263381052*
 
@@ -818,7 +818,7 @@ Sweat prickles across his back, running down between his shoulder blades as he i
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/20/2025 10:22:08) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/20/2025 10:22:08) <br style='clear: both;'>
 
 *1385565375181230081*
 
@@ -832,7 +832,7 @@ He freezes in position, unsure exactly how close the droid is to them.
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/20/2025 11:12:52) <br style='clear: both;'>
+### **Storyteller** (06/20/2025 11:12:52) <br style='clear: both;'>
 
 *1385578146799292567*
 
@@ -846,7 +846,7 @@ The *CLOMP* is right outside now. A brilliant, terrifying sliver of red light sl
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (06/20/2025 11:12:53) <br style='clear: both;'>
+### **GE-3** (06/20/2025 11:12:53) <br style='clear: both;'>
 
 *1385578149089382578*
 
@@ -856,7 +856,7 @@ The droid’s blue optics pierce the darkness of the maintenance tube. Its voice
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/20/2025 16:42:21) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/20/2025 16:42:21) <br style='clear: both;'>
 
 *1385661063072321626*
 
@@ -875,7 +875,7 @@ He suits actions to words, turning to begin carefully maneuvering through the cr
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/20/2025 18:15:36) <br style='clear: both;'>
+### **Storyteller** (06/20/2025 18:15:36) <br style='clear: both;'>
 
 *1385684529989288077*
 
@@ -885,7 +885,7 @@ The maintenance tube is a claustrophobic nightmare. It's not a corridor, but a t
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (06/20/2025 18:15:37) <br style='clear: both;'>
+### **GE-3** (06/20/2025 18:15:37) <br style='clear: both;'>
 
 *1385684531859947582*
 
@@ -895,7 +895,7 @@ Behind him, GE-3's progress is even more laborious. The droid's chassis is just 
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/20/2025 18:15:39) <br style='clear: both;'>
+### **Storyteller** (06/20/2025 18:15:39) <br style='clear: both;'>
 
 *1385684539598180387*
 
@@ -907,7 +907,7 @@ Reaching the top of the ladder, they find themselves on a small service platform
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (06/20/2025 18:15:40) <br style='clear: both;'>
+### **GE-3** (06/20/2025 18:15:40) <br style='clear: both;'>
 
 *1385684544900038827*
 
@@ -917,7 +917,7 @@ Reaching the top of the ladder, they find themselves on a small service platform
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/20/2025 18:24:45) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/20/2025 18:24:45) <br style='clear: both;'>
 
 *1385686830976077876*
 
@@ -936,7 +936,7 @@ Snapping out of his musings, he turns and nods as GE-3 lays out the situation.
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (06/20/2025 22:28:09) <br style='clear: both;'>
+### **GE-3** (06/20/2025 22:28:09) <br style='clear: both;'>
 
 *1385748084494958683*
 
@@ -948,7 +948,7 @@ The droid’s blue photoreceptors flicker as it processes the ambient sound wave
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/20/2025 22:28:09) <br style='clear: both;'>
+### **Storyteller** (06/20/2025 22:28:09) <br style='clear: both;'>
 
 *1385748086797897809*
 
@@ -960,7 +960,7 @@ Set at eye level in the hatch is a small, circular viewport, no bigger than his 
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/21/2025 12:32:14) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/21/2025 12:32:14) <br style='clear: both;'>
 
 *1385960507315585026*
 
@@ -976,7 +976,7 @@ Dryzan busies himself with the panel, working carefully to free it up so that he
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (06/21/2025 13:19:13) <br style='clear: both;'>
+### **GE-3** (06/21/2025 13:19:13) <br style='clear: both;'>
 
 *1385972329846276157*
 
@@ -990,7 +990,7 @@ The droid pauses for a beat, its internal processors whirring.
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/21/2025 13:19:14) <br style='clear: both;'>
+### **Storyteller** (06/21/2025 13:19:14) <br style='clear: both;'>
 
 *1385972331989569608*
 
@@ -1002,7 +1002,7 @@ Just as he finishes with the last bolt, the muffled *clomp... clomp... clomp...*
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/22/2025 17:50:12) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/22/2025 17:50:12) <br style='clear: both;'>
 
 *1386402911621353515*
 
@@ -1021,7 +1021,7 @@ He stops, carefully rechecking each pin on the ancient airlock. *There, only jus
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/22/2025 18:39:21) <br style='clear: both;'>
+### **Storyteller** (06/22/2025 18:39:21) <br style='clear: both;'>
 
 *1386415279592046763*
 
@@ -1031,7 +1031,7 @@ The approaching footsteps grow to a rhythmic, floor-vibrating *CLOMP... CLOMP...
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (06/22/2025 18:39:21) <br style='clear: both;'>
+### **GE-3** (06/22/2025 18:39:21) <br style='clear: both;'>
 
 *1386415281794187274*
 
@@ -1043,7 +1043,7 @@ The droid’s photoreceptors brighten, its internal systems primed. It takes a s
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/22/2025 18:57:40) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/22/2025 18:57:40) <br style='clear: both;'>
 
 *1386419891560648846*
 
@@ -1056,7 +1056,7 @@ Following the movement Dryzan steps through into the corridor and then stands to
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/22/2025 19:40:47) <br style='clear: both;'>
+### **Storyteller** (06/22/2025 19:40:47) <br style='clear: both;'>
 
 *1386430741205881034*
 
@@ -1068,7 +1068,7 @@ The terminal screen flickers to life, bathing the immediate area in a faint ambe
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (06/22/2025 19:40:47) <br style='clear: both;'>
+### **GE-3** (06/22/2025 19:40:47) <br style='clear: both;'>
 
 *1386430743462281398*
 
@@ -1078,7 +1078,7 @@ The terminal screen flickers to life, bathing the immediate area in a faint ambe
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/22/2025 19:40:48) <br style='clear: both;'>
+### **Storyteller** (06/22/2025 19:40:48) <br style='clear: both;'>
 
 *1386430744418717828*
 
@@ -1090,7 +1090,7 @@ From the direction the first patrol droid had gone, the distant *clomp, clomp, c
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (06/22/2025 19:40:48) <br style='clear: both;'>
+### **GE-3** (06/22/2025 19:40:48) <br style='clear: both;'>
 
 *1386430745769410641*
 
@@ -1100,7 +1100,7 @@ The droid retracts its scomp link. **"Security protocol overridden. All local pa
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/23/2025 13:14:03) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/23/2025 13:14:03) <br style='clear: both;'>
 
 *1386695807121625221*
 
@@ -1115,7 +1115,7 @@ As the distant noises cease and the droid powers down, Dryzan takes what feels l
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/23/2025 13:16:40) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/23/2025 13:16:40) <br style='clear: both;'>
 
 *1386696464482172948*
 
@@ -1129,7 +1129,7 @@ As the immediate threat seems to be resolved, Dryzan's mind immediately start tu
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/23/2025 13:18:30) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/23/2025 13:18:30) <br style='clear: both;'>
 
 *1386696926543478787*
 
@@ -1140,7 +1140,7 @@ The greedy Balosar's mind starts swimming with ideas, a wide grin blossoming on 
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/23/2025 13:50:11) <br style='clear: both;'>
+### **Storyteller** (06/23/2025 13:50:11) <br style='clear: both;'>
 
 *1386704898887782602*
 
@@ -1150,7 +1150,7 @@ The oppressive tension in the corridor evaporates with the silence of the deacti
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (06/23/2025 13:50:12) <br style='clear: both;'>
+### **GE-3** (06/23/2025 13:50:12) <br style='clear: both;'>
 
 *1386704902008340591*
 
@@ -1168,7 +1168,7 @@ A new, updated route map appears on GE-3's chest display.
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/23/2025 14:01:50) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/23/2025 14:01:50) <br style='clear: both;'>
 
 *1386707831432155136*
 
@@ -1182,7 +1182,7 @@ He turns towards GE-3, a concerned look on his face at the prospect of an unknow
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (06/23/2025 18:07:52) <br style='clear: both;'>
+### **GE-3** (06/23/2025 18:07:52) <br style='clear: both;'>
 
 *1386769745281548461*
 
@@ -1202,7 +1202,7 @@ The droid gestures with one of its manipulator arms toward the map still glowing
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/23/2025 18:35:22) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/23/2025 18:35:22) <br style='clear: both;'>
 
 *1386776666323419237*
 
@@ -1220,7 +1220,7 @@ Dryzan starts walking through the corridors, rubbing his hands together excitedl
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/23/2025 19:18:14) <br style='clear: both;'>
+### **Storyteller** (06/23/2025 19:18:14) <br style='clear: both;'>
 
 *1386787453385572452*
 
@@ -1230,7 +1230,7 @@ They move through the silent, frozen arteries of the dead ship. The corridors ar
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (06/23/2025 19:18:14) <br style='clear: both;'>
+### **GE-3** (06/23/2025 19:18:14) <br style='clear: both;'>
 
 *1386787455449043244*
 
@@ -1244,7 +1244,7 @@ The droid pauses, its head tilting.
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/23/2025 19:18:16) <br style='clear: both;'>
+### **Storyteller** (06/23/2025 19:18:16) <br style='clear: both;'>
 
 *1386787462222712873*
 
@@ -1254,7 +1254,7 @@ Their walk ends before a wide, unassuming door. A frosted-over plaque next to it
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/23/2025 19:58:13) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/23/2025 19:58:13) <br style='clear: both;'>
 
 *1386797515201970197*
 
@@ -1271,7 +1271,7 @@ His deft fingers at work, despite the added bulk of the envirosuit, give the Bal
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/24/2025 00:10:20) <br style='clear: both;'>
+### **Storyteller** (06/24/2025 00:10:20) <br style='clear: both;'>
 
 *1386860962317074543*
 
@@ -1285,7 +1285,7 @@ The office of Cargo Master Korvo Tan is revealed, a perfect, frozen tableau of a
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (06/24/2025 00:10:20) <br style='clear: both;'>
+### **GE-3** (06/24/2025 00:10:20) <br style='clear: both;'>
 
 *1386860964451848313*
 
@@ -1295,7 +1295,7 @@ The droid steps forward, its optical sensors scanning the room. **"Analysis: You
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/24/2025 20:02:33) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/24/2025 20:02:33) <br style='clear: both;'>
 
 *1387160996585410685*
 
@@ -1317,7 +1317,7 @@ He grins, an almost manic energy infusing him now, as he reaches out one hand to
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/24/2025 20:22:57) <br style='clear: both;'>
+### **Storyteller** (06/24/2025 20:22:57) <br style='clear: both;'>
 
 *1387166127620231221*
 
@@ -1327,7 +1327,7 @@ Dryzan's gloved hand rests on the terminal's screen. The surface is colder than 
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (06/24/2025 20:22:57) <br style='clear: both;'>
+### **GE-3** (06/24/2025 20:22:57) <br style='clear: both;'>
 
 *1387166130992582737*
 
@@ -1341,7 +1341,7 @@ GE-3's photoreceptors swivel back to Dryzan. **"Recommendation: If you can expos
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/24/2025 20:22:58) <br style='clear: both;'>
+### **Storyteller** (06/24/2025 20:22:58) <br style='clear: both;'>
 
 *1387166132699398255*
 
@@ -1351,7 +1351,7 @@ Dryzan follows the droid's gesture. High above them, set flush with the ceiling,
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/24/2025 20:55:43) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/24/2025 20:55:43) <br style='clear: both;'>
 
 *1387174374137794692*
 
@@ -1372,7 +1372,7 @@ The smuggler grins widely, like the charming scoundrel has at many other beings 
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (06/24/2025 21:21:44) <br style='clear: both;'>
+### **GE-3** (06/24/2025 21:21:44) <br style='clear: both;'>
 
 *1387180922755088504*
 
@@ -1392,7 +1392,7 @@ A brief pause hangs in the air.
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/24/2025 21:21:45) <br style='clear: both;'>
+### **Storyteller** (06/24/2025 21:21:45) <br style='clear: both;'>
 
 *1387180925565141076*
 
@@ -1404,7 +1404,7 @@ Dryzan clambers onto the desk's slick, frozen surface. From here, he can just re
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/25/2025 10:58:36) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/25/2025 10:58:36) <br style='clear: both;'>
 
 *1387386492971913308*
 
@@ -1424,7 +1424,7 @@ Then he turns his attention to the heavy panel, now in easy reach just above him
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/25/2025 15:26:36) <br style='clear: both;'>
+### **Storyteller** (06/25/2025 15:26:36) <br style='clear: both;'>
 
 *1387453936939569244*
 
@@ -1438,7 +1438,7 @@ The panel itself is even more formidable up close. It’s a thick slab of reinfo
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (06/25/2025 15:26:36) <br style='clear: both;'>
+### **GE-3** (06/25/2025 15:26:36) <br style='clear: both;'>
 
 *1387453939758399700*
 
@@ -1448,7 +1448,7 @@ The droid’s voice comes over the comm, its tone unchanged despite the strain i
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/26/2025 13:12:23) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/26/2025 13:12:23) <br style='clear: both;'>
 
 *1387782547831783445*
 
@@ -1465,7 +1465,7 @@ For a moment he loses himself and his foot twitches, beginning to tap in line wi
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/26/2025 19:52:23) <br style='clear: both;'>
+### **Storyteller** (06/26/2025 19:52:23) <br style='clear: both;'>
 
 *1387883213648822302*
 
@@ -1475,7 +1475,7 @@ Dryzan’s focus narrows to the clamp directly in front of him. It’s a solid, 
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (06/28/2025 22:55:52) <br style='clear: both;'>
+### **Dryzan Kar'dola** (06/28/2025 22:55:52) <br style='clear: both;'>
 
 *1388654162061037698*
 
@@ -1491,7 +1491,7 @@ Oh so delicately he takes the tiny screwdriver tip and lines it up with the hole
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/29/2025 02:26:56) <br style='clear: both;'>
+### **Storyteller** (06/29/2025 02:26:56) <br style='clear: both;'>
 
 *1388707277988429925*
 
@@ -1501,7 +1501,7 @@ Dryzan’s focus narrows to the clamp directly in front of him. It’s a solid, 
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (07/01/2025 20:15:31) <br style='clear: both;'>
+### **Dryzan Kar'dola** (07/01/2025 20:15:31) <br style='clear: both;'>
 
 *1389700974767243367*
 
@@ -1518,7 +1518,7 @@ He quickly reapplies himself to the task, carefully manipulating the screwdriver
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/01/2025 22:29:35) <br style='clear: both;'>
+### **Storyteller** (07/01/2025 22:29:35) <br style='clear: both;'>
 
 *1389734713752813670*
 
@@ -1530,7 +1530,7 @@ The main junction is right there, just as the scans predicted. A thick, armored 
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (07/01/2025 22:29:36) <br style='clear: both;'>
+### **GE-3** (07/01/2025 22:29:36) <br style='clear: both;'>
 
 *1389734716231647264*
 
@@ -1540,7 +1540,7 @@ The droid’s voice comes over the comm, steady as ever. **"Analysis: That is th
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/01/2025 22:29:36) <br style='clear: both;'>
+### **Storyteller** (07/01/2025 22:29:36) <br style='clear: both;'>
 
 *1389734717552595025*
 
@@ -1550,7 +1550,7 @@ The space is tight, and the work will be delicate. He'll need to strip the heavy
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (07/02/2025 21:33:07) <br style='clear: both;'>
+### **Dryzan Kar'dola** (07/02/2025 21:33:07) <br style='clear: both;'>
 
 *1390082888099168386*
 
@@ -1566,7 +1566,7 @@ Then a loud rumble sounds, distracting him from his job momentarily.
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (07/02/2025 23:49:33) <br style='clear: both;'>
+### **GE-3** (07/02/2025 23:49:33) <br style='clear: both;'>
 
 *1390117226140663828*
 
@@ -1576,7 +1576,7 @@ Then a loud rumble sounds, distracting him from his job momentarily.
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/02/2025 23:49:34) <br style='clear: both;'>
+### **Storyteller** (07/02/2025 23:49:34) <br style='clear: both;'>
 
 *1390117228753584219*
 
@@ -1588,7 +1588,7 @@ He has the main line exposed and is preparing to attach the bypass cable when a 
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (07/02/2025 23:49:34) <br style='clear: both;'>
+### **GE-3** (07/02/2025 23:49:34) <br style='clear: both;'>
 
 *1390117229760086046*
 
@@ -1598,7 +1598,7 @@ The droid’s photoreceptors instantly shift focus, analyzing the new acoustic d
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (07/03/2025 18:09:11) <br style='clear: both;'>
+### **Dryzan Kar'dola** (07/03/2025 18:09:11) <br style='clear: both;'>
 
 *1390393957577523311*
 
@@ -1621,7 +1621,7 @@ A thought blossoms in his head, and he grins widely.
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (07/03/2025 19:48:01) <br style='clear: both;'>
+### **GE-3** (07/03/2025 19:48:01) <br style='clear: both;'>
 
 *1390418827350642789*
 
@@ -1635,7 +1635,7 @@ A brief, almost imperceptible pause follows. **"Dilemma: Reprogramming the droid
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/03/2025 19:48:01) <br style='clear: both;'>
+### **Storyteller** (07/03/2025 19:48:01) <br style='clear: both;'>
 
 *1390418830324662273*
 
@@ -1645,7 +1645,7 @@ As if to punctuate the droid's words, a new sound joins the low hum of the ship�
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (07/03/2025 19:55:25) <br style='clear: both;'>
+### **Dryzan Kar'dola** (07/03/2025 19:55:25) <br style='clear: both;'>
 
 *1390420691999920318*
 
@@ -1659,7 +1659,7 @@ Turning back to the cable, Dryzan prepares to attempt the splice - he's only goi
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/03/2025 20:34:25) <br style='clear: both;'>
+### **Storyteller** (07/03/2025 20:34:25) <br style='clear: both;'>
 
 *1390430506323017771*
 
@@ -1675,7 +1675,7 @@ The logistics terminal on the desk below them flickers to life. Its screen, blac
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (07/03/2025 20:34:26) <br style='clear: both;'>
+### **GE-3** (07/03/2025 20:34:26) <br style='clear: both;'>
 
 *1390430509410160762*
 
@@ -1685,7 +1685,7 @@ The logistics terminal on the desk below them flickers to life. Its screen, blac
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (07/03/2025 22:52:53) <br style='clear: both;'>
+### **Dryzan Kar'dola** (07/03/2025 22:52:53) <br style='clear: both;'>
 
 *1390465350285525113*
 
@@ -1708,7 +1708,7 @@ He peers anxiously out of the cabin door, trying to keep an eye out for anyone c
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/03/2025 23:15:38) <br style='clear: both;'>
+### **Storyteller** (07/03/2025 23:15:38) <br style='clear: both;'>
 
 *1390471076953329824*
 
@@ -1720,7 +1720,7 @@ The droid’s head swivels back and forth between the screen and its own interna
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (07/03/2025 23:15:38) <br style='clear: both;'>
+### **GE-3** (07/03/2025 23:15:38) <br style='clear: both;'>
 
 *1390471078790565981*
 
@@ -1738,7 +1738,7 @@ A notification pings on Dryzan's suit HUD, confirming the data transfer.
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (07/04/2025 19:45:49) <br style='clear: both;'>
+### **Dryzan Kar'dola** (07/04/2025 19:45:49) <br style='clear: both;'>
 
 *1390780662532935690*
 
@@ -1755,7 +1755,7 @@ Without pausing to inspect his handiwork he turns and runs for the maintenance h
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/04/2025 23:14:51) <br style='clear: both;'>
+### **Storyteller** (07/04/2025 23:14:51) <br style='clear: both;'>
 
 *1390833268676497580*
 
@@ -1773,7 +1773,7 @@ With a wild, adrenaline-fueled grin stretching across his face, Dryzan spins and
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (07/05/2025 08:24:01) <br style='clear: both;'>
+### **Dryzan Kar'dola** (07/05/2025 08:24:01) <br style='clear: both;'>
 
 *1390971472046194749*
 
@@ -1798,7 +1798,7 @@ He straightens, groans, and starts jogging through the corridors again.
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/05/2025 23:11:24) <br style='clear: both;'>
+### **Storyteller** (07/05/2025 23:11:24) <br style='clear: both;'>
 
 *1391194786488389672*
 
@@ -1808,7 +1808,7 @@ The chase is a desperate, frantic scramble. They burst from the cramped maintena
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (07/05/2025 23:11:24) <br style='clear: both;'>
+### **GE-3** (07/05/2025 23:11:24) <br style='clear: both;'>
 
 *1391194788191141940*
 
@@ -1818,7 +1818,7 @@ The droid keeps pace, its longer strides eating up the distance. A new map flash
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/05/2025 23:11:25) <br style='clear: both;'>
+### **Storyteller** (07/05/2025 23:11:25) <br style='clear: both;'>
 
 *1391194789856280690*
 
@@ -1830,7 +1830,7 @@ Set into the floor in a ring around the door are a series of emitters, their len
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (07/05/2025 23:23:36) <br style='clear: both;'>
+### **Dryzan Kar'dola** (07/05/2025 23:23:36) <br style='clear: both;'>
 
 *1391197858379858011*
 
@@ -1858,7 +1858,7 @@ He cautiously checks and rechecks the code on the datapad before carefully and d
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/05/2025 23:40:16) <br style='clear: both;'>
+### **Storyteller** (07/05/2025 23:40:16) <br style='clear: both;'>
 
 *1391202050406351039*
 
@@ -1874,7 +1874,7 @@ The air inside is different—utterly still, dry, and ancient. Dryzan’s suit l
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (07/05/2025 23:40:20) <br style='clear: both;'>
+### **GE-3** (07/05/2025 23:40:20) <br style='clear: both;'>
 
 *1391202068089405550*
 
@@ -1884,7 +1884,7 @@ The droid steps up beside him, its blue photoreceptors taking in the sight with 
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (07/08/2025 13:01:55) <br style='clear: both;'>
+### **Dryzan Kar'dola** (07/08/2025 13:01:55) <br style='clear: both;'>
 
 *1392128569723060264*
 
@@ -1904,7 +1904,7 @@ The Balosar shakes his hands out, readying himself for whatever comes next. He s
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/08/2025 14:43:48) <br style='clear: both;'>
+### **Storyteller** (07/08/2025 14:43:48) <br style='clear: both;'>
 
 *1392154210161655899*
 
@@ -1914,7 +1914,7 @@ The immense circular door moves with surprising ease on its ancient, perfectly b
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (07/08/2025 14:43:49) <br style='clear: both;'>
+### **GE-3** (07/08/2025 14:43:49) <br style='clear: both;'>
 
 *1392154213966024836*
 
@@ -1926,7 +1926,7 @@ The droid turns its attention back to Dryzan. **"Informative Statement: Your pro
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/08/2025 14:43:50) <br style='clear: both;'>
+### **Storyteller** (07/08/2025 14:43:50) <br style='clear: both;'>
 
 *1392154217346498570*
 
@@ -1936,7 +1936,7 @@ The frantic pounding of boots grows louder, echoing in the antechamber. The beam
 
 <img src="avatars/1382501818768298095/ebc97ddffff52da9a722d813305ed5f9.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wrecker Captain** (07/08/2025 14:43:51) <br style='clear: both;'>
+### **Wrecker Captain** (07/08/2025 14:43:51) <br style='clear: both;'>
 
 *1392154220920176721*
 
@@ -1946,7 +1946,7 @@ The figure's voice is a low, gravelly growl that seems to absorb the echoes of t
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (07/09/2025 21:13:02) <br style='clear: both;'>
+### **Dryzan Kar'dola** (07/09/2025 21:13:02) <br style='clear: both;'>
 
 *1392614549592608850*
 
@@ -1964,7 +1964,7 @@ He shakes out his hands, readying himself in case of combat as he quietly draws 
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (07/09/2025 21:16:09) <br style='clear: both;'>
+### **Dryzan Kar'dola** (07/09/2025 21:16:09) <br style='clear: both;'>
 
 *1392615335869288500*
 
@@ -1977,7 +1977,7 @@ He snorts.
 
 <img src="avatars/1382501818768298095/ebc97ddffff52da9a722d813305ed5f9.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wrecker Captain** (07/09/2025 21:52:10) <br style='clear: both;'>
+### **Wrecker Captain** (07/09/2025 21:52:10) <br style='clear: both;'>
 
 *1392624398078574748*
 
@@ -1991,7 +1991,7 @@ He gestures with the vibro-ax on his shoulder towards the grunts fanned out behi
 
 <img src="avatars/1382501818768298095/8ae87beefeaa710d4eccebbdb3a12867.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wrecker Guild Scavenger** (07/09/2025 21:52:11) <br style='clear: both;'>
+### **Wrecker Guild Scavenger** (07/09/2025 21:52:11) <br style='clear: both;'>
 
 *1392624401895264307*
 
@@ -2001,7 +2001,7 @@ The four scavenger minions, however, are not as knowledgeable as their captain. 
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola 36/36 HP 0 CT | 4 FP** (07/10/2025 19:07:25) <br style='clear: both;'>
+### **Dryzan Kar'dola 36/36 HP 0 CT | 4 FP** (07/10/2025 19:07:25) <br style='clear: both;'>
 
 *1392945327853801683*
 
@@ -2025,7 +2025,7 @@ A drop of sweat rolls down Dryzan's face as he waits for an answer. He gently sq
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/12/2025 12:43:15) <br style='clear: both;'>
+### **Storyteller** (07/12/2025 12:43:15) <br style='clear: both;'>
 
 *1393573424768487555*
 
@@ -2035,7 +2035,7 @@ The Wrecker Captain is silent for a long moment, the beam of his weapon light fi
 
 <img src="avatars/1382501818768298095/ebc97ddffff52da9a722d813305ed5f9.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wrecker Captain** (07/12/2025 12:43:16) <br style='clear: both;'>
+### **Wrecker Captain** (07/12/2025 12:43:16) <br style='clear: both;'>
 
 *1393573426853318728*
 
@@ -2049,7 +2049,7 @@ He shifts the vibro-ax on his shoulder, his knuckles white.
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/12/2025 12:43:16) <br style='clear: both;'>
+### **Storyteller** (07/12/2025 12:43:16) <br style='clear: both;'>
 
 *1393573428379783301*
 
@@ -2059,7 +2059,7 @@ The air crackles with tension. The antechamber is filled with the low hum of fiv
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (07/15/2025 19:30:19) <br style='clear: both;'>
+### **Dryzan Kar'dola** (07/15/2025 19:30:19) <br style='clear: both;'>
 
 *1394763030650163270*
 
@@ -2082,7 +2082,7 @@ He licks his lips, the nervous tension growing within him as he wonders if the n
 
 <img src="avatars/1382501818768298095/ebc97ddffff52da9a722d813305ed5f9.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wrecker Captain** (07/15/2025 20:01:21) <br style='clear: both;'>
+### **Wrecker Captain** (07/15/2025 20:01:21) <br style='clear: both;'>
 
 *1394770837202272437*
 
@@ -2096,7 +2096,7 @@ He takes a step to the side, giving his four scavengers a clear line of sight. T
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/15/2025 20:01:21) <br style='clear: both;'>
+### **Storyteller** (07/15/2025 20:01:21) <br style='clear: both;'>
 
 *1394770839668396286*
 
@@ -2106,7 +2106,7 @@ The count begins, each number a hammer blow in the tense silence. The barrel of 
 
 <img src="avatars/1382501818768298095/ebc97ddffff52da9a722d813305ed5f9.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wrecker Captain** (07/16/2025 01:26:44) <br style='clear: both;'>
+### **Wrecker Captain** (07/16/2025 01:26:44) <br style='clear: both;'>
 
 *1394852724541096067*
 
@@ -2116,7 +2116,7 @@ The count begins, each number a hammer blow in the tense silence. The barrel of 
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/16/2025 01:26:45) <br style='clear: both;'>
+### **Storyteller** (07/16/2025 01:26:45) <br style='clear: both;'>
 
 *1394852726659223623*
 
@@ -2130,7 +2130,7 @@ The sound is not a word, but a single, heavy, metallic footstep that echoes from
 
 <img src="avatars/1382501818768298095/ebc97ddffff52da9a722d813305ed5f9.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wrecker Captain** (07/16/2025 01:26:45) <br style='clear: both;'>
+### **Wrecker Captain** (07/16/2025 01:26:45) <br style='clear: both;'>
 
 *1394852728064311469*
 
@@ -2140,7 +2140,7 @@ The sound is not a word, but a single, heavy, metallic footstep that echoes from
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/16/2025 01:26:45) <br style='clear: both;'>
+### **Storyteller** (07/16/2025 01:26:45) <br style='clear: both;'>
 
 *1394852729876250697*
 
@@ -2152,7 +2152,7 @@ From inside the vault, a thin scomp link retracts from a barely-noticeable maint
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (07/16/2025 01:26:46) <br style='clear: both;'>
+### **GE-3** (07/16/2025 01:26:46) <br style='clear: both;'>
 
 *1394852731579011223*
 
@@ -2162,7 +2162,7 @@ The droid’s voice is a low, calm whisper over Dryzan’s private comm. **"Info
 
 <img src="avatars/1382501818768298095/ebc97ddffff52da9a722d813305ed5f9.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wrecker Captain** (07/16/2025 01:26:46) <br style='clear: both;'>
+### **Wrecker Captain** (07/16/2025 01:26:46) <br style='clear: both;'>
 
 *1394852732854210744*
 
@@ -2172,7 +2172,7 @@ The Wrecker Captain stares at the advancing line of silent, remorseless machines
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/16/2025 01:26:50) <br style='clear: both;'>
+### **Storyteller** (07/16/2025 01:26:50) <br style='clear: both;'>
 
 *1394852747156918297*
 
@@ -2184,7 +2184,7 @@ The standoff is broken. Chaos reigns. The Wreckers are caught in a deadly crossf
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (07/17/2025 18:14:49) <br style='clear: both;'>
+### **Dryzan Kar'dola** (07/17/2025 18:14:49) <br style='clear: both;'>
 
 *1395468804343201945*
 
@@ -2200,7 +2200,7 @@ Seizing the moment, Dryzan lines up a shot carefully through the scope of his tr
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/17/2025 18:47:44) <br style='clear: both;'>
+### **Storyteller** (07/17/2025 18:47:44) <br style='clear: both;'>
 
 *1395477086344446023*
 
@@ -2210,7 +2210,7 @@ The antechamber transforms from a silent tomb into a churning cauldron of violen
 
 <img src="avatars/1382501818768298095/ebc97ddffff52da9a722d813305ed5f9.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wrecker Captain** (07/17/2025 18:47:44) <br style='clear: both;'>
+### **Wrecker Captain** (07/17/2025 18:47:44) <br style='clear: both;'>
 
 *1395477088949112923*
 
@@ -2220,7 +2220,7 @@ The Wrecker Captain roars in fury, reacting with the speed of a seasoned brawler
 
 <img src="avatars/1382501818768298095/8ae87beefeaa710d4eccebbdb3a12867.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wrecker Guild Scavenger** (07/17/2025 18:47:45) <br style='clear: both;'>
+### **Wrecker Guild Scavenger** (07/17/2025 18:47:45) <br style='clear: both;'>
 
 *1395477090219982879*
 
@@ -2230,7 +2230,7 @@ His four scavengers, panicked but obedient, follow the order. A ragged, desperat
 
 <img src="avatars/1382501818768298095/a2bab3cf5fd55359d8ecbb1b8b7835f8.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Corporate Sentry Droid** (07/17/2025 18:47:45) <br style='clear: both;'>
+### **Corporate Sentry Droid** (07/17/2025 18:47:45) <br style='clear: both;'>
 
 *1395477091092402298*
 
@@ -2240,7 +2240,7 @@ The remaining three Sentry Droids do not pause or react to the loss of their com
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/17/2025 18:51:01) <br style='clear: both;'>
+### **Storyteller** (07/17/2025 18:51:01) <br style='clear: both;'>
 
 *1395477915180990535*
 
@@ -2252,7 +2252,7 @@ The bolt of energy lances across the chaotic chamber, a streak of surgical preci
 
 <img src="avatars/1382501818768298095/ebc97ddffff52da9a722d813305ed5f9.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wrecker Captain** (07/17/2025 19:02:10) <br style='clear: both;'>
+### **Wrecker Captain** (07/17/2025 19:02:10) <br style='clear: both;'>
 
 *1395480718632812754*
 
@@ -2262,7 +2262,7 @@ Roaring, more from fury than pain, the Wrecker Captain ignores the debilitating 
 
 <img src="avatars/1382501818768298095/8ae87beefeaa710d4eccebbdb3a12867.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wrecker Guild Scavenger** (07/17/2025 19:02:10) <br style='clear: both;'>
+### **Wrecker Guild Scavenger** (07/17/2025 19:02:10) <br style='clear: both;'>
 
 *1395480721069576213*
 
@@ -2272,7 +2272,7 @@ Seeing their leader press the attack, the remaining four scavengers regain a sli
 
 <img src="avatars/1382501818768298095/a2bab3cf5fd55359d8ecbb1b8b7835f8.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Corporate Sentry Droid** (07/17/2025 19:02:10) <br style='clear: both;'>
+### **Corporate Sentry Droid** (07/17/2025 19:02:10) <br style='clear: both;'>
 
 *1395480722235592734*
 
@@ -2282,7 +2282,7 @@ The three Sentry Droids are implacable. Their programming ignores the lesser thr
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/17/2025 19:02:11) <br style='clear: both;'>
+### **Storyteller** (07/17/2025 19:02:11) <br style='clear: both;'>
 
 *1395480723128975501*
 
@@ -2292,7 +2292,7 @@ The sudden, brutal execution of their captain shatters the scavengers' morale. T
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (07/17/2025 19:24:56) <br style='clear: both;'>
+### **Dryzan Kar'dola** (07/17/2025 19:24:56) <br style='clear: both;'>
 
 *1395486449557831731*
 
@@ -2310,7 +2310,7 @@ He watches as the remaining wreckers panic, ready to flee, and hunkers down behi
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/17/2025 19:34:51) <br style='clear: both;'>
+### **Storyteller** (07/17/2025 19:34:51) <br style='clear: both;'>
 
 *1395488945688674314*
 
@@ -2328,7 +2328,7 @@ The antechamber is still once more. The only movement is the slow, swirling mote
 
 <img src="avatars/1382501818768298095/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Dryzan Kar'dola** (07/17/2025 23:46:30) <br style='clear: both;'>
+### **Dryzan Kar'dola** (07/17/2025 23:46:30) <br style='clear: both;'>
 
 *1395552274444583003*
 
@@ -2354,7 +2354,7 @@ The joy is overwhelming, and the catharsis that this moment brings is welcome.
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/18/2025 22:15:16) <br style='clear: both;'>
+### **Storyteller** (07/18/2025 22:15:16) <br style='clear: both;'>
 
 *1395891703684272249*
 
@@ -2366,7 +2366,7 @@ GE-3 steps over the threshold, its blue photoreceptors sweeping across the mound
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (07/18/2025 22:15:17) <br style='clear: both;'>
+### **GE-3** (07/18/2025 22:15:17) <br style='clear: both;'>
 
 *1395891707224002730*
 
@@ -2384,7 +2384,7 @@ Another pause, this one feeling heavier, more final.
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/18/2025 22:16:50) <br style='clear: both;'>
+### **Storyteller** (07/18/2025 22:16:50) <br style='clear: both;'>
 
 *1395892097625755819*
 
@@ -2394,7 +2394,7 @@ Before the crushing weight of that logistical impossibility can even settle on D
 
 <img src="avatars/1382501818768298095/0cf8e808b45e617cdf06e607b903ded3.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **GE-3** (07/18/2025 22:16:51) <br style='clear: both;'>
+### **GE-3** (07/18/2025 22:16:51) <br style='clear: both;'>
 
 *1395892099852931114*
 
@@ -2404,7 +2404,7 @@ Before the crushing weight of that logistical impossibility can even settle on D
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/25/2025 01:02:40) <br style='clear: both;'>
+### **Storyteller** (07/25/2025 01:02:40) <br style='clear: both;'>
 
 *1398108158593073233*
 

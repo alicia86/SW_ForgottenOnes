@@ -8,13 +8,13 @@ order: 0
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/23/2025 19:45:42) <br style='clear: both;'>
+# Prelude: Iyola
 
 *1386794368551358485*
 
 ***A long time ago in a galaxy far, far away....***
-# ### **STAR WARS**
-# #### **THE SUNKEN STAR OF XYLOS** 
+#### **STAR WARS**
+##### **THE SUNKEN STAR OF XYLOS** 
 The age of galactic exploration is not over. In the furthest reaches of the Outer Rim, forgotten legends and lost treasures still wait for those daring enough to find them. The greatest of these prizes is the **SUNKEN STAR**, a pre-Republic survey ship rumored to hold priceless navigational data, lost for centuries to the void.
 Now, after years of relentless searching, intrepid pioneer **IYOLA KETT** has tracked the ghost ship to its final resting place—the uncharted jungle moon of Xylos. The discovery would cement her legacy, bringing her the fame and respect she has fought so hard to earn.
 But she is not alone. Her ambitious rival, **HEXTOR AMBUR**, has followed her trail, turning Iyola’s moment of triumph into a desperate race. With the moon's violent atmosphere scrambling their sensors, Iyola must descend to the hostile surface alone to claim the legendary prize before it is stolen from her grasp....
@@ -23,7 +23,7 @@ But she is not alone. Her ambitious rival, **HEXTOR AMBUR**, has followed her tr
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/23/2025 19:50:36) <br style='clear: both;'>
+### **Storyteller** (06/23/2025 19:50:36) <br style='clear: both;'>
 
 *1386795599382319175*
 
@@ -33,7 +33,7 @@ The low, resonant hum of the *Stardust Seeker’s* life support is the only soun
 
 <img src="avatars/1382501818768298095/f77bf768a1a186c18afcda070542b147.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Caz Rha** (06/23/2025 19:50:36) <br style='clear: both;'>
+### **Caz Rha** (06/23/2025 19:50:36) <br style='clear: both;'>
 
 *1386795601626398771*
 
@@ -47,7 +47,7 @@ He pauses, his expression souring. **"And... we're not the first to the party. L
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/23/2025 19:50:41) <br style='clear: both;'>
+### **Storyteller** (06/23/2025 19:50:41) <br style='clear: both;'>
 
 *1386795619116384429*
 
@@ -57,7 +57,7 @@ The name hangs in the air for a moment, heavy with unspoken history and rivalry:
 
 <img src="avatars/1382501818768298095/f77bf768a1a186c18afcda070542b147.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Caz Rha** (06/23/2025 19:50:41) <br style='clear: both;'>
+### **Caz Rha** (06/23/2025 19:50:41) <br style='clear: both;'>
 
 *1386795621679370300*
 
@@ -67,7 +67,7 @@ The name hangs in the air for a moment, heavy with unspoken history and rivalry:
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/23/2025 19:50:41) <br style='clear: both;'>
+### **Storyteller** (06/23/2025 19:50:41) <br style='clear: both;'>
 
 *1386795622991925310*
 
@@ -77,7 +77,7 @@ In the deployment bay, the ship's single-person entry pod, the "Shooting Star," 
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (06/23/2025 23:57:06) <br style='clear: both;'>
+### **Iyola Kett** (06/23/2025 23:57:06) <br style='clear: both;'>
 
 *1386857633696190585*
 
@@ -95,7 +95,7 @@ The jewel-toned moon of Xylos churned beneath her.  T*his was exciting. She had 
 
 <img src="avatars/1382501818768298095/f77bf768a1a186c18afcda070542b147.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Caz Rha** (06/24/2025 01:27:43) <br style='clear: both;'>
+### **Caz Rha** (06/24/2025 01:27:43) <br style='clear: both;'>
 
 *1386880439666479124*
 
@@ -105,7 +105,7 @@ He watches her go, a flicker of a smile on his face despite the tension. Her con
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/24/2025 01:27:44) <br style='clear: both;'>
+### **Storyteller** (06/24/2025 01:27:44) <br style='clear: both;'>
 
 *1386880442355028070*
 
@@ -117,7 +117,7 @@ Modifying them for these conditions is a daring, on-the-fly piece of engineering
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (06/24/2025 02:07:56) <br style='clear: both;'>
+### **Iyola Kett** (06/24/2025 02:07:56) <br style='clear: both;'>
 
 *1386890560442470432*
 
@@ -131,7 +131,7 @@ She grabbed her multitool and pried the access panel open on the probe closest t
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/24/2025 02:19:59) <br style='clear: both;'>
+### **Storyteller** (06/24/2025 02:19:59) <br style='clear: both;'>
 
 *1386893590738768003*
 
@@ -143,7 +143,7 @@ There's a sharp *fizzle* and a flash of brilliant blue light from the probe's co
 
 <img src="avatars/1382501818768298095/f77bf768a1a186c18afcda070542b147.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Caz Rha** (06/24/2025 02:20:00) <br style='clear: both;'>
+### **Caz Rha** (06/24/2025 02:20:00) <br style='clear: both;'>
 
 *1386893593976766515*
 
@@ -153,7 +153,7 @@ His voice crackles over the internal comm almost immediately, laced with alarm. 
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/24/2025 02:20:00) <br style='clear: both;'>
+### **Storyteller** (06/24/2025 02:20:00) <br style='clear: both;'>
 
 *1386893595063353396*
 
@@ -163,7 +163,7 @@ The smoking probes on the bench are a testament to her failed gamble. The shortc
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (06/24/2025 02:25:31) <br style='clear: both;'>
+### **Iyola Kett** (06/24/2025 02:25:31) <br style='clear: both;'>
 
 *1386894985080733850*
 
@@ -177,7 +177,7 @@ She wondered briefly if the comm would cut through the energy storm around Xylos
 
 <img src="avatars/1382501818768298095/f77bf768a1a186c18afcda070542b147.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Caz Rha** (06/24/2025 10:37:44) <br style='clear: both;'>
+### **Caz Rha** (06/24/2025 10:37:44) <br style='clear: both;'>
 
 *1387018855926468631*
 
@@ -187,7 +187,7 @@ A sigh of relief is audible over the comm, followed by a wry chuckle. ***"Defect
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/24/2025 10:37:49) <br style='clear: both;'>
+### **Storyteller** (06/24/2025 10:37:49) <br style='clear: both;'>
 
 *1387018876591542393*
 
@@ -203,7 +203,7 @@ With a grunt of effort, Iyola hits the manual release for the main hatch. It gro
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (06/24/2025 21:24:55) <br style='clear: both;'>
+### **Iyola Kett** (06/24/2025 21:24:55) <br style='clear: both;'>
 
 *1387181725058076674*
 
@@ -215,7 +215,7 @@ Iyola took a deep breath of the fragrant air of Xylos. New planets always smelle
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/24/2025 22:09:51) <br style='clear: both;'>
+### **Storyteller** (06/24/2025 22:09:51) <br style='clear: both;'>
 
 *1387193030200787035*
 
@@ -231,7 +231,7 @@ It's as she's scanning the terrain around the crash site, comparing it to the ma
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (06/25/2025 14:52:40) <br style='clear: both;'>
+### **Iyola Kett** (06/25/2025 14:52:40) <br style='clear: both;'>
 
 *1387445397978480873*
 
@@ -249,7 +249,7 @@ Just one minute - she’s going to try to yank that component.  It’s probably 
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/25/2025 16:18:07) <br style='clear: both;'>
+### **Storyteller** (06/25/2025 16:18:07) <br style='clear: both;'>
 
 *1387466903655813141*
 
@@ -261,7 +261,7 @@ Frustrated, she turns her attention to the more promising clue: the landing site
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/25/2025 16:18:11) <br style='clear: both;'>
+### **Storyteller** (06/25/2025 16:18:11) <br style='clear: both;'>
 
 *1387466918490931261*
 
@@ -273,7 +273,7 @@ The initial thrill of the chase begins to fade, replaced by the stark reality of
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (06/25/2025 18:44:53) <br style='clear: both;'>
+### **Iyola Kett** (06/25/2025 18:44:53) <br style='clear: both;'>
 
 *1387503839829037199*
 
@@ -285,7 +285,7 @@ She assessed the ground ahead of her.  Hextor's team couldn't be far; she neede
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/25/2025 19:12:18) <br style='clear: both;'>
+### **Storyteller** (06/25/2025 19:12:18) <br style='clear: both;'>
 
 *1387510736292548681*
 
@@ -299,7 +299,7 @@ The powered winch engages, pulling her swiftly off the ground and up the immense
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (06/25/2025 21:32:50) <br style='clear: both;'>
+### **Iyola Kett** (06/25/2025 21:32:50) <br style='clear: both;'>
 
 *1387546102785511598*
 
@@ -313,7 +313,7 @@ It was actually a little chilly up here.  She pulled out her electrobinoculars a
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/25/2025 22:43:40) <br style='clear: both;'>
+### **Storyteller** (06/25/2025 22:43:40) <br style='clear: both;'>
 
 *1387563927701032961*
 
@@ -331,7 +331,7 @@ From her perch, she now has a complete tactical overview: Hextor's loud and dest
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (06/26/2025 14:01:32) <br style='clear: both;'>
+### **Iyola Kett** (06/26/2025 14:01:32) <br style='clear: both;'>
 
 *1387794916981215272*
 
@@ -351,7 +351,7 @@ As Iyola prepared to descend, she noticed one of the weirdest insects she’d ev
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/26/2025 19:48:55) <br style='clear: both;'>
+### **Storyteller** (06/26/2025 19:48:55) <br style='clear: both;'>
 
 *1387882339652337665*
 
@@ -365,7 +365,7 @@ After one last look toward the pulsing, silvery beacon to the southeast, she sec
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/26/2025 19:49:00) <br style='clear: both;'>
+### **Storyteller** (06/26/2025 19:49:00) <br style='clear: both;'>
 
 *1387882361328242688*
 
@@ -377,7 +377,7 @@ Her eyes trace the lip of the chasm. It seems to stretch for kilometers in eithe
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (06/27/2025 01:35:37) <br style='clear: both;'>
+### **Iyola Kett** (06/27/2025 01:35:37) <br style='clear: both;'>
 
 *1387969591547793418*
 
@@ -389,7 +389,7 @@ Access via the overhead tree limbs a possibility - she wasn't adverse to swingin
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/27/2025 12:24:12) <br style='clear: both;'>
+### **Storyteller** (06/27/2025 12:24:12) <br style='clear: both;'>
 
 *1388132809553612812*
 
@@ -405,7 +405,7 @@ She hangs there, dangling from the root, her heart hammering against her ribs. T
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (06/28/2025 01:06:38) <br style='clear: both;'>
+### **Iyola Kett** (06/28/2025 01:06:38) <br style='clear: both;'>
 
 *1388324682746433657*
 
@@ -417,7 +417,7 @@ The root appears to be sturdy - it was holding her weight, in any case. She has 
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/28/2025 01:42:54) <br style='clear: both;'>
+### **Storyteller** (06/28/2025 01:42:54) <br style='clear: both;'>
 
 *1388333810403250296*
 
@@ -431,7 +431,7 @@ Working quickly, she loops the synthrope around the thick, gnarled root and thro
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (06/28/2025 02:00:17) <br style='clear: both;'>
+### **Iyola Kett** (06/28/2025 02:00:17) <br style='clear: both;'>
 
 *1388338187566317648*
 
@@ -443,7 +443,7 @@ She starts to make her way down the cliff face.
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/28/2025 02:36:49) <br style='clear: both;'>
+### **Storyteller** (06/28/2025 02:36:49) <br style='clear: both;'>
 
 *1388347380377718784*
 
@@ -457,7 +457,7 @@ She has arrived at the bottom. The air here is thick, heavy, and cool, carrying 
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (06/28/2025 03:07:44) <br style='clear: both;'>
+### **Iyola Kett** (06/28/2025 03:07:44) <br style='clear: both;'>
 
 *1388355159720988773*
 
@@ -471,7 +471,7 @@ She takes out her glowrod.  She isn’t sure if it will cut through the mists, b
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/28/2025 11:04:35) <br style='clear: both;'>
+### **Storyteller** (06/28/2025 11:04:35) <br style='clear: both;'>
 
 *1388475163707834408*
 
@@ -485,7 +485,7 @@ The pulsing silver light she saw from the clifftop is much brighter here, filter
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/28/2025 11:04:42) <br style='clear: both;'>
+### **Storyteller** (06/28/2025 11:04:42) <br style='clear: both;'>
 
 *1388475193671946341*
 
@@ -497,7 +497,7 @@ It’s here. The *Sunken Star*. It's larger than the legends described, a massiv
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (06/28/2025 14:57:28) <br style='clear: both;'>
+### **Iyola Kett** (06/28/2025 14:57:28) <br style='clear: both;'>
 
 *1388533769694085312*
 
@@ -510,7 +510,7 @@ She watches for movement, but all she sees is the flickering of light and the sl
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/28/2025 19:17:44) <br style='clear: both;'>
+### **Storyteller** (06/28/2025 19:17:44) <br style='clear: both;'>
 
 *1388599270206083215*
 
@@ -530,7 +530,7 @@ She remains unseen. The path to her right leads deeper into the ship, towards wh
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (06/29/2025 00:04:39) <br style='clear: both;'>
+### **Iyola Kett** (06/29/2025 00:04:39) <br style='clear: both;'>
 
 *1388671473589293127*
 
@@ -546,7 +546,7 @@ She sidles up to Hextor, raising a finger to her lips, indicating that he needs 
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/29/2025 02:25:38) <br style='clear: both;'>
+### **Storyteller** (06/29/2025 02:25:38) <br style='clear: both;'>
 
 *1388706952842055905*
 
@@ -560,7 +560,7 @@ Her mind races, weighing the options against the approaching clicks of the preda
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (06/29/2025 17:31:01) <br style='clear: both;'>
+### **Iyola Kett** (06/29/2025 17:31:01) <br style='clear: both;'>
 
 *1388934798541586533*
 
@@ -578,7 +578,7 @@ There were still dribs and drabs of power in the crippled hydraulic system.  She
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/29/2025 20:09:58) <br style='clear: both;'>
+### **Storyteller** (06/29/2025 20:09:58) <br style='clear: both;'>
 
 *1388974799065190461*
 
@@ -598,7 +598,7 @@ The diversion worked. For now. Hextor lets out a shaky breath he didn't realize 
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (06/30/2025 02:20:22) <br style='clear: both;'>
+### **Iyola Kett** (06/30/2025 02:20:22) <br style='clear: both;'>
 
 *1389068013902499882*
 
@@ -614,7 +614,7 @@ She wondered if there was anything nearby that could serve as a crowbar.  If she
 
 <img src="avatars/1382501818768298095/6cdf37bc666a6108cc6057d1db4d8eea.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Hextor Ambur** (06/30/2025 12:01:08) <br style='clear: both;'>
+### **Hextor Ambur** (06/30/2025 12:01:08) <br style='clear: both;'>
 
 *1389214170213253291*
 
@@ -624,7 +624,7 @@ He looks up at her, his face a mask of pain and disbelief. He swallows hard, try
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/30/2025 12:01:09) <br style='clear: both;'>
+### **Storyteller** (06/30/2025 12:01:09) <br style='clear: both;'>
 
 *1389214172662726777*
 
@@ -634,7 +634,7 @@ His words confirm her suspicion. She's his only hope. Her eyes leave Hextor and 
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (06/30/2025 16:10:34) <br style='clear: both;'>
+### **Iyola Kett** (06/30/2025 16:10:34) <br style='clear: both;'>
 
 *1389276943572013069*
 
@@ -650,7 +650,7 @@ As she assessed the durasteel for the best fulcrum point, improvised crowbar in 
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/30/2025 17:15:45) <br style='clear: both;'>
+### **Storyteller** (06/30/2025 17:15:45) <br style='clear: both;'>
 
 *1389293345066455173*
 
@@ -660,7 +660,7 @@ Hextor’s eyes widen as she hefts the makeshift crowbar. He nods weakly and wit
 
 <img src="avatars/1382501818768298095/6cdf37bc666a6108cc6057d1db4d8eea.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Hextor Ambur** (06/30/2025 17:15:46) <br style='clear: both;'>
+### **Hextor Ambur** (06/30/2025 17:15:46) <br style='clear: both;'>
 
 *1389293350070521916*
 
@@ -670,7 +670,7 @@ Hextor’s eyes widen as she hefts the makeshift crowbar. He nods weakly and wit
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/30/2025 17:15:46) <br style='clear: both;'>
+### **Storyteller** (06/30/2025 17:15:46) <br style='clear: both;'>
 
 *1389293351634866277*
 
@@ -684,7 +684,7 @@ Hextor lies on the deck, panting and cradling his leg. He's free, but he's not g
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (06/30/2025 23:28:21) <br style='clear: both;'>
+### **Iyola Kett** (06/30/2025 23:28:21) <br style='clear: both;'>
 
 *1389387112532676609*
 
@@ -701,7 +701,7 @@ And it works  Hextor manages to squirm away from the durasteel column before Iyo
 
 <img src="avatars/1382501818768298095/6cdf37bc666a6108cc6057d1db4d8eea.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Hextor Ambur** (06/30/2025 23:48:47) <br style='clear: both;'>
+### **Hextor Ambur** (06/30/2025 23:48:47) <br style='clear: both;'>
 
 *1389392257672810579*
 
@@ -711,7 +711,7 @@ He takes the railing segment with a grateful nod, his knuckles white as he uses 
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (06/30/2025 23:48:48) <br style='clear: both;'>
+### **Storyteller** (06/30/2025 23:48:48) <br style='clear: both;'>
 
 *1389392259933536256*
 
@@ -721,7 +721,7 @@ The clicking and hissing grow louder, closer. The lead predator now stands fully
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/01/2025 02:42:54) <br style='clear: both;'>
+### **Storyteller** (07/01/2025 02:42:54) <br style='clear: both;'>
 
 *1389436073523810417*
 
@@ -735,7 +735,7 @@ It's a chance. A slim one, but better than none. The predators are less than thi
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (07/01/2025 14:23:22) <br style='clear: both;'>
+### **Iyola Kett** (07/01/2025 14:23:22) <br style='clear: both;'>
 
 *1389612352890077295*
 
@@ -747,7 +747,7 @@ Iyola’s eyes widen, taking in the entire situation at once. It’s not great. 
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/01/2025 14:41:41) <br style='clear: both;'>
+### **Storyteller** (07/01/2025 14:41:41) <br style='clear: both;'>
 
 *1389616960458981528*
 
@@ -761,7 +761,7 @@ A cold, hard calculation flashes through Iyola’s mind. She can make it. Her ow
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (07/01/2025 23:16:01) <br style='clear: both;'>
+### **Iyola Kett** (07/01/2025 23:16:01) <br style='clear: both;'>
 
 *1389746398936698981*
 
@@ -786,7 +786,7 @@ She fires the gun at the ceiling next to the hole. She should be able to swing t
 
 <img src="avatars/1382501818768298095/6cdf37bc666a6108cc6057d1db4d8eea.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Hextor Ambur** (07/02/2025 02:15:26) <br style='clear: both;'>
+### **Hextor Ambur** (07/02/2025 02:15:26) <br style='clear: both;'>
 
 *1389791550870917201*
 
@@ -796,7 +796,7 @@ Hextor stares at her for a half-second, his expression a mixture of terror and u
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/02/2025 02:15:27) <br style='clear: both;'>
+### **Storyteller** (07/02/2025 02:15:27) <br style='clear: both;'>
 
 *1389791553945600010*
 
@@ -808,7 +808,7 @@ The ascension gun fires with a loud *thwump*, the hook biting securely into the 
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/03/2025 01:58:31) <br style='clear: both;'>
+### **Storyteller** (07/03/2025 01:58:31) <br style='clear: both;'>
 
 *1390149679802749011*
 
@@ -822,7 +822,7 @@ The top of the ancient ship is a landscape of its own, a graveyard of broken ant
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (07/03/2025 02:45:28) <br style='clear: both;'>
+### **Iyola Kett** (07/03/2025 02:45:28) <br style='clear: both;'>
 
 *1390161495765028976*
 
@@ -840,7 +840,7 @@ She picks her way down the hull, looking for a way inside before the panthers fi
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/03/2025 16:42:24) <br style='clear: both;'>
+### **Storyteller** (07/03/2025 16:42:24) <br style='clear: both;'>
 
 *1390372117903577304*
 
@@ -854,7 +854,7 @@ Her eyes scan every surface, every shadow, looking for the tell-tale straight li
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/04/2025 04:19:13) <br style='clear: both;'>
+### **Storyteller** (07/04/2025 04:19:13) <br style='clear: both;'>
 
 *1390547476980826132*
 
@@ -870,7 +870,7 @@ She grips the frozen crank wheel, planting her feet firmly on the slick hull. Wi
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/04/2025 04:19:17) <br style='clear: both;'>
+### **Storyteller** (07/04/2025 04:19:17) <br style='clear: both;'>
 
 *1390547493867094146*
 
@@ -882,7 +882,7 @@ There's no time to be gentle. As the first predator's head, a nightmare of red e
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (07/04/2025 14:52:41) <br style='clear: both;'>
+### **Iyola Kett** (07/04/2025 14:52:41) <br style='clear: both;'>
 
 *1390706891641978882*
 
@@ -896,7 +896,7 @@ She squints ahead into the darkness. She can’t wait to see what else is inside
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/04/2025 16:20:22) <br style='clear: both;'>
+### **Storyteller** (07/04/2025 16:20:22) <br style='clear: both;'>
 
 *1390728960433848441*
 
@@ -910,7 +910,7 @@ One set of symbols seems to depict a series of concentric circles, perhaps indic
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/04/2025 19:08:53) <br style='clear: both;'>
+### **Storyteller** (07/04/2025 19:08:53) <br style='clear: both;'>
 
 *1390771368387153940*
 
@@ -923,7 +923,7 @@ Her path is clear. The corridor to the right leads directly to the bridge, and t
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (07/05/2025 02:35:16) <br style='clear: both;'>
+### **Iyola Kett** (07/05/2025 02:35:16) <br style='clear: both;'>
 
 *1390883705316184118*
 
@@ -933,7 +933,7 @@ Iyola traces the symbols with her finger. It’s one thing to see them on a data
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/05/2025 23:12:58) <br style='clear: both;'>
+### **Storyteller** (07/05/2025 23:12:58) <br style='clear: both;'>
 
 *1391195180094197873*
 
@@ -945,7 +945,7 @@ After a steady five-minute walk, the tunnel ends abruptly. Her glowrod beam illu
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/06/2025 00:45:27) <br style='clear: both;'>
+### **Storyteller** (07/06/2025 00:45:27) <br style='clear: both;'>
 
 *1391218455973330954*
 
@@ -961,7 +961,7 @@ And there, in the center of the room, is the main navigation and astrogation con
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (07/06/2025 14:32:42) <br style='clear: both;'>
+### **Iyola Kett** (07/06/2025 14:32:42) <br style='clear: both;'>
 
 *1391426639988002919*
 
@@ -975,7 +975,7 @@ The main nav is in the center of the room, as if waiting just  for her.  *This i
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/06/2025 16:51:28) <br style='clear: both;'>
+### **Storyteller** (07/06/2025 16:51:28) <br style='clear: both;'>
 
 *1391461562677596231*
 
@@ -987,7 +987,7 @@ The ship's log, the sensor data, the culmination of her life's work is right the
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (07/08/2025 00:48:37) <br style='clear: both;'>
+### **Iyola Kett** (07/08/2025 00:48:37) <br style='clear: both;'>
 
 *1391944029243052254*
 
@@ -1007,7 +1007,7 @@ The screen flashed again, and  her datapad whirred as the logs began to download
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/08/2025 01:32:15) <br style='clear: both;'>
+### **Storyteller** (07/08/2025 01:32:15) <br style='clear: both;'>
 
 *1391955008878153809*
 
@@ -1025,7 +1025,7 @@ She has it all. The complete, uncorrupted logs of the *Sunken Star*. The proof o
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (07/09/2025 00:22:36) <br style='clear: both;'>
+### **Iyola Kett** (07/09/2025 00:22:36) <br style='clear: both;'>
 
 *1392299870215344300*
 
@@ -1041,7 +1041,7 @@ First things first.  Iyola looked around the bridge.  She wondered if there was 
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/09/2025 12:26:56) <br style='clear: both;'>
+### **Storyteller** (07/09/2025 12:26:56) <br style='clear: both;'>
 
 *1392482155069837502*
 
@@ -1055,7 +1055,7 @@ The thought of Hextor waiting for her, helpless and injured, pulls at her. The g
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/09/2025 12:28:56) <br style='clear: both;'>
+### **Storyteller** (07/09/2025 12:28:56) <br style='clear: both;'>
 
 *1392482658604421160*
 
@@ -1071,7 +1071,7 @@ She is caught. In front of her, a predator stalks the narrow, dark passage. Behi
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett 25/25 HP 0 CT | 7 FP** (07/12/2025 17:07:02) <br style='clear: both;'>
+### **Iyola Kett 25/25 HP 0 CT | 7 FP** (07/12/2025 17:07:02) <br style='clear: both;'>
 
 *1393639806080385165*
 
@@ -1091,7 +1091,7 @@ WIth that in mind, she backtracked toward the junction she had noticed earlier.
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/13/2025 02:02:43) <br style='clear: both;'>
+### **Storyteller** (07/13/2025 02:02:43) <br style='clear: both;'>
 
 *1393774614710190282*
 
@@ -1105,7 +1105,7 @@ She takes a deep breath, then darts into the medbay, swinging her glowrod in a w
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/14/2025 19:10:47) <br style='clear: both;'>
+### **Storyteller** (07/14/2025 19:10:47) <br style='clear: both;'>
 
 *1394395725860966511*
 
@@ -1121,7 +1121,7 @@ Silence returns to the narrow maintenance tunnel. She is alone again. The path a
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (07/14/2025 21:31:59) <br style='clear: both;'>
+### **Iyola Kett** (07/14/2025 21:31:59) <br style='clear: both;'>
 
 *1394431259484229662*
 
@@ -1135,7 +1135,7 @@ She walks slowly along the corridor, listening for Hextor, or any signs of furth
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/14/2025 21:51:58) <br style='clear: both;'>
+### **Storyteller** (07/14/2025 21:51:58) <br style='clear: both;'>
 
 *1394436287775117332*
 
@@ -1146,7 +1146,7 @@ She reaches the blast door and peers through the narrow gap. On the other side, 
 
 <img src="avatars/1382501818768298095/6cdf37bc666a6108cc6057d1db4d8eea.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Hextor Ambur** (07/14/2025 21:51:58) <br style='clear: both;'>
+### **Hextor Ambur** (07/14/2025 21:51:58) <br style='clear: both;'>
 
 *1394436290266529822*
 
@@ -1156,7 +1156,7 @@ She reaches the blast door and peers through the narrow gap. On the other side, 
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (07/14/2025 22:47:19) <br style='clear: both;'>
+### **Iyola Kett** (07/14/2025 22:47:19) <br style='clear: both;'>
 
 *1394450215959789668*
 
@@ -1170,7 +1170,7 @@ She has the medpac, of course. But before she applied it, she had to ask Hextor 
 
 <img src="avatars/1382501818768298095/6cdf37bc666a6108cc6057d1db4d8eea.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Hextor Ambur** (07/14/2025 23:06:59) <br style='clear: both;'>
+### **Hextor Ambur** (07/14/2025 23:06:59) <br style='clear: both;'>
 
 *1394455167054778369*
 
@@ -1182,7 +1182,7 @@ Her question seems to drain the last bit of fight out of him. He leans his head 
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (07/15/2025 00:48:11) <br style='clear: both;'>
+### **Iyola Kett** (07/15/2025 00:48:11) <br style='clear: both;'>
 
 *1394480634751094834*
 
@@ -1198,7 +1198,7 @@ She pulled out the medkit and showed it to him.  **  “Hextor, listen to me. Fi
 
 <img src="avatars/1382501818768298095/6cdf37bc666a6108cc6057d1db4d8eea.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Hextor Ambur** (07/15/2025 19:58:24) <br style='clear: both;'>
+### **Hextor Ambur** (07/15/2025 19:58:24) <br style='clear: both;'>
 
 *1394770096894902496*
 
@@ -1208,7 +1208,7 @@ Hextor stares at her, his mouth slightly agape. He seems genuinely stunned by he
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/15/2025 19:58:25) <br style='clear: both;'>
+### **Storyteller** (07/15/2025 19:58:25) <br style='clear: both;'>
 
 *1394770099864600616*
 
@@ -1220,7 +1220,7 @@ Applying a thousand-year-old solution to a fresh wound is a gamble, but it's the
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/15/2025 23:01:37) <br style='clear: both;'>
+### **Storyteller** (07/15/2025 23:01:37) <br style='clear: both;'>
 
 *1394816203784060932*
 
@@ -1232,7 +1232,7 @@ She places the nozzle against a deep gash on Hextor’s calf and presses the stu
 
 <img src="avatars/1382501818768298095/6cdf37bc666a6108cc6057d1db4d8eea.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Hextor Ambur** (07/15/2025 23:01:37) <br style='clear: both;'>
+### **Hextor Ambur** (07/15/2025 23:01:37) <br style='clear: both;'>
 
 *1394816205860245665*
 
@@ -1242,7 +1242,7 @@ Hextor, who had been bracing for the pain of the treatment, looks down at the wa
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (07/16/2025 01:04:15) <br style='clear: both;'>
+### **Iyola Kett** (07/16/2025 01:04:15) <br style='clear: both;'>
 
 *1394847064466395287*
 
@@ -1258,7 +1258,7 @@ Hextor wouldn’t be able to do more than stagger, and she didn’t want to risk
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/16/2025 01:38:01) <br style='clear: both;'>
+### **Storyteller** (07/16/2025 01:38:01) <br style='clear: both;'>
 
 *1394855562323300472*
 
@@ -1268,7 +1268,7 @@ Hextor looks up, confused by her sudden shift in tone, but her confidence seems 
 
 <img src="avatars/1382501818768298095/6cdf37bc666a6108cc6057d1db4d8eea.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Hextor Ambur** (07/16/2025 01:38:01) <br style='clear: both;'>
+### **Hextor Ambur** (07/16/2025 01:38:01) <br style='clear: both;'>
 
 *1394855565234274445*
 
@@ -1278,7 +1278,7 @@ Hextor looks up, confused by her sudden shift in tone, but her confidence seems 
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/16/2025 01:38:02) <br style='clear: both;'>
+### **Storyteller** (07/16/2025 01:38:02) <br style='clear: both;'>
 
 *1394855567088029789*
 
@@ -1290,7 +1290,7 @@ She creeps back to the main breach, peering out into the clearing. The pack of p
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/19/2025 13:51:55) <br style='clear: both;'>
+### **Storyteller** (07/19/2025 13:51:55) <br style='clear: both;'>
 
 *1396127418007162950*
 
@@ -1302,7 +1302,7 @@ Her careful plan to sneak to the sled is impossible. The pack has the wreck comp
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (07/20/2025 20:46:48) <br style='clear: both;'>
+### **Iyola Kett** (07/20/2025 20:46:48) <br style='clear: both;'>
 
 *1396594214833491988*
 
@@ -1322,7 +1322,7 @@ And if nothing else - she had her blaster.  She did not like having to use it, b
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/20/2025 21:10:46) <br style='clear: both;'>
+### **Storyteller** (07/20/2025 21:10:46) <br style='clear: both;'>
 
 *1396600246003306637*
 
@@ -1336,7 +1336,7 @@ Her hand rests on the grip of her blaster. It feels heavy, a final, bloody solut
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (07/20/2025 22:12:42) <br style='clear: both;'>
+### **Iyola Kett** (07/20/2025 22:12:42) <br style='clear: both;'>
 
 *1396615831357755432*
 
@@ -1352,7 +1352,7 @@ Her muscles tense. Once it goes up, she needs to move to the sled.   She just ho
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (07/21/2025 02:01:48) <br style='clear: both;'>
+### **Iyola Kett** (07/21/2025 02:01:48) <br style='clear: both;'>
 
 *1396673486558073033*
 
@@ -1364,7 +1364,7 @@ This is as much camouflage and distraction as she can hope for.  Steeling hersel
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/21/2025 14:52:01) <br style='clear: both;'>
+### **Storyteller** (07/21/2025 14:52:01) <br style='clear: both;'>
 
 *1396867319371661517*
 
@@ -1378,7 +1378,7 @@ This is it. Her gambit paid off, creating the perfect cover. The path to the gro
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/21/2025 19:52:08) <br style='clear: both;'>
+### **Storyteller** (07/21/2025 19:52:08) <br style='clear: both;'>
 
 *1396942846891659325*
 
@@ -1390,7 +1390,7 @@ It's a sleek, expensive-looking cargo sled, far fancier than it needs to be. She
 
 <img src="avatars/1382501818768298095/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (07/21/2025 22:49:45) <br style='clear: both;'>
+### **Iyola Kett** (07/21/2025 22:49:45) <br style='clear: both;'>
 
 *1396987545883246722*
 
@@ -1404,7 +1404,7 @@ First things first.  She needed to get the ramp down.  Then she’d figure out o
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/23/2025 15:30:29) <br style='clear: both;'>
+### **Storyteller** (07/23/2025 15:30:29) <br style='clear: both;'>
 
 *1397601775569342554*
 
@@ -1420,7 +1420,7 @@ It is the most difficult piloting challenge she has ever faced. Everything comes
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/25/2025 00:02:35) <br style='clear: both;'>
+### **Storyteller** (07/25/2025 00:02:35) <br style='clear: both;'>
 
 *1398093039490175177*
 
@@ -1434,7 +1434,7 @@ Hours later, in the quiet of the Stardust Seeker's medbay, a new quiet hangs bet
 
 <img src="avatars/1382501818768298095/6cdf37bc666a6108cc6057d1db4d8eea.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Hextor Ambur** (07/25/2025 00:02:36) <br style='clear: both;'>
+### **Hextor Ambur** (07/25/2025 00:02:36) <br style='clear: both;'>
 
 *1398093041780396032*
 
@@ -1444,7 +1444,7 @@ He looks at Iyola, his usual arrogance completely gone. "My father will… compe
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/25/2025 00:02:43) <br style='clear: both;'>
+### **Storyteller** (07/25/2025 00:02:43) <br style='clear: both;'>
 
 *1398093070645592256*
 
@@ -1454,7 +1454,7 @@ He doesn't know. He doesn't know that the datapad she holds contains the truth o
 
 <img src="avatars/1382501818768298095/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (07/25/2025 00:03:06) <br style='clear: both;'>
+### **Storyteller** (07/25/2025 00:03:06) <br style='clear: both;'>
 
 *1398093167286554755*
 

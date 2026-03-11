@@ -4,19 +4,19 @@ title: "Chapter 2: Silent Drift"
 order: 2
 ---
 
- # Forgotten Ones | Chapter 2: Silent Drift
+# Chapter 2: Silent Drift
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (08/01/2025 12:31:07) <br style='clear: both;'>
+## **Storyteller** (08/01/2025 12:31:07) <br style='clear: both;'>
 
 <a name="1400818126584807445"></a>*1400818126584807445*
 
 ***A long time ago in a galaxy far, far away....***
 
-# ## **STAR WARS**
-# ### **FORGOTTEN ONES**
-# #### **Episode II: Silent Drift**
+### **STAR WARS**
+#### **FORGOTTEN ONES**
+##### **Episode II: Silent Drift**
 
 Consciousness returns not with a jolt, but as a slow, gentle tide. The eight hours of forced, dreamless sleep have been a balm. The leaden weight in their limbs is gone, replaced by a manageable ache, the phantom pains of muscles remembering how to live.
 
@@ -30,7 +30,7 @@ A chime, soft and clear, echoes through the barracks' internal speakers, followe
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Eve the AI** (08/01/2025 12:31:07) <br style='clear: both;'>
+## **Eve the AI** (08/01/2025 12:31:07) <br style='clear: both;'>
 
 <a name="1400818129017372733"></a>*1400818129017372733*
 
@@ -40,7 +40,7 @@ A chime, soft and clear, echoes through the barracks' internal speakers, followe
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (08/01/2025 12:31:08) <br style='clear: both;'>
+## **Storyteller** (08/01/2025 12:31:08) <br style='clear: both;'>
 
 <a name="1400818130044846291"></a>*1400818130044846291*
 
@@ -50,7 +50,7 @@ From a viewport, the view is spectacular and serene. Outside, a vast, incandesce
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Eve the AI** (08/01/2025 12:31:08) <br style='clear: both;'>
+## **Eve the AI** (08/01/2025 12:31:08) <br style='clear: both;'>
 
 <a name="1400818131194347602"></a>*1400818131194347602*
 
@@ -60,7 +60,7 @@ From a viewport, the view is spectacular and serene. Outside, a vast, incandesce
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (08/02/2025 11:28:57) <br style='clear: both;'>
+## **Wes Del-Fin** (08/02/2025 11:28:57) <br style='clear: both;'>
 
 <a name="1401164870585552916"></a>*1401164870585552916*
 
@@ -76,7 +76,7 @@ The next thing he remembered was Eve’s voice telling him that they had arrived
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (08/02/2025 11:29:11) <br style='clear: both;'>
+## **Wes Del-Fin** (08/02/2025 11:29:11) <br style='clear: both;'>
 
 <a name="1401164929641222226"></a>*1401164929641222226*
 
@@ -86,7 +86,7 @@ He looked at his bracer computer and saw no message from Eve about Nadia. **”E
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (08/02/2025 12:35:51) <br style='clear: both;'>
+## **Varda Nisyren** (08/02/2025 12:35:51) <br style='clear: both;'>
 
 <a name="1401181708438601891"></a>*1401181708438601891*
 
@@ -100,7 +100,7 @@ Reaching it she takes a moment to untie a certain knot in her bag and with a twi
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (08/02/2025 12:35:57) <br style='clear: both;'>
+## **Varda Nisyren** (08/02/2025 12:35:57) <br style='clear: both;'>
 
 <a name="1401181730181746720"></a>*1401181730181746720*
 
@@ -110,7 +110,7 @@ Each tea cup settles itself in a small square. The first to hit the table is sma
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (08/02/2025 12:58:33) <br style='clear: both;'>
+## **Storyteller** (08/02/2025 12:58:33) <br style='clear: both;'>
 
 <a name="1401187420312961076"></a>*1401187420312961076*
 
@@ -120,7 +120,7 @@ Wes's bracer computer chimes softly, displaying a new message from Eve. The subj
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Eve the AI** (08/02/2025 12:58:34) <br style='clear: both;'>
+## **Eve the AI** (08/02/2025 12:58:34) <br style='clear: both;'>
 
 <a name="1401187422578147369"></a>*1401187422578147369*
 
@@ -133,7 +133,7 @@ There's a pause as she switches tracks to his next question: “The galley is lo
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (08/02/2025 12:58:34) <br style='clear: both;'>
+## **Storyteller** (08/02/2025 12:58:34) <br style='clear: both;'>
 
 <a name="1401187423689375855"></a>*1401187423689375855*
 
@@ -143,7 +143,7 @@ Varda's slow, meandering path through the silent, flickering corridors leads her
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (08/02/2025 13:11:08) <br style='clear: both;'>
+## **Varda Nisyren** (08/02/2025 13:11:08) <br style='clear: both;'>
 
 <a name="1401190585171443712"></a>*1401190585171443712*
 
@@ -153,7 +153,7 @@ She turns to face the large bay window with a small smile. Always in awe of the 
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (08/02/2025 14:12:44) <br style='clear: both;'>
+## **Wes Del-Fin** (08/02/2025 14:12:44) <br style='clear: both;'>
 
 <a name="1401206086937088132"></a>*1401206086937088132*
 
@@ -172,7 +172,7 @@ The movement of his body felt good.  Tired and weary muscles stretched and loose
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (08/02/2025 14:12:57) <br style='clear: both;'>
+## **Wes Del-Fin** (08/02/2025 14:12:57) <br style='clear: both;'>
 
 <a name="1401206141475618952"></a>*1401206141475618952*
 
@@ -182,7 +182,7 @@ His thoughts carried him to the sterile door of the galley.  Stepping closer it 
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Eve the AI** (08/02/2025 14:26:43) <br style='clear: both;'>
+## **Eve the AI** (08/02/2025 14:26:43) <br style='clear: both;'>
 
 <a name="1401209605094113392"></a>*1401209605094113392*
 
@@ -194,7 +194,7 @@ The AI's voice follows him as he walks the silent, now steadily lit corridors. *
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (08/02/2025 19:18:33) <br style='clear: both;'>
+## **Wes Del-Fin** (08/02/2025 19:18:33) <br style='clear: both;'>
 
 <a name="1401283048246476900"></a>*1401283048246476900*
 
@@ -206,7 +206,7 @@ The AI's voice follows him as he walks the silent, now steadily lit corridors. *
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (08/02/2025 22:56:34) <br style='clear: both;'>
+## **Varda Nisyren** (08/02/2025 22:56:34) <br style='clear: both;'>
 
 <a name="1401337914851459135"></a>*1401337914851459135*
 
@@ -218,7 +218,7 @@ she waves her hand the other three cups stacking neatly before they fall into he
 
 <img src="avatars/1400818125485768835/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Vaeros Halcyon** (08/03/2025 01:51:52) <br style='clear: both;'>
+## **Vaeros Halcyon** (08/03/2025 01:51:52) <br style='clear: both;'>
 
 <a name="1401382032071856231"></a>*1401382032071856231*
 
@@ -232,7 +232,7 @@ Once done, he exits the room and walks toward the galley to get breakfast. He no
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (08/03/2025 01:56:51) <br style='clear: both;'>
+## **Wes Del-Fin** (08/03/2025 01:56:51) <br style='clear: both;'>
 
 <a name="1401383285531344917"></a>*1401383285531344917*
 
@@ -245,7 +245,7 @@ He walked over to where Varda stood looking out the viewport.    Taking a seat h
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (08/03/2025 10:09:10) <br style='clear: both;'>
+## **Varda Nisyren** (08/03/2025 10:09:10) <br style='clear: both;'>
 
 <a name="1401507182242955294"></a>*1401507182242955294*
 
@@ -255,7 +255,7 @@ She turns to him and takes a seat next to him. Manualy pouring him a cup. Listen
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (08/03/2025 11:26:55) <br style='clear: both;'>
+## **Wes Del-Fin** (08/03/2025 11:26:55) <br style='clear: both;'>
 
 <a name="1401526745030463551"></a>*1401526745030463551*
 
@@ -271,7 +271,7 @@ He took a few more bites of the pastes the bland substance was beginning to fulf
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (08/03/2025 15:09:08) <br style='clear: both;'>
+## **Varda Nisyren** (08/03/2025 15:09:08) <br style='clear: both;'>
 
 <a name="1401582668394791112"></a>*1401582668394791112*
 
@@ -281,7 +281,7 @@ she nods s few times and follows wes' train of thought. "**I fear it's slightly 
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (08/04/2025 10:50:14) <br style='clear: both;'>
+## **Wes Del-Fin** (08/04/2025 10:50:14) <br style='clear: both;'>
 
 <a name="1401879901723951265"></a>*1401879901723951265*
 
@@ -291,7 +291,7 @@ Wes nodded as he took a sip of the hot tea.   It did taste good but it wasn’t 
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (08/04/2025 23:13:07) <br style='clear: both;'>
+## **Iyola Kett** (08/04/2025 23:13:07) <br style='clear: both;'>
 
 <a name="1402066854503120917"></a>*1402066854503120917*
 
@@ -311,7 +311,7 @@ She approached the table.
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (08/05/2025 10:34:44) <br style='clear: both;'>
+## **Wes Del-Fin** (08/05/2025 10:34:44) <br style='clear: both;'>
 
 <a name="1402238389042024519"></a>*1402238389042024519*
 
@@ -324,7 +324,7 @@ Wes turned his head at Iyola’s question.   He had heard the galley doors open 
 
 <img src="avatars/1400818125485768835/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Vaeros Halcyon** (08/05/2025 12:40:47) <br style='clear: both;'>
+## **Vaeros Halcyon** (08/05/2025 12:40:47) <br style='clear: both;'>
 
 <a name="1402270111028609065"></a>*1402270111028609065*
 
@@ -336,7 +336,7 @@ As he feels his bowl, he asks Eve, **"Is there any reason why we’re at Kinooni
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (08/05/2025 13:34:58) <br style='clear: both;'>
+## **Varda Nisyren** (08/05/2025 13:34:58) <br style='clear: both;'>
 
 <a name="1402283746790609039"></a>*1402283746790609039*
 
@@ -346,7 +346,7 @@ Varda speaks up slightly. "**I spoke to Eve while on the bridge. Their are files
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (08/05/2025 15:16:01) <br style='clear: both;'>
+## **Iyola Kett** (08/05/2025 15:16:01) <br style='clear: both;'>
 
 <a name="1402309176570544156"></a>*1402309176570544156*
 
@@ -362,7 +362,7 @@ After she’d gobbled down the tasteless slop, Iyola tossed the dish back on the
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Eve the AI** (08/05/2025 17:33:20) <br style='clear: both;'>
+## **Eve the AI** (08/05/2025 17:33:20) <br style='clear: both;'>
 
 <a name="1402343733403451413"></a>*1402343733403451413*
 
@@ -378,7 +378,7 @@ Simultaneously, the bracer computer on Wes's gauntlet chimes softly. The screen 
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (08/05/2025 19:47:01) <br style='clear: both;'>
+## **Wes Del-Fin** (08/05/2025 19:47:01) <br style='clear: both;'>
 
 <a name="1402377375479496804"></a>*1402377375479496804*
 
@@ -397,7 +397,7 @@ The soft audible chime on his bracer let him know that it would soon be time to 
 
 <img src="avatars/1400818125485768835/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Vaeros Halcyon** (08/06/2025 16:41:56) <br style='clear: both;'>
+## **Vaeros Halcyon** (08/06/2025 16:41:56) <br style='clear: both;'>
 
 <a name="1402693186585104454"></a>*1402693186585104454*
 
@@ -409,10 +409,10 @@ Before he walks towards his table, Wes gestures to him, *Sithspit* he thinks.  V
 
 ---
 
-# # *Workshop / Recreation*
+## *Workshop / Recreation*
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/06/2025 17:33:46) <br style='clear: both;'>
+### **Iyola Kett** (08/06/2025 17:33:46) <br style='clear: both;'>
 
 <a name="1402706232732811425"></a>*1402706232732811425*
 
@@ -428,7 +428,7 @@ Eve let her know that Misha was still sleeping.  Iyola made a snap decision to s
 
 <img src="avatars/208916238661844993/d7832f2cac5df42d164b81e35de34f09.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **aliciagd** (08/06/2025 18:56:46) <br style='clear: both;'>
+## **aliciagd** (08/06/2025 18:56:46) <br style='clear: both;'>
 
 <a name="1402727120207347796"></a>*1402727120207347796*
 
@@ -436,10 +436,10 @@ Workshop / Recreation
 
 ---
 
-# # *Workshop / Recreation*
+## *Workshop / Recreation*
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (08/06/2025 18:56:48) <br style='clear: both;'>
+### **Eve the AI** (08/06/2025 18:56:48) <br style='clear: both;'>
 
 <a name="1402727126255271977"></a>*1402727126255271977*
 
@@ -451,7 +451,7 @@ Workshop / Recreation
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (08/06/2025 18:56:54) <br style='clear: both;'>
+### **Storyteller** (08/06/2025 18:56:54) <br style='clear: both;'>
 
 <a name="1402727150230044783"></a>*1402727150230044783*
 
@@ -469,7 +469,7 @@ It feels like a space that was meticulously scrubbed and decommissioned. All the
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/06/2025 20:54:29) <br style='clear: both;'>
+### **Iyola Kett** (08/06/2025 20:54:29) <br style='clear: both;'>
 
 <a name="1402756743322402837"></a>*1402756743322402837*
 
@@ -487,7 +487,7 @@ Iyola looked around for the best route to access the catwalk.  She could use her
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (08/06/2025 21:34:29) <br style='clear: both;'>
+### **Eve the AI** (08/06/2025 21:34:29) <br style='clear: both;'>
 
 <a name="1402766808074813472"></a>*1402766808074813472*
 
@@ -499,7 +499,7 @@ The answer is a polite but firm dead end.
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (08/06/2025 21:34:29) <br style='clear: both;'>
+### **Storyteller** (08/06/2025 21:34:29) <br style='clear: both;'>
 
 <a name="1402766810750914760"></a>*1402766810750914760*
 
@@ -513,7 +513,7 @@ At the far end of the bay, a standard-issue maintenance ladder is bolted to the 
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/06/2025 22:34:25) <br style='clear: both;'>
+### **Iyola Kett** (08/06/2025 22:34:25) <br style='clear: both;'>
 
 <a name="1402781893958828204"></a>*1402781893958828204*
 
@@ -525,7 +525,7 @@ Iyola’s eyes fell on the ladder.  That would be easy enough.  Maybe she’d us
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (08/07/2025 01:13:54) <br style='clear: both;'>
+### **Storyteller** (08/07/2025 01:13:54) <br style='clear: both;'>
 
 <a name="1402822027429150792"></a>*1402822027429150792*
 
@@ -541,7 +541,7 @@ Kneeling down, she peers into the dark recess. There, tucked into the far corner
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (08/07/2025 01:24:50) <br style='clear: both;'>
+## **Wes Del-Fin** (08/07/2025 01:24:50) <br style='clear: both;'>
 
 <a name="1402824777642676344"></a>*1402824777642676344*
 
@@ -549,10 +549,10 @@ Wes was actually surprised when Vaeros came by and sat down.  Since finding out 
 
 ---
 
-# # *Workshop / Recreation*
+## *Workshop / Recreation*
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/07/2025 03:13:52) <br style='clear: both;'>
+### **Iyola Kett** (08/07/2025 03:13:52) <br style='clear: both;'>
 
 <a name="1402852216909467903"></a>*1402852216909467903*
 
@@ -564,7 +564,7 @@ Heartened by her find, Iyola scampered down the ladder and headed toward the rec
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (08/07/2025 06:23:00) <br style='clear: both;'>
+### **Storyteller** (08/07/2025 06:23:00) <br style='clear: both;'>
 
 <a name="1402899815905366027"></a>*1402899815905366027*
 
@@ -580,7 +580,7 @@ Like the workshop, the room has been scrubbed of any personal effects—no stray
 
 <img src="avatars/1400818125485768835/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Vaeros Halcyon** (08/07/2025 12:16:31) <br style='clear: both;'>
+## **Vaeros Halcyon** (08/07/2025 12:16:31) <br style='clear: both;'>
 
 <a name="1402988779190485113"></a>*1402988779190485113*
 
@@ -590,10 +590,10 @@ Vaeros pauses for a moment, moving his left pointer finger along his facial scar
 
 ---
 
-# # *Workshop / Recreation*
+## *Workshop / Recreation*
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/07/2025 16:07:58) <br style='clear: both;'>
+### **Iyola Kett** (08/07/2025 16:07:58) <br style='clear: both;'>
 
 <a name="1403047028447252582"></a>*1403047028447252582*
 
@@ -613,7 +613,7 @@ She walks over to the dejarik table, looking for a way to activate the game.
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (08/07/2025 21:09:41) <br style='clear: both;'>
+### **Storyteller** (08/07/2025 21:09:41) <br style='clear: both;'>
 
 <a name="1403122957466992861"></a>*1403122957466992861*
 
@@ -625,7 +625,7 @@ Iyola turns to the dejarik table. As if sensing her intent, the circular surface
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (08/07/2025 21:09:42) <br style='clear: both;'>
+### **Eve the AI** (08/07/2025 21:09:42) <br style='clear: both;'>
 
 <a name="1403122959488389345"></a>*1403122959488389345*
 
@@ -639,7 +639,7 @@ She pauses for a fraction of a second before continuing.
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (08/08/2025 10:50:27) <br style='clear: both;'>
+## **Wes Del-Fin** (08/08/2025 10:50:27) <br style='clear: both;'>
 
 <a name="1403329508555231343"></a>*1403329508555231343*
 
@@ -652,7 +652,7 @@ Wes listened as Vaeros talked.  He wanted answers.  They all did.  Vaeros, much 
 
 <img src="avatars/1400818125485768835/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Vaeros Halcyon** (08/08/2025 17:32:16) <br style='clear: both;'>
+## **Vaeros Halcyon** (08/08/2025 17:32:16) <br style='clear: both;'>
 
 <a name="1403430627847442482"></a>*1403430627847442482*
 
@@ -660,10 +660,10 @@ Vaeros nods, **"You have my word, for whatever you feel it's worth, that I'll re
 
 ---
 
-# # *Workshop / Recreation*
+## *Workshop / Recreation*
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/08/2025 17:39:23) <br style='clear: both;'>
+### **Iyola Kett** (08/08/2025 17:39:23) <br style='clear: both;'>
 
 <a name="1403432421445074954"></a>*1403432421445074954*
 
@@ -675,7 +675,7 @@ Iyola explored the rest of the recreation room as she waited for one of her comp
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (08/08/2025 20:46:58) <br style='clear: both;'>
+### **Eve the AI** (08/08/2025 20:46:58) <br style='clear: both;'>
 
 <a name="1403479627036360797"></a>*1403479627036360797*
 
@@ -689,7 +689,7 @@ She continues, addressing Iyola's second request.
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Eve the AI** (08/08/2025 21:30:40) <br style='clear: both;'>
+## **Eve the AI** (08/08/2025 21:30:40) <br style='clear: both;'>
 
 <a name="1403490625889894523"></a>*1403490625889894523*
 
@@ -699,7 +699,7 @@ As Wes, Varda, and Vaeros sit in the sterile quiet of the galley, each lost in t
 
 <img src="avatars/1400818125485768835/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Vaeros Halcyon** (08/08/2025 21:34:31) <br style='clear: both;'>
+## **Vaeros Halcyon** (08/08/2025 21:34:31) <br style='clear: both;'>
 
 <a name="1403491593402581072"></a>*1403491593402581072*
 
@@ -709,7 +709,7 @@ Vaeros perks up and gradually sits up. **"A recreational facility? I should have
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Eve the AI** (08/08/2025 21:59:29) <br style='clear: both;'>
+## **Eve the AI** (08/08/2025 21:59:29) <br style='clear: both;'>
 
 <a name="1403497878122397886"></a>*1403497878122397886*
 
@@ -721,7 +721,7 @@ Vaeros perks up and gradually sits up. **"A recreational facility? I should have
 
 <img src="avatars/1400818125485768835/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Vaeros Halcyon** (08/09/2025 00:25:21) <br style='clear: both;'>
+## **Vaeros Halcyon** (08/09/2025 00:25:21) <br style='clear: both;'>
 
 <a name="1403534585794662562"></a>*1403534585794662562*
 
@@ -729,10 +729,10 @@ Vaeros perks up and gradually sits up. **"A recreational facility? I should have
 
 ---
 
-# # *Medbay*
+## *Medbay*
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/09/2025 01:30:06) <br style='clear: both;'>
+### **Wes Del-Fin** (08/09/2025 01:30:06) <br style='clear: both;'>
 
 <a name="1403550882012074084"></a>*1403550882012074084*
 
@@ -749,10 +749,10 @@ Moments later he passed through the doors into the Medbay.  He turned his helmet
 
 ---
 
-# # *Workshop / Recreation*
+## *Workshop / Recreation*
 <img src="avatars/208916238661844993/d7832f2cac5df42d164b81e35de34f09.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **aliciagd** (08/09/2025 01:35:15) <br style='clear: both;'>
+### **aliciagd** (08/09/2025 01:35:15) <br style='clear: both;'>
 
 <a name="1403552175665451091"></a>*1403552175665451091*
 
@@ -762,7 +762,7 @@ Moments later he passed through the doors into the Medbay.  He turned his helmet
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (08/09/2025 01:38:07) <br style='clear: both;'>
+### **Storyteller** (08/09/2025 01:38:07) <br style='clear: both;'>
 
 <a name="1403552896557121618"></a>*1403552896557121618*
 
@@ -774,10 +774,10 @@ Iyola is there, standing by the dejarik table, looking up from the holographic p
 
 ---
 
-# # *Medbay*
+## *Medbay*
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (08/09/2025 02:36:54) <br style='clear: both;'>
+### **Storyteller** (08/09/2025 02:36:54) <br style='clear: both;'>
 
 <a name="1403567688839729164"></a>*1403567688839729164*
 
@@ -789,7 +789,7 @@ Eve's synthesized voice emanates from the medbay's integrated speakers, her tone
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (08/09/2025 02:36:54) <br style='clear: both;'>
+### **Eve the AI** (08/09/2025 02:36:54) <br style='clear: both;'>
 
 <a name="1403567691503108170"></a>*1403567691503108170*
 
@@ -805,10 +805,10 @@ Another fractional pause, as if she is cross-referencing a new data point.
 
 ---
 
-# # *Workshop / Recreation*
+## *Workshop / Recreation*
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/09/2025 12:49:27) <br style='clear: both;'>
+### **Iyola Kett** (08/09/2025 12:49:27) <br style='clear: both;'>
 
 <a name="1403721845181648996"></a>*1403721845181648996*
 
@@ -822,7 +822,7 @@ Iyola sweeps her hand above the holographic creatures.  **“Because I invited y
 
 <img src="avatars/1400818125485768835/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Vaeros Halcyon** (08/09/2025 13:04:33) <br style='clear: both;'>
+### **Vaeros Halcyon** (08/09/2025 13:04:33) <br style='clear: both;'>
 
 <a name="1403725642087792821"></a>*1403725642087792821*
 
@@ -833,10 +833,10 @@ Vaeros enters, looking around the room, before nodding at Iyola. He's almost awe
 
 ---
 
-# # *Medbay*
+## *Medbay*
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/09/2025 13:14:15) <br style='clear: both;'>
+### **Wes Del-Fin** (08/09/2025 13:14:15) <br style='clear: both;'>
 
 <a name="1403728086880616459"></a>*1403728086880616459*
 
@@ -850,10 +850,10 @@ He let out a breath as he looked at the chrono and back to Nadia.  Thought began
 
 ---
 
-# # *Workshop / Recreation*
+## *Workshop / Recreation*
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/09/2025 13:29:52) <br style='clear: both;'>
+### **Iyola Kett** (08/09/2025 13:29:52) <br style='clear: both;'>
 
 <a name="1403732013462065275"></a>*1403732013462065275*
 
@@ -865,10 +865,10 @@ Iyola raises an eyebrow.  **“You’ve never played dejarik?  Is it extinct in 
 
 ---
 
-# # *Medbay*
+## *Medbay*
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (08/09/2025 13:37:50) <br style='clear: both;'>
+### **Eve the AI** (08/09/2025 13:37:50) <br style='clear: both;'>
 
 <a name="1403734021976100895"></a>*1403734021976100895*
 
@@ -888,10 +888,10 @@ The AI's voice continues, its tone a flat recitation of historical and commercia
 
 ---
 
-# # *Workshop / Recreation*
+## *Workshop / Recreation*
 <img src="avatars/1400818125485768835/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Vaeros Halcyon** (08/09/2025 14:31:51) <br style='clear: both;'>
+### **Vaeros Halcyon** (08/09/2025 14:31:51) <br style='clear: both;'>
 
 <a name="1403747613261566085"></a>*1403747613261566085*
 
@@ -903,10 +903,10 @@ Vaeros traces his scar, quizzically. **"Extinct? No, I didn't have this kind of 
 
 ---
 
-# # *Medbay*
+## *Medbay*
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (08/09/2025 14:39:18) <br style='clear: both;'>
+### **Varda Nisyren** (08/09/2025 14:39:18) <br style='clear: both;'>
 
 <a name="1403749486949302332"></a>*1403749486949302332*
 
@@ -914,10 +914,10 @@ Varda follows in after a few moments. Walking up to stand next to Wes. "**That f
 
 ---
 
-# # *Workshop / Recreation*
+## *Workshop / Recreation*
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/09/2025 16:21:20) <br style='clear: both;'>
+### **Iyola Kett** (08/09/2025 16:21:20) <br style='clear: both;'>
 
 <a name="1403775165111734355"></a>*1403775165111734355*
 
@@ -931,7 +931,7 @@ Iyola looked up at Vaeros with frank curiosity.  **“I have to ask,”** she sa
 
 <img src="avatars/1400818125485768835/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Vaeros Halcyon** (08/09/2025 16:54:23) <br style='clear: both;'>
+### **Vaeros Halcyon** (08/09/2025 16:54:23) <br style='clear: both;'>
 
 <a name="1403783485042462952"></a>*1403783485042462952*
 
@@ -945,10 +945,10 @@ As Vaeros moves the Ghhhk piece, he looks at Iyola
 
 ---
 
-# # *Medbay*
+## *Medbay*
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/09/2025 16:57:57) <br style='clear: both;'>
+### **Wes Del-Fin** (08/09/2025 16:57:57) <br style='clear: both;'>
 
 <a name="1403784382874910791"></a>*1403784382874910791*
 
@@ -964,7 +964,7 @@ Varda's own recollection from hundreds of years ago only seems to cement the inf
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (08/09/2025 17:17:27) <br style='clear: both;'>
+### **Eve the AI** (08/09/2025 17:17:27) <br style='clear: both;'>
 
 <a name="1403789286624592053"></a>*1403789286624592053*
 
@@ -982,10 +982,10 @@ The final piece of information is delivered with the same sterile finality as al
 
 ---
 
-# # *Workshop / Recreation*
+## *Workshop / Recreation*
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/09/2025 17:26:53) <br style='clear: both;'>
+### **Iyola Kett** (08/09/2025 17:26:53) <br style='clear: both;'>
 
 <a name="1403791663276622035"></a>*1403791663276622035*
 
@@ -999,10 +999,10 @@ She glanced at the board to see which pieces had been randomly chosen.  “**OK,
 
 ---
 
-# # *Medbay*
+## *Medbay*
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (08/09/2025 17:39:38) <br style='clear: both;'>
+### **Varda Nisyren** (08/09/2025 17:39:38) <br style='clear: both;'>
 
 <a name="1403794872934203503"></a>*1403794872934203503*
 
@@ -1012,7 +1012,7 @@ Varda shifts slightly an coming to her slightly. "**While on the topic of mandal
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/09/2025 17:48:32) <br style='clear: both;'>
+### **Wes Del-Fin** (08/09/2025 17:48:32) <br style='clear: both;'>
 
 <a name="1403797109630570628"></a>*1403797109630570628*
 
@@ -1031,7 +1031,7 @@ As Varda asked her own question to Eve his thoughts turned to Marina as he reach
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (08/09/2025 17:53:30) <br style='clear: both;'>
+### **Eve the AI** (08/09/2025 17:53:30) <br style='clear: both;'>
 
 <a name="1403798359990603788"></a>*1403798359990603788*
 
@@ -1043,7 +1043,7 @@ As Varda asked her own question to Eve his thoughts turned to Marina as he reach
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (08/09/2025 18:00:47) <br style='clear: both;'>
+### **Storyteller** (08/09/2025 18:00:47) <br style='clear: both;'>
 
 <a name="1403800195237412966"></a>*1403800195237412966*
 
@@ -1061,7 +1061,7 @@ The Force, in its infinite and often cruel wisdom, offers only one explanation f
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/09/2025 20:26:37) <br style='clear: both;'>
+### **Wes Del-Fin** (08/09/2025 20:26:37) <br style='clear: both;'>
 
 <a name="1403836895720505425"></a>*1403836895720505425*
 
@@ -1086,7 +1086,7 @@ A moment later the timer on his HUD began flashing red.   There was one minute l
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (08/09/2025 22:32:20) <br style='clear: both;'>
+### **Storyteller** (08/09/2025 22:32:20) <br style='clear: both;'>
 
 <a name="1403868531564744816"></a>*1403868531564744816*
 
@@ -1096,7 +1096,7 @@ A soft chime echoes through the medbay, drawing Wes from his grief. The countdow
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (08/09/2025 22:32:21) <br style='clear: both;'>
+### **Eve the AI** (08/09/2025 22:32:21) <br style='clear: both;'>
 
 <a name="1403868534488043652"></a>*1403868534488043652*
 
@@ -1110,7 +1110,7 @@ The lid of the cryo-chamber begins to retract with a soft hiss, revealing Nadia'
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (08/09/2025 22:32:21) <br style='clear: both;'>
+### **Eve the AI** (08/09/2025 22:32:21) <br style='clear: both;'>
 
 <a name="1403868535435825155"></a>*1403868535435825155*
 
@@ -1122,7 +1122,7 @@ The timer hits zero. A final, prolonged hiss escapes the chamber as the last of 
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/10/2025 00:15:14) <br style='clear: both;'>
+### **Wes Del-Fin** (08/10/2025 00:15:14) <br style='clear: both;'>
 
 <a name="1403894427801616425"></a>*1403894427801616425*
 
@@ -1144,7 +1144,7 @@ He stood to the side in the same armor as before bearing the colors of his clan 
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (08/10/2025 00:31:37) <br style='clear: both;'>
+### **Storyteller** (08/10/2025 00:31:37) <br style='clear: both;'>
 
 <a name="1403898550357594163"></a>*1403898550357594163*
 
@@ -1160,7 +1160,7 @@ Her training takes over. She does not panic. She goes completely still, her eyes
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (08/10/2025 00:31:54) <br style='clear: both;'>
+### **Nadia Skirata** (08/10/2025 00:31:54) <br style='clear: both;'>
 
 <a name="1403898622772252784"></a>*1403898622772252784*
 
@@ -1176,7 +1176,7 @@ She does not respond in Mando'a. When she finally speaks, her voice is a quiet, 
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/10/2025 01:32:39) <br style='clear: both;'>
+### **Wes Del-Fin** (08/10/2025 01:32:39) <br style='clear: both;'>
 
 <a name="1403913910360211536"></a>*1403913910360211536*
 
@@ -1192,7 +1192,7 @@ Her question wasn’t surprising nor was the unaccented basic. It was straight a
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (08/10/2025 02:42:25) <br style='clear: both;'>
+### **Nadia Skirata** (08/10/2025 02:42:25) <br style='clear: both;'>
 
 <a name="1403931467305975838"></a>*1403931467305975838*
 
@@ -1208,7 +1208,7 @@ Her gaze goes from Wes's face to Varda's, then back again with an unreadable exp
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/10/2025 04:41:35) <br style='clear: both;'>
+### **Wes Del-Fin** (08/10/2025 04:41:35) <br style='clear: both;'>
 
 <a name="1403961454125776956"></a>*1403961454125776956*
 
@@ -1224,7 +1224,7 @@ He paused for a moment as a Mandalorian saying came to mind.  || **”Not gone, 
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (08/10/2025 08:40:31) <br style='clear: both;'>
+### **Varda Nisyren** (08/10/2025 08:40:31) <br style='clear: both;'>
 
 <a name="1404021585815539803"></a>*1404021585815539803*
 
@@ -1234,7 +1234,7 @@ Varda doesn't say much yet she stands next to wes a silent watcher. Feeling the 
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (08/10/2025 11:42:24) <br style='clear: both;'>
+### **Nadia Skirata** (08/10/2025 11:42:24) <br style='clear: both;'>
 
 <a name="1404067358045245581"></a>*1404067358045245581*
 
@@ -1250,7 +1250,7 @@ The tremors return, a violent, uncontrollable shudder that wracks her entire bod
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (08/10/2025 11:51:36) <br style='clear: both;'>
+### **Storyteller** (08/10/2025 11:51:36) <br style='clear: both;'>
 
 <a name="1404069675268309054"></a>*1404069675268309054*
 
@@ -1266,7 +1266,7 @@ She does not look at them. She continues to stare at the door. When she finally 
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (08/10/2025 11:51:37) <br style='clear: both;'>
+### **Nadia Skirata** (08/10/2025 11:51:37) <br style='clear: both;'>
 
 <a name="1404069677176721438"></a>*1404069677176721438*
 
@@ -1278,7 +1278,7 @@ It is not a request. It is a statement of sacred duty, the first plank in a new 
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/10/2025 13:45:57) <br style='clear: both;'>
+### **Wes Del-Fin** (08/10/2025 13:45:57) <br style='clear: both;'>
 
 <a name="1404098450374791229"></a>*1404098450374791229*
 
@@ -1297,7 +1297,7 @@ He turned his attention to the monitors.   All readings were still green but str
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (08/10/2025 15:26:29) <br style='clear: both;'>
+### **Eve the AI** (08/10/2025 15:26:29) <br style='clear: both;'>
 
 <a name="1404123750600937574"></a>*1404123750600937574*
 
@@ -1311,7 +1311,7 @@ She continues without a pause.
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (08/10/2025 15:35:11) <br style='clear: both;'>
+### **Nadia Skirata** (08/10/2025 15:35:11) <br style='clear: both;'>
 
 <a name="1404125938152636526"></a>*1404125938152636526*
 
@@ -1331,10 +1331,10 @@ She looks from Wes to Varda, her gaze intense. The grief is still there, a raw w
 
 ---
 
-# # *Workshop / Recreation*
+## *Workshop / Recreation*
 <img src="avatars/1400818125485768835/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Vaeros Halcyon** (08/10/2025 19:12:24) <br style='clear: both;'>
+### **Vaeros Halcyon** (08/10/2025 19:12:24) <br style='clear: both;'>
 
 <a name="1404180604894838975"></a>*1404180604894838975*
 
@@ -1352,7 +1352,7 @@ Vaeros sighs, ** "Of course, I'm partially hypocritical, as I forsook the order 
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/10/2025 20:58:06) <br style='clear: both;'>
+### **Iyola Kett** (08/10/2025 20:58:06) <br style='clear: both;'>
 
 <a name="1404207206559252502"></a>*1404207206559252502*
 
@@ -1370,7 +1370,7 @@ She sighed a bit. ** “It just seems like everything became terrible. The Jedi 
 
 <img src="avatars/1400818125485768835/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Vaeros Halcyon** (08/10/2025 22:56:09) <br style='clear: both;'>
+### **Vaeros Halcyon** (08/10/2025 22:56:09) <br style='clear: both;'>
 
 <a name="1404236912297902242"></a>*1404236912297902242*
 
@@ -1378,10 +1378,10 @@ Vaeros smiles back, **"Oh! I did forget to change the piece's color. Sorry, some
 
 ---
 
-# # *Medbay*
+## *Medbay*
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/11/2025 00:11:32) <br style='clear: both;'>
+### **Wes Del-Fin** (08/11/2025 00:11:32) <br style='clear: both;'>
 
 <a name="1404255883956846683"></a>*1404255883956846683*
 
@@ -1400,7 +1400,7 @@ He thought about where she said to go for a safe harbor.   Memories came back to
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (08/11/2025 01:27:52) <br style='clear: both;'>
+### **Eve the AI** (08/11/2025 01:27:52) <br style='clear: both;'>
 
 <a name="1404275091780665615"></a>*1404275091780665615*
 
@@ -1410,7 +1410,7 @@ He thought about where she said to go for a safe harbor.   Memories came back to
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (08/11/2025 01:27:52) <br style='clear: both;'>
+### **Nadia Skirata** (08/11/2025 01:27:52) <br style='clear: both;'>
 
 <a name="1404275093705723966"></a>*1404275093705723966*
 
@@ -1424,7 +1424,7 @@ She looks from Wes to Varda, her gaze insistent. **"We can't afford to be a vuln
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/11/2025 03:29:49) <br style='clear: both;'>
+### **Wes Del-Fin** (08/11/2025 03:29:49) <br style='clear: both;'>
 
 <a name="1404305782563930173"></a>*1404305782563930173*
 
@@ -1437,7 +1437,7 @@ Wes noticed her eyes scrutinize his face when he removed his helmet.   It was as
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (08/11/2025 07:06:50) <br style='clear: both;'>
+### **Nadia Skirata** (08/11/2025 07:06:50) <br style='clear: both;'>
 
 <a name="1404360395879350282"></a>*1404360395879350282*
 
@@ -1451,7 +1451,7 @@ Her words trail off as the rest of his statement lands. *Hundreds of years.* Her
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/11/2025 11:02:38) <br style='clear: both;'>
+### **Wes Del-Fin** (08/11/2025 11:02:38) <br style='clear: both;'>
 
 <a name="1404419737190010912"></a>*1404419737190010912*
 
@@ -1468,10 +1468,10 @@ He realized he was throwing a lot at her and took a step back. **”You’re pro
 
 ---
 
-# # *Workshop / Recreation*
+## *Workshop / Recreation*
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/11/2025 13:18:37) <br style='clear: both;'>
+### **Iyola Kett** (08/11/2025 13:18:37) <br style='clear: both;'>
 
 <a name="1404453960361967659"></a>*1404453960361967659*
 
@@ -1485,10 +1485,10 @@ He realized he was throwing a lot at her and took a step back. **”You’re pro
 
 ---
 
-# # *Medbay*
+## *Medbay*
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (08/11/2025 14:07:47) <br style='clear: both;'>
+### **Varda Nisyren** (08/11/2025 14:07:47) <br style='clear: both;'>
 
 <a name="1404466330962497546"></a>*1404466330962497546*
 
@@ -1500,7 +1500,7 @@ Outwardly their is a tightening of her eyes and her back goes ramrod straight. A
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (08/11/2025 16:23:37) <br style='clear: both;'>
+### **Storyteller** (08/11/2025 16:23:37) <br style='clear: both;'>
 
 <a name="1404500515278028860"></a>*1404500515278028860*
 
@@ -1518,7 +1518,7 @@ Coming from a Force-user of such obvious power, the words land with the weight o
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (08/11/2025 16:25:08) <br style='clear: both;'>
+### **Nadia Skirata** (08/11/2025 16:25:08) <br style='clear: both;'>
 
 <a name="1404500896192139324"></a>*1404500896192139324*
 
@@ -1530,7 +1530,7 @@ She slowly, carefully, pushes herself off the diagnostic bed. Her bare feet touc
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (08/11/2025 18:17:17) <br style='clear: both;'>
+### **Varda Nisyren** (08/11/2025 18:17:17) <br style='clear: both;'>
 
 <a name="1404529122884980786"></a>*1404529122884980786*
 
@@ -1540,7 +1540,7 @@ Varda retreats in the force as she approaches Nadia, offering a shoulder or a ha
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (08/11/2025 21:31:20) <br style='clear: both;'>
+### **Nadia Skirata** (08/11/2025 21:31:20) <br style='clear: both;'>
 
 <a name="1404577956071997471"></a>*1404577956071997471*
 
@@ -1560,7 +1560,7 @@ She walks back to where Wes and Varda are waiting, her bare feet silent on the c
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/11/2025 23:24:52) <br style='clear: both;'>
+### **Wes Del-Fin** (08/11/2025 23:24:52) <br style='clear: both;'>
 
 <a name="1404606527494684685"></a>*1404606527494684685*
 
@@ -1576,7 +1576,7 @@ When Nadia came back out he noticed the subtle differences.  How she moved.  How
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (08/11/2025 23:41:37) <br style='clear: both;'>
+### **Nadia Skirata** (08/11/2025 23:41:37) <br style='clear: both;'>
 
 <a name="1404610743550349352"></a>*1404610743550349352*
 
@@ -1594,7 +1594,7 @@ Then, slowly, her fingers uncurl. She touches the chafed, raw skin of her throat
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/12/2025 03:57:06) <br style='clear: both;'>
+### **Wes Del-Fin** (08/12/2025 03:57:06) <br style='clear: both;'>
 
 <a name="1404675037880914036"></a>*1404675037880914036*
 
@@ -1610,7 +1610,7 @@ He gave her a nod.  **”Gear then food.”**  He gave her a smile as he motione
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (08/12/2025 08:06:41) <br style='clear: both;'>
+### **Storyteller** (08/12/2025 08:06:41) <br style='clear: both;'>
 
 <a name="1404737847335977040"></a>*1404737847335977040*
 
@@ -1624,7 +1624,7 @@ Nadia stops a few paces from it, her gaze fixed on the Rekr sigil etched into it
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (08/12/2025 08:07:08) <br style='clear: both;'>
+### **Nadia Skirata** (08/12/2025 08:07:08) <br style='clear: both;'>
 
 <a name="1404737961773240391"></a>*1404737961773240391*
 
@@ -1642,7 +1642,7 @@ She lifts the heavy lid. Inside, nestled in the dark interior, is the familiar, 
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (08/12/2025 08:07:11) <br style='clear: both;'>
+### **Nadia Skirata** (08/12/2025 08:07:11) <br style='clear: both;'>
 
 <a name="1404737972619706430"></a>*1404737972619706430*
 
@@ -1658,7 +1658,7 @@ Then, her fingers close around it. She pulls out a simple, cylindrical object. I
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/12/2025 11:13:12) <br style='clear: both;'>
+### **Wes Del-Fin** (08/12/2025 11:13:12) <br style='clear: both;'>
 
 <a name="1404784784395337789"></a>*1404784784395337789*
 
@@ -1677,7 +1677,7 @@ When he felt the relief flow off of her he looked over at Varda and nodded.  She
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (08/12/2025 11:29:56) <br style='clear: both;'>
+### **Varda Nisyren** (08/12/2025 11:29:56) <br style='clear: both;'>
 
 <a name="1404788996319612928"></a>*1404788996319612928*
 
@@ -1689,7 +1689,7 @@ She leans slightly on her staff taking a moment to recover her breathe from deal
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (08/12/2025 12:12:54) <br style='clear: both;'>
+### **Nadia Skirata** (08/12/2025 12:12:54) <br style='clear: both;'>
 
 <a name="1404799810527170713"></a>*1404799810527170713*
 
@@ -1703,7 +1703,7 @@ She finishes pulling on her second boot, the solid thud as it hits the deck plat
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (08/12/2025 12:12:57) <br style='clear: both;'>
+### **Nadia Skirata** (08/12/2025 12:12:57) <br style='clear: both;'>
 
 <a name="1404799819989651516"></a>*1404799819989651516*
 
@@ -1725,7 +1725,7 @@ She looks at them both, her eyes filled with a grim, weary warning. **"It is not
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/12/2025 14:10:16) <br style='clear: both;'>
+### **Wes Del-Fin** (08/12/2025 14:10:16) <br style='clear: both;'>
 
 <a name="1404829346023080086"></a>*1404829346023080086*
 
@@ -1741,7 +1741,7 @@ As Nadia started to speak again he dealt with the feeling and listened as she st
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/12/2025 14:10:33) <br style='clear: both;'>
+### **Wes Del-Fin** (08/12/2025 14:10:33) <br style='clear: both;'>
 
 <a name="1404829415405387959"></a>*1404829415405387959*
 
@@ -1754,7 +1754,7 @@ He looked at Nadia hoping that she understood that he had some idea of what was 
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (08/12/2025 15:18:00) <br style='clear: both;'>
+### **Nadia Skirata** (08/12/2025 15:18:00) <br style='clear: both;'>
 
 <a name="1404846389392965672"></a>*1404846389392965672*
 
@@ -1770,7 +1770,7 @@ She shifts her weight, her voice taking on the tone of someone reciting battlefi
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (08/12/2025 15:22:49) <br style='clear: both;'>
+### **Varda Nisyren** (08/12/2025 15:22:49) <br style='clear: both;'>
 
 <a name="1404847604814319729"></a>*1404847604814319729*
 
@@ -1782,10 +1782,10 @@ She then gives the two a final warm smile and toddles down the corridor
 
 ---
 
-# # *Workshop / Recreation*
+## *Workshop / Recreation*
 <img src="avatars/1400818125485768835/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Vaeros Halcyon** (08/12/2025 16:12:58) <br style='clear: both;'>
+### **Vaeros Halcyon** (08/12/2025 16:12:58) <br style='clear: both;'>
 
 <a name="1404860223201476688"></a>*1404860223201476688*
 
@@ -1797,7 +1797,7 @@ Vaeros nods, **"Yeah, you're much more different than what meets the eye. Words 
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (08/12/2025 17:15:12) <br style='clear: both;'>
+### **Varda Nisyren** (08/12/2025 17:15:12) <br style='clear: both;'>
 
 <a name="1404875885550501968"></a>*1404875885550501968*
 
@@ -1809,7 +1809,7 @@ She goes into one of her numerous pouches and pulls our a small whittling knife 
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/12/2025 20:54:08) <br style='clear: both;'>
+### **Iyola Kett** (08/12/2025 20:54:08) <br style='clear: both;'>
 
 <a name="1404930983031214202"></a>*1404930983031214202*
 
@@ -1827,10 +1827,10 @@ Iyola folded her hands together as she examined the distribution of the pieces. 
 
 ---
 
-# # *Medbay*
+## *Medbay*
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/13/2025 00:05:39) <br style='clear: both;'>
+### **Wes Del-Fin** (08/13/2025 00:05:39) <br style='clear: both;'>
 
 <a name="1404979177366491138"></a>*1404979177366491138*
 
@@ -1846,7 +1846,7 @@ As Varda left the airlock antechamber Wes turned for the galley.   **”The gall
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (08/13/2025 00:33:39) <br style='clear: both;'>
+### **Nadia Skirata** (08/13/2025 00:33:39) <br style='clear: both;'>
 
 <a name="1404986225927913526"></a>*1404986225927913526*
 
@@ -1866,7 +1866,7 @@ Her words effectively close the door on the topic, framing her silence not as se
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (08/13/2025 00:33:50) <br style='clear: both;'>
+### **Storyteller** (08/13/2025 00:33:50) <br style='clear: both;'>
 
 <a name="1404986273021820958"></a>*1404986273021820958*
 
@@ -1882,7 +1882,7 @@ She says nothing, but she slowly walks toward the viewport, drawn by the light. 
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/13/2025 01:20:57) <br style='clear: both;'>
+### **Wes Del-Fin** (08/13/2025 01:20:57) <br style='clear: both;'>
 
 <a name="1404998126862995658"></a>*1404998126862995658*
 
@@ -1898,7 +1898,7 @@ He was about to ask a question when they entered the galley but he held back whe
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (08/13/2025 01:38:01) <br style='clear: both;'>
+### **Nadia Skirata** (08/13/2025 01:38:01) <br style='clear: both;'>
 
 <a name="1405002423881170945"></a>*1405002423881170945*
 
@@ -1912,10 +1912,10 @@ She watches his explanation, her expression unreadable as he mentions Eve and th
 
 ---
 
-# # *Workshop / Recreation*
+## *Workshop / Recreation*
 <img src="avatars/1400818125485768835/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Vaeros Halcyon** (08/13/2025 01:39:40) <br style='clear: both;'>
+### **Vaeros Halcyon** (08/13/2025 01:39:40) <br style='clear: both;'>
 
 <a name="1405002838018359326"></a>*1405002838018359326*
 
@@ -1929,10 +1929,10 @@ He glances at Varda and nods, but his mind is on the Board. He has a game to los
 
 ---
 
-# # *Medbay*
+## *Medbay*
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/13/2025 01:55:30) <br style='clear: both;'>
+### **Wes Del-Fin** (08/13/2025 01:55:30) <br style='clear: both;'>
 
 <a name="1405006825085997137"></a>*1405006825085997137*
 
@@ -1948,7 +1948,7 @@ He walked to the water dispenser and filled a cup.   **”If I can’t have some
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (08/13/2025 02:01:42) <br style='clear: both;'>
+### **Nadia Skirata** (08/13/2025 02:01:42) <br style='clear: both;'>
 
 <a name="1405008381923823777"></a>*1405008381923823777*
 
@@ -1966,7 +1966,7 @@ A long silence stretches between them, filled only by the low hum of the ship.
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/13/2025 02:22:58) <br style='clear: both;'>
+### **Wes Del-Fin** (08/13/2025 02:22:58) <br style='clear: both;'>
 
 <a name="1405013736984674306"></a>*1405013736984674306*
 
@@ -1985,7 +1985,7 @@ He took a small drink and let out a quiet sigh.  **”It”s good you three foun
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (08/13/2025 06:54:41) <br style='clear: both;'>
+### **Nadia Skirata** (08/13/2025 06:54:41) <br style='clear: both;'>
 
 <a name="1405082117292953690"></a>*1405082117292953690*
 
@@ -2001,7 +2001,7 @@ She eats a small portion of the paste, her movements slow and deliberate, before
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/13/2025 10:59:18) <br style='clear: both;'>
+### **Wes Del-Fin** (08/13/2025 10:59:18) <br style='clear: both;'>
 
 <a name="1405143675641532467"></a>*1405143675641532467*
 
@@ -2017,7 +2017,7 @@ He gave her a nod.  **”Yes, I wear the Sigil proudly.  I was born into the cla
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/13/2025 10:59:44) <br style='clear: both;'>
+### **Wes Del-Fin** (08/13/2025 10:59:44) <br style='clear: both;'>
 
 <a name="1405143783934398536"></a>*1405143783934398536*
 
@@ -2027,7 +2027,7 @@ He gave her a nod.  **”Yes, I wear the Sigil proudly.  I was born into the cla
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (08/13/2025 12:12:38) <br style='clear: both;'>
+### **Nadia Skirata** (08/13/2025 12:12:38) <br style='clear: both;'>
 
 <a name="1405162130570743838"></a>*1405162130570743838*
 
@@ -2045,7 +2045,7 @@ She pushes the memory away before it can take hold, her expression hardening bac
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/13/2025 13:44:31) <br style='clear: both;'>
+### **Wes Del-Fin** (08/13/2025 13:44:31) <br style='clear: both;'>
 
 <a name="1405185252061872229"></a>*1405185252061872229*
 
@@ -2064,7 +2064,7 @@ He took a breath remembering the first couple months.  **”Their training and e
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/13/2025 13:44:57) <br style='clear: both;'>
+### **Wes Del-Fin** (08/13/2025 13:44:57) <br style='clear: both;'>
 
 <a name="1405185361046667429"></a>*1405185361046667429*
 
@@ -2072,10 +2072,10 @@ He took a breath remembering the first couple months.  **”Their training and e
 
 ---
 
-# # *Workshop / Recreation*
+## *Workshop / Recreation*
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/13/2025 14:34:46) <br style='clear: both;'>
+### **Iyola Kett** (08/13/2025 14:34:46) <br style='clear: both;'>
 
 <a name="1405197898416656507"></a>*1405197898416656507*
 
@@ -2093,7 +2093,7 @@ She nodded as Vaeros accepted her wager. That would make things more interesting
 
 <img src="avatars/1400818125485768835/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Vaeros Halcyon** (08/13/2025 18:40:37) <br style='clear: both;'>
+### **Vaeros Halcyon** (08/13/2025 18:40:37) <br style='clear: both;'>
 
 <a name="1405259771527041107"></a>*1405259771527041107*
 
@@ -2103,10 +2103,10 @@ He raises an eyebrow at the Kintan and looks back at Iyola, **“Alright, ask aw
 
 ---
 
-# # *Medbay*
+## *Medbay*
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (08/13/2025 19:52:48) <br style='clear: both;'>
+### **Nadia Skirata** (08/13/2025 19:52:48) <br style='clear: both;'>
 
 <a name="1405277934079709334"></a>*1405277934079709334*
 
@@ -2120,10 +2120,10 @@ She tilts her head slightly, her gaze analytical but not unkind. **"Us?"** she a
 
 ---
 
-# # *Workshop / Recreation*
+## *Workshop / Recreation*
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/13/2025 20:34:22) <br style='clear: both;'>
+### **Iyola Kett** (08/13/2025 20:34:22) <br style='clear: both;'>
 
 <a name="1405288393822179462"></a>*1405288393822179462*
 
@@ -2133,10 +2133,10 @@ She could ask questions all day long, but one popped into her head first.  **“
 
 ---
 
-# # *Medbay*
+## *Medbay*
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/13/2025 21:35:20) <br style='clear: both;'>
+### **Wes Del-Fin** (08/13/2025 21:35:20) <br style='clear: both;'>
 
 <a name="1405303739270824101"></a>*1405303739270824101*
 
@@ -2152,7 +2152,7 @@ He took a breath and looked at Nadia. Like before he felt that sense of familiar
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/13/2025 21:35:38) <br style='clear: both;'>
+### **Wes Del-Fin** (08/13/2025 21:35:38) <br style='clear: both;'>
 
 <a name="1405303813510004756"></a>*1405303813510004756*
 
@@ -2162,7 +2162,7 @@ His eyes were still looking at her but it seemed as if he was looking through he
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (08/13/2025 22:32:39) <br style='clear: both;'>
+### **Nadia Skirata** (08/13/2025 22:32:39) <br style='clear: both;'>
 
 <a name="1405318160604860547"></a>*1405318160604860547*
 
@@ -2178,7 +2178,7 @@ She says nothing for a long moment after he finishes, letting the silence of the
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/13/2025 23:24:11) <br style='clear: both;'>
+### **Wes Del-Fin** (08/13/2025 23:24:11) <br style='clear: both;'>
 
 <a name="1405331130365771886"></a>*1405331130365771886*
 
@@ -2197,7 +2197,7 @@ He stood taking a step back and then turned towards the water dispenser.  **”E
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (08/14/2025 00:40:29) <br style='clear: both;'>
+### **Nadia Skirata** (08/14/2025 00:40:29) <br style='clear: both;'>
 
 <a name="1405350334330834965"></a>*1405350334330834965*
 
@@ -2215,7 +2215,7 @@ It is a small, pragmatic offering—a potential path forward, a way to steer the
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/14/2025 01:21:34) <br style='clear: both;'>
+### **Wes Del-Fin** (08/14/2025 01:21:34) <br style='clear: both;'>
 
 <a name="1405360673554169908"></a>*1405360673554169908*
 
@@ -2231,7 +2231,7 @@ The mention of her uncle who also dealt with information as a possible resource 
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (08/14/2025 02:58:23) <br style='clear: both;'>
+### **Nadia Skirata** (08/14/2025 02:58:23) <br style='clear: both;'>
 
 <a name="1405385035389075477"></a>*1405385035389075477*
 
@@ -2249,7 +2249,7 @@ She presses her lips together, fighting for control, but a wave of dizziness was
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/14/2025 10:49:10) <br style='clear: both;'>
+### **Wes Del-Fin** (08/14/2025 10:49:10) <br style='clear: both;'>
 
 <a name="1405503514322407535"></a>*1405503514322407535*
 
@@ -2265,7 +2265,7 @@ Moving quicker than it would seem possible, Wes hurried to the table where they 
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (08/14/2025 11:58:01) <br style='clear: both;'>
+### **Nadia Skirata** (08/14/2025 11:58:01) <br style='clear: both;'>
 
 <a name="1405520839297728646"></a>*1405520839297728646*
 
@@ -2281,7 +2281,7 @@ The strength drains from her legs. She doesn't fight his guidance, but instead a
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/14/2025 16:45:34) <br style='clear: both;'>
+### **Wes Del-Fin** (08/14/2025 16:45:34) <br style='clear: both;'>
 
 <a name="1405593202114822345"></a>*1405593202114822345*
 
@@ -2294,7 +2294,7 @@ Wes felt her flinch when his hand firm yet gentle was placed on her shoulder.  H
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (08/14/2025 18:04:45) <br style='clear: both;'>
+### **Nadia Skirata** (08/14/2025 18:04:45) <br style='clear: both;'>
 
 <a name="1405613130238787737"></a>*1405613130238787737*
 
@@ -2304,7 +2304,7 @@ Nadia opens her eyes and looks at the glass of water, then up at Wes. The sheer 
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (08/14/2025 18:04:46) <br style='clear: both;'>
+### **Eve the AI** (08/14/2025 18:04:46) <br style='clear: both;'>
 
 <a name="1405613133313081364"></a>*1405613133313081364*
 
@@ -2314,7 +2314,7 @@ Nadia opens her eyes and looks at the glass of water, then up at Wes. The sheer 
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (08/14/2025 18:04:46) <br style='clear: both;'>
+### **Nadia Skirata** (08/14/2025 18:04:46) <br style='clear: both;'>
 
 <a name="1405613135150317690"></a>*1405613135150317690*
 
@@ -2324,7 +2324,7 @@ Nadia looks from Wes to the empty doorway, then back again. The logical, clinica
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/14/2025 23:02:34) <br style='clear: both;'>
+### **Wes Del-Fin** (08/14/2025 23:02:34) <br style='clear: both;'>
 
 <a name="1405688077451526154"></a>*1405688077451526154*
 
@@ -2338,10 +2338,10 @@ He wasn’t sure why but he wanted to make sure that she was alright.  The famil
 
 ---
 
-# # *Workshop / Recreation*
+## *Workshop / Recreation*
 <img src="avatars/1400818125485768835/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Vaeros Halcyon** (08/15/2025 01:27:08) <br style='clear: both;'>
+### **Vaeros Halcyon** (08/15/2025 01:27:08) <br style='clear: both;'>
 
 <a name="1405724460082008064"></a>*1405724460082008064*
 
@@ -2355,10 +2355,10 @@ Vaeros briefly turns serious before relaxing his posture.** "Well, I led a remna
 
 ---
 
-# # *Medbay*
+## *Medbay*
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (08/15/2025 01:59:38) <br style='clear: both;'>
+### **Eve the AI** (08/15/2025 01:59:38) <br style='clear: both;'>
 
 <a name="1405732640681627770"></a>*1405732640681627770*
 
@@ -2368,7 +2368,7 @@ Vaeros briefly turns serious before relaxing his posture.** "Well, I led a remna
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (08/15/2025 01:59:39) <br style='clear: both;'>
+### **Nadia Skirata** (08/15/2025 01:59:39) <br style='clear: both;'>
 
 <a name="1405732642623721502"></a>*1405732642623721502*
 
@@ -2384,10 +2384,10 @@ She pushes herself to her feet, slowly this time, her movements deliberate and c
 
 ---
 
-# # *Workshop / Recreation*
+## *Workshop / Recreation*
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/15/2025 03:38:11) <br style='clear: both;'>
+### **Iyola Kett** (08/15/2025 03:38:11) <br style='clear: both;'>
 
 <a name="1405757439021682798"></a>*1405757439021682798*
 
@@ -2401,7 +2401,7 @@ The Kintan had spawned in a space that made her Savrip vulnerable and Vaeros too
 
 <img src="avatars/1400818125485768835/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Vaeros Halcyon** (08/16/2025 21:32:58) <br style='clear: both;'>
+### **Vaeros Halcyon** (08/16/2025 21:32:58) <br style='clear: both;'>
 
 <a name="1406390306558967933"></a>*1406390306558967933*
 
@@ -2413,10 +2413,10 @@ Vaeros is amused by the response. Very few know of what he is, or much of what h
 
 ---
 
-# # *Medbay*
+## *Medbay*
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/17/2025 11:53:24) <br style='clear: both;'>
+### **Wes Del-Fin** (08/17/2025 11:53:24) <br style='clear: both;'>
 
 <a name="1406606842439798804"></a>*1406606842439798804*
 
@@ -2430,10 +2430,10 @@ After taking it slow and standing she paused.  After a few seconds when she knew
 
 ---
 
-# # *Workshop / Recreation*
+## *Workshop / Recreation*
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/17/2025 14:12:18) <br style='clear: both;'>
+### **Iyola Kett** (08/17/2025 14:12:18) <br style='clear: both;'>
 
 <a name="1406641796083089448"></a>*1406641796083089448*
 
@@ -2452,10 +2452,10 @@ She glanced over at Varda, who was merrily whittling something.  **“Varda, I�
 
 ---
 
-# # *Medbay*
+## *Medbay*
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (08/17/2025 16:53:07) <br style='clear: both;'>
+### **Nadia Skirata** (08/17/2025 16:53:07) <br style='clear: both;'>
 
 <a name="1406682266482249819"></a>*1406682266482249819*
 
@@ -2475,7 +2475,7 @@ She moves to her chosen bunk and sinks down onto its edge, the sheer weight of h
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/17/2025 23:19:00) <br style='clear: both;'>
+### **Wes Del-Fin** (08/17/2025 23:19:00) <br style='clear: both;'>
 
 <a name="1406779376581738567"></a>*1406779376581738567*
 
@@ -2491,7 +2491,7 @@ Her answer to his question before sitting on the bunk had him wondering if he sh
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (08/18/2025 10:44:40) <br style='clear: both;'>
+### **Storyteller** (08/18/2025 10:44:40) <br style='clear: both;'>
 
 <a name="1406951930097307688"></a>*1406951930097307688*
 
@@ -2507,10 +2507,10 @@ End scene
 
 ---
 
-# # *Workshop / Recreation*
+## *Workshop / Recreation*
 <img src="avatars/1400818125485768835/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Vaeros Halcyon** (08/19/2025 02:44:15) <br style='clear: both;'>
+### **Vaeros Halcyon** (08/19/2025 02:44:15) <br style='clear: both;'>
 
 <a name="1407193417641103370"></a>*1407193417641103370*
 
@@ -2522,7 +2522,7 @@ Finishing his move, Vaeros looks back at Iyola, **"Honestly, this board game is 
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/19/2025 14:43:43) <br style='clear: both;'>
+### **Iyola Kett** (08/19/2025 14:43:43) <br style='clear: both;'>
 
 <a name="1407374480459694121"></a>*1407374480459694121*
 
@@ -2544,7 +2544,7 @@ That said, she has another question to ask, even if they pause the game for now.
 
 <img src="avatars/1400818125485768835/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Vaeros Halcyon** (08/20/2025 00:04:10) <br style='clear: both;'>
+### **Vaeros Halcyon** (08/20/2025 00:04:10) <br style='clear: both;'>
 
 <a name="1407515522136019026"></a>*1407515522136019026*
 
@@ -2560,7 +2560,7 @@ Hearing the question, he's kind of skeptical about divulging what he knows; reli
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/20/2025 00:50:24) <br style='clear: both;'>
+### **Wes Del-Fin** (08/20/2025 00:50:24) <br style='clear: both;'>
 
 <a name="1407527154375459027"></a>*1407527154375459027*
 
@@ -2579,7 +2579,7 @@ He saw the game in progress.  **”Who’s winning?”**
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/20/2025 01:00:02) <br style='clear: both;'>
+### **Iyola Kett** (08/20/2025 01:00:02) <br style='clear: both;'>
 
 <a name="1407529578334916608"></a>*1407529578334916608*
 
@@ -2601,7 +2601,7 @@ Del-Fin asks about the dejarik game.  **“Oh, we were just wrapping up,” ** s
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/20/2025 22:53:54) <br style='clear: both;'>
+### **Wes Del-Fin** (08/20/2025 22:53:54) <br style='clear: both;'>
 
 <a name="1407860227176402954"></a>*1407860227176402954*
 
@@ -2614,7 +2614,7 @@ He looked at the nearby screen.  **”Eve, where is passenger Misha that we brou
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (08/20/2025 23:51:37) <br style='clear: both;'>
+### **Eve the AI** (08/20/2025 23:51:37) <br style='clear: both;'>
 
 <a name="1407874748129607730"></a>*1407874748129607730*
 
@@ -2624,7 +2624,7 @@ He looked at the nearby screen.  **”Eve, where is passenger Misha that we brou
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/21/2025 10:21:35) <br style='clear: both;'>
+### **Wes Del-Fin** (08/21/2025 10:21:35) <br style='clear: both;'>
 
 <a name="1408033286441140255"></a>*1408033286441140255*
 
@@ -2637,7 +2637,7 @@ He walked over to one of the many chairs that were in the red room and sat down 
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/21/2025 14:26:23) <br style='clear: both;'>
+### **Iyola Kett** (08/21/2025 14:26:23) <br style='clear: both;'>
 
 <a name="1408094891833163853"></a>*1408094891833163853*
 
@@ -2649,7 +2649,7 @@ She wasn’t in the mood for another game of dejarik, and she didn’t see any o
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/21/2025 19:54:47) <br style='clear: both;'>
+### **Wes Del-Fin** (08/21/2025 19:54:47) <br style='clear: both;'>
 
 <a name="1408177538299199520"></a>*1408177538299199520*
 
@@ -2665,7 +2665,7 @@ He shook his head.  **”No.  If I was to say I’m from anywhere I’d say Core
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/21/2025 20:54:34) <br style='clear: both;'>
+### **Iyola Kett** (08/21/2025 20:54:34) <br style='clear: both;'>
 
 <a name="1408192580554064003"></a>*1408192580554064003*
 
@@ -2677,7 +2677,7 @@ He shook his head.  **”No.  If I was to say I’m from anywhere I’d say Core
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/22/2025 10:40:47) <br style='clear: both;'>
+### **Wes Del-Fin** (08/22/2025 10:40:47) <br style='clear: both;'>
 
 <a name="1408400504857563227"></a>*1408400504857563227*
 
@@ -2690,7 +2690,7 @@ When she started speaking in Mando’a he turned his head listening to her memor
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (08/22/2025 11:15:53) <br style='clear: both;'>
+### **Eve the AI** (08/22/2025 11:15:53) <br style='clear: both;'>
 
 <a name="1408409340481896550"></a>*1408409340481896550*
 
@@ -2700,7 +2700,7 @@ When she started speaking in Mando’a he turned his head listening to her memor
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/23/2025 15:03:57) <br style='clear: both;'>
+### **Wes Del-Fin** (08/23/2025 15:03:57) <br style='clear: both;'>
 
 <a name="1408829120535597106"></a>*1408829120535597106*
 
@@ -2710,7 +2710,7 @@ Before Iyola could respond Eve interjected with the answer to the scouts previou
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/23/2025 18:57:27) <br style='clear: both;'>
+### **Iyola Kett** (08/23/2025 18:57:27) <br style='clear: both;'>
 
 <a name="1408887885448613898"></a>*1408887885448613898*
 
@@ -2724,7 +2724,7 @@ She listened to Eve calculate the path to Bespin.  Again with the Imperial patro
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/24/2025 13:45:29) <br style='clear: both;'>
+### **Wes Del-Fin** (08/24/2025 13:45:29) <br style='clear: both;'>
 
 <a name="1409171762201100338"></a>*1409171762201100338*
 
@@ -2740,7 +2740,7 @@ He looked at the monitor where Eve had appeared before.   **”Eve,”**  He wai
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (08/24/2025 14:03:18) <br style='clear: both;'>
+### **Storyteller** (08/24/2025 14:03:18) <br style='clear: both;'>
 
 <a name="1409176246172258465"></a>*1409176246172258465*
 
@@ -2750,7 +2750,7 @@ The air in the recreation room goes still and quiet, Wes's question hanging in t
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (08/24/2025 14:03:18) <br style='clear: both;'>
+### **Eve the AI** (08/24/2025 14:03:18) <br style='clear: both;'>
 
 <a name="1409176247908696117"></a>*1409176247908696117*
 
@@ -2764,7 +2764,7 @@ Another pause, this one fractionally longer.
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/24/2025 14:24:36) <br style='clear: both;'>
+### **Wes Del-Fin** (08/24/2025 14:24:36) <br style='clear: both;'>
 
 <a name="1409181608443121755"></a>*1409181608443121755*
 
@@ -2777,7 +2777,7 @@ He looked at Iyola and at Vaeros.  **”Any idea what she’s talking about?”*
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/24/2025 16:41:18) <br style='clear: both;'>
+### **Iyola Kett** (08/24/2025 16:41:18) <br style='clear: both;'>
 
 <a name="1409216008140357664"></a>*1409216008140357664*
 
@@ -2801,7 +2801,7 @@ She coughed briefly.
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/24/2025 18:24:12) <br style='clear: both;'>
+### **Wes Del-Fin** (08/24/2025 18:24:12) <br style='clear: both;'>
 
 <a name="1409241903660269804"></a>*1409241903660269804*
 
@@ -2814,7 +2814,7 @@ She shifted her talk to getting to Bespin to find out more answers.  He nodded a
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/25/2025 01:51:42) <br style='clear: both;'>
+### **Iyola Kett** (08/25/2025 01:51:42) <br style='clear: both;'>
 
 <a name="1409354520437198849"></a>*1409354520437198849*
 
@@ -2826,7 +2826,7 @@ She looked around at the others.  Everyone appeared to be relaxing.**  “I know
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/25/2025 23:03:04) <br style='clear: both;'>
+### **Wes Del-Fin** (08/25/2025 23:03:04) <br style='clear: both;'>
 
 <a name="1409674470594969752"></a>*1409674470594969752*
 
@@ -2839,7 +2839,7 @@ His mentioning of war again seemed to stop further questions as Iyola shifted to
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/27/2025 00:38:07) <br style='clear: both;'>
+### **Iyola Kett** (08/27/2025 00:38:07) <br style='clear: both;'>
 
 <a name="1410060781130748045"></a>*1410060781130748045*
 
@@ -2851,7 +2851,7 @@ Her scout’s mind knew immediately where she hadn’t been yet- engineering and
 
 <img src="avatars/1400818125485768835/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Vaeros Halcyon** (08/27/2025 15:17:23) <br style='clear: both;'>
+### **Vaeros Halcyon** (08/27/2025 15:17:23) <br style='clear: both;'>
 
 <a name="1410282055480119491"></a>*1410282055480119491*
 
@@ -2865,7 +2865,7 @@ Vaeros habitually brushes his hands against his outfit, making his way towards t
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (08/27/2025 17:09:09) <br style='clear: both;'>
+### **Storyteller** (08/27/2025 17:09:09) <br style='clear: both;'>
 
 <a name="1410310182440927293"></a>*1410310182440927293*
 
@@ -2873,10 +2873,10 @@ The sudden departure of the others leaves Wes and Varda alone in the vast, quiet
 
 ---
 
-# # *Exploring the Ghost Ship*
+## *Exploring the Ghost Ship*
 <img src="avatars/208916238661844993/d7832f2cac5df42d164b81e35de34f09.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **aliciagd** (08/27/2025 17:12:52) <br style='clear: both;'>
+### **aliciagd** (08/27/2025 17:12:52) <br style='clear: both;'>
 
 <a name="1410311118030901268"></a>*1410311118030901268*
 
@@ -2886,7 +2886,7 @@ Exploring the Ghost Ship
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (08/27/2025 17:12:54) <br style='clear: both;'>
+### **Storyteller** (08/27/2025 17:12:54) <br style='clear: both;'>
 
 <a name="1410311124884131993"></a>*1410311124884131993*
 
@@ -2898,10 +2898,10 @@ She arrives at a junction. To her right, a heavy, shielded door blocking a ladde
 
 ---
 
-# # *The Echo and the Oracle*
+## *The Echo and the Oracle*
 <img src="avatars/208916238661844993/d7832f2cac5df42d164b81e35de34f09.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **aliciagd** (08/27/2025 17:21:58) <br style='clear: both;'>
+### **aliciagd** (08/27/2025 17:21:58) <br style='clear: both;'>
 
 <a name="1410313405197451405"></a>*1410313405197451405*
 
@@ -2911,7 +2911,7 @@ The Echo and the Oracle
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (08/27/2025 17:22:11) <br style='clear: both;'>
+### **Storyteller** (08/27/2025 17:22:11) <br style='clear: both;'>
 
 <a name="1410313460956397702"></a>*1410313460956397702*
 
@@ -2925,10 +2925,10 @@ It is not a thought or a sound, but a distinct, psychic "pull" from the pocket w
 
 ---
 
-# # *Exploring the Ghost Ship*
+## *Exploring the Ghost Ship*
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/27/2025 18:29:26) <br style='clear: both;'>
+### **Iyola Kett** (08/27/2025 18:29:26) <br style='clear: both;'>
 
 <a name="1410330385392472104"></a>*1410330385392472104*
 
@@ -2940,7 +2940,7 @@ She comes to the intersection that leads to the bridge and engineering, and make
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (08/27/2025 19:03:11) <br style='clear: both;'>
+### **Storyteller** (08/27/2025 19:03:11) <br style='clear: both;'>
 
 <a name="1410338877738324049"></a>*1410338877738324049*
 
@@ -2954,7 +2954,7 @@ The consoles are dark, featureless slabs of obsidian-like material, free of the 
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/28/2025 03:48:57) <br style='clear: both;'>
+### **Iyola Kett** (08/28/2025 03:48:57) <br style='clear: both;'>
 
 <a name="1410471193848582198"></a>*1410471193848582198*
 
@@ -2966,7 +2966,7 @@ Iyola stopped and admired the view for a moment.  This was not the sort of bridg
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (08/28/2025 12:26:07) <br style='clear: both;'>
+### **Eve the AI** (08/28/2025 12:26:07) <br style='clear: both;'>
 
 <a name="1410601342766157856"></a>*1410601342766157856*
 
@@ -2982,7 +2982,7 @@ The schematic highlights several components in a flashing, diagnostic amber.
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/28/2025 13:22:32) <br style='clear: both;'>
+### **Iyola Kett** (08/28/2025 13:22:32) <br style='clear: both;'>
 
 <a name="1410615540422021301"></a>*1410615540422021301*
 
@@ -2996,7 +2996,7 @@ Iyola looked around.  She considered what Misha might do.  She was clearly a cap
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (08/28/2025 13:48:04) <br style='clear: both;'>
+### **Storyteller** (08/28/2025 13:48:04) <br style='clear: both;'>
 
 <a name="1410621963407462512"></a>*1410621963407462512*
 
@@ -3006,7 +3006,7 @@ The datapad in Iyola's hand chimes softly as Eve transfers the data. A long, hig
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (08/28/2025 13:48:04) <br style='clear: both;'>
+### **Eve the AI** (08/28/2025 13:48:04) <br style='clear: both;'>
 
 <a name="1410621966188023890"></a>*1410621966188023890*
 
@@ -3020,7 +3020,7 @@ As if in demonstration, the obsidian-like surface of the console nearest Iyola's
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/29/2025 02:03:19) <br style='clear: both;'>
+### **Iyola Kett** (08/29/2025 02:03:19) <br style='clear: both;'>
 
 <a name="1410806996847820870"></a>*1410806996847820870*
 
@@ -3034,7 +3034,7 @@ Iyola got up.  She had another stop on her tour of the Venture - engineering.  M
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (08/29/2025 02:12:24) <br style='clear: both;'>
+### **Storyteller** (08/29/2025 02:12:24) <br style='clear: both;'>
 
 <a name="1410809282705756192"></a>*1410809282705756192*
 
@@ -3044,10 +3044,10 @@ As she approaches, the lock disengages with a heavy *thunk*, and the door slides
 
 ---
 
-# # *Workshop / Recreation*
+## *Workshop / Recreation*
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/29/2025 12:46:59) <br style='clear: both;'>
+### **Wes Del-Fin** (08/29/2025 12:46:59) <br style='clear: both;'>
 
 <a name="1410968981820407831"></a>*1410968981820407831*
 
@@ -3060,7 +3060,7 @@ He gave Varda a nod as he relaxed.  It was something he hadn’t done since Eve 
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (08/29/2025 16:34:45) <br style='clear: both;'>
+### **Storyteller** (08/29/2025 16:34:45) <br style='clear: both;'>
 
 <a name="1411026300730085406"></a>*1411026300730085406*
 
@@ -3070,7 +3070,7 @@ Wes's question hangs in the quiet air of the recreation room, directed at the un
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (08/29/2025 16:34:46) <br style='clear: both;'>
+### **Eve the AI** (08/29/2025 16:34:46) <br style='clear: both;'>
 
 <a name="1411026303880270037"></a>*1411026303880270037*
 
@@ -3084,10 +3084,10 @@ Another pause, this one fractionally longer, as if the AI is processing an ambig
 
 ---
 
-# # *Exploring the Ghost Ship*
+## *Exploring the Ghost Ship*
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/29/2025 20:14:04) <br style='clear: both;'>
+### **Iyola Kett** (08/29/2025 20:14:04) <br style='clear: both;'>
 
 <a name="1411081494624997447"></a>*1411081494624997447*
 
@@ -3097,10 +3097,10 @@ With a metallic thump, she reached the bottom of the ladder.
 
 ---
 
-# # *The Echo and the Oracle*
+## *The Echo and the Oracle*
 <img src="avatars/1400818125485768835/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Vaeros Halcyon** (08/29/2025 20:24:39) <br style='clear: both;'>
+### **Vaeros Halcyon** (08/29/2025 20:24:39) <br style='clear: both;'>
 
 <a name="1411084154099204227"></a>*1411084154099204227*
 
@@ -3110,10 +3110,10 @@ He closes his eyes, focuses, and mediates, using the datacron as a focal point f
 
 ---
 
-# # *Exploring the Ghost Ship*
+## *Exploring the Ghost Ship*
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (08/29/2025 22:15:41) <br style='clear: both;'>
+### **Storyteller** (08/29/2025 22:15:41) <br style='clear: both;'>
 
 <a name="1411112100297834614"></a>*1411112100297834614*
 
@@ -3127,10 +3127,10 @@ Like the workshop, the space is impeccably clean, scrubbed of any personal effec
 
 ---
 
-# # *The Echo and the Oracle*
+## *The Echo and the Oracle*
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (08/29/2025 22:21:18) <br style='clear: both;'>
+### **Storyteller** (08/29/2025 22:21:18) <br style='clear: both;'>
 
 <a name="1411113513237348372"></a>*1411113513237348372*
 
@@ -3142,7 +3142,7 @@ He closes his eyes and reaches out with the Force, not with the raw, probing pow
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (08/29/2025 22:50:40) <br style='clear: both;'>
+### **Storyteller** (08/29/2025 22:50:40) <br style='clear: both;'>
 
 <a name="1411120900971167827"></a>*1411120900971167827*
 
@@ -3160,10 +3160,10 @@ With a sudden, chilling certainty, Vaeros knows that any attempt to open it with
 
 ---
 
-# # *Workshop / Recreation*
+## *Workshop / Recreation*
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/29/2025 23:47:57) <br style='clear: both;'>
+### **Wes Del-Fin** (08/29/2025 23:47:57) <br style='clear: both;'>
 
 <a name="1411135316177195018"></a>*1411135316177195018*
 
@@ -3176,7 +3176,7 @@ For the moment he left the designated crew lead question alone.
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (08/30/2025 00:05:35) <br style='clear: both;'>
+### **Eve the AI** (08/30/2025 00:05:35) <br style='clear: both;'>
 
 <a name="1411139754388492420"></a>*1411139754388492420*
 
@@ -3186,10 +3186,10 @@ She continues, addressing his second question with the same clinical precision. 
 
 ---
 
-# # *Exploring the Ghost Ship*
+## *Exploring the Ghost Ship*
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/30/2025 00:14:59) <br style='clear: both;'>
+### **Iyola Kett** (08/30/2025 00:14:59) <br style='clear: both;'>
 
 <a name="1411142122479947808"></a>*1411142122479947808*
 
@@ -3205,7 +3205,7 @@ As she talks, she chooses a ladder at random and clambers her way up.
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (08/30/2025 00:48:30) <br style='clear: both;'>
+### **Eve the AI** (08/30/2025 00:48:30) <br style='clear: both;'>
 
 <a name="1411150557296459928"></a>*1411150557296459928*
 
@@ -3223,7 +3223,7 @@ The schematic shifts, zooming in on the power conduits near Iyola's current posi
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/30/2025 02:47:17) <br style='clear: both;'>
+### **Iyola Kett** (08/30/2025 02:47:17) <br style='clear: both;'>
 
 <a name="1411180448368824391"></a>*1411180448368824391*
 
@@ -3239,7 +3239,7 @@ She wondered if Bespin would be a good place to start.  It was a tourist hotspot
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (08/30/2025 03:38:43) <br style='clear: both;'>
+### **Eve the AI** (08/30/2025 03:38:43) <br style='clear: both;'>
 
 <a name="1411193391613481051"></a>*1411193391613481051*
 
@@ -3259,7 +3259,7 @@ The AI concludes, directly addressing her final point.
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/30/2025 18:44:22) <br style='clear: both;'>
+### **Iyola Kett** (08/30/2025 18:44:22) <br style='clear: both;'>
 
 <a name="1411421307710734386"></a>*1411421307710734386*
 
@@ -3275,7 +3275,7 @@ With that, Iyola started to head out.  She intended to return to her cubicle, do
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (08/30/2025 19:47:34) <br style='clear: both;'>
+### **Eve the AI** (08/30/2025 19:47:34) <br style='clear: both;'>
 
 <a name="1411437212293267587"></a>*1411437212293267587*
 
@@ -3287,10 +3287,10 @@ A chime sounds on Iyola's datapad as a massive data packet begins to transfer.
 
 ---
 
-# # *The Echo and the Oracle*
+## *The Echo and the Oracle*
 <img src="avatars/1400818125485768835/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Vaeros Halcyon** (08/31/2025 02:14:54) <br style='clear: both;'>
+### **Vaeros Halcyon** (08/31/2025 02:14:54) <br style='clear: both;'>
 
 <a name="1411534686647357444"></a>*1411534686647357444*
 
@@ -3302,7 +3302,7 @@ He abandons the thought of channeling the light or dark and focuses purely on th
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (08/31/2025 02:59:03) <br style='clear: both;'>
+### **Storyteller** (08/31/2025 02:59:03) <br style='clear: both;'>
 
 <a name="1411545796238643281"></a>*1411545796238643281*
 
@@ -3316,10 +3316,10 @@ Beyond the pain, he senses the lock. It is not a series of tumblers or an energy
 
 ---
 
-# # *Exploring the Ghost Ship*
+## *Exploring the Ghost Ship*
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (08/31/2025 03:09:41) <br style='clear: both;'>
+### **Storyteller** (08/31/2025 03:09:41) <br style='clear: both;'>
 
 <a name="1411548475073761280"></a>*1411548475073761280*
 
@@ -3335,10 +3335,10 @@ Misha is sitting on the edge of one of the unclaimed bunks, looking small and lo
 
 ---
 
-# # *Workshop / Recreation*
+## *Workshop / Recreation*
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/31/2025 12:11:30) <br style='clear: both;'>
+### **Wes Del-Fin** (08/31/2025 12:11:30) <br style='clear: both;'>
 
 <a name="1411684826150342838"></a>*1411684826150342838*
 
@@ -3351,7 +3351,7 @@ It didn’t make sense though.   Why go through centuries of prep to not be arou
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (08/31/2025 13:01:05) <br style='clear: both;'>
+### **Eve the AI** (08/31/2025 13:01:05) <br style='clear: both;'>
 
 <a name="1411697305593057350"></a>*1411697305593057350*
 
@@ -3363,10 +3363,10 @@ She continues, her voice a calm stream of logic.
 
 ---
 
-# # *Exploring the Ghost Ship*
+## *Exploring the Ghost Ship*
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/31/2025 14:09:21) <br style='clear: both;'>
+### **Iyola Kett** (08/31/2025 14:09:21) <br style='clear: both;'>
 
 <a name="1411714485823209638"></a>*1411714485823209638*
 
@@ -3378,7 +3378,7 @@ As Iyola entered the barracks, she noticed that Misha had finally woken up.  She
 
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Misha Vorne** (08/31/2025 16:36:49) <br style='clear: both;'>
+### **Misha Vorne** (08/31/2025 16:36:49) <br style='clear: both;'>
 
 <a name="1411751595892408524"></a>*1411751595892408524*
 
@@ -3394,7 +3394,7 @@ She smooths a non-existent wrinkle on the leg of her grey fatigues, avoiding eye
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/31/2025 17:44:15) <br style='clear: both;'>
+### **Iyola Kett** (08/31/2025 17:44:15) <br style='clear: both;'>
 
 <a name="1411768566696382474"></a>*1411768566696382474*
 
@@ -3406,10 +3406,10 @@ Iyola tried to reassure her when the other woman expressed dismay over her recen
 
 ---
 
-# # *Workshop / Recreation*
+## *Workshop / Recreation*
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (08/31/2025 19:05:31) <br style='clear: both;'>
+### **Wes Del-Fin** (08/31/2025 19:05:31) <br style='clear: both;'>
 
 <a name="1411789016361205900"></a>*1411789016361205900*
 
@@ -3420,10 +3420,10 @@ He stood but had one more question.  **”Eve, do the Protectors have any politi
 
 ---
 
-# # *Exploring the Ghost Ship*
+## *Exploring the Ghost Ship*
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Misha Vorne** (08/31/2025 19:15:25) <br style='clear: both;'>
+### **Misha Vorne** (08/31/2025 19:15:25) <br style='clear: both;'>
 
 <a name="1411791507467534469"></a>*1411791507467534469*
 
@@ -3445,10 +3445,10 @@ She looks up at Iyola, her eyes wide with a quiet, dawning horror. **"I don't...
 
 ---
 
-# # *Workshop / Recreation*
+## *Workshop / Recreation*
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (08/31/2025 19:17:23) <br style='clear: both;'>
+### **Eve the AI** (08/31/2025 19:17:23) <br style='clear: both;'>
 
 <a name="1411792004643422281"></a>*1411792004643422281*
 
@@ -3460,10 +3460,10 @@ She continues, providing the only piece of information her public-facing archive
 
 ---
 
-# # *Exploring the Ghost Ship*
+## *Exploring the Ghost Ship*
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/31/2025 19:53:29) <br style='clear: both;'>
+### **Iyola Kett** (08/31/2025 19:53:29) <br style='clear: both;'>
 
 <a name="1411801089216610385"></a>*1411801089216610385*
 
@@ -3477,7 +3477,7 @@ She continues, providing the only piece of information her public-facing archive
 
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Misha Vorne** (08/31/2025 20:22:14) <br style='clear: both;'>
+### **Misha Vorne** (08/31/2025 20:22:14) <br style='clear: both;'>
 
 <a name="1411808324592336906"></a>*1411808324592336906*
 
@@ -3497,7 +3497,7 @@ At Iyola's final question, Misha blinks, the query so fundamental it's like bein
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (08/31/2025 23:49:52) <br style='clear: both;'>
+### **Iyola Kett** (08/31/2025 23:49:52) <br style='clear: both;'>
 
 <a name="1411860578418299003"></a>*1411860578418299003*
 
@@ -3515,7 +3515,7 @@ She looked down at her hands.  Her cheerfulness was starting to evaporate.
 
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Misha Vorne** (09/01/2025 00:19:37) <br style='clear: both;'>
+### **Misha Vorne** (09/01/2025 00:19:37) <br style='clear: both;'>
 
 <a name="1411868064680775831"></a>*1411868064680775831*
 
@@ -3533,10 +3533,10 @@ The heavy silence hangs between them for a moment, the shared weight of their im
 
 ---
 
-# # *Workshop / Recreation*
+## *Workshop / Recreation*
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (09/01/2025 01:28:02) <br style='clear: both;'>
+### **Wes Del-Fin** (09/01/2025 01:28:02) <br style='clear: both;'>
 
 <a name="1411885280113201242"></a>*1411885280113201242*
 
@@ -3546,7 +3546,7 @@ The heavy silence hangs between them for a moment, the shared weight of their im
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (09/01/2025 01:51:51) <br style='clear: both;'>
+### **Eve the AI** (09/01/2025 01:51:51) <br style='clear: both;'>
 
 <a name="1411891275816370186"></a>*1411891275816370186*
 
@@ -3556,10 +3556,10 @@ She pauses, adding a final, chillingly logical clarification. **"From an operati
 
 ---
 
-# # *Exploring the Ghost Ship*
+## *Exploring the Ghost Ship*
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (09/01/2025 15:19:22) <br style='clear: both;'>
+### **Iyola Kett** (09/01/2025 15:19:22) <br style='clear: both;'>
 
 <a name="1412094493842473134"></a>*1412094493842473134*
 
@@ -3573,7 +3573,7 @@ She thinks about what an ISB is.  She’s a little afraid to ask.
 
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Misha Vorne** (09/01/2025 16:05:48) <br style='clear: both;'>
+### **Misha Vorne** (09/01/2025 16:05:48) <br style='clear: both;'>
 
 <a name="1412106178556854455"></a>*1412106178556854455*
 
@@ -3587,7 +3587,7 @@ She manages a small, genuine smile at Iyola's question about the cleansers, a br
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (09/01/2025 17:44:27) <br style='clear: both;'>
+### **Iyola Kett** (09/01/2025 17:44:27) <br style='clear: both;'>
 
 <a name="1412131005107671174"></a>*1412131005107671174*
 
@@ -3607,10 +3607,10 @@ Iyola finally gathered herself.  She was used to rescuing herself, and she’d j
 
 ---
 
-# # *The Echo and the Oracle*
+## *The Echo and the Oracle*
 <img src="avatars/1400818125485768835/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Vaeros Halcyon** (09/01/2025 19:26:56) <br style='clear: both;'>
+### **Vaeros Halcyon** (09/01/2025 19:26:56) <br style='clear: both;'>
 
 <a name="1412156796843327539"></a>*1412156796843327539*
 
@@ -3620,10 +3620,10 @@ As he inputs his philosophical thinking, he waits for the datacon to resonate.
 
 ---
 
-# # *Workshop / Recreation*
+## *Workshop / Recreation*
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (09/01/2025 19:48:47) <br style='clear: both;'>
+### **Varda Nisyren** (09/01/2025 19:48:47) <br style='clear: both;'>
 
 <a name="1412162294938341467"></a>*1412162294938341467*
 
@@ -3641,10 +3641,10 @@ She smiles at Wes. **"Ahh apologies, I seemed to have been a bit out of sorts fo
 
 ---
 
-# # *Mess Hall*
+## *Mess Hall*
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (09/01/2025 23:03:02) <br style='clear: both;'>
+### **Storyteller** (09/01/2025 23:03:02) <br style='clear: both;'>
 
 <a name="1412211178981032037"></a>*1412211178981032037*
 
@@ -3656,7 +3656,7 @@ Finally, the time is up. The massive solar collectors fold into the hull with a 
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Eve the AI** (09/01/2025 23:03:03) <br style='clear: both;'>
+## **Eve the AI** (09/01/2025 23:03:03) <br style='clear: both;'>
 
 <a name="1412211181065605303"></a>*1412211181065605303*
 
@@ -3670,7 +3670,7 @@ Just as the announcement concludes, the doors to the medbay hiss open. Nadia Ski
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Nadia Skirata** (09/01/2025 23:03:06) <br style='clear: both;'>
+## **Nadia Skirata** (09/01/2025 23:03:06) <br style='clear: both;'>
 
 <a name="1412211193031950417"></a>*1412211193031950417*
 
@@ -3682,10 +3682,10 @@ She watches the holographic display, her focus absolute.
 
 ---
 
-# # *The Echo and the Oracle*
+## *The Echo and the Oracle*
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (09/01/2025 23:05:19) <br style='clear: both;'>
+### **Storyteller** (09/01/2025 23:05:19) <br style='clear: both;'>
 
 <a name="1412211754280419369"></a>*1412211754280419369*
 
@@ -3699,7 +3699,7 @@ The final piece of the puzzle eludes him. He has identified the lock, he underst
 
 <img src="avatars/208916238661844993/d7832f2cac5df42d164b81e35de34f09.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **aliciagd** (09/02/2025 00:18:01) <br style='clear: both;'>
+## **aliciagd** (09/02/2025 00:18:01) <br style='clear: both;'>
 
 <a name="1412230048290963557"></a>*1412230048290963557*
 
@@ -3707,10 +3707,10 @@ Messhall
 
 ---
 
-# # *Mess Hall*
+## *Mess Hall*
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (09/02/2025 00:26:59) <br style='clear: both;'>
+### **Storyteller** (09/02/2025 00:26:59) <br style='clear: both;'>
 
 <a name="1412232303295598654"></a>*1412232303295598654*
 
@@ -3728,7 +3728,7 @@ Wes Del-Fin (@yogi_001)
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (09/02/2025 01:02:29) <br style='clear: both;'>
+## **Storyteller** (09/02/2025 01:02:29) <br style='clear: both;'>
 
 <a name="1412241239419654298"></a>*1412241239419654298*
 
@@ -3741,7 +3741,7 @@ Pictures
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (09/02/2025 01:14:58) <br style='clear: both;'>
+## **Wes Del-Fin** (09/02/2025 01:14:58) <br style='clear: both;'>
 
 <a name="1412244380726726808"></a>*1412244380726726808*
 
@@ -3752,10 +3752,10 @@ The telltale sounds of heavy boots on the deck plating told him someone was comi
 
 ---
 
-# # *Mess Hall*
+## *Mess Hall*
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (09/02/2025 01:45:00) <br style='clear: both;'>
+### **Wes Del-Fin** (09/02/2025 01:45:00) <br style='clear: both;'>
 
 <a name="1412251936421445835"></a>*1412251936421445835*
 
@@ -3771,7 +3771,7 @@ Closing on the table he could see the far off look that Nadia held and the quest
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (09/02/2025 02:17:12) <br style='clear: both;'>
+### **Nadia Skirata** (09/02/2025 02:17:12) <br style='clear: both;'>
 
 <a name="1412260039942733989"></a>*1412260039942733989*
 
@@ -3781,7 +3781,7 @@ Nadia doesn't seem to register his presence at first, her gaze still lost in the
 
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Misha Vorne** (09/02/2025 02:17:12) <br style='clear: both;'>
+### **Misha Vorne** (09/02/2025 02:17:12) <br style='clear: both;'>
 
 <a name="1412260042907979777"></a>*1412260042907979777*
 
@@ -3791,7 +3791,7 @@ Nadia doesn't seem to register his presence at first, her gaze still lost in the
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (09/02/2025 02:17:13) <br style='clear: both;'>
+### **Nadia Skirata** (09/02/2025 02:17:13) <br style='clear: both;'>
 
 <a name="1412260045214711868"></a>*1412260045214711868*
 
@@ -3801,7 +3801,7 @@ Nadia slowly lifts her head, her eyes finally focusing on Wes. The vacant, hollo
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (09/02/2025 15:19:11) <br style='clear: both;'>
+### **Wes Del-Fin** (09/02/2025 15:19:11) <br style='clear: both;'>
 
 <a name="1412456835352625295"></a>*1412456835352625295*
 
@@ -3811,7 +3811,7 @@ Wes could see the serious and quiet looks the two women were sharing.   He felt 
 
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Misha Vorne** (09/02/2025 15:39:49) <br style='clear: both;'>
+### **Misha Vorne** (09/02/2025 15:39:49) <br style='clear: both;'>
 
 <a name="1412462027175104603"></a>*1412462027175104603*
 
@@ -3821,7 +3821,7 @@ Misha just shakes her head, looking down at her hands, unable to articulate the 
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (09/02/2025 15:39:50) <br style='clear: both;'>
+### **Nadia Skirata** (09/02/2025 15:39:50) <br style='clear: both;'>
 
 <a name="1412462030006386728"></a>*1412462030006386728*
 
@@ -3837,7 +3837,7 @@ She lets the name hang in the air for a moment before continuing, her tone shift
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (09/02/2025 15:51:38) <br style='clear: both;'>
+### **Wes Del-Fin** (09/02/2025 15:51:38) <br style='clear: both;'>
 
 <a name="1412465001075179561"></a>*1412465001075179561*
 
@@ -3850,7 +3850,7 @@ His head cocked to the side.  He looked at Misha.   **”Who would Rask fear?  H
 
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Misha Vorne** (09/02/2025 16:06:53) <br style='clear: both;'>
+### **Misha Vorne** (09/02/2025 16:06:53) <br style='clear: both;'>
 
 <a name="1412468838737514557"></a>*1412468838737514557*
 
@@ -3866,7 +3866,7 @@ She thinks for a moment, her brow furrowed as she tries to recall the scraps of 
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (09/02/2025 16:48:27) <br style='clear: both;'>
+### **Wes Del-Fin** (09/02/2025 16:48:27) <br style='clear: both;'>
 
 <a name="1412479299939864666"></a>*1412479299939864666*
 
@@ -3879,7 +3879,7 @@ He waited as he saw her furrow her brow.  It looked like she was trying to remem
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (09/02/2025 17:23:37) <br style='clear: both;'>
+### **Iyola Kett** (09/02/2025 17:23:37) <br style='clear: both;'>
 
 <a name="1412488147933069333"></a>*1412488147933069333*
 
@@ -3893,7 +3893,7 @@ Catching the end of Wes’s description of a milky white artifact, Iyola volunte
 
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Misha Vorne** (09/02/2025 17:42:49) <br style='clear: both;'>
+### **Misha Vorne** (09/02/2025 17:42:49) <br style='clear: both;'>
 
 <a name="1412492980916453509"></a>*1412492980916453509*
 
@@ -3909,7 +3909,7 @@ She shakes her head, answering Wes's final, crucial question.
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (09/02/2025 17:42:50) <br style='clear: both;'>
+### **Nadia Skirata** (09/02/2025 17:42:50) <br style='clear: both;'>
 
 <a name="1412492983684825129"></a>*1412492983684825129*
 
@@ -3921,7 +3921,7 @@ Nadia, who has been listening with a quiet, intense focus, finally speaks up, he
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (09/02/2025 19:29:21) <br style='clear: both;'>
+### **Iyola Kett** (09/02/2025 19:29:21) <br style='clear: both;'>
 
 <a name="1412519792329625630"></a>*1412519792329625630*
 
@@ -3935,7 +3935,7 @@ Nadia described her uncle’s impressive sway on Bespin.  **“That sounds - unb
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (09/02/2025 20:17:33) <br style='clear: both;'>
+### **Nadia Skirata** (09/02/2025 20:17:33) <br style='clear: both;'>
 
 <a name="1412531919882817649"></a>*1412531919882817649*
 
@@ -3947,7 +3947,7 @@ She gestures vaguely at the ship around them. **"The only 'treasure' on board is
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (09/02/2025 20:39:52) <br style='clear: both;'>
+### **Wes Del-Fin** (09/02/2025 20:39:52) <br style='clear: both;'>
 
 <a name="1412537538731704430"></a>*1412537538731704430*
 
@@ -3960,7 +3960,7 @@ His voice took on an edge.  **”The five of us, if you want to look at it this 
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (09/02/2025 23:38:46) <br style='clear: both;'>
+### **Iyola Kett** (09/02/2025 23:38:46) <br style='clear: both;'>
 
 <a name="1412582558167863419"></a>*1412582558167863419*
 
@@ -3978,7 +3978,7 @@ Iyola waved her hand at Wes. **“This sucks for all of us.  But maybe your pare
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (09/03/2025 00:20:22) <br style='clear: both;'>
+### **Nadia Skirata** (09/03/2025 00:20:22) <br style='clear: both;'>
 
 <a name="1412593027725393970"></a>*1412593027725393970*
 
@@ -3994,7 +3994,7 @@ She forces herself to meet Wes's gaze. **"We were just... just trying to find it
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (09/03/2025 00:56:24) <br style='clear: both;'>
+### **Wes Del-Fin** (09/03/2025 00:56:24) <br style='clear: both;'>
 
 <a name="1412602095818768464"></a>*1412602095818768464*
 
@@ -4009,7 +4009,7 @@ He became quiet for a moment and Nadia spoke up attempting to explain the search
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (09/04/2025 12:58:05) <br style='clear: both;'>
+### **Iyola Kett** (09/04/2025 12:58:05) <br style='clear: both;'>
 
 <a name="1413146102491906078"></a>*1413146102491906078*
 
@@ -4027,7 +4027,7 @@ The other Mandalorian, Nadia, further explained that Rast had, in her view, misu
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Eve the AI** (09/04/2025 19:40:57) <br style='clear: both;'>
+## **Eve the AI** (09/04/2025 19:40:57) <br style='clear: both;'>
 
 <a name="1413247484423176314"></a>*1413247484423176314*
 
@@ -4039,7 +4039,7 @@ The bridge hums with quiet activity as data streams across the consoles. The hol
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (09/04/2025 19:40:58) <br style='clear: both;'>
+## **Storyteller** (09/04/2025 19:40:58) <br style='clear: both;'>
 
 <a name="1413247488147849307"></a>*1413247488147849307*
 
@@ -4049,7 +4049,7 @@ As the *Venture* silently glides closer, Cloud City expands in the viewport, a m
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Eve the AI** (09/04/2025 19:41:36) <br style='clear: both;'>
+## **Eve the AI** (09/04/2025 19:41:36) <br style='clear: both;'>
 
 <a name="1413247649305591929"></a>*1413247649305591929*
 
@@ -4061,7 +4061,7 @@ As the *Venture* silently glides closer, Cloud City expands in the viewport, a m
 
 <img src="avatars/1400818125485768835/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Dryzan Kar'dola** (09/04/2025 19:41:37) <br style='clear: both;'>
+## **Dryzan Kar'dola** (09/04/2025 19:41:37) <br style='clear: both;'>
 
 <a name="1413247651792814200"></a>*1413247651792814200*
 
@@ -4071,7 +4071,7 @@ In the galley, Dryzan Kar'dola, roused by the shift out of hyperspace, rubs his 
 
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Misha Vorne** (09/04/2025 19:41:37) <br style='clear: both;'>
+## **Misha Vorne** (09/04/2025 19:41:37) <br style='clear: both;'>
 
 <a name="1413247653214425301"></a>*1413247653214425301*
 
@@ -4081,7 +4081,7 @@ Misha jumps slightly as Dryzan speaks, startled from her quiet contemplation of 
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (09/04/2025 20:30:28) <br style='clear: both;'>
+## **Wes Del-Fin** (09/04/2025 20:30:28) <br style='clear: both;'>
 
 <a name="1413259948833640589"></a>*1413259948833640589*
 
@@ -4095,10 +4095,10 @@ As they waited on the return transmission Wes took a moment to look out the brid
 
 ---
 
-# # *Mess Hall*
+## *Mess Hall*
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (09/05/2025 14:43:10) <br style='clear: both;'>
+### **Wes Del-Fin** (09/05/2025 14:43:10) <br style='clear: both;'>
 
 <a name="1413534936186622103"></a>*1413534936186622103*
 
@@ -4114,7 +4114,7 @@ He paused for a second and gave her a small smile.  **”I hope I can find her a
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (09/06/2025 14:11:55) <br style='clear: both;'>
+### **Nadia Skirata** (09/06/2025 14:11:55) <br style='clear: both;'>
 
 <a name="1413889458495033597"></a>*1413889458495033597*
 
@@ -4132,7 +4132,7 @@ Her gaze drifts from Misha to Iyola, then back to Wes, her eyes filled with a de
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Eve the AI** (09/06/2025 14:24:49) <br style='clear: both;'>
+## **Eve the AI** (09/06/2025 14:24:49) <br style='clear: both;'>
 
 <a name="1413892703321722940"></a>*1413892703321722940*
 
@@ -4142,7 +4142,7 @@ Her gaze drifts from Misha to Iyola, then back to Wes, her eyes filled with a de
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (09/06/2025 14:24:54) <br style='clear: both;'>
+## **Storyteller** (09/06/2025 14:24:54) <br style='clear: both;'>
 
 <a name="1413892725446807662"></a>*1413892725446807662*
 
@@ -4152,10 +4152,10 @@ The *Venture's* bridge is a study in minimalist function. The expansive panorami
 
 ---
 
-# # *Mess Hall*
+## *Mess Hall*
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (09/06/2025 18:36:45) <br style='clear: both;'>
+### **Iyola Kett** (09/06/2025 18:36:45) <br style='clear: both;'>
 
 <a name="1413956107222782112"></a>*1413956107222782112*
 
@@ -4169,7 +4169,7 @@ Iyola knew that Mandalorian culture, at least as she remembered it, was judgment
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (09/06/2025 19:22:55) <br style='clear: both;'>
+### **Wes Del-Fin** (09/06/2025 19:22:55) <br style='clear: both;'>
 
 <a name="1413967724823973970"></a>*1413967724823973970*
 
@@ -4185,7 +4185,7 @@ Iyola’s words reflected much of what he was thinking.  What was more surprisin
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (09/06/2025 21:24:04) <br style='clear: both;'>
+### **Nadia Skirata** (09/06/2025 21:24:04) <br style='clear: both;'>
 
 <a name="1413998211248689193"></a>*1413998211248689193*
 
@@ -4203,7 +4203,7 @@ She takes a slow, deep breath, her mind already shifting, already calculating.
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (09/07/2025 12:45:29) <br style='clear: both;'>
+### **Wes Del-Fin** (09/07/2025 12:45:29) <br style='clear: both;'>
 
 <a name="1414230093001261067"></a>*1414230093001261067*
 
@@ -4219,7 +4219,7 @@ Her words of thanks were quickly followed by Mandalorian practicality asking how
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (09/07/2025 12:55:34) <br style='clear: both;'>
+### **Eve the AI** (09/07/2025 12:55:34) <br style='clear: both;'>
 
 <a name="1414232633465897052"></a>*1414232633465897052*
 
@@ -4231,7 +4231,7 @@ She pauses, the internal systems making soft, mechanical groans and whirs that r
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (09/07/2025 14:45:44) <br style='clear: both;'>
+## **Wes Del-Fin** (09/07/2025 14:45:44) <br style='clear: both;'>
 
 <a name="1414260356703977572"></a>*1414260356703977572*
 
@@ -4245,10 +4245,10 @@ Never before seen ships appearing in the system wasn’t something new.   One br
 
 ---
 
-# # *Mess Hall*
+## *Mess Hall*
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (09/07/2025 16:18:51) <br style='clear: both;'>
+### **Wes Del-Fin** (09/07/2025 16:18:51) <br style='clear: both;'>
 
 <a name="1414283788489326725"></a>*1414283788489326725*
 
@@ -4261,7 +4261,7 @@ Never before seen ships appearing in the system wasn’t something new.   One br
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Eve the AI** (09/09/2025 23:30:30) <br style='clear: both;'>
+## **Eve the AI** (09/09/2025 23:30:30) <br style='clear: both;'>
 
 <a name="1415117194416623617"></a>*1415117194416623617*
 
@@ -4271,7 +4271,7 @@ Never before seen ships appearing in the system wasn’t something new.   One br
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Nadia Skirata** (09/09/2025 23:30:31) <br style='clear: both;'>
+## **Nadia Skirata** (09/09/2025 23:30:31) <br style='clear: both;'>
 
 <a name="1415117196878676019"></a>*1415117196878676019*
 
@@ -4287,7 +4287,7 @@ Her voice drops slightly, taking on a more serious, pragmatic tone. **"The initi
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (09/09/2025 23:53:12) <br style='clear: both;'>
+## **Varda Nisyren** (09/09/2025 23:53:12) <br style='clear: both;'>
 
 <a name="1415122906190581863"></a>*1415122906190581863*
 
@@ -4301,7 +4301,7 @@ She harumphs, arms folding, before the dryness in her tone softens into a sly sm
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (09/10/2025 00:59:22) <br style='clear: both;'>
+## **Iyola Kett** (09/10/2025 00:59:22) <br style='clear: both;'>
 
 <a name="1415139557229330443"></a>*1415139557229330443*
 
@@ -4317,7 +4317,7 @@ Iyola shook her head, as if to dislodge the unwelcome sensation. Seeing Nadia, s
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Nadia Skirata** (09/10/2025 02:18:03) <br style='clear: both;'>
+## **Nadia Skirata** (09/10/2025 02:18:03) <br style='clear: both;'>
 
 <a name="1415159359343956008"></a>*1415159359343956008*
 
@@ -4333,7 +4333,7 @@ Her expression becomes serious again. **"The biggest challenge won't be finding 
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (09/10/2025 22:12:26) <br style='clear: both;'>
+## **Wes Del-Fin** (09/10/2025 22:12:26) <br style='clear: both;'>
 
 <a name="1415459933339521246"></a>*1415459933339521246*
 
@@ -4348,7 +4348,7 @@ He spotted a familiar craft.  It was a twin pod design that had been used by Clo
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (09/11/2025 00:42:21) <br style='clear: both;'>
+## **Iyola Kett** (09/11/2025 00:42:21) <br style='clear: both;'>
 
 <a name="1415497663553732649"></a>*1415497663553732649*
 
@@ -4360,7 +4360,7 @@ She watched Wes’s hands move confidently on the flight controls.  *I guess Eve
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Eve the AI** (09/11/2025 11:53:44) <br style='clear: both;'>
+## **Eve the AI** (09/11/2025 11:53:44) <br style='clear: both;'>
 
 <a name="1415666623808798781"></a>*1415666623808798781*
 
@@ -4370,7 +4370,7 @@ She watched Wes’s hands move confidently on the flight controls.  *I guess Eve
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Nadia Skirata** (09/11/2025 11:53:45) <br style='clear: both;'>
+## **Nadia Skirata** (09/11/2025 11:53:45) <br style='clear: both;'>
 
 <a name="1415666626753335316"></a>*1415666626753335316*
 
@@ -4384,7 +4384,7 @@ Then, Iyola speaks of her "dataries" and the gems. Nadia turns to her, a perplex
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (09/11/2025 11:53:45) <br style='clear: both;'>
+## **Storyteller** (09/11/2025 11:53:45) <br style='clear: both;'>
 
 <a name="1415666627759837234"></a>*1415666627759837234*
 
@@ -4394,7 +4394,7 @@ A subtle shift in the *Venture*'s alignment can be felt, a whisper of power as E
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Eve the AI** (09/11/2025 12:02:00) <br style='clear: both;'>
+## **Eve the AI** (09/11/2025 12:02:00) <br style='clear: both;'>
 
 <a name="1415668701382049816"></a>*1415668701382049816*
 
@@ -4404,7 +4404,7 @@ A subtle shift in the *Venture*'s alignment can be felt, a whisper of power as E
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (09/11/2025 12:03:07) <br style='clear: both;'>
+## **Storyteller** (09/11/2025 12:03:07) <br style='clear: both;'>
 
 <a name="1415668984270815333"></a>*1415668984270815333*
 
@@ -4416,7 +4416,7 @@ As the *Venture* continued its deliberate descent, the architecture shifted. The
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (09/11/2025 12:03:11) <br style='clear: both;'>
+## **Storyteller** (09/11/2025 12:03:11) <br style='clear: both;'>
 
 <a name="1415669001673244704"></a>*1415669001673244704*
 
@@ -4430,7 +4430,7 @@ The distant *whir* of an external airlock pressurizing quickly followed, confirm
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (09/12/2025 12:05:17) <br style='clear: both;'>
+## **Wes Del-Fin** (09/12/2025 12:05:17) <br style='clear: both;'>
 
 <a name="1416031916682907780"></a>*1416031916682907780*
 
@@ -4449,7 +4449,7 @@ He swiveled the pilot's chair around and looked at those still there in the cock
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (09/12/2025 16:17:18) <br style='clear: both;'>
+## **Varda Nisyren** (09/12/2025 16:17:18) <br style='clear: both;'>
 
 <a name="1416095339034841190"></a>*1416095339034841190*
 
@@ -4461,7 +4461,7 @@ Varda turns from the viewport, her movements slow, deliberate. Her gaze drifts t
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Eve the AI** (09/12/2025 16:51:45) <br style='clear: both;'>
+## **Eve the AI** (09/12/2025 16:51:45) <br style='clear: both;'>
 
 <a name="1416104006497079400"></a>*1416104006497079400*
 
@@ -4471,7 +4471,7 @@ Varda turns from the viewport, her movements slow, deliberate. Her gaze drifts t
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Nadia Skirata** (09/12/2025 16:51:45) <br style='clear: both;'>
+## **Nadia Skirata** (09/12/2025 16:51:45) <br style='clear: both;'>
 
 <a name="1416104009449607389"></a>*1416104009449607389*
 
@@ -4485,7 +4485,7 @@ She pauses, looking at Varda with a newfound, subtle empathy. **"I know of a few
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (09/12/2025 18:42:55) <br style='clear: both;'>
+## **Varda Nisyren** (09/12/2025 18:42:55) <br style='clear: both;'>
 
 <a name="1416131984878473347"></a>*1416131984878473347*
 
@@ -4497,7 +4497,7 @@ Relief settles over Varda like a cleansing rain after a long drought, seeping in
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (09/13/2025 12:02:44) <br style='clear: both;'>
+## **Wes Del-Fin** (09/13/2025 12:02:44) <br style='clear: both;'>
 
 <a name="1416393664317358162"></a>*1416393664317358162*
 
@@ -4513,7 +4513,7 @@ As Varda posed a question about finding some grass for her toes to enjoy he turn
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Nadia Skirata** (09/13/2025 16:04:18) <br style='clear: both;'>
+## **Nadia Skirata** (09/13/2025 16:04:18) <br style='clear: both;'>
 
 <a name="1416454455947427901"></a>*1416454455947427901*
 
@@ -4526,7 +4526,7 @@ Her expression is thoughtful and then turns into trepidation as the homecoming p
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (09/13/2025 16:52:38) <br style='clear: both;'>
+## **Wes Del-Fin** (09/13/2025 16:52:38) <br style='clear: both;'>
 
 <a name="1416466617218502666"></a>*1416466617218502666*
 
@@ -4542,7 +4542,7 @@ He looked at Iyola and Varda.  **”Let's go see what awaits us.”**  He looked
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (09/14/2025 15:16:49) <br style='clear: both;'>
+## **Iyola Kett** (09/14/2025 15:16:49) <br style='clear: both;'>
 
 <a name="1416804891652788234"></a>*1416804891652788234*
 
@@ -4558,7 +4558,7 @@ Wes’s explanation of why Nadia needed to go out first made sense, but Iyola wa
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Nadia Skirata** (09/15/2025 11:12:45) <br style='clear: both;'>
+## **Nadia Skirata** (09/15/2025 11:12:45) <br style='clear: both;'>
 
 <a name="1417105857757315173"></a>*1417105857757315173*
 
@@ -4572,7 +4572,7 @@ Nadia gives a sharp nod, accepting the implicit trust in his assessment. The sli
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Eve the AI** (09/15/2025 11:12:45) <br style='clear: both;'>
+## **Eve the AI** (09/15/2025 11:12:45) <br style='clear: both;'>
 
 <a name="1417105859967975515"></a>*1417105859967975515*
 
@@ -4582,7 +4582,7 @@ Nadia gives a sharp nod, accepting the implicit trust in his assessment. The sli
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (09/15/2025 11:12:45) <br style='clear: both;'>
+## **Storyteller** (09/15/2025 11:12:45) <br style='clear: both;'>
 
 <a name="1417105861469405184"></a>*1417105861469405184*
 
@@ -4594,7 +4594,7 @@ Soon, the airlock cycles with a deep thrum, depositing them in a brightly lit tr
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (09/15/2025 11:17:41) <br style='clear: both;'>
+## **Storyteller** (09/15/2025 11:17:41) <br style='clear: both;'>
 
 <a name="1417107101276438588"></a>*1417107101276438588*
 
@@ -4611,7 +4611,7 @@ Standing just beyond the *Venture*'s airlock ramp, observing their exit with cal
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (09/16/2025 02:07:38) <br style='clear: both;'>
+## **Wes Del-Fin** (09/16/2025 02:07:38) <br style='clear: both;'>
 
 <a name="1417331066062114828"></a>*1417331066062114828*
 
@@ -4629,7 +4629,7 @@ Slowly and with non threatening movements he followed Nadia with the others clos
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (09/16/2025 21:24:37) <br style='clear: both;'>
+## **Varda Nisyren** (09/16/2025 21:24:37) <br style='clear: both;'>
 
 <a name="1417622228287225908"></a>*1417622228287225908*
 
@@ -4645,7 +4645,7 @@ Where once her eyes burned with arcane fire, now they twinkle with absentminded 
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Nadia Skirata** (09/16/2025 22:43:53) <br style='clear: both;'>
+## **Nadia Skirata** (09/16/2025 22:43:53) <br style='clear: both;'>
 
 <a name="1417642177688768613"></a>*1417642177688768613*
 
@@ -4659,7 +4659,7 @@ Nadia steps off the *Venture's* ramp first, her armored boots striking the duras
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (09/16/2025 22:43:54) <br style='clear: both;'>
+## **Storyteller** (09/16/2025 22:43:54) <br style='clear: both;'>
 
 <a name="1417642179567943763"></a>*1417642179567943763*
 
@@ -4671,7 +4671,7 @@ A profound, almost palpable, shift in tension immediately drains from the lead M
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Mandalorian Enforcer** (09/16/2025 22:44:06) <br style='clear: both;'>
+## **Mandalorian Enforcer** (09/16/2025 22:44:06) <br style='clear: both;'>
 
 <a name="1417642229761310740"></a>*1417642229761310740*
 
@@ -4681,7 +4681,7 @@ A profound, almost palpable, shift in tension immediately drains from the lead M
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Nadia Skirata** (09/16/2025 22:44:22) <br style='clear: both;'>
+## **Nadia Skirata** (09/16/2025 22:44:22) <br style='clear: both;'>
 
 <a name="1417642297662767236"></a>*1417642297662767236*
 
@@ -4697,7 +4697,7 @@ Nadia's head inclines slightly at Arno's unexpected Mando'a curse and the unspok
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Arno** (09/16/2025 22:44:22) <br style='clear: both;'>
+## **Arno** (09/16/2025 22:44:22) <br style='clear: both;'>
 
 <a name="1417642299915243631"></a>*1417642299915243631*
 
@@ -4707,7 +4707,7 @@ Arno nods, his gaze passing over each member of the *Venture* crew as Nadia intr
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (09/16/2025 22:44:23) <br style='clear: both;'>
+## **Storyteller** (09/16/2025 22:44:23) <br style='clear: both;'>
 
 <a name="1417642301211283468"></a>*1417642301211283468*
 
@@ -4717,7 +4717,7 @@ The female Mandalorian, Kella, a taller, leaner figure whose armor bears subtle 
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Kella** (09/16/2025 22:44:31) <br style='clear: both;'>
+## **Kella** (09/16/2025 22:44:31) <br style='clear: both;'>
 
 <a name="1417642335357112480"></a>*1417642335357112480*
 
@@ -4729,7 +4729,7 @@ She turns, and with the two droids silently bringing up the rear, she sets a bri
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (09/16/2025 23:58:37) <br style='clear: both;'>
+## **Iyola Kett** (09/16/2025 23:58:37) <br style='clear: both;'>
 
 <a name="1417660982775517194"></a>*1417660982775517194*
 
@@ -4747,7 +4747,7 @@ Iyola concentrated on committing the layout and path of this place to memory.  S
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (09/17/2025 01:12:27) <br style='clear: both;'>
+## **Wes Del-Fin** (09/17/2025 01:12:27) <br style='clear: both;'>
 
 <a name="1417679563777118331"></a>*1417679563777118331*
 
@@ -4768,7 +4768,7 @@ Nadia wasted no time and within no time she was leading with Arno as Kella instr
 
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Misha Vorne** (09/17/2025 02:30:59) <br style='clear: both;'>
+## **Misha Vorne** (09/17/2025 02:30:59) <br style='clear: both;'>
 
 <a name="1417699328096469114"></a>*1417699328096469114*
 
@@ -4780,7 +4780,7 @@ Misha, who had been quietly trailing the others, her hands clasped nervously in 
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (09/17/2025 19:41:24) <br style='clear: both;'>
+## **Varda Nisyren** (09/17/2025 19:41:24) <br style='clear: both;'>
 
 <a name="1417958642677842042"></a>*1417958642677842042*
 
@@ -4796,7 +4796,7 @@ Her gaze drifts ahead, eyes unfocusing, as though another time and place are lay
 
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Misha Vorne** (09/17/2025 20:05:12) <br style='clear: both;'>
+## **Misha Vorne** (09/17/2025 20:05:12) <br style='clear: both;'>
 
 <a name="1417964632877961310"></a>*1417964632877961310*
 
@@ -4812,7 +4812,7 @@ She listens intently as Varda speaks of the woman she once knew, her brow furrow
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (09/18/2025 01:49:42) <br style='clear: both;'>
+## **Wes Del-Fin** (09/18/2025 01:49:42) <br style='clear: both;'>
 
 <a name="1418051327451467897"></a>*1418051327451467897*
 
@@ -4827,7 +4827,7 @@ With Varda walking slower their guide Kella was pulling away.   **”Kella,”**
 
 <img src="avatars/1400818125485768835/d676192176568b6b0ac19a3c7a91a825.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Kella Skirata** (09/18/2025 19:39:38) <br style='clear: both;'>
+## **Kella Skirata** (09/18/2025 19:39:38) <br style='clear: both;'>
 
 <a name="1418320585611542558"></a>*1418320585611542558*
 
@@ -4841,7 +4841,7 @@ Her helmeted head turns slightly as Wes poses his question, and for a moment, sh
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (09/18/2025 19:39:44) <br style='clear: both;'>
+## **Storyteller** (09/18/2025 19:39:44) <br style='clear: both;'>
 
 <a name="1418320607715655850"></a>*1418320607715655850*
 
@@ -4853,7 +4853,7 @@ They pass a heavily fortified door labeled `ARMORY`in Mando'a and a sound-dampen
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (09/18/2025 22:53:03) <br style='clear: both;'>
+## **Iyola Kett** (09/18/2025 22:53:03) <br style='clear: both;'>
 
 <a name="1418369260237094944"></a>*1418369260237094944*
 
@@ -4867,7 +4867,7 @@ Bespin is an unnatural place.  The air is filtered and ionized.  Here and there,
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (09/18/2025 23:00:37) <br style='clear: both;'>
+## **Varda Nisyren** (09/18/2025 23:00:37) <br style='clear: both;'>
 
 <a name="1418371163909914625"></a>*1418371163909914625*
 
@@ -4883,7 +4883,7 @@ Her smile blooms as if reliving the memory, her fingers twitching unconsciously 
 
 <img src="avatars/1400818125485768835/d676192176568b6b0ac19a3c7a91a825.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Kella Skirata** (09/18/2025 23:47:43) <br style='clear: both;'>
+## **Kella Skirata** (09/18/2025 23:47:43) <br style='clear: both;'>
 
 <a name="1418383016685732070"></a>*1418383016685732070*
 
@@ -4895,7 +4895,7 @@ Kella's head turns abruptly as she notices Iyola drifting too close to the trans
 
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Misha Vorne** (09/18/2025 23:47:43) <br style='clear: both;'>
+## **Misha Vorne** (09/18/2025 23:47:43) <br style='clear: both;'>
 
 <a name="1418383018678157322"></a>*1418383018678157322*
 
@@ -4909,7 +4909,7 @@ The story of Varda's friend, the "daughter in heart," a politician who fought fo
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (09/19/2025 00:49:06) <br style='clear: both;'>
+## **Iyola Kett** (09/19/2025 00:49:06) <br style='clear: both;'>
 
 <a name="1418398463984668713"></a>*1418398463984668713*
 
@@ -4925,7 +4925,7 @@ She duly marched forward.  She still scanned her environment, but made sure not 
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (09/19/2025 01:54:24) <br style='clear: both;'>
+## **Wes Del-Fin** (09/19/2025 01:54:24) <br style='clear: both;'>
 
 <a name="1418414897724784743"></a>*1418414897724784743*
 
@@ -4946,7 +4946,7 @@ He looked back at Iyola.  The T-visor of his helmet gave no expression but the s
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (09/19/2025 10:40:47) <br style='clear: both;'>
+## **Storyteller** (09/19/2025 10:40:47) <br style='clear: both;'>
 
 <a name="1418547366310707320"></a>*1418547366310707320*
 
@@ -4958,7 +4958,7 @@ Finally, Kella gestures towards a door labeled 'Meeting Room Gamma' in crisp Gal
 
 <img src="avatars/1400818125485768835/d676192176568b6b0ac19a3c7a91a825.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Kella Skirata** (09/19/2025 10:40:48) <br style='clear: both;'>
+## **Kella Skirata** (09/19/2025 10:40:48) <br style='clear: both;'>
 
 <a name="1418547368655065210"></a>*1418547368655065210*
 
@@ -4968,7 +4968,7 @@ Finally, Kella gestures towards a door labeled 'Meeting Room Gamma' in crisp Gal
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (09/19/2025 10:40:48) <br style='clear: both;'>
+## **Storyteller** (09/19/2025 10:40:48) <br style='clear: both;'>
 
 <a name="1418547370047570032"></a>*1418547370047570032*
 
@@ -4978,7 +4978,7 @@ The room beyond is a modern, professional briefing room, quite luxurious given t
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (09/19/2025 16:55:17) <br style='clear: both;'>
+## **Varda Nisyren** (09/19/2025 16:55:17) <br style='clear: both;'>
 
 <a name="1418641613185613824"></a>*1418641613185613824*
 
@@ -4992,7 +4992,7 @@ But then, as though catching herself, she breathes out a soft laugh and shakes h
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (09/19/2025 22:58:33) <br style='clear: both;'>
+## **Iyola Kett** (09/19/2025 22:58:33) <br style='clear: both;'>
 
 <a name="1418733032755429436"></a>*1418733032755429436*
 
@@ -5002,7 +5002,7 @@ Iyola was restless. She didn’t even sit down in one of the chairs, comfortable
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (09/19/2025 23:00:05) <br style='clear: both;'>
+## **Wes Del-Fin** (09/19/2025 23:00:05) <br style='clear: both;'>
 
 <a name="1418733416802684931"></a>*1418733416802684931*
 
@@ -5020,7 +5020,7 @@ Finally up ahead he spotted a door that was designated as the meeting room they 
 
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Misha Vorne** (09/19/2025 23:23:43) <br style='clear: both;'>
+## **Misha Vorne** (09/19/2025 23:23:43) <br style='clear: both;'>
 
 <a name="1418739363155542027"></a>*1418739363155542027*
 
@@ -5034,7 +5034,7 @@ She glances at Iyola, who is already by the juice dispenser, then at Wes heading
 
 <img src="avatars/1400818125485768835/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Dryzan Kar'dola** (09/19/2025 23:23:47) <br style='clear: both;'>
+## **Dryzan Kar'dola** (09/19/2025 23:23:47) <br style='clear: both;'>
 
 <a name="1418739382545809472"></a>*1418739382545809472*
 
@@ -5048,7 +5048,7 @@ He takes another, longer sip, feeling a knot in his stomach slowly unravel. He g
 
 <img src="avatars/1400818125485768835/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Vaeros Halcyon** (09/19/2025 23:24:03) <br style='clear: both;'>
+## **Vaeros Halcyon** (09/19/2025 23:24:03) <br style='clear: both;'>
 
 <a name="1418739449122127905"></a>*1418739449122127905*
 
@@ -5062,7 +5062,7 @@ He moves towards a quiet corner, choosing one of the chairs furthest from the ma
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (09/19/2025 23:24:04) <br style='clear: both;'>
+## **Storyteller** (09/19/2025 23:24:04) <br style='clear: both;'>
 
 <a name="1418739451127140373"></a>*1418739451127140373*
 
@@ -5072,7 +5072,7 @@ Iyola taps eagerly at the sleek, dark data screen, hoping for a vibrant stream o
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (09/20/2025 00:17:04) <br style='clear: both;'>
+## **Iyola Kett** (09/20/2025 00:17:04) <br style='clear: both;'>
 
 <a name="1418752792679546974"></a>*1418752792679546974*
 
@@ -5084,7 +5084,7 @@ Iyola plops herself down right next to Misha, leaning her elbows on the table as
 
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Misha Vorne** (09/20/2025 02:14:47) <br style='clear: both;'>
+## **Misha Vorne** (09/20/2025 02:14:47) <br style='clear: both;'>
 
 <a name="1418782415102545961"></a>*1418782415102545961*
 
@@ -5096,10 +5096,10 @@ She tries another hesitant tap on the screen, then sighs, a soft, defeated sound
 
 ---
 
-# # *Varda lowers herself into the chair with*
+## *Varda lowers herself into the chair with*
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (09/20/2025 12:04:26) <br style='clear: both;'>
+### **Varda Nisyren** (09/20/2025 12:04:26) <br style='clear: both;'>
 
 <a name="1418930804574392412"></a>*1418930804574392412*
 
@@ -5109,7 +5109,7 @@ Varda lowers herself into the chair with a satisfied sigh, settling as though sh
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (09/20/2025 12:22:26) <br style='clear: both;'>
+## **Wes Del-Fin** (09/20/2025 12:22:26) <br style='clear: both;'>
 
 <a name="1418935335936725044"></a>*1418935335936725044*
 
@@ -5130,7 +5130,7 @@ He reached out for the nutrient bar and took another bite. **”Get some drink a
 
 <img src="avatars/208916238661844993/d7832f2cac5df42d164b81e35de34f09.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **aliciagd** (09/20/2025 18:25:06) <br style='clear: both;'>
+## **aliciagd** (09/20/2025 18:25:06) <br style='clear: both;'>
 
 <a name="1419026603555426366"></a>*1419026603555426366*
 
@@ -5138,10 +5138,10 @@ Varda lowers herself into the chair with
 
 ---
 
-# # *Varda lowers herself into the chair with*
+## *Varda lowers herself into the chair with*
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (09/20/2025 18:25:46) <br style='clear: both;'>
+### **Storyteller** (09/20/2025 18:25:46) <br style='clear: both;'>
 
 <a name="1419026770782584983"></a>*1419026770782584983*
 
@@ -5159,7 +5159,7 @@ Nadia's voice, raspy but steady, outlines her capture. Varda perceives flashes o
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (09/20/2025 18:26:05) <br style='clear: both;'>
+### **Storyteller** (09/20/2025 18:26:05) <br style='clear: both;'>
 
 <a name="1419026851309027340"></a>*1419026851309027340*
 
@@ -5177,7 +5177,7 @@ Varda senses Ghurn's mind racing, connecting the pieces: Nadia's mission, the gh
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (09/20/2025 18:26:11) <br style='clear: both;'>
+### **Storyteller** (09/20/2025 18:26:11) <br style='clear: both;'>
 
 <a name="1419026875925401846"></a>*1419026875925401846*
 
@@ -5190,7 +5190,7 @@ The vision shimmers, the intense emotions receding, the words fading back to a d
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (09/20/2025 18:54:39) <br style='clear: both;'>
+## **Iyola Kett** (09/20/2025 18:54:39) <br style='clear: both;'>
 
 <a name="1419034039578398750"></a>*1419034039578398750*
 
@@ -5204,7 +5204,7 @@ As she toyed with the datapad, Iyola commented,** “I bet the Skirata clan will
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (09/20/2025 19:20:25) <br style='clear: both;'>
+## **Varda Nisyren** (09/20/2025 19:20:25) <br style='clear: both;'>
 
 <a name="1419040526216200415"></a>*1419040526216200415*
 
@@ -5216,7 +5216,7 @@ Wordlessly, she draws a small cloth from her sleeve and dabs at her eyes, foldin
 
 <img src="avatars/1400818125485768835/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Dryzan Kar'dola** (09/20/2025 20:12:09) <br style='clear: both;'>
+## **Dryzan Kar'dola** (09/20/2025 20:12:09) <br style='clear: both;'>
 
 <a name="1419053543301714042"></a>*1419053543301714042*
 
@@ -5230,7 +5230,7 @@ Dryzan, who had been quietly observing from his corner, a hint of his old smuggl
 
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Misha Vorne** (09/20/2025 20:13:17) <br style='clear: both;'>
+## **Misha Vorne** (09/20/2025 20:13:17) <br style='clear: both;'>
 
 <a name="1419053827390177471"></a>*1419053827390177471*
 
@@ -5244,7 +5244,7 @@ At Iyola's mention of the prisoner, Misha shivers, pulling her hands into her la
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (09/20/2025 23:47:27) <br style='clear: both;'>
+## **Iyola Kett** (09/20/2025 23:47:27) <br style='clear: both;'>
 
 <a name="1419107724318347285"></a>*1419107724318347285*
 
@@ -5256,7 +5256,7 @@ Iyola dismisses Wes’s counsel as typical Mandalorian naysaying.  She’s pulli
 
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Misha Vorne** (09/21/2025 00:12:26) <br style='clear: both;'>
+## **Misha Vorne** (09/21/2025 00:12:26) <br style='clear: both;'>
 
 <a name="1419114013224075428"></a>*1419114013224075428*
 
@@ -5270,7 +5270,7 @@ At Iyola's direct question about Grist, Misha shrinks slightly, her eyes darting
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (09/21/2025 00:40:18) <br style='clear: both;'>
+## **Iyola Kett** (09/21/2025 00:40:18) <br style='clear: both;'>
 
 <a name="1419121026448490587"></a>*1419121026448490587*
 
@@ -5282,7 +5282,7 @@ She saw Misha quake with fear. **“Misha,**” she said, trying to keep her voi
 
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Misha Vorne** (09/21/2025 00:48:43) <br style='clear: both;'>
+## **Misha Vorne** (09/21/2025 00:48:43) <br style='clear: both;'>
 
 <a name="1419123143829885019"></a>*1419123143829885019*
 
@@ -5296,7 +5296,7 @@ Misha flinches, a quick, jerky motion, at Iyola's question about Rask's customer
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (09/21/2025 01:01:40) <br style='clear: both;'>
+## **Iyola Kett** (09/21/2025 01:01:40) <br style='clear: both;'>
 
 <a name="1419126401230962830"></a>*1419126401230962830*
 
@@ -5310,7 +5310,7 @@ Time to think of a distraction.  Iyola remembers the odd piece of equipment she�
 
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Misha Vorne** (09/21/2025 01:16:05) <br style='clear: both;'>
+## **Misha Vorne** (09/21/2025 01:16:05) <br style='clear: both;'>
 
 <a name="1419130032160505896"></a>*1419130032160505896*
 
@@ -5328,7 +5328,7 @@ She tries another series of frustrated taps. **"It's fascinating, though! Truly.
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (09/21/2025 01:42:30) <br style='clear: both;'>
+## **Iyola Kett** (09/21/2025 01:42:30) <br style='clear: both;'>
 
 <a name="1419136680262107241"></a>*1419136680262107241*
 
@@ -5338,7 +5338,7 @@ She tries another series of frustrated taps. **"It's fascinating, though! Truly.
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (09/21/2025 14:26:25) <br style='clear: both;'>
+## **Wes Del-Fin** (09/21/2025 14:26:25) <br style='clear: both;'>
 
 <a name="1419328925217325166"></a>*1419328925217325166*
 
@@ -5353,7 +5353,7 @@ With things seemingly calm he sat quietly.  He had felt Varda’s use of the For
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (09/21/2025 16:53:56) <br style='clear: both;'>
+## **Storyteller** (09/21/2025 16:53:56) <br style='clear: both;'>
 
 <a name="1419366048175624355"></a>*1419366048175624355*
 
@@ -5365,7 +5365,7 @@ Meanwhile, Iyola's brow furrows in concentration as she takes the tool back from
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (09/21/2025 16:54:03) <br style='clear: both;'>
+## **Storyteller** (09/21/2025 16:54:03) <br style='clear: both;'>
 
 <a name="1419366079683366983"></a>*1419366079683366983*
 
@@ -5383,7 +5383,7 @@ Ghurn's intense gaze falls upon Wes, then briefly acknowledges Varda and Iyola b
 
 <img src="avatars/1400818125485768835/f989e92be7283fa85c0e66fabffbdf2e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Ghurn Skirata** (09/21/2025 16:54:22) <br style='clear: both;'>
+## **Ghurn Skirata** (09/21/2025 16:54:22) <br style='clear: both;'>
 
 <a name="1419366158141886624"></a>*1419366158141886624*
 
@@ -5397,7 +5397,7 @@ He takes another measured breath, his gaze sweeping the room, asserting his cont
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (09/21/2025 19:10:32) <br style='clear: both;'>
+## **Iyola Kett** (09/21/2025 19:10:32) <br style='clear: both;'>
 
 <a name="1419400425169227846"></a>*1419400425169227846*
 
@@ -5417,7 +5417,7 @@ She looks around at her companions.
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (09/22/2025 01:43:39) <br style='clear: both;'>
+## **Wes Del-Fin** (09/22/2025 01:43:39) <br style='clear: both;'>
 
 <a name="1419499356096299081"></a>*1419499356096299081*
 
@@ -5435,7 +5435,7 @@ He looked at Nadia who had stepped up beside him.    Like her uncle she also too
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (09/22/2025 01:43:54) <br style='clear: both;'>
+## **Wes Del-Fin** (09/22/2025 01:43:54) <br style='clear: both;'>
 
 <a name="1419499417467355266"></a>*1419499417467355266*
 
@@ -5447,7 +5447,7 @@ As far as his technical teams going over Eve and the *Venture* almost made him s
 
 <img src="avatars/1400818125485768835/f989e92be7283fa85c0e66fabffbdf2e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Ghurn Skirata** (09/22/2025 15:29:43) <br style='clear: both;'>
+## **Ghurn Skirata** (09/22/2025 15:29:43) <br style='clear: both;'>
 
 <a name="1419707241321332878"></a>*1419707241321332878*
 
@@ -5461,7 +5461,7 @@ He looks directly at Nadia, a silent message passing between them. **"Nadia,"** 
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Nadia Skirata** (09/22/2025 15:32:14) <br style='clear: both;'>
+## **Nadia Skirata** (09/22/2025 15:32:14) <br style='clear: both;'>
 
 <a name="1419707874552053790"></a>*1419707874552053790*
 
@@ -5477,7 +5477,7 @@ She pauses, her gaze drifting briefly to the faces of Wes, Varda, Iyola, Dryzan,
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Nadia Skirata** (09/22/2025 15:33:19) <br style='clear: both;'>
+## **Nadia Skirata** (09/22/2025 15:33:19) <br style='clear: both;'>
 
 <a name="1419708147156652224"></a>*1419708147156652224*
 
@@ -5491,7 +5491,7 @@ Nadia's jaw tightens almost imperceptibly. **"It was an ambush. Their method of 
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (09/22/2025 16:00:39) <br style='clear: both;'>
+## **Varda Nisyren** (09/22/2025 16:00:39) <br style='clear: both;'>
 
 <a name="1419715029145620615"></a>*1419715029145620615*
 
@@ -5503,7 +5503,7 @@ Her lips press into a thin smile, equal parts fondness and ache. But she does no
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (09/22/2025 16:45:15) <br style='clear: both;'>
+## **Iyola Kett** (09/22/2025 16:45:15) <br style='clear: both;'>
 
 <a name="1419726249969848452"></a>*1419726249969848452*
 
@@ -5515,7 +5515,7 @@ Iyola is fascinated by Nadia’s account. When Nadia pauses, Iyola raises her ha
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Nadia Skirata** (09/22/2025 16:57:46) <br style='clear: both;'>
+## **Nadia Skirata** (09/22/2025 16:57:46) <br style='clear: both;'>
 
 <a name="1419729402584891468"></a>*1419729402584891468*
 
@@ -5531,7 +5531,7 @@ Nadia then offers Iyola a sharp, almost approving nod at her enthusiasm, tempere
 
 <img src="avatars/1400818125485768835/b84e4cb50f528d1476f03e10d907d103.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Vaeros Halcyon** (09/22/2025 16:57:47) <br style='clear: both;'>
+## **Vaeros Halcyon** (09/22/2025 16:57:47) <br style='clear: both;'>
 
 <a name="1419729405164654674"></a>*1419729405164654674*
 
@@ -5541,7 +5541,7 @@ Vaeros observes Nadia's calculated silence with a subtle lift of an eyebrow. He 
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (09/22/2025 17:22:11) <br style='clear: both;'>
+## **Iyola Kett** (09/22/2025 17:22:11) <br style='clear: both;'>
 
 <a name="1419735545143365664"></a>*1419735545143365664*
 
@@ -5555,7 +5555,7 @@ Iyola remembers what Misha had told her earlier.  “**We captured a member of t
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Nadia Skirata** (09/22/2025 18:20:27) <br style='clear: both;'>
+## **Nadia Skirata** (09/22/2025 18:20:27) <br style='clear: both;'>
 
 <a name="1419750209751093403"></a>*1419750209751093403*
 
@@ -5569,7 +5569,7 @@ A hard edge enters her voice. **"The ambush was targeted. They used a unique met
 
 <img src="avatars/1400818125485768835/f989e92be7283fa85c0e66fabffbdf2e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Ghurn Skirata** (09/22/2025 18:20:28) <br style='clear: both;'>
+## **Ghurn Skirata** (09/22/2025 18:20:28) <br style='clear: both;'>
 
 <a name="1419750212343169177"></a>*1419750212343169177*
 
@@ -5581,7 +5581,7 @@ Ghurn's head snaps up, his sharp gaze fixed on Iyola as she mentions the prisone
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (09/22/2025 19:35:45) <br style='clear: both;'>
+## **Wes Del-Fin** (09/22/2025 19:35:45) <br style='clear: both;'>
 
 <a name="1419769157079007362"></a>*1419769157079007362*
 
@@ -5593,7 +5593,7 @@ Wes leaned forward, his armored forearms shifting on the desk.  **”The one we 
 
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Misha Vorne** (09/22/2025 21:32:27) <br style='clear: both;'>
+## **Misha Vorne** (09/22/2025 21:32:27) <br style='clear: both;'>
 
 <a name="1419798527453827205"></a>*1419798527453827205*
 
@@ -5607,7 +5607,7 @@ Misha shrinks further into her seat as Ghurn's sharp gaze lands on her. She fumb
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (09/22/2025 21:42:46) <br style='clear: both;'>
+## **Wes Del-Fin** (09/22/2025 21:42:46) <br style='clear: both;'>
 
 <a name="1419801122213728407"></a>*1419801122213728407*
 
@@ -5622,7 +5622,7 @@ Wes could feel the shock and the creeping fear that he had directed Ghurn’s ga
 
 <img src="avatars/1400818125485768835/f989e92be7283fa85c0e66fabffbdf2e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Ghurn Skirata** (09/22/2025 22:14:43) <br style='clear: both;'>
+## **Ghurn Skirata** (09/22/2025 22:14:43) <br style='clear: both;'>
 
 <a name="1419809162929377312"></a>*1419809162929377312*
 
@@ -5634,7 +5634,7 @@ Ghurn watches Misha closely as she speaks, his steel-colored eyes taking in her 
 
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Misha Vorne** (09/22/2025 22:14:45) <br style='clear: both;'>
+## **Misha Vorne** (09/22/2025 22:14:45) <br style='clear: both;'>
 
 <a name="1419809173167800390"></a>*1419809173167800390*
 
@@ -5652,7 +5652,7 @@ Misha nods slowly, taking a deep, shaky breath. She glances towards the juice di
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (09/23/2025 22:34:02) <br style='clear: both;'>
+## **Wes Del-Fin** (09/23/2025 22:34:02) <br style='clear: both;'>
 
 <a name="1420176414619078707"></a>*1420176414619078707*
 
@@ -5667,7 +5667,7 @@ As Misha spoke he remembered that she mentioned that Rask had talked about a tre
 
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Misha Vorne** (09/23/2025 23:26:42) <br style='clear: both;'>
+## **Misha Vorne** (09/23/2025 23:26:42) <br style='clear: both;'>
 
 <a name="1420189668661526659"></a>*1420189668661526659*
 
@@ -5681,7 +5681,7 @@ She pauses, then adds, almost hesitantly, **"But… the one who was sending *him
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (09/24/2025 17:31:38) <br style='clear: both;'>
+## **Varda Nisyren** (09/24/2025 17:31:38) <br style='clear: both;'>
 
 <a name="1420462701511184414"></a>*1420462701511184414*
 
@@ -5697,7 +5697,7 @@ She lifts her work a little, the yarn swaying as she gestures with the hook. Fir
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (09/24/2025 17:32:24) <br style='clear: both;'>
+## **Varda Nisyren** (09/24/2025 17:32:24) <br style='clear: both;'>
 
 <a name="1420462894201442405"></a>*1420462894201442405*
 
@@ -5709,7 +5709,7 @@ She hums in her throat as if to add something else, but she drops the thought as
 
 <img src="avatars/1400818125485768835/f989e92be7283fa85c0e66fabffbdf2e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Ghurn Skirata** (09/24/2025 20:17:54) <br style='clear: both;'>
+## **Ghurn Skirata** (09/24/2025 20:17:54) <br style='clear: both;'>
 
 <a name="1420504540393897994"></a>*1420504540393897994*
 
@@ -5725,7 +5725,7 @@ His gaze then locks on Nadia, a silent demand for confirmation of Varda's implic
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Nadia Skirata** (09/24/2025 20:18:09) <br style='clear: both;'>
+## **Nadia Skirata** (09/24/2025 20:18:09) <br style='clear: both;'>
 
 <a name="1420504604034072678"></a>*1420504604034072678*
 
@@ -5741,7 +5741,7 @@ She pauses as her gaze shifts to Varda and then comes back to leans on Ghurn. "*
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (09/24/2025 20:46:45) <br style='clear: both;'>
+## **Iyola Kett** (09/24/2025 20:46:45) <br style='clear: both;'>
 
 <a name="1420511803263422575"></a>*1420511803263422575*
 
@@ -5753,7 +5753,7 @@ Iyola wondered yet again why the Protectors had taken her.  She decided right th
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (09/24/2025 21:02:24) <br style='clear: both;'>
+## **Varda Nisyren** (09/24/2025 21:02:24) <br style='clear: both;'>
 
 <a name="1420515740750188684"></a>*1420515740750188684*
 
@@ -5769,7 +5769,7 @@ Her lips twitch at the edge of a smile. “**A library is not made only of books
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (09/24/2025 21:02:29) <br style='clear: both;'>
+## **Varda Nisyren** (09/24/2025 21:02:29) <br style='clear: both;'>
 
 <a name="1420515762782863421"></a>*1420515762782863421*
 
@@ -5781,7 +5781,7 @@ When she speaks again, her voice is distant, softened by old recollection. “**
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (09/24/2025 21:46:31) <br style='clear: both;'>
+## **Iyola Kett** (09/24/2025 21:46:31) <br style='clear: both;'>
 
 <a name="1420526844977086505"></a>*1420526844977086505*
 
@@ -5795,7 +5795,7 @@ Iyola flashed Varda a quick smile.  She wasn’t sure whether Varda had actually
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (09/24/2025 22:02:23) <br style='clear: both;'>
+## **Wes Del-Fin** (09/24/2025 22:02:23) <br style='clear: both;'>
 
 <a name="1420530835123343361"></a>*1420530835123343361*
 
@@ -5813,7 +5813,7 @@ He was about to speak when Varda gave way for Ghurn to speak but used a differen
 
 <img src="avatars/1400818125485768835/f989e92be7283fa85c0e66fabffbdf2e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Ghurn Skirata** (09/24/2025 22:22:21) <br style='clear: both;'>
+## **Ghurn Skirata** (09/24/2025 22:22:21) <br style='clear: both;'>
 
 <a name="1420535861124137211"></a>*1420535861124137211*
 
@@ -5831,7 +5831,7 @@ He sweeps his gaze across them, his eyes unwavering. **"You will also provide us
 
 <img src="avatars/1400818125485768835/f989e92be7283fa85c0e66fabffbdf2e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Ghurn Skirata** (09/24/2025 22:22:26) <br style='clear: both;'>
+## **Ghurn Skirata** (09/24/2025 22:22:26) <br style='clear: both;'>
 
 <a name="1420535881823031348"></a>*1420535881823031348*
 
@@ -5843,7 +5843,7 @@ Ghurn leans back slightly, his expression one of a man who has made his demands 
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (09/24/2025 22:51:49) <br style='clear: both;'>
+## **Wes Del-Fin** (09/24/2025 22:51:49) <br style='clear: both;'>
 
 <a name="1420543276422922382"></a>*1420543276422922382*
 
@@ -5858,7 +5858,7 @@ Wes nodded as Ghurn wrapped up what he had to say.  They had a safe port and hel
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (09/25/2025 03:02:16) <br style='clear: both;'>
+## **Iyola Kett** (09/25/2025 03:02:16) <br style='clear: both;'>
 
 <a name="1420606304543838280"></a>*1420606304543838280*
 
@@ -5876,7 +5876,7 @@ After Wes asked his question, Iyola asked hers.
 
 <img src="avatars/1400818125485768835/f989e92be7283fa85c0e66fabffbdf2e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Ghurn Skirata** (09/25/2025 12:34:45) <br style='clear: both;'>
+## **Ghurn Skirata** (09/25/2025 12:34:45) <br style='clear: both;'>
 
 <a name="1420750374276694037"></a>*1420750374276694037*
 
@@ -5890,7 +5890,7 @@ His gaze then cuts to Iyola, acknowledging her question with a curt nod. **"A ch
 
 <img src="avatars/1400818125485768835/f989e92be7283fa85c0e66fabffbdf2e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Ghurn Skirata** (09/25/2025 12:34:50) <br style='clear: both;'>
+## **Ghurn Skirata** (09/25/2025 12:34:50) <br style='clear: both;'>
 
 <a name="1420750396690796626"></a>*1420750396690796626*
 
@@ -5902,7 +5902,7 @@ He finishes, allowing the weight of his answers to settle, his gaze sweeping the
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (09/25/2025 12:51:18) <br style='clear: both;'>
+## **Varda Nisyren** (09/25/2025 12:51:18) <br style='clear: both;'>
 
 <a name="1420754539711299634"></a>*1420754539711299634*
 
@@ -5914,7 +5914,7 @@ Immediately clear to all in the room is that Varda and Ghurn clearly have differ
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (09/25/2025 16:08:50) <br style='clear: both;'>
+## **Wes Del-Fin** (09/25/2025 16:08:50) <br style='clear: both;'>
 
 <a name="1420804251445362719"></a>*1420804251445362719*
 
@@ -5932,7 +5932,7 @@ He gave Varda a nod indicating that he agreed with her.  While they were in the 
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (09/25/2025 17:34:06) <br style='clear: both;'>
+## **Iyola Kett** (09/25/2025 17:34:06) <br style='clear: both;'>
 
 <a name="1420825707767926896"></a>*1420825707767926896*
 
@@ -5948,7 +5948,7 @@ As far as information about herself?  Iyola couldn’t think of any reason to re
 
 <img src="avatars/1400818125485768835/f989e92be7283fa85c0e66fabffbdf2e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Ghurn Skirata** (09/25/2025 18:26:03) <br style='clear: both;'>
+## **Ghurn Skirata** (09/25/2025 18:26:03) <br style='clear: both;'>
 
 <a name="1420838780222439485"></a>*1420838780222439485*
 
@@ -5966,7 +5966,7 @@ He then looks pointedly at Nadia, his expression softened by an undertone of dee
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Nadia Skirata** (09/25/2025 18:28:55) <br style='clear: both;'>
+## **Nadia Skirata** (09/25/2025 18:28:55) <br style='clear: both;'>
 
 <a name="1420839505132261396"></a>*1420839505132261396*
 
@@ -5982,7 +5982,7 @@ Yet, she doesn't immediately turn to leave. Her gaze lingers, first on Ghurn as 
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (09/25/2025 19:13:33) <br style='clear: both;'>
+## **Wes Del-Fin** (09/25/2025 19:13:33) <br style='clear: both;'>
 
 <a name="1420850736316678274"></a>*1420850736316678274*
 
@@ -6006,7 +6006,7 @@ He tucked his helmet under his left arm.   Since Ghurn had left without asking a
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Nadia Skirata** (09/25/2025 19:36:00) <br style='clear: both;'>
+## **Nadia Skirata** (09/25/2025 19:36:00) <br style='clear: both;'>
 
 <a name="1420856385553305621"></a>*1420856385553305621*
 
@@ -6024,7 +6024,7 @@ She then turns more fully to him, her expression hardening back into a mask of g
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (09/25/2025 21:33:14) <br style='clear: both;'>
+## **Wes Del-Fin** (09/25/2025 21:33:14) <br style='clear: both;'>
 
 <a name="1420885889281691669"></a>*1420885889281691669*
 
@@ -6042,7 +6042,7 @@ Wes nodded as Nadia suggested that he could send her the information and that sh
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (09/26/2025 16:30:17) <br style='clear: both;'>
+## **Varda Nisyren** (09/26/2025 16:30:17) <br style='clear: both;'>
 
 <a name="1421172037346656468"></a>*1421172037346656468*
 
@@ -6056,7 +6056,7 @@ Her gaze drifts to Nadia, sharp but not unkind. A faint glimmer of mischief cuts
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Nadia Skirata** (09/26/2025 19:00:38) <br style='clear: both;'>
+## **Nadia Skirata** (09/26/2025 19:00:38) <br style='clear: both;'>
 
 <a name="1421209874460704921"></a>*1421209874460704921*
 
@@ -6072,7 +6072,7 @@ She gestures towards the door, her expression now a mix of duty and a hint of a 
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (09/27/2025 00:32:20) <br style='clear: both;'>
+## **Iyola Kett** (09/27/2025 00:32:20) <br style='clear: both;'>
 
 <a name="1421293347343175771"></a>*1421293347343175771*
 
@@ -6090,7 +6090,7 @@ Iyola looked up as Wes asked them all if they had any thoughts or concerns.  “
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (09/27/2025 01:21:12) <br style='clear: both;'>
+## **Wes Del-Fin** (09/27/2025 01:21:12) <br style='clear: both;'>
 
 <a name="1421305645335842836"></a>*1421305645335842836*
 
@@ -6100,7 +6100,7 @@ When Nadia mentioned the *Venture’s* diagnostic and moving Derek from the ship
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Nadia Skirata** (09/27/2025 04:21:51) <br style='clear: both;'>
+## **Nadia Skirata** (09/27/2025 04:21:51) <br style='clear: both;'>
 
 <a name="1421351105950126155"></a>*1421351105950126155*
 
@@ -6118,7 +6118,7 @@ She then turns her gaze to the rest of the room, her voice becoming slightly mor
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (09/27/2025 13:51:22) <br style='clear: both;'>
+## **Wes Del-Fin** (09/27/2025 13:51:22) <br style='clear: both;'>
 
 <a name="1421494429792997458"></a>*1421494429792997458*
 
@@ -6134,7 +6134,7 @@ As Nadia turned for the door he turned to Iyola and Varda.   **”Once we get so
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (09/28/2025 13:20:59) <br style='clear: both;'>
+## **Storyteller** (09/28/2025 13:20:59) <br style='clear: both;'>
 
 <a name="1421849171887128586"></a>*1421849171887128586*
 
@@ -6144,7 +6144,7 @@ Twenty minutes later, the door slides open again. Nadia stands in the threshold,
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Nadia Skirata** (09/28/2025 13:20:59) <br style='clear: both;'>
+## **Nadia Skirata** (09/28/2025 13:20:59) <br style='clear: both;'>
 
 <a name="1421849173887680593"></a>*1421849173887680593*
 
@@ -6162,7 +6162,7 @@ She gestures to the door, a clear invitation. **"We'll head there now and if you
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (09/28/2025 13:21:15) <br style='clear: both;'>
+## **Storyteller** (09/28/2025 13:21:15) <br style='clear: both;'>
 
 <a name="1421849240178790510"></a>*1421849240178790510*
 
@@ -6176,7 +6176,7 @@ As the heavy blast door slides open, the vast space of Ghurn's private hangar is
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Nadia Skirata** (09/28/2025 13:21:16) <br style='clear: both;'>
+## **Nadia Skirata** (09/28/2025 13:21:16) <br style='clear: both;'>
 
 <a name="1421849243345227887"></a>*1421849243345227887*
 
@@ -6190,7 +6190,7 @@ Nadia turns to the group, a look of grim satisfaction on her face, before gestur
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (09/28/2025 18:05:58) <br style='clear: both;'>
+## **Iyola Kett** (09/28/2025 18:05:58) <br style='clear: both;'>
 
 <a name="1421920893340487774"></a>*1421920893340487774*
 
@@ -6206,7 +6206,7 @@ Iyola tried to put on a happy face and walked up the gangplank into her latest t
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (09/28/2025 19:45:14) <br style='clear: both;'>
+## **Storyteller** (09/28/2025 19:45:14) <br style='clear: both;'>
 
 <a name="1421945872081616956"></a>*1421945872081616956*
 
@@ -6222,7 +6222,7 @@ This hallway stretches towards the stern, lined with doors on either side, leadi
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (09/28/2025 19:45:31) <br style='clear: both;'>
+## **Storyteller** (09/28/2025 19:45:31) <br style='clear: both;'>
 
 <a name="1421945943892168765"></a>*1421945943892168765*
 
@@ -6236,7 +6236,7 @@ At the very stern, a **large gym** replaces what might have been additional quar
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Nadia Skirata** (09/28/2025 19:45:39) <br style='clear: both;'>
+## **Nadia Skirata** (09/28/2025 19:45:39) <br style='clear: both;'>
 
 <a name="1421945978105102437"></a>*1421945978105102437*
 
@@ -6250,7 +6250,7 @@ She indicates the room across from the room she just opened. "**I'll take this o
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (09/28/2025 22:59:47) <br style='clear: both;'>
+## **Iyola Kett** (09/28/2025 22:59:47) <br style='clear: both;'>
 
 <a name="1421994834553606144"></a>*1421994834553606144*
 
@@ -6262,7 +6262,7 @@ With that settled, Iyola headed immediately to the galley. She had priorities.
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (09/28/2025 23:37:45) <br style='clear: both;'>
+## **Wes Del-Fin** (09/28/2025 23:37:45) <br style='clear: both;'>
 
 <a name="1422004387307454474"></a>*1422004387307454474*
 
@@ -6286,7 +6286,7 @@ With a sigh he continued out of the cabin.  After eating he would prepare the fi
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (09/29/2025 00:04:23) <br style='clear: both;'>
+## **Storyteller** (09/29/2025 00:04:23) <br style='clear: both;'>
 
 <a name="1422011089700519996"></a>*1422011089700519996*
 
@@ -6298,7 +6298,7 @@ The galley itself is a warm, inviting hub. Instead of stark chromesteel, the cou
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (09/29/2025 00:04:33) <br style='clear: both;'>
+## **Storyteller** (09/29/2025 00:04:33) <br style='clear: both;'>
 
 <a name="1422011133094658139"></a>*1422011133094658139*
 
@@ -6308,7 +6308,7 @@ Adjacent to the galley, connected by a wide, open archway, is the lounge. This i
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (09/29/2025 00:29:43) <br style='clear: both;'>
+## **Iyola Kett** (09/29/2025 00:29:43) <br style='clear: both;'>
 
 <a name="1422017464316727528"></a>*1422017464316727528*
 
@@ -6326,7 +6326,7 @@ The caf tasted as good as it smelled; the spices hot and sweet on her tongue.  I
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (09/29/2025 01:43:52) <br style='clear: both;'>
+## **Wes Del-Fin** (09/29/2025 01:43:52) <br style='clear: both;'>
 
 <a name="1422036125568205004"></a>*1422036125568205004*
 
@@ -6347,7 +6347,7 @@ He watched her gather a griddle and some bowls as more questions were asked abou
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (09/29/2025 11:39:40) <br style='clear: both;'>
+## **Iyola Kett** (09/29/2025 11:39:40) <br style='clear: both;'>
 
 <a name="1422186062264012933"></a>*1422186062264012933*
 
@@ -6359,7 +6359,7 @@ Iyola looked at Wes curiously . ** “Can I ask you something?” **she said.  �
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (09/29/2025 16:44:43) <br style='clear: both;'>
+## **Wes Del-Fin** (09/29/2025 16:44:43) <br style='clear: both;'>
 
 <a name="1422262833998987419"></a>*1422262833998987419*
 
@@ -6377,7 +6377,7 @@ He gave her a smile.  **”As for wearing my helmet onto the ship, it’s easier
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (09/29/2025 18:45:49) <br style='clear: both;'>
+## **Iyola Kett** (09/29/2025 18:45:49) <br style='clear: both;'>
 
 <a name="1422293306167263444"></a>*1422293306167263444*
 
@@ -6391,7 +6391,7 @@ She straightened up.  “**Oh, kriff,” **she said. **“I forgot to get Nadia�
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (09/29/2025 19:10:43) <br style='clear: both;'>
+## **Wes Del-Fin** (09/29/2025 19:10:43) <br style='clear: both;'>
 
 <a name="1422299573124075692"></a>*1422299573124075692*
 
@@ -6406,7 +6406,7 @@ He reached out for the bag of snapchips she tossed onto the counter.  Opening it
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (09/30/2025 12:58:05) <br style='clear: both;'>
+## **Iyola Kett** (09/30/2025 12:58:05) <br style='clear: both;'>
 
 <a name="1422568185659654283"></a>*1422568185659654283*
 
@@ -6422,7 +6422,7 @@ A sense of coldness crept over her**.  “Earlier, you and Vaeros had said that 
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (09/30/2025 15:11:20) <br style='clear: both;'>
+## **Wes Del-Fin** (09/30/2025 15:11:20) <br style='clear: both;'>
 
 <a name="1422601720352997437"></a>*1422601720352997437*
 
@@ -6446,7 +6446,7 @@ He let out a breath and shook his head.  **”It’s all a mess.  Things were ha
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (09/30/2025 15:11:21) <br style='clear: both;'>
+## **Wes Del-Fin** (09/30/2025 15:11:21) <br style='clear: both;'>
 
 <a name="1422601722534297884"></a>*1422601722534297884*
 
@@ -6456,7 +6456,7 @@ He let out a breath and shook his head.  **”It’s all a mess.  Things were ha
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (09/30/2025 17:30:50) <br style='clear: both;'>
+## **Iyola Kett** (09/30/2025 17:30:50) <br style='clear: both;'>
 
 <a name="1422636827092844555"></a>*1422636827092844555*
 
@@ -6470,7 +6470,7 @@ Wes didn’t answer her when she asked if there was continuing danger.  To her, 
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (09/30/2025 20:39:41) <br style='clear: both;'>
+## **Varda Nisyren** (09/30/2025 20:39:41) <br style='clear: both;'>
 
 <a name="1422684351526731816"></a>*1422684351526731816*
 
@@ -6480,7 +6480,7 @@ Varda slips into the room with a quiet, contemplative air, her steps unhurried. 
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (10/01/2025 10:53:30) <br style='clear: both;'>
+## **Wes Del-Fin** (10/01/2025 10:53:30) <br style='clear: both;'>
 
 <a name="1422899219257233469"></a>*1422899219257233469*
 
@@ -6492,7 +6492,7 @@ Wes gave Varda a welcoming nod as she walked in and moved towards the table.   H
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Nadia Skirata** (10/01/2025 14:39:35) <br style='clear: both;'>
+## **Nadia Skirata** (10/01/2025 14:39:35) <br style='clear: both;'>
 
 <a name="1422956117490798687"></a>*1422956117490798687*
 
@@ -6508,7 +6508,7 @@ She walks into the galley, stopping near the table where Wes and Varda sit. A fa
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (10/01/2025 18:21:52) <br style='clear: both;'>
+## **Iyola Kett** (10/01/2025 18:21:52) <br style='clear: both;'>
 
 <a name="1423012055895642193"></a>*1423012055895642193*
 
@@ -6524,7 +6524,7 @@ Iyola’s gray eyes sparkle mischievously.**  “Well,  Varda, let’s allow the
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (10/01/2025 18:41:33) <br style='clear: both;'>
+## **Wes Del-Fin** (10/01/2025 18:41:33) <br style='clear: both;'>
 
 <a name="1423017010874552550"></a>*1423017010874552550*
 
@@ -6539,7 +6539,7 @@ He smiled at her question.   The effort at small talk seemed forced and it showe
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Nadia Skirata** (10/01/2025 18:54:18) <br style='clear: both;'>
+## **Nadia Skirata** (10/01/2025 18:54:18) <br style='clear: both;'>
 
 <a name="1423020218216743014"></a>*1423020218216743014*
 
@@ -6557,7 +6557,7 @@ Her shoulders slump slightly, a rare admission of being overwhelmed by the burea
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (10/01/2025 20:11:53) <br style='clear: both;'>
+## **Wes Del-Fin** (10/01/2025 20:11:53) <br style='clear: both;'>
 
 <a name="1423039744601882754"></a>*1423039744601882754*
 
@@ -6573,10 +6573,10 @@ Wes looked at Iyola’s and nodded.   **”Sure. I’ll see what I can do.  Eve 
 
 ---
 
-# # *Back to the *Venture**
+## *Back to the *Venture**
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/02/2025 23:29:14) <br style='clear: both;'>
+### **Nadia Skirata** (10/02/2025 23:29:14) <br style='clear: both;'>
 
 <a name="1423451795291639831"></a>*1423451795291639831*
 
@@ -6592,7 +6592,7 @@ Pausing only a moment to give Iyola and Varda a briefnod, she puts her helmet on
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (10/02/2025 23:29:43) <br style='clear: both;'>
+### **Storyteller** (10/02/2025 23:29:43) <br style='clear: both;'>
 
 <a name="1423451915555180545"></a>*1423451915555180545*
 
@@ -6602,7 +6602,7 @@ Nadia leads Wes (and anyone else who decides to tag along) back through the now 
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (10/03/2025 00:49:59) <br style='clear: both;'>
+### **Iyola Kett** (10/03/2025 00:49:59) <br style='clear: both;'>
 
 <a name="1423472118787735644"></a>*1423472118787735644*
 
@@ -6616,7 +6616,7 @@ Once she’s there, she’ll check and see if her device shows any power signatu
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (10/03/2025 11:08:33) <br style='clear: both;'>
+### **Wes Del-Fin** (10/03/2025 11:08:33) <br style='clear: both;'>
 
 <a name="1423627784265269351"></a>*1423627784265269351*
 
@@ -6638,7 +6638,7 @@ He looked at Nadia giving her a small nod.  **”That will get them in the door 
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (10/03/2025 11:08:33) <br style='clear: both;'>
+### **Wes Del-Fin** (10/03/2025 11:08:33) <br style='clear: both;'>
 
 <a name="1423627785657651230"></a>*1423627785657651230*
 
@@ -6649,7 +6649,7 @@ He looked at Nadia giving her a small nod.  **”That will get them in the door 
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/03/2025 22:24:14) <br style='clear: both;'>
+### **Nadia Skirata** (10/03/2025 22:24:14) <br style='clear: both;'>
 
 <a name="1423797825736544336"></a>*1423797825736544336*
 
@@ -6667,7 +6667,7 @@ She then turns her full attention to the incoming airlock.
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (10/03/2025 22:24:15) <br style='clear: both;'>
+### **Storyteller** (10/03/2025 22:24:15) <br style='clear: both;'>
 
 <a name="1423797827829764227"></a>*1423797827829764227*
 
@@ -6677,7 +6677,7 @@ The airlock cycles with a deliberate *hiss*, the massive inner door of the *Vent
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (10/03/2025 22:25:02) <br style='clear: both;'>
+### **Eve the AI** (10/03/2025 22:25:02) <br style='clear: both;'>
 
 <a name="1423798028699045981"></a>*1423798028699045981*
 
@@ -6689,7 +6689,7 @@ The airlock cycles with a deliberate *hiss*, the massive inner door of the *Vent
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (10/04/2025 00:07:27) <br style='clear: both;'>
+### **Iyola Kett** (10/04/2025 00:07:27) <br style='clear: both;'>
 
 <a name="1423823799375364247"></a>*1423823799375364247*
 
@@ -6701,7 +6701,7 @@ Nadia turned her featureless helmet to her, all business.  Her voice sounded mec
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (10/04/2025 12:24:50) <br style='clear: both;'>
+### **Wes Del-Fin** (10/04/2025 12:24:50) <br style='clear: both;'>
 
 <a name="1424009371456635021"></a>*1424009371456635021*
 
@@ -6727,7 +6727,7 @@ He looked over to Nadia and gave her a small nod.   **”Should be enough to get
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (10/04/2025 12:24:51) <br style='clear: both;'>
+### **Wes Del-Fin** (10/04/2025 12:24:51) <br style='clear: both;'>
 
 <a name="1424009372748746754"></a>*1424009372748746754*
 
@@ -6737,7 +6737,7 @@ He looked over to Nadia and gave her a small nod.   **”Should be enough to get
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (10/04/2025 23:26:20) <br style='clear: both;'>
+### **Iyola Kett** (10/04/2025 23:26:20) <br style='clear: both;'>
 
 <a name="1424175839536349214"></a>*1424175839536349214*
 
@@ -6751,7 +6751,7 @@ Iyola made her way over to her old, featureless quarters.  She picked up an extr
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/05/2025 00:17:39) <br style='clear: both;'>
+### **Nadia Skirata** (10/05/2025 00:17:39) <br style='clear: both;'>
 
 <a name="1424188754804871258"></a>*1424188754804871258*
 
@@ -6765,7 +6765,7 @@ Nadia watches Iyola confirm her comm link, then quickly disappear into the depth
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (10/05/2025 00:17:39) <br style='clear: both;'>
+### **Eve the AI** (10/05/2025 00:17:39) <br style='clear: both;'>
 
 <a name="1424188757342683168"></a>*1424188757342683168*
 
@@ -6775,7 +6775,7 @@ Nadia watches Iyola confirm her comm link, then quickly disappear into the depth
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (10/05/2025 00:17:40) <br style='clear: both;'>
+### **Storyteller** (10/05/2025 00:17:40) <br style='clear: both;'>
 
 <a name="1424188759049764946"></a>*1424188759049764946*
 
@@ -6785,7 +6785,7 @@ The first of Ghurn's technical team steps forward: a lean, pale green-skinned Ro
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Vekka** (10/05/2025 00:18:13) <br style='clear: both;'>
+### **Vekka** (10/05/2025 00:18:13) <br style='clear: both;'>
 
 <a name="1424188899202301954"></a>*1424188899202301954*
 
@@ -6795,7 +6795,7 @@ The first of Ghurn's technical team steps forward: a lean, pale green-skinned Ro
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (10/05/2025 00:19:02) <br style='clear: both;'>
+### **Eve the AI** (10/05/2025 00:19:02) <br style='clear: both;'>
 
 <a name="1424189105834561609"></a>*1424189105834561609*
 
@@ -6805,7 +6805,7 @@ The first of Ghurn's technical team steps forward: a lean, pale green-skinned Ro
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (10/05/2025 02:24:50) <br style='clear: both;'>
+### **Iyola Kett** (10/05/2025 02:24:50) <br style='clear: both;'>
 
 <a name="1424220761052418061"></a>*1424220761052418061*
 
@@ -6821,7 +6821,7 @@ It was a rhetorical question, but it was still reassuring, somehow, hearing Eve�
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (10/05/2025 11:25:27) <br style='clear: both;'>
+### **Eve the AI** (10/05/2025 11:25:27) <br style='clear: both;'>
 
 <a name="1424356813943472200"></a>*1424356813943472200*
 
@@ -6833,10 +6833,10 @@ Eve's voice remains utterly calm, but a subtle, almost imperceptible shift in ca
 
 ---
 
-# # *Atin Oya'ka*
+## *Atin Oya'ka*
 <img src="avatars/208916238661844993/d7832f2cac5df42d164b81e35de34f09.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **aliciagd** (10/05/2025 11:43:07) <br style='clear: both;'>
+### **aliciagd** (10/05/2025 11:43:07) <br style='clear: both;'>
 
 <a name="1424361258995417250"></a>*1424361258995417250*
 
@@ -6846,7 +6846,7 @@ Atin Oya'ka
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (10/05/2025 11:43:09) <br style='clear: both;'>
+### **Storyteller** (10/05/2025 11:43:09) <br style='clear: both;'>
 
 <a name="1424361268189335642"></a>*1424361268189335642*
 
@@ -6858,7 +6858,7 @@ A moment later, Misha's small figure appears in the archway separating the galle
 
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Misha Vorne** (10/05/2025 11:43:10) <br style='clear: both;'>
+### **Misha Vorne** (10/05/2025 11:43:10) <br style='clear: both;'>
 
 <a name="1424361269867184139"></a>*1424361269867184139*
 
@@ -6868,10 +6868,10 @@ Misha gives the molecular synthesizer a tentative prod, then taps a few commands
 
 ---
 
-# # *Back to the *Venture**
+## *Back to the *Venture**
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (10/05/2025 13:59:20) <br style='clear: both;'>
+### **Wes Del-Fin** (10/05/2025 13:59:20) <br style='clear: both;'>
 
 <a name="1424395539323162779"></a>*1424395539323162779*
 
@@ -6886,7 +6886,7 @@ He looked on as Vekka stepped forward so Eve could grant him access.  **”Nadia
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/05/2025 15:39:46) <br style='clear: both;'>
+### **Nadia Skirata** (10/05/2025 15:39:46) <br style='clear: both;'>
 
 <a name="1424420814564098201"></a>*1424420814564098201*
 
@@ -6904,7 +6904,7 @@ At Wes's invitation for a meal, a faint warmth, genuine and unforced, softens th
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (10/05/2025 16:58:24) <br style='clear: both;'>
+### **Wes Del-Fin** (10/05/2025 16:58:24) <br style='clear: both;'>
 
 <a name="1424440601314857000"></a>*1424440601314857000*
 
@@ -6928,7 +6928,7 @@ He looked on as Eve completed Vekka’s permissions and the Rodian stepped aside
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (10/05/2025 21:30:06) <br style='clear: both;'>
+### **Iyola Kett** (10/05/2025 21:30:06) <br style='clear: both;'>
 
 <a name="1424508978133729343"></a>*1424508978133729343*
 
@@ -6944,7 +6944,7 @@ She rose and, reaching into one of her jacket pockets, held the mysterious objec
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (10/05/2025 22:15:45) <br style='clear: both;'>
+### **Eve the AI** (10/05/2025 22:15:45) <br style='clear: both;'>
 
 <a name="1424520466726391859"></a>*1424520466726391859*
 
@@ -6960,7 +6960,7 @@ Eve's voice then addresses the second part of Iyola's question. **"Its operation
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/05/2025 22:26:17) <br style='clear: both;'>
+### **Nadia Skirata** (10/05/2025 22:26:17) <br style='clear: both;'>
 
 <a name="1424523116897505441"></a>*1424523116897505441*
 
@@ -6978,7 +6978,7 @@ Her focus then snaps back to the business at hand. **"Vekka,"** Nadia directs, h
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (10/05/2025 22:26:17) <br style='clear: both;'>
+### **Eve the AI** (10/05/2025 22:26:17) <br style='clear: both;'>
 
 <a name="1424523118881407048"></a>*1424523118881407048*
 
@@ -6988,7 +6988,7 @@ Her focus then snaps back to the business at hand. **"Vekka,"** Nadia directs, h
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (10/05/2025 22:26:22) <br style='clear: both;'>
+### **Storyteller** (10/05/2025 22:26:22) <br style='clear: both;'>
 
 <a name="1424523139643215988"></a>*1424523139643215988*
 
@@ -6998,7 +6998,7 @@ Vekka, who has been quietly monitoring the *Venture*'s diagnostic reports on a h
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (10/05/2025 22:58:49) <br style='clear: both;'>
+### **Iyola Kett** (10/05/2025 22:58:49) <br style='clear: both;'>
 
 <a name="1424531303990169700"></a>*1424531303990169700*
 
@@ -7014,7 +7014,7 @@ Iyola looked at the device - the “swarm controller” - again. Maybe it was he
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (10/05/2025 23:18:19) <br style='clear: both;'>
+### **Eve the AI** (10/05/2025 23:18:19) <br style='clear: both;'>
 
 <a name="1424536209891524759"></a>*1424536209891524759*
 
@@ -7030,7 +7030,7 @@ A brief pause for processing, then Eve addresses Iyola's direct question. **"To 
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (10/05/2025 23:36:27) <br style='clear: both;'>
+### **Wes Del-Fin** (10/05/2025 23:36:27) <br style='clear: both;'>
 
 <a name="1424540774803968000"></a>*1424540774803968000*
 
@@ -7048,7 +7048,7 @@ Once things were taken care of Wes sent a message to Iyola.  **”All set here f
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (10/06/2025 00:37:28) <br style='clear: both;'>
+### **Iyola Kett** (10/06/2025 00:37:28) <br style='clear: both;'>
 
 <a name="1424556128854872095"></a>*1424556128854872095*
 
@@ -7062,7 +7062,7 @@ Wes’s hail interrupted her thoughts.**  “Wow, that was fast. Sure, I could e
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/06/2025 01:12:25) <br style='clear: both;'>
+### **Nadia Skirata** (10/06/2025 01:12:25) <br style='clear: both;'>
 
 <a name="1424564926479073381"></a>*1424564926479073381*
 
@@ -7080,7 +7080,7 @@ Her attention then snaps back to the task at hand, closing off the thoughts with
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (10/06/2025 01:12:26) <br style='clear: both;'>
+### **Eve the AI** (10/06/2025 01:12:26) <br style='clear: both;'>
 
 <a name="1424564929414828168"></a>*1424564929414828168*
 
@@ -7090,7 +7090,7 @@ Her attention then snaps back to the task at hand, closing off the thoughts with
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (10/06/2025 01:12:26) <br style='clear: both;'>
+### **Storyteller** (10/06/2025 01:12:26) <br style='clear: both;'>
 
 <a name="1424564930861858929"></a>*1424564930861858929*
 
@@ -7100,7 +7100,7 @@ With the new directive given, Arno, accompanied by one of the security droids, s
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (10/06/2025 01:18:13) <br style='clear: both;'>
+### **Eve the AI** (10/06/2025 01:18:13) <br style='clear: both;'>
 
 <a name="1424566384536453183"></a>*1424566384536453183*
 
@@ -7112,7 +7112,7 @@ With the new directive given, Arno, accompanied by one of the security droids, s
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Wes Del-Fin** (10/06/2025 23:07:49) <br style='clear: both;'>
+### **Wes Del-Fin** (10/06/2025 23:07:49) <br style='clear: both;'>
 
 <a name="1424895958776545412"></a>*1424895958776545412*
 
@@ -7130,7 +7130,7 @@ His heavy booted feet echoed along the deck plating as he walked away.  When he 
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (10/06/2025 23:12:09) <br style='clear: both;'>
+### **Iyola Kett** (10/06/2025 23:12:09) <br style='clear: both;'>
 
 <a name="1424897046783070241"></a>*1424897046783070241*
 
@@ -7148,7 +7148,7 @@ Iyola headed back to the Mandalorian ship, the Atin Oya’ka, a pillow tucked aw
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Eve the AI** (10/07/2025 01:35:06) <br style='clear: both;'>
+### **Eve the AI** (10/07/2025 01:35:06) <br style='clear: both;'>
 
 <a name="1424933020988604437"></a>*1424933020988604437*
 
@@ -7160,7 +7160,7 @@ Iyola headed back to the Mandalorian ship, the Atin Oya’ka, a pillow tucked aw
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (10/07/2025 23:26:21) <br style='clear: both;'>
+## **Wes Del-Fin** (10/07/2025 23:26:21) <br style='clear: both;'>
 
 <a name="1425263007151292496"></a>*1425263007151292496*
 
@@ -7175,7 +7175,7 @@ As he got things ready he was going over the details he would write up for Nadia
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (10/07/2025 23:39:11) <br style='clear: both;'>
+## **Iyola Kett** (10/07/2025 23:39:11) <br style='clear: both;'>
 
 <a name="1425266238434840649"></a>*1425266238434840649*
 
@@ -7191,7 +7191,7 @@ Once she arrived at the galley, she immediately spotted Wes, Misha and Varda.  S
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (10/08/2025 00:44:12) <br style='clear: both;'>
+## **Wes Del-Fin** (10/08/2025 00:44:12) <br style='clear: both;'>
 
 <a name="1425282602562228294"></a>*1425282602562228294*
 
@@ -7206,7 +7206,7 @@ As he reached for the meat and spices he looked down at what he was doing.  **�
 
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Misha Vorne** (10/08/2025 01:41:31) <br style='clear: both;'>
+## **Misha Vorne** (10/08/2025 01:41:31) <br style='clear: both;'>
 
 <a name="1425297026089746493"></a>*1425297026089746493*
 
@@ -7224,7 +7224,7 @@ She listens intently as Wes speaks of caution and updates from Eve. A flicker of
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (10/08/2025 12:51:18) <br style='clear: both;'>
+## **Iyola Kett** (10/08/2025 12:51:18) <br style='clear: both;'>
 
 <a name="1425465583113211925"></a>*1425465583113211925*
 
@@ -7240,7 +7240,7 @@ As far as food went - “**I took a quick look earlier - they definitely have eg
 
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Misha Vorne** (10/09/2025 00:57:40) <br style='clear: both;'>
+## **Misha Vorne** (10/09/2025 00:57:40) <br style='clear: both;'>
 
 <a name="1425648377504337962"></a>*1425648377504337962*
 
@@ -7252,7 +7252,7 @@ Her eyes light up with surprise and a touch of genuine excitement when Iyola spo
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (10/09/2025 13:04:34) <br style='clear: both;'>
+## **Iyola Kett** (10/09/2025 13:04:34) <br style='clear: both;'>
 
 <a name="1425831306905784360"></a>*1425831306905784360*
 
@@ -7266,7 +7266,7 @@ Iyola stopped for a moment, tracing the cover with one finger.  Maybe, it sudden
 
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Misha Vorne** (10/09/2025 17:16:41) <br style='clear: both;'>
+## **Misha Vorne** (10/09/2025 17:16:41) <br style='clear: both;'>
 
 <a name="1425894756176629771"></a>*1425894756176629771*
 
@@ -7278,7 +7278,7 @@ Misha watches, fascinated, as Iyola takes the book. Her description of Mandalori
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (10/09/2025 17:17:31) <br style='clear: both;'>
+## **Storyteller** (10/09/2025 17:17:31) <br style='clear: both;'>
 
 <a name="1425894963861782650"></a>*1425894963861782650*
 
@@ -7292,7 +7292,7 @@ Then the imagery shifts dramatically. One set of pages, stained and slightly fad
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (10/10/2025 10:49:33) <br style='clear: both;'>
+## **Wes Del-Fin** (10/10/2025 10:49:33) <br style='clear: both;'>
 
 <a name="1426159719395102833"></a>*1426159719395102833*
 
@@ -7311,10 +7311,10 @@ He paused for a second as he shifted his weight and set the knife he was holding
 
 ---
 
-# # *Atin Oya'ka*
+## *Atin Oya'ka*
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (10/10/2025 20:22:12) <br style='clear: both;'>
+### **Varda Nisyren** (10/10/2025 20:22:12) <br style='clear: both;'>
 
 <a name="1426303829091291198"></a>*1426303829091291198*
 
@@ -7326,7 +7326,7 @@ She sets her staff gently against the table and occupies her hands with her wood
 
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Misha Vorne** (10/10/2025 20:34:40) <br style='clear: both;'>
+### **Misha Vorne** (10/10/2025 20:34:40) <br style='clear: both;'>
 
 <a name="1426306968363991040"></a>*1426306968363991040*
 
@@ -7342,7 +7342,7 @@ She watches Varda's skilled hands, fascinated by the precise, rhythmic dance of 
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (10/10/2025 21:13:21) <br style='clear: both;'>
+### **Varda Nisyren** (10/10/2025 21:13:21) <br style='clear: both;'>
 
 <a name="1426316702966349864"></a>*1426316702966349864*
 
@@ -7358,7 +7358,7 @@ A brief cough interrupts her fire, followed by a small, self-deprecating laugh. 
 
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Misha Vorne** (10/10/2025 21:38:51) <br style='clear: both;'>
+### **Misha Vorne** (10/10/2025 21:38:51) <br style='clear: both;'>
 
 <a name="1426323119357825034"></a>*1426323119357825034*
 
@@ -7374,7 +7374,7 @@ Then Varda squints at the walls, and Misha, startled, glances nervously around t
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (10/10/2025 22:53:10) <br style='clear: both;'>
+## **Iyola Kett** (10/10/2025 22:53:10) <br style='clear: both;'>
 
 <a name="1426341820010463284"></a>*1426341820010463284*
 
@@ -7388,7 +7388,7 @@ She glances thoughtfully at the alcohol selection, then reconsiders.  **“Going
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (10/11/2025 00:01:47) <br style='clear: both;'>
+## **Storyteller** (10/11/2025 00:01:47) <br style='clear: both;'>
 
 <a name="1426359089486889113"></a>*1426359089486889113*
 
@@ -7398,7 +7398,7 @@ Most of the reading material consists of thick, weighty volumes bound in sturdy 
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (10/11/2025 01:31:10) <br style='clear: both;'>
+## **Iyola Kett** (10/11/2025 01:31:10) <br style='clear: both;'>
 
 <a name="1426381583530725519"></a>*1426381583530725519*
 
@@ -7412,7 +7412,7 @@ Heading back to the kitchen, she hands it to Misha. “**Here you go, Misha.  It
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (10/11/2025 01:56:24) <br style='clear: both;'>
+## **Wes Del-Fin** (10/11/2025 01:56:24) <br style='clear: both;'>
 
 <a name="1426387932360474764"></a>*1426387932360474764*
 
@@ -7430,7 +7430,7 @@ He looked down as he stirred the ground nerf meat in the pan.  It sizzled as he 
 
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Misha Vorne** (10/11/2025 02:07:01) <br style='clear: both;'>
+## **Misha Vorne** (10/11/2025 02:07:01) <br style='clear: both;'>
 
 <a name="1426390607684833341"></a>*1426390607684833341*
 
@@ -7446,7 +7446,7 @@ The sizzling of the nerf meat, the fragrant steam from the rice, and the exotic 
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (10/11/2025 12:34:04) <br style='clear: both;'>
+## **Wes Del-Fin** (10/11/2025 12:34:04) <br style='clear: both;'>
 
 <a name="1426548407782080613"></a>*1426548407782080613*
 
@@ -7464,7 +7464,7 @@ Soon the sauce was added into the ground nerf meat and brought to a slow bubble.
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (10/11/2025 16:47:50) <br style='clear: both;'>
+## **Iyola Kett** (10/11/2025 16:47:50) <br style='clear: both;'>
 
 <a name="1426612268933582848"></a>*1426612268933582848*
 
@@ -7480,7 +7480,7 @@ To Wes, she says, **“I didn’t see any butter, but there’s some quickbread 
 
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Misha Vorne** (10/11/2025 18:44:33) <br style='clear: both;'>
+## **Misha Vorne** (10/11/2025 18:44:33) <br style='clear: both;'>
 
 <a name="1426641644853268632"></a>*1426641644853268632*
 
@@ -7494,7 +7494,7 @@ She then turns her attention back to the bustling activity at the stove as Wes a
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (10/11/2025 19:35:16) <br style='clear: both;'>
+## **Wes Del-Fin** (10/11/2025 19:35:16) <br style='clear: both;'>
 
 <a name="1426654405859479602"></a>*1426654405859479602*
 
@@ -7509,7 +7509,7 @@ He looked up at everyone.  They all seemed to be settling in.   The fervor of wa
 
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Misha Vorne** (10/14/2025 15:53:13) <br style='clear: both;'>
+## **Misha Vorne** (10/14/2025 15:53:13) <br style='clear: both;'>
 
 <a name="1427685691298676928"></a>*1427685691298676928*
 
@@ -7519,7 +7519,7 @@ Misha busies herself with retrieving the quickbread from the cooler, following W
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (10/14/2025 15:53:14) <br style='clear: both;'>
+## **Storyteller** (10/14/2025 15:53:14) <br style='clear: both;'>
 
 <a name="1427685694301802546"></a>*1427685694301802546*
 
@@ -7531,7 +7531,7 @@ As the meal concludes and the sun dips below the Cloud City horizon visible thro
 
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Misha Vorne** (10/14/2025 15:53:14) <br style='clear: both;'>
+## **Misha Vorne** (10/14/2025 15:53:14) <br style='clear: both;'>
 
 <a name="1427685695086002278"></a>*1427685695086002278*
 
@@ -7541,7 +7541,7 @@ As the meal concludes and the sun dips below the Cloud City horizon visible thro
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (10/14/2025 15:53:16) <br style='clear: both;'>
+## **Storyteller** (10/14/2025 15:53:16) <br style='clear: both;'>
 
 <a name="1427685703604633630"></a>*1427685703604633630*
 
@@ -7551,7 +7551,7 @@ With the communal meal finished and the cleanup underway, a comfortable exhausti
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (10/14/2025 19:00:24) <br style='clear: both;'>
+## **Wes Del-Fin** (10/14/2025 19:00:24) <br style='clear: both;'>
 
 <a name="1427732796067156020"></a>*1427732796067156020*
 
@@ -7572,7 +7572,7 @@ Twenty minutes later he was back in his cabin.  Dried off and wearing a pair of 
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (10/14/2025 19:00:42) <br style='clear: both;'>
+## **Wes Del-Fin** (10/14/2025 19:00:42) <br style='clear: both;'>
 
 <a name="1427732870192959620"></a>*1427732870192959620*
 
@@ -7587,7 +7587,7 @@ With a quick and easy movement he made his way to the other bunk pulling the bla
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (10/15/2025 01:27:15) <br style='clear: both;'>
+## **Iyola Kett** (10/15/2025 01:27:15) <br style='clear: both;'>
 
 <a name="1427830150073942066"></a>*1427830150073942066*
 
@@ -7601,7 +7601,7 @@ Iyola started to read  *The Green Veil*, but was suddenly so tired that she face
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (10/15/2025 19:39:06) <br style='clear: both;'>
+## **Storyteller** (10/15/2025 19:39:06) <br style='clear: both;'>
 
 <a name="1428104921172938854"></a>*1428104921172938854*
 
@@ -7611,10 +7611,10 @@ One by one, the crew of the *Venture* gathers in the galley. Vaeros and Dryzan a
 
 ---
 
-# # *Atin Oya'ka*
+## *Atin Oya'ka*
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (10/15/2025 20:11:31) <br style='clear: both;'>
+### **Varda Nisyren** (10/15/2025 20:11:31) <br style='clear: both;'>
 
 <a name="1428113081699008542"></a>*1428113081699008542*
 
@@ -7624,7 +7624,7 @@ Varda is content in the silence as it forms, slowly whittling away until the sha
 
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Misha Vorne** (10/15/2025 22:02:52) <br style='clear: both;'>
+### **Misha Vorne** (10/15/2025 22:02:52) <br style='clear: both;'>
 
 <a name="1428141101407010936"></a>*1428141101407010936*
 
@@ -7642,7 +7642,7 @@ Returning to the common area, a tentative strength blooming in her demeanor, Mis
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (10/15/2025 22:02:52) <br style='clear: both;'>
+### **Storyteller** (10/15/2025 22:02:52) <br style='clear: both;'>
 
 <a name="1428141103969865739"></a>*1428141103969865739*
 
@@ -7652,7 +7652,7 @@ A few moments later, the hushed peace of the *Atin Oya'ka* is broken by the soun
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (10/15/2025 22:03:39) <br style='clear: both;'>
+### **Storyteller** (10/15/2025 22:03:39) <br style='clear: both;'>
 
 <a name="1428141299458113558"></a>*1428141299458113558*
 
@@ -7662,7 +7662,7 @@ A few moments later, the hushed peace of the *Atin Oya'ka* is broken by the soun
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (10/15/2025 22:19:32) <br style='clear: both;'>
+### **Storyteller** (10/15/2025 22:19:32) <br style='clear: both;'>
 
 <a name="1428145295367082067"></a>*1428145295367082067*
 
@@ -7672,7 +7672,7 @@ A deep, profound quiet settles over the *Atin Oya'ka* as night descends upon Clo
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/15/2025 22:19:32) <br style='clear: both;'>
+### **Nadia Skirata** (10/15/2025 22:19:32) <br style='clear: both;'>
 
 <a name="1428145298194169962"></a>*1428145298194169962*
 
@@ -7688,7 +7688,7 @@ As she enters the galley, her movements still driven by that cold, desperate nee
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (10/15/2025 22:40:43) <br style='clear: both;'>
+## **Wes Del-Fin** (10/15/2025 22:40:43) <br style='clear: both;'>
 
 <a name="1428150627015327974"></a>*1428150627015327974*
 
@@ -7701,10 +7701,10 @@ Opening the door to the cabin the full assault of the brewed caf hit his senses 
 
 ---
 
-# # *Atin Oya'ka*
+## *Atin Oya'ka*
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (10/15/2025 22:45:15) <br style='clear: both;'>
+### **Varda Nisyren** (10/15/2025 22:45:15) <br style='clear: both;'>
 
 <a name="1428151767845044264"></a>*1428151767845044264*
 
@@ -7716,7 +7716,7 @@ She speaks just above a breath, "**And so the cards have foretold. good evening 
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/15/2025 23:21:24) <br style='clear: both;'>
+### **Nadia Skirata** (10/15/2025 23:21:24) <br style='clear: both;'>
 
 <a name="1428160867576315926"></a>*1428160867576315926*
 
@@ -7730,7 +7730,7 @@ She steps fully into the galley, her expression carefully neutral, though a fain
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (10/15/2025 23:42:01) <br style='clear: both;'>
+### **Varda Nisyren** (10/15/2025 23:42:01) <br style='clear: both;'>
 
 <a name="1428166056790462589"></a>*1428166056790462589*
 
@@ -7744,7 +7744,7 @@ With one great, sweeping motion, the Force stirs. Each of the cards lifts from t
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/15/2025 23:51:01) <br style='clear: both;'>
+### **Nadia Skirata** (10/15/2025 23:51:01) <br style='clear: both;'>
 
 <a name="1428168319353098240"></a>*1428168319353098240*
 
@@ -7758,7 +7758,7 @@ Her blue eyes fix on the card, then snap back to Varda's face, a flicker of genu
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (10/15/2025 23:59:50) <br style='clear: both;'>
+### **Varda Nisyren** (10/15/2025 23:59:50) <br style='clear: both;'>
 
 <a name="1428170537645117503"></a>*1428170537645117503*
 
@@ -7774,7 +7774,7 @@ With a quiet snap of her posture, she straightens, the air around her shifting f
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/16/2025 00:22:27) <br style='clear: both;'>
+### **Nadia Skirata** (10/16/2025 00:22:27) <br style='clear: both;'>
 
 <a name="1428176231945470032"></a>*1428176231945470032*
 
@@ -7792,7 +7792,7 @@ She hesitates for another long moment, the internal struggle visible only in the
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (10/16/2025 01:31:08) <br style='clear: both;'>
+### **Varda Nisyren** (10/16/2025 01:31:08) <br style='clear: both;'>
 
 <a name="1428193515246059580"></a>*1428193515246059580*
 
@@ -7806,7 +7806,7 @@ Her gaze remains on Nadia, unwavering and unnervingly perceptive. She studies ev
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (10/16/2025 01:31:15) <br style='clear: both;'>
+### **Varda Nisyren** (10/16/2025 01:31:15) <br style='clear: both;'>
 
 <a name="1428193543570063512"></a>*1428193543570063512*
 
@@ -7816,7 +7816,7 @@ As Nadia steels herself, Varda’s expression shifts almost imperceptibly again 
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/16/2025 02:05:56) <br style='clear: both;'>
+### **Nadia Skirata** (10/16/2025 02:05:56) <br style='clear: both;'>
 
 <a name="1428202271740661762"></a>*1428202271740661762*
 
@@ -7828,7 +7828,7 @@ She gives Varda a sharp, wordless nod, acknowledging the trust and the challenge
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (10/16/2025 02:06:03) <br style='clear: both;'>
+### **Storyteller** (10/16/2025 02:06:03) <br style='clear: both;'>
 
 <a name="1428202302610866307"></a>*1428202302610866307*
 
@@ -7842,7 +7842,7 @@ Nadia doesn't head for the main hangar doors. Instead, her steps turn towards a 
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (10/16/2025 02:45:17) <br style='clear: both;'>
+## **Iyola Kett** (10/16/2025 02:45:17) <br style='clear: both;'>
 
 <a name="1428212177122230395"></a>*1428212177122230395*
 
@@ -7864,10 +7864,10 @@ Iyola woke up, curled into the side of the upper bunk on the *Atin Oya’ka *.  
 
 ---
 
-# # *Atin Oya'ka*
+## *Atin Oya'ka*
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (10/16/2025 11:36:07) <br style='clear: both;'>
+### **Varda Nisyren** (10/16/2025 11:36:07) <br style='clear: both;'>
 
 <a name="1428345765243388055"></a>*1428345765243388055*
 
@@ -7879,7 +7879,7 @@ She follows behind and let's the night air dance between her grey hairs. As they
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/16/2025 11:55:58) <br style='clear: both;'>
+### **Nadia Skirata** (10/16/2025 11:55:58) <br style='clear: both;'>
 
 <a name="1428350760172650506"></a>*1428350760172650506*
 
@@ -7891,7 +7891,7 @@ Her ears, accustomed to the subtle acoustics of clandestine movement, catch Vard
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (10/16/2025 11:56:08) <br style='clear: both;'>
+### **Storyteller** (10/16/2025 11:56:08) <br style='clear: both;'>
 
 <a name="1428350801142878289"></a>*1428350801142878289*
 
@@ -7905,7 +7905,7 @@ The tunnel stretches out in a straight line for about fifty meters before curvin
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/16/2025 11:56:59) <br style='clear: both;'>
+### **Nadia Skirata** (10/16/2025 11:56:59) <br style='clear: both;'>
 
 <a name="1428351013349359749"></a>*1428351013349359749*
 
@@ -7917,7 +7917,7 @@ Nadia's stride loosens, a subtle release of tension flowing through her as the m
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (10/16/2025 13:48:12) <br style='clear: both;'>
+### **Varda Nisyren** (10/16/2025 13:48:12) <br style='clear: both;'>
 
 <a name="1428379002191610016"></a>*1428379002191610016*
 
@@ -7931,7 +7931,7 @@ Then she sighs nearly too softly to catch. "**And  a suitable place for a burial
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/16/2025 15:25:31) <br style='clear: both;'>
+### **Nadia Skirata** (10/16/2025 15:25:31) <br style='clear: both;'>
 
 <a name="1428403493454217276"></a>*1428403493454217276*
 
@@ -7945,7 +7945,7 @@ Nadia's face hardens, her jaw tightening. Her gaze, though still cautious, sharp
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (10/16/2025 18:58:48) <br style='clear: both;'>
+### **Varda Nisyren** (10/16/2025 18:58:48) <br style='clear: both;'>
 
 <a name="1428457170176839720"></a>*1428457170176839720*
 
@@ -7959,7 +7959,7 @@ She taps her cane once against the metal floor, a rhythm like an old heartbeat, 
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/16/2025 19:17:26) <br style='clear: both;'>
+### **Nadia Skirata** (10/16/2025 19:17:26) <br style='clear: both;'>
 
 <a name="1428461858603401451"></a>*1428461858603401451*
 
@@ -7977,7 +7977,7 @@ Nadia straightens her shoulders, her movements becoming sharper, more focused. T
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (10/16/2025 19:35:04) <br style='clear: both;'>
+### **Varda Nisyren** (10/16/2025 19:35:04) <br style='clear: both;'>
 
 <a name="1428466295476850828"></a>*1428466295476850828*
 
@@ -7989,7 +7989,7 @@ She then almost immdedietly realses the grip she has on the force. "**I... apolo
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (10/16/2025 20:07:50) <br style='clear: both;'>
+## **Varda Nisyren** (10/16/2025 20:07:50) <br style='clear: both;'>
 
 <a name="1428474540987646024"></a>*1428474540987646024*
 
@@ -8001,10 +8001,10 @@ if there are any eyes filled with confusion she continues. "**A little something
 
 ---
 
-# # *Atin Oya'ka*
+## *Atin Oya'ka*
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/16/2025 20:22:21) <br style='clear: both;'>
+### **Nadia Skirata** (10/16/2025 20:22:21) <br style='clear: both;'>
 
 <a name="1428478193815388220"></a>*1428478193815388220*
 
@@ -8020,7 +8020,7 @@ She takes a slow, deep breath, trying to steady herself, trying to process the r
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (10/16/2025 20:30:52) <br style='clear: both;'>
+### **Storyteller** (10/16/2025 20:30:52) <br style='clear: both;'>
 
 <a name="1428480339436765299"></a>*1428480339436765299*
 
@@ -8030,7 +8030,7 @@ The tunnel soon opens into a utilitarian transit nexus, subtly integrated into C
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (10/16/2025 20:33:41) <br style='clear: both;'>
+### **Storyteller** (10/16/2025 20:33:41) <br style='clear: both;'>
 
 <a name="1428481048551096442"></a>*1428481048551096442*
 
@@ -8042,7 +8042,7 @@ As the tram glides through its assigned tube, past shimmering internal conduits 
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (10/16/2025 20:33:42) <br style='clear: both;'>
+### **Storyteller** (10/16/2025 20:33:42) <br style='clear: both;'>
 
 <a name="1428481050773950629"></a>*1428481050773950629*
 
@@ -8052,7 +8052,7 @@ As the tram glides through its assigned tube, past shimmering internal conduits 
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (10/16/2025 20:33:42) <br style='clear: both;'>
+### **Storyteller** (10/16/2025 20:33:42) <br style='clear: both;'>
 
 <a name="1428481051688440051"></a>*1428481051688440051*
 
@@ -8062,7 +8062,7 @@ The announcement is brief, clinical, and quickly forgotten by most of the weary 
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (10/16/2025 21:16:20) <br style='clear: both;'>
+### **Varda Nisyren** (10/16/2025 21:16:20) <br style='clear: both;'>
 
 <a name="1428491780134928467"></a>*1428491780134928467*
 
@@ -8076,7 +8076,7 @@ She leans back, the faintest smile curling her lips as her gaze drifts to the cu
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/16/2025 22:14:55) <br style='clear: both;'>
+### **Nadia Skirata** (10/16/2025 22:14:55) <br style='clear: both;'>
 
 <a name="1428506525114302485"></a>*1428506525114302485*
 
@@ -8088,7 +8088,7 @@ Nadia's sharp gaze tracks Varda as the old woman settles, her mystical observati
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (10/16/2025 22:15:13) <br style='clear: both;'>
+### **Storyteller** (10/16/2025 22:15:13) <br style='clear: both;'>
 
 <a name="1428506597860315228"></a>*1428506597860315228*
 
@@ -8104,7 +8104,7 @@ Nadia navigates through this genteel bustle with the practiced ease of someone u
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (10/16/2025 22:15:23) <br style='clear: both;'>
+### **Storyteller** (10/16/2025 22:15:23) <br style='clear: both;'>
 
 <a name="1428506640117796996"></a>*1428506640117796996*
 
@@ -8118,7 +8118,7 @@ It is a place of profound beauty and quiet contemplation, a tranquil oasis in th
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (10/16/2025 22:31:33) <br style='clear: both;'>
+## **Wes Del-Fin** (10/16/2025 22:31:33) <br style='clear: both;'>
 
 <a name="1428510710668984361"></a>*1428510710668984361*
 
@@ -8133,7 +8133,7 @@ He raised his caf at her greeting.  **”No dreams Varda.  I simply slept and fo
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (10/16/2025 22:35:39) <br style='clear: both;'>
+## **Varda Nisyren** (10/16/2025 22:35:39) <br style='clear: both;'>
 
 <a name="1428511739565314180"></a>*1428511739565314180*
 
@@ -8141,10 +8141,10 @@ She smiles at Wes, "**Ahh a boon indeed then, How was the inspection of the vent
 
 ---
 
-# # *Atin Oya'ka*
+## *Atin Oya'ka*
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (10/16/2025 23:05:59) <br style='clear: both;'>
+### **Varda Nisyren** (10/16/2025 23:05:59) <br style='clear: both;'>
 
 <a name="1428519375719239820"></a>*1428519375719239820*
 
@@ -8160,7 +8160,7 @@ She dabs at her eyes with a sleeve, but the tears flow freely still. With a resi
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (10/16/2025 23:06:16) <br style='clear: both;'>
+### **Varda Nisyren** (10/16/2025 23:06:16) <br style='clear: both;'>
 
 <a name="1428519446389063720"></a>*1428519446389063720*
 
@@ -8174,7 +8174,7 @@ She exhales, then flicks her wrist and the dust lifts from her palm, carried upw
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (10/16/2025 23:06:26) <br style='clear: both;'>
+### **Varda Nisyren** (10/16/2025 23:06:26) <br style='clear: both;'>
 
 <a name="1428519487514083349"></a>*1428519487514083349*
 
@@ -8189,7 +8189,7 @@ With a whisper of motion, she opens her hand and the mist rises to greet it coil
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (10/16/2025 23:06:42) <br style='clear: both;'>
+### **Varda Nisyren** (10/16/2025 23:06:42) <br style='clear: both;'>
 
 <a name="1428519554048462849"></a>*1428519554048462849*
 
@@ -8201,7 +8201,7 @@ She releases the final handful into the waiting air. The mist answers. It rises 
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/16/2025 23:23:32) <br style='clear: both;'>
+### **Nadia Skirata** (10/16/2025 23:23:32) <br style='clear: both;'>
 
 <a name="1428523792522547210"></a>*1428523792522547210*
 
@@ -8215,7 +8215,7 @@ Nadia turns and walks away from the ritual, her steps slow and deliberate, her g
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/16/2025 23:23:48) <br style='clear: both;'>
+### **Nadia Skirata** (10/16/2025 23:23:48) <br style='clear: both;'>
 
 <a name="1428523858046091444"></a>*1428523858046091444*
 
@@ -8229,7 +8229,7 @@ She feels the Force around her, not as the contained river her mother spoke of, 
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (10/17/2025 10:33:56) <br style='clear: both;'>
+## **Wes Del-Fin** (10/17/2025 10:33:56) <br style='clear: both;'>
 
 <a name="1428692504085008536"></a>*1428692504085008536*
 
@@ -8244,7 +8244,7 @@ He topped off his caf mug before walking to the station where the nutrient bars 
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (10/17/2025 20:04:46) <br style='clear: both;'>
+## **Varda Nisyren** (10/17/2025 20:04:46) <br style='clear: both;'>
 
 <a name="1428836159743725738"></a>*1428836159743725738*
 
@@ -8252,10 +8252,10 @@ He topped off his caf mug before walking to the station where the nutrient bars 
 
 ---
 
-# # *Atin Oya'ka*
+## *Atin Oya'ka*
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (10/17/2025 20:17:40) <br style='clear: both;'>
+### **Varda Nisyren** (10/17/2025 20:17:40) <br style='clear: both;'>
 
 <a name="1428839404939513916"></a>*1428839404939513916*
 
@@ -8274,7 +8274,7 @@ Her fingers, resting against the grass, curl slightly as though she’s gripping
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (10/17/2025 20:17:42) <br style='clear: both;'>
+### **Varda Nisyren** (10/17/2025 20:17:42) <br style='clear: both;'>
 
 <a name="1428839411805589667"></a>*1428839411805589667*
 
@@ -8284,7 +8284,7 @@ Varda shifts onto one elbow, turning toward Nadia. The moonlight catches the fai
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/17/2025 20:40:44) <br style='clear: both;'>
+### **Nadia Skirata** (10/17/2025 20:40:44) <br style='clear: both;'>
 
 <a name="1428845207540990023"></a>*1428845207540990023*
 
@@ -8300,7 +8300,7 @@ The offer to "show instead," the soft, tentative plea to offer help, leaves Nadi
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/17/2025 20:40:52) <br style='clear: both;'>
+### **Nadia Skirata** (10/17/2025 20:40:52) <br style='clear: both;'>
 
 <a name="1428845243423396031"></a>*1428845243423396031*
 
@@ -8312,7 +8312,7 @@ A single, silent tear, hot and heavy, tracks a path down Nadia's own cheek. She 
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (10/17/2025 21:35:07) <br style='clear: both;'>
+### **Varda Nisyren** (10/17/2025 21:35:07) <br style='clear: both;'>
 
 <a name="1428858895748563126"></a>*1428858895748563126*
 
@@ -8328,7 +8328,7 @@ The spectral lights drift closer, circling them like fireflies. Their glow touch
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (10/17/2025 21:36:04) <br style='clear: both;'>
+### **Varda Nisyren** (10/17/2025 21:36:04) <br style='clear: both;'>
 
 <a name="1428859132546515075"></a>*1428859132546515075*
 
@@ -8338,7 +8338,7 @@ Her eyes open again, glinting faintly with tears but alive with quiet strength. 
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/17/2025 22:39:55) <br style='clear: both;'>
+### **Nadia Skirata** (10/17/2025 22:39:55) <br style='clear: both;'>
 
 <a name="1428875203559034891"></a>*1428875203559034891*
 
@@ -8352,7 +8352,7 @@ Varda's voice guides her through the visions, speaking of the Force not as a wea
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/17/2025 22:40:01) <br style='clear: both;'>
+### **Nadia Skirata** (10/17/2025 22:40:01) <br style='clear: both;'>
 
 <a name="1428875225914937435"></a>*1428875225914937435*
 
@@ -8366,7 +8366,7 @@ Then Varda's words break through the last vestiges of Nadia's rigid control. The
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (10/18/2025 13:01:57) <br style='clear: both;'>
+## **Iyola Kett** (10/18/2025 13:01:57) <br style='clear: both;'>
 
 <a name="1429092140935549030"></a>*1429092140935549030*
 
@@ -8384,7 +8384,7 @@ To the two of them, Iyola shrugged.** “I’m used to traveling from place to p
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (10/18/2025 13:59:18) <br style='clear: both;'>
+## **Wes Del-Fin** (10/18/2025 13:59:18) <br style='clear: both;'>
 
 <a name="1429106573804044288"></a>*1429106573804044288*
 
@@ -8397,10 +8397,10 @@ Quickly he made his way to his quarters where he retrieved his left vambrace.  H
 
 ---
 
-# # *Atin Oya'ka*
+## *Atin Oya'ka*
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (10/18/2025 22:57:59) <br style='clear: both;'>
+### **Varda Nisyren** (10/18/2025 22:57:59) <br style='clear: both;'>
 
 <a name="1429242139094552789"></a>*1429242139094552789*
 
@@ -8416,7 +8416,7 @@ The Force stirs subtly around them, responding to her words. Small motes of viol
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (10/18/2025 22:59:40) <br style='clear: both;'>
+### **Varda Nisyren** (10/18/2025 22:59:40) <br style='clear: both;'>
 
 <a name="1429242561385463929"></a>*1429242561385463929*
 
@@ -8432,7 +8432,7 @@ Her hand presses lightly against Nadia’s chest, over her heart. "**But do not 
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (10/18/2025 23:16:03) <br style='clear: both;'>
+## **Varda Nisyren** (10/18/2025 23:16:03) <br style='clear: both;'>
 
 <a name="1429246683157495920"></a>*1429246683157495920*
 
@@ -8444,10 +8444,10 @@ Her voice lowers, carrying a trace of pride and nostalgia. "**As for me, I have 
 
 ---
 
-# # *Atin Oya'ka*
+## *Atin Oya'ka*
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/19/2025 00:03:42) <br style='clear: both;'>
+### **Nadia Skirata** (10/19/2025 00:03:42) <br style='clear: both;'>
 
 <a name="1429258673502556371"></a>*1429258673502556371*
 
@@ -8463,7 +8463,7 @@ She pushes her forehead into the cool, glowing grass, seeking a tangible connect
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/19/2025 00:03:48) <br style='clear: both;'>
+### **Nadia Skirata** (10/19/2025 00:03:48) <br style='clear: both;'>
 
 <a name="1429258702174552167"></a>*1429258702174552167*
 
@@ -8479,7 +8479,7 @@ Finally, Nadia slowly uncurls herself from her protective ball. She lifts her he
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (10/19/2025 00:30:25) <br style='clear: both;'>
+### **Varda Nisyren** (10/19/2025 00:30:25) <br style='clear: both;'>
 
 <a name="1429265397122732094"></a>*1429265397122732094*
 
@@ -8497,7 +8497,7 @@ As they walk the winding paths of the garden, Bespin’s dawn light filters thro
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/19/2025 01:15:12) <br style='clear: both;'>
+### **Nadia Skirata** (10/19/2025 01:15:12) <br style='clear: both;'>
 
 <a name="1429276669855666206"></a>*1429276669855666206*
 
@@ -8511,7 +8511,7 @@ Nadia hesitates. Yet, Varda's unwavering presence, her open heart, and the profo
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Storyteller** (10/19/2025 01:29:41) <br style='clear: both;'>
+### **Storyteller** (10/19/2025 01:29:41) <br style='clear: both;'>
 
 <a name="1429280312860610561"></a>*1429280312860610561*
 
@@ -8538,7 +8538,7 @@ Varda's eyes, ancient and unfathomably deep, absorb every detail of the datapad'
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (10/19/2025 17:32:57) <br style='clear: both;'>
+### **Varda Nisyren** (10/19/2025 17:32:57) <br style='clear: both;'>
 
 <a name="1429522728825651332"></a>*1429522728825651332*
 
@@ -8548,7 +8548,7 @@ Varda only inclines her head  the single graceful arch of an eyebrow the sole si
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/19/2025 18:03:44) <br style='clear: both;'>
+### **Nadia Skirata** (10/19/2025 18:03:44) <br style='clear: both;'>
 
 <a name="1429530475625451542"></a>*1429530475625451542*
 
@@ -8562,7 +8562,7 @@ She turns from Varda, unable to hold the older woman's perceptive gaze any longe
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (10/19/2025 18:17:51) <br style='clear: both;'>
+### **Varda Nisyren** (10/19/2025 18:17:51) <br style='clear: both;'>
 
 <a name="1429534025034502327"></a>*1429534025034502327*
 
@@ -8576,7 +8576,7 @@ She throws her arm wide, "**The future is unthered and misted. You make of what 
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/19/2025 18:50:31) <br style='clear: both;'>
+### **Nadia Skirata** (10/19/2025 18:50:31) <br style='clear: both;'>
 
 <a name="1429542246381781103"></a>*1429542246381781103*
 
@@ -8592,7 +8592,7 @@ A short, dry, almost bitter laugh escapes Nadia, brittle and raw with a fresh su
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (10/19/2025 21:08:01) <br style='clear: both;'>
+### **Varda Nisyren** (10/19/2025 21:08:01) <br style='clear: both;'>
 
 <a name="1429576852539969606"></a>*1429576852539969606*
 
@@ -8614,7 +8614,7 @@ She thinks for a moment weighing a decision. "**Come we should meditate**"
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/19/2025 21:42:37) <br style='clear: both;'>
+### **Nadia Skirata** (10/19/2025 21:42:37) <br style='clear: both;'>
 
 <a name="1429585557901803591"></a>*1429585557901803591*
 
@@ -8630,7 +8630,7 @@ When Varda proposes meditation, Nadia flinches. Her face, tear-streaked and pale
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (10/19/2025 21:54:13) <br style='clear: both;'>
+### **Varda Nisyren** (10/19/2025 21:54:13) <br style='clear: both;'>
 
 <a name="1429588478114398319"></a>*1429588478114398319*
 
@@ -8645,7 +8645,7 @@ She plants her bare feet in the grass, grounding herself. The old witch’s silh
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/19/2025 22:18:49) <br style='clear: both;'>
+### **Nadia Skirata** (10/19/2025 22:18:49) <br style='clear: both;'>
 
 <a name="1429594669020483613"></a>*1429594669020483613*
 
@@ -8659,7 +8659,7 @@ The young woman's gaze darts around the West Garden Promenade. Dawn is breaking,
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Varda Nisyren** (10/19/2025 22:41:45) <br style='clear: both;'>
+### **Varda Nisyren** (10/19/2025 22:41:45) <br style='clear: both;'>
 
 <a name="1429600437576925316"></a>*1429600437576925316*
 
@@ -8676,7 +8676,7 @@ She walks over. Places a hand on her shoulder. "**People, the force, the future.
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/19/2025 23:09:06) <br style='clear: both;'>
+### **Nadia Skirata** (10/19/2025 23:09:06) <br style='clear: both;'>
 
 <a name="1429607320551297104"></a>*1429607320551297104*
 
@@ -8690,7 +8690,7 @@ Nadia's hand rises, trembling slightly, and she clasps Varda's, holding it firml
 
 <img src="avatars/1400818125485768835/0f842786530dbeb89e57d5f270695821.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/19/2025 23:09:24) <br style='clear: both;'>
+### **Nadia Skirata** (10/19/2025 23:09:24) <br style='clear: both;'>
 
 <a name="1429607396594024509"></a>*1429607396594024509*
 
@@ -8706,7 +8706,7 @@ With a final, deep breath, Nadia turns, a renewed sense of purpose firming her s
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Eve the AI** (10/20/2025 01:16:55) <br style='clear: both;'>
+## **Eve the AI** (10/20/2025 01:16:55) <br style='clear: both;'>
 
 <a name="1429639486752686213"></a>*1429639486752686213*
 
@@ -8720,7 +8720,7 @@ She pauses for a fraction of a second, as if compiling data. **"The damaged main
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (10/20/2025 09:55:55) <br style='clear: both;'>
+## **Varda Nisyren** (10/20/2025 09:55:55) <br style='clear: both;'>
 
 <a name="1429770098419306579"></a>*1429770098419306579*
 
@@ -8730,7 +8730,7 @@ Varda jumps slightly at the surprise of hearing Eve not on the Venture. She mout
 
 <img src="avatars/1400818125485768835/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Eve the AI** (10/20/2025 15:28:07) <br style='clear: both;'>
+## **Eve the AI** (10/20/2025 15:28:07) <br style='clear: both;'>
 
 <a name="1429853699282567339"></a>*1429853699282567339*
 
@@ -8742,7 +8742,7 @@ Eve processes Varda's question with a noticeable, fractional pause – longer th
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Nadia Skirata** (10/20/2025 16:10:31) <br style='clear: both;'>
+## **Nadia Skirata** (10/20/2025 16:10:31) <br style='clear: both;'>
 
 <a name="1429864371143835658"></a>*1429864371143835658*
 
@@ -8762,7 +8762,7 @@ She then sets her mug down on the table with a soft *clink*, her gaze sweeping o
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (10/20/2025 16:34:06) <br style='clear: both;'>
+## **Varda Nisyren** (10/20/2025 16:34:06) <br style='clear: both;'>
 
 <a name="1429870305941262396"></a>*1429870305941262396*
 
@@ -8774,7 +8774,7 @@ Her eyes flick briefly toward Nadia, then away again, sharp and assessing. *He w
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (10/20/2025 19:47:47) <br style='clear: both;'>
+## **Wes Del-Fin** (10/20/2025 19:47:47) <br style='clear: both;'>
 
 <a name="1429919045498437634"></a>*1429919045498437634*
 
@@ -8795,7 +8795,7 @@ While he simply tilted his head and raised an eyebrow as Varda audibly scoffed a
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Nadia Skirata** (10/20/2025 20:17:57) <br style='clear: both;'>
+## **Nadia Skirata** (10/20/2025 20:17:57) <br style='clear: both;'>
 
 <a name="1429926638342115520"></a>*1429926638342115520*
 
@@ -8811,7 +8811,7 @@ She takes another slow sip of caf, her gaze sweeping over the assembled group. *
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (10/20/2025 22:52:30) <br style='clear: both;'>
+## **Wes Del-Fin** (10/20/2025 22:52:30) <br style='clear: both;'>
 
 <a name="1429965533012300021"></a>*1429965533012300021*
 
@@ -8826,7 +8826,7 @@ He looked at the others and then back to Nadia.  **”Two hours and I’ll liste
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Nadia Skirata** (10/21/2025 00:03:02) <br style='clear: both;'>
+## **Nadia Skirata** (10/21/2025 00:03:02) <br style='clear: both;'>
 
 <a name="1429983284883882016"></a>*1429983284883882016*
 
@@ -8841,7 +8841,7 @@ She pauses for a moment hesitating. "**If you believe I am too compromised to at
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (10/21/2025 00:12:56) <br style='clear: both;'>
+## **Iyola Kett** (10/21/2025 00:12:56) <br style='clear: both;'>
 
 <a name="1429985775205748826"></a>*1429985775205748826*
 
@@ -8861,7 +8861,7 @@ As soon as Nadia finished talking, Iyola spoke.  **“I don’t need two hours. 
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (10/21/2025 12:26:05) <br style='clear: both;'>
+## **Wes Del-Fin** (10/21/2025 12:26:05) <br style='clear: both;'>
 
 <a name="1430170279614742619"></a>*1430170279614742619*
 
@@ -8882,7 +8882,7 @@ He also felt her resolve.  Her uncle seemed to rely upon her a great deal.  It s
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (10/21/2025 12:26:23) <br style='clear: both;'>
+## **Wes Del-Fin** (10/21/2025 12:26:23) <br style='clear: both;'>
 
 <a name="1430170351404580997"></a>*1430170351404580997*
 
@@ -8897,7 +8897,7 @@ He picked up his caf and took a sip.   It was cooling off and it needed a refres
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (10/21/2025 12:37:21) <br style='clear: both;'>
+## **Varda Nisyren** (10/21/2025 12:37:21) <br style='clear: both;'>
 
 <a name="1430173113278140520"></a>*1430173113278140520*
 
@@ -8915,7 +8915,7 @@ Her gaze drifts slightly, as if remembering something distant and half-lost. "**
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Nadia Skirata** (10/21/2025 13:24:18) <br style='clear: both;'>
+## **Nadia Skirata** (10/21/2025 13:24:18) <br style='clear: both;'>
 
 <a name="1430184929106464789"></a>*1430184929106464789*
 
@@ -8933,7 +8933,7 @@ She gives a reluctant, weary nod. **"I will... inform Ghurn of my assessment. Th
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (10/21/2025 14:52:49) <br style='clear: both;'>
+## **Wes Del-Fin** (10/21/2025 14:52:49) <br style='clear: both;'>
 
 <a name="1430207203930800219"></a>*1430207203930800219*
 
@@ -8948,7 +8948,7 @@ He gave her a small nod and moved closer.  Raising his right hand he brought it 
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (10/21/2025 15:04:16) <br style='clear: both;'>
+## **Varda Nisyren** (10/21/2025 15:04:16) <br style='clear: both;'>
 
 <a name="1430210087955337298"></a>*1430210087955337298*
 
@@ -8968,7 +8968,7 @@ She stands and despite the anger. She makes effort to smile at everyone in the r
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (10/21/2025 16:09:52) <br style='clear: both;'>
+## **Iyola Kett** (10/21/2025 16:09:52) <br style='clear: both;'>
 
 <a name="1430226594772942878"></a>*1430226594772942878*
 
@@ -8986,7 +8986,7 @@ But there’s one more thing she should do. ** “Uh, Nadia,”** Iyola says, ad
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Nadia Skirata** (10/21/2025 16:22:31) <br style='clear: both;'>
+## **Nadia Skirata** (10/21/2025 16:22:31) <br style='clear: both;'>
 
 <a name="1430229779017105519"></a>*1430229779017105519*
 
@@ -9004,10 +9004,10 @@ As Varda scrapes her chair back and leaves, and the echoes of her anger settle, 
 
 ---
 
-# # *Iyola's Cabin*
+## *Iyola's Cabin*
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (10/21/2025 16:56:45) <br style='clear: both;'>
+### **Iyola Kett** (10/21/2025 16:56:45) <br style='clear: both;'>
 
 <a name="1430238393102630953"></a>*1430238393102630953*
 
@@ -9031,7 +9031,7 @@ Even more oddly, the woman and her children looked familiar. Then Iyola realized
 
 <img src="avatars/208916238661844993/d7832f2cac5df42d164b81e35de34f09.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **aliciagd** (10/21/2025 17:32:02) <br style='clear: both;'>
+## **aliciagd** (10/21/2025 17:32:02) <br style='clear: both;'>
 
 <a name="1430247272691535940"></a>*1430247272691535940*
 
@@ -9039,10 +9039,10 @@ Iyola's Cabin
 
 ---
 
-# # *Iyola's Cabin*
+## *Iyola's Cabin*
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/21/2025 17:32:06) <br style='clear: both;'>
+### **Nadia Skirata** (10/21/2025 17:32:06) <br style='clear: both;'>
 
 <a name="1430247288617439334"></a>*1430247288617439334*
 
@@ -9062,7 +9062,7 @@ Nadia clutches the picture, her knuckles white. A single tear, hot and defiant, 
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/21/2025 17:32:15) <br style='clear: both;'>
+### **Nadia Skirata** (10/21/2025 17:32:15) <br style='clear: both;'>
 
 <a name="1430247325225320669"></a>*1430247325225320669*
 
@@ -9076,7 +9076,7 @@ She takes a ragged breath, the words forced out, fueled by a sudden, desperate n
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (10/21/2025 17:37:35) <br style='clear: both;'>
+## **Wes Del-Fin** (10/21/2025 17:37:35) <br style='clear: both;'>
 
 <a name="1430248670569431162"></a>*1430248670569431162*
 
@@ -9094,7 +9094,7 @@ He continued to sit quietly as he waited for the two women to come back to the g
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (10/21/2025 18:15:57) <br style='clear: both;'>
+## **Varda Nisyren** (10/21/2025 18:15:57) <br style='clear: both;'>
 
 <a name="1430258326419279882"></a>*1430258326419279882*
 
@@ -9112,7 +9112,7 @@ Her awareness unfurls like smoke through the metal halls: the ship’s soft hum 
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (10/21/2025 21:46:31) <br style='clear: both;'>
+## **Storyteller** (10/21/2025 21:46:31) <br style='clear: both;'>
 
 <a name="1430311313967681608"></a>*1430311313967681608*
 
@@ -9126,10 +9126,10 @@ The pair stand to one side, waiting as those attending begin to congregate and t
 
 ---
 
-# # *Iyola's Cabin*
+## *Iyola's Cabin*
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (10/21/2025 23:56:15) <br style='clear: both;'>
+### **Iyola Kett** (10/21/2025 23:56:15) <br style='clear: both;'>
 
 <a name="1430343965928063079"></a>*1430343965928063079*
 
@@ -9147,7 +9147,7 @@ Iyola goes over to the small pile of towels she has accumulated.  She hands Nadi
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/22/2025 00:23:05) <br style='clear: both;'>
+### **Nadia Skirata** (10/22/2025 00:23:05) <br style='clear: both;'>
 
 <a name="1430350716433727639"></a>*1430350716433727639*
 
@@ -9167,7 +9167,7 @@ She dabs at her eyes with the towel, trying to regain her composure, then looks 
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (10/22/2025 00:38:26) <br style='clear: both;'>
+### **Iyola Kett** (10/22/2025 00:38:26) <br style='clear: both;'>
 
 <a name="1430354581434400791"></a>*1430354581434400791*
 
@@ -9183,7 +9183,7 @@ It isn’t really her business, but Nadia can answer her, if she wants to.
 
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/22/2025 00:57:40) <br style='clear: both;'>
+### **Nadia Skirata** (10/22/2025 00:57:40) <br style='clear: both;'>
 
 <a name="1430359420767961098"></a>*1430359420767961098*
 
@@ -9199,7 +9199,7 @@ At Iyola's change of subject, the self-imposed "deadline," Nadia gives a faint, 
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (10/22/2025 01:13:34) <br style='clear: both;'>
+## **Wes Del-Fin** (10/22/2025 01:13:34) <br style='clear: both;'>
 
 <a name="1430363419307016194"></a>*1430363419307016194*
 
@@ -9215,10 +9215,10 @@ Stepping to the chair he set his helmet down and pulled out a chair.   Sitting d
 
 ---
 
-# # *Iyola's Cabin*
+## *Iyola's Cabin*
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Iyola Kett** (10/22/2025 02:00:06) <br style='clear: both;'>
+### **Iyola Kett** (10/22/2025 02:00:06) <br style='clear: both;'>
 
 <a name="1430375133754822771"></a>*1430375133754822771*
 
@@ -9230,7 +9230,7 @@ Iyola beams back at Nadia.  She remembers the Kryze clan from Mandalore; they mu
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (10/22/2025 02:01:49) <br style='clear: both;'>
+## **Iyola Kett** (10/22/2025 02:01:49) <br style='clear: both;'>
 
 <a name="1430375563540959407"></a>*1430375563540959407*
 
@@ -9248,10 +9248,10 @@ She doesn’t have to wait long. Ghurn Skirata enters, alongside a tall human wo
 
 ---
 
-# # *Iyola's Cabin*
+## *Iyola's Cabin*
 <img src="avatars/1400818125485768835/b896375bd56e975a0838c79f352ab28e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# ## **Nadia Skirata** (10/22/2025 02:16:33) <br style='clear: both;'>
+### **Nadia Skirata** (10/22/2025 02:16:33) <br style='clear: both;'>
 
 <a name="1430379271955808477"></a>*1430379271955808477*
 
@@ -9267,7 +9267,7 @@ She then offers a tired, but warm, smile. **"Yes. A long shower sounds... nice. 
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (10/22/2025 06:54:07) <br style='clear: both;'>
+## **Varda Nisyren** (10/22/2025 06:54:07) <br style='clear: both;'>
 
 <a name="1430449124842668075"></a>*1430449124842668075*
 
@@ -9279,7 +9279,7 @@ She enters with a genial smile on her face and nods cordially to Ghurn and Seren
 
 <img src="avatars/1400818125485768835/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Dryzan Kar'dola** (10/22/2025 12:43:32) <br style='clear: both;'>
+## **Dryzan Kar'dola** (10/22/2025 12:43:32) <br style='clear: both;'>
 
 <a name="1430537055359995954"></a>*1430537055359995954*
 
@@ -9289,7 +9289,7 @@ Dryzan enters the galley just after Varda, his steps quiet and observational. He
 
 <img src="avatars/1400818125485768835/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Misha Vorne** (10/22/2025 12:43:32) <br style='clear: both;'>
+## **Misha Vorne** (10/22/2025 12:43:32) <br style='clear: both;'>
 
 <a name="1430537057465401485"></a>*1430537057465401485*
 
@@ -9299,7 +9299,7 @@ Misha trails Dryzan by a few steps, her initial nervousness about meeting the Cl
 
 <img src="avatars/1400818125485768835/f989e92be7283fa85c0e66fabffbdf2e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Ghurn Skirata** (10/22/2025 12:47:56) <br style='clear: both;'>
+## **Ghurn Skirata** (10/22/2025 12:47:56) <br style='clear: both;'>
 
 <a name="1430538166086926479"></a>*1430538166086926479*
 
@@ -9313,7 +9313,7 @@ He then inclines his head slightly towards Iyola, a brief, almost imperceptible 
 
 <img src="avatars/1400818125485768835/f989e92be7283fa85c0e66fabffbdf2e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Ghurn Skirata** (10/22/2025 12:49:18) <br style='clear: both;'>
+## **Ghurn Skirata** (10/22/2025 12:49:18) <br style='clear: both;'>
 
 <a name="1430538506362683445"></a>*1430538506362683445*
 
@@ -9325,7 +9325,7 @@ He then gestures to Serena. **"This is Serena Foss, my Operations Manager. She h
 
 <img src="avatars/1400818125485768835/7765d78b4383748b2af3d3877c5b06b1.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Serena Foss** (10/22/2025 12:50:46) <br style='clear: both;'>
+## **Serena Foss** (10/22/2025 12:50:46) <br style='clear: both;'>
 
 <a name="1430538876924989565"></a>*1430538876924989565*
 
@@ -9339,7 +9339,7 @@ She meets Iyola's gaze with a subtle, polite acknowledgment of her earlier comme
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (10/22/2025 16:38:04) <br style='clear: both;'>
+## **Storyteller** (10/22/2025 16:38:04) <br style='clear: both;'>
 
 <a name="1430596080734703759"></a>*1430596080734703759*
 
@@ -9350,7 +9350,7 @@ Serena Foss
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (10/23/2025 11:19:28) <br style='clear: both;'>
+## **Iyola Kett** (10/23/2025 11:19:28) <br style='clear: both;'>
 
 <a name="1430878287369998521"></a>*1430878287369998521*
 
@@ -9366,7 +9366,7 @@ A small voice of caution prickled in the back of her mind.  *This is a different
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (10/23/2025 14:23:25) <br style='clear: both;'>
+## **Wes Del-Fin** (10/23/2025 14:23:25) <br style='clear: both;'>
 
 <a name="1430924580440113217"></a>*1430924580440113217*
 
@@ -9387,7 +9387,7 @@ When Serena spoke Wes could tell the woman was always on point.  For her to have
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (10/23/2025 15:57:33) <br style='clear: both;'>
+## **Varda Nisyren** (10/23/2025 15:57:33) <br style='clear: both;'>
 
 <a name="1430948269327908864"></a>*1430948269327908864*
 
@@ -9405,7 +9405,7 @@ There’s laughter in her tone, but it isn’t cruel, just knowing. A witch’s 
 
 <img src="avatars/1400818125485768835/f989e92be7283fa85c0e66fabffbdf2e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Ghurn Skirata** (10/23/2025 16:21:45) <br style='clear: both;'>
+## **Ghurn Skirata** (10/23/2025 16:21:45) <br style='clear: both;'>
 
 <a name="1430954362875809862"></a>*1430954362875809862*
 
@@ -9417,7 +9417,7 @@ Ghurn’s expression remains impassive, though a subtle flicker of something –
 
 <img src="avatars/1400818125485768835/7765d78b4383748b2af3d3877c5b06b1.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Serena Foss** (10/23/2025 16:21:46) <br style='clear: both;'>
+## **Serena Foss** (10/23/2025 16:21:46) <br style='clear: both;'>
 
 <a name="1430954364402536499"></a>*1430954364402536499*
 
@@ -9433,7 +9433,7 @@ She gestures to a small, sealed compartment on her datapad, which hisses open to
 
 <img src="avatars/1400818125485768835/7765d78b4383748b2af3d3877c5b06b1.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Serena Foss** (10/23/2025 16:21:55) <br style='clear: both;'>
+## **Serena Foss** (10/23/2025 16:21:55) <br style='clear: both;'>
 
 <a name="1430954402990260307"></a>*1430954402990260307*
 
@@ -9443,7 +9443,7 @@ She recites them with cool precision, allowing no room for discussion: **"For We
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (10/23/2025 19:29:16) <br style='clear: both;'>
+## **Iyola Kett** (10/23/2025 19:29:16) <br style='clear: both;'>
 
 <a name="1431001552943841301"></a>*1431001552943841301*
 
@@ -9457,7 +9457,7 @@ Serena smoothly announces everyone’s alias.  Iyola laughs briefly as her tempo
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (10/24/2025 12:44:57) <br style='clear: both;'>
+## **Wes Del-Fin** (10/24/2025 12:44:57) <br style='clear: both;'>
 
 <a name="1431262190626799698"></a>*1431262190626799698*
 
@@ -9472,7 +9472,7 @@ With the pleasantries out of the way Serena took over.   Her order of business, 
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (10/24/2025 13:22:51) <br style='clear: both;'>
+## **Varda Nisyren** (10/24/2025 13:22:51) <br style='clear: both;'>
 
 <a name="1431271728297803826"></a>*1431271728297803826*
 
@@ -9492,7 +9492,7 @@ Her tone carries the weight of long experience that peculiar blend of cynicism a
 
 <img src="avatars/1400818125485768835/7765d78b4383748b2af3d3877c5b06b1.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Serena Foss** (10/24/2025 14:32:23) <br style='clear: both;'>
+## **Serena Foss** (10/24/2025 14:32:23) <br style='clear: both;'>
 
 <a name="1431289225948434584"></a>*1431289225948434584*
 
@@ -9502,7 +9502,7 @@ Serena maintains her impeccable composure throughout Varda's philosophical prono
 
 <img src="avatars/1400818125485768835/f989e92be7283fa85c0e66fabffbdf2e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Ghurn Skirata** (10/24/2025 14:32:38) <br style='clear: both;'>
+## **Ghurn Skirata** (10/24/2025 14:32:38) <br style='clear: both;'>
 
 <a name="1431289287021695089"></a>*1431289287021695089*
 
@@ -9516,7 +9516,7 @@ Ghurn watches Varda with a faint, almost imperceptible twitch of an eyebrow, reg
 
 <img src="avatars/1400818125485768835/f989e92be7283fa85c0e66fabffbdf2e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Ghurn Skirata** (10/24/2025 14:32:41) <br style='clear: both;'>
+## **Ghurn Skirata** (10/24/2025 14:32:41) <br style='clear: both;'>
 
 <a name="1431289300888064123"></a>*1431289300888064123*
 
@@ -9528,7 +9528,7 @@ Ghurn then looks pointedly at Serena. **"Serena will provide you with maps, a se
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (10/24/2025 19:14:54) <br style='clear: both;'>
+## **Wes Del-Fin** (10/24/2025 19:14:54) <br style='clear: both;'>
 
 <a name="1431360322505019623"></a>*1431360322505019623*
 
@@ -9543,7 +9543,7 @@ Wes listened to Ghurn lay out the mission.  Urban infiltration, scouting and inf
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (10/25/2025 03:32:26) <br style='clear: both;'>
+## **Iyola Kett** (10/25/2025 03:32:26) <br style='clear: both;'>
 
 <a name="1431485532755591358"></a>*1431485532755591358*
 
@@ -9553,7 +9553,7 @@ Wes listened to Ghurn lay out the mission.  Urban infiltration, scouting and inf
 
 <img src="avatars/1400818125485768835/f989e92be7283fa85c0e66fabffbdf2e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Ghurn Skirata** (10/25/2025 13:38:30) <br style='clear: both;'>
+## **Ghurn Skirata** (10/25/2025 13:38:30) <br style='clear: both;'>
 
 <a name="1431638055189610690"></a>*1431638055189610690*
 
@@ -9565,7 +9565,7 @@ Ghurn offers Wes a brief, almost imperceptible nod, a silent acknowledgment of t
 
 <img src="avatars/1400818125485768835/7765d78b4383748b2af3d3877c5b06b1.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Serena Foss** (10/25/2025 17:13:49) <br style='clear: both;'>
+## **Serena Foss** (10/25/2025 17:13:49) <br style='clear: both;'>
 
 <a name="1431692237934301194"></a>*1431692237934301194*
 
@@ -9579,7 +9579,7 @@ She gestures with her datapad. **"You are designated as residing in a corporate-
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (10/25/2025 17:13:59) <br style='clear: both;'>
+## **Iyola Kett** (10/25/2025 17:13:59) <br style='clear: both;'>
 
 <a name="1431692282892914788"></a>*1431692282892914788*
 
@@ -9593,7 +9593,7 @@ She remembered her ascender gun, back in her quarters.**  ‘If we’re going to
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (10/25/2025 21:24:46) <br style='clear: both;'>
+## **Wes Del-Fin** (10/25/2025 21:24:46) <br style='clear: both;'>
 
 <a name="1431755393998127124"></a>*1431755393998127124*
 
@@ -9605,7 +9605,7 @@ Wes smiled when Ghurn mentioned anonymity.   That was always a hard one for Mand
 
 <img src="avatars/1400818125485768835/7765d78b4383748b2af3d3877c5b06b1.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Serena Foss** (10/26/2025 15:51:17) <br style='clear: both;'>
+## **Serena Foss** (10/26/2025 15:51:17) <br style='clear: both;'>
 
 <a name="1432033857607303310"></a>*1432033857607303310*
 
@@ -9623,7 +9623,7 @@ She then turns to Wes. **"Your 'Kalen Rynn' ident profile explicitly includes a 
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (10/26/2025 16:58:12) <br style='clear: both;'>
+## **Wes Del-Fin** (10/26/2025 16:58:12) <br style='clear: both;'>
 
 <a name="1432050696269856929"></a>*1432050696269856929*
 
@@ -9635,7 +9635,7 @@ Wes nodded in thanks at Serena for the through set up with his ident chip.  Not 
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (10/27/2025 17:49:13) <br style='clear: both;'>
+## **Varda Nisyren** (10/27/2025 17:49:13) <br style='clear: both;'>
 
 <a name="1432425922887286797"></a>*1432425922887286797*
 
@@ -9646,7 +9646,7 @@ Varda snorts a brief, ungraceful sound that she quickly disguises behind a cough
 
 <img src="avatars/1400818125485768835/7765d78b4383748b2af3d3877c5b06b1.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Serena Foss** (10/28/2025 19:48:56) <br style='clear: both;'>
+## **Serena Foss** (10/28/2025 19:48:56) <br style='clear: both;'>
 
 <a name="1432818441575731272"></a>*1432818441575731272*
 
@@ -9660,7 +9660,7 @@ She pauses, then addresses his second concern, her gaze shifting to his side, su
 
 <img src="avatars/1400818125485768835/7765d78b4383748b2af3d3877c5b06b1.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Serena Foss** (10/28/2025 19:49:01) <br style='clear: both;'>
+## **Serena Foss** (10/28/2025 19:49:01) <br style='clear: both;'>
 
 <a name="1432818461284765759"></a>*1432818461284765759*
 
@@ -9672,7 +9672,7 @@ Serena then smoothly pivots to address Varda, her professional smile never wa fa
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (10/28/2025 20:20:05) <br style='clear: both;'>
+## **Varda Nisyren** (10/28/2025 20:20:05) <br style='clear: both;'>
 
 <a name="1432826279157170206"></a>*1432826279157170206*
 
@@ -9684,7 +9684,7 @@ She exhales, the faintest ghost of a chuckle escaping before she reins it in. "*
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (10/29/2025 23:30:46) <br style='clear: both;'>
+## **Wes Del-Fin** (10/29/2025 23:30:46) <br style='clear: both;'>
 
 <a name="1433236654180532266"></a>*1433236654180532266*
 
@@ -9696,7 +9696,7 @@ Wes nodded as Varda asked if they could narrow things down than just the distric
 
 <img src="avatars/1400818125485768835/7765d78b4383748b2af3d3877c5b06b1.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Serena Foss** (10/30/2025 14:00:43) <br style='clear: both;'>
+## **Serena Foss** (10/30/2025 14:00:43) <br style='clear: both;'>
 
 <a name="1433455584212160646"></a>*1433455584212160646*
 
@@ -9712,7 +9712,7 @@ She moves around the table, distributing a data card to each member of the *Vent
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (10/30/2025 22:40:49) <br style='clear: both;'>
+## **Iyola Kett** (10/30/2025 22:40:49) <br style='clear: both;'>
 
 <a name="1433586469712302221"></a>*1433586469712302221*
 
@@ -9724,7 +9724,7 @@ Iyola looked over the briefing that Serena Foss had shared with them.   It was a
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (11/01/2025 12:06:28) <br style='clear: both;'>
+## **Wes Del-Fin** (11/01/2025 12:06:28) <br style='clear: both;'>
 
 <a name="1434151609654313021"></a>*1434151609654313021*
 
@@ -9742,7 +9742,7 @@ As Iyola stated she was quick to get started he smiled at her enthusiasm.   **�
 
 <img src="avatars/1400818125485768835/7765d78b4383748b2af3d3877c5b06b1.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Serena Foss** (11/01/2025 16:56:03) <br style='clear: both;'>
+## **Serena Foss** (11/01/2025 16:56:03) <br style='clear: both;'>
 
 <a name="1434224481898987787"></a>*1434224481898987787*
 
@@ -9752,7 +9752,7 @@ Serena offers Iyola a polite, professional smile as she processes the request fo
 
 <img src="avatars/1400818125485768835/f989e92be7283fa85c0e66fabffbdf2e.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Ghurn Skirata** (11/01/2025 16:56:03) <br style='clear: both;'>
+## **Ghurn Skirata** (11/01/2025 16:56:03) <br style='clear: both;'>
 
 <a name="1434224485602562270"></a>*1434224485602562270*
 
@@ -9762,7 +9762,7 @@ Ghurn gives a short, decisive nod, his steel-gray eyes sweeping over the group o
 
 <img src="avatars/1400818125485768835/5abab7a0510c15683419ce1a35550315.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Dryzan Kar'dola** (11/01/2025 16:56:04) <br style='clear: both;'>
+## **Dryzan Kar'dola** (11/01/2025 16:56:04) <br style='clear: both;'>
 
 <a name="1434224486906859540"></a>*1434224486906859540*
 
@@ -9772,7 +9772,7 @@ Dryzan finishes his synth-porridge, sets the empty bowl aside, and then looks up
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (11/01/2025 19:11:38) <br style='clear: both;'>
+## **Iyola Kett** (11/01/2025 19:11:38) <br style='clear: both;'>
 
 <a name="1434258603832901673"></a>*1434258603832901673*
 
@@ -9788,7 +9788,7 @@ Dryzan suggests that he, Misha, and Vaeros work the casino.  Iyola suspects that
 
 <img src="avatars/1400818125485768835/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Wes Del-Fin** (11/03/2025 11:37:27) <br style='clear: both;'>
+## **Wes Del-Fin** (11/03/2025 11:37:27) <br style='clear: both;'>
 
 <a name="1434869080581472326"></a>*1434869080581472326*
 
@@ -9803,7 +9803,7 @@ He looked at the packet and the slicer's information.  **”As for the ‘electr
 
 <img src="avatars/1400818125485768835/8aaf30acf87729c106409bc1edc02a6d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Iyola Kett** (11/03/2025 13:41:43) <br style='clear: both;'>
+## **Iyola Kett** (11/03/2025 13:41:43) <br style='clear: both;'>
 
 <a name="1434900354805268542"></a>*1434900354805268542*
 
@@ -9815,7 +9815,7 @@ She was practically vibrating with impatience. ** “Anything else?” **Instinc
 
 <img src="avatars/1400818125485768835/14d583853ee8dc32e686b8feb7f254fe.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Varda Nisyren** (11/05/2025 20:14:48) <br style='clear: both;'>
+## **Varda Nisyren** (11/05/2025 20:14:48) <br style='clear: both;'>
 
 <a name="1435724051971703026"></a>*1435724051971703026*
 
@@ -9833,7 +9833,7 @@ A beat passes, and she flashes a smile that’s both serene and faintly dangerou
 
 <img src="avatars/1400818125485768835/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-# # **Storyteller** (11/06/2025 13:58:18) <br style='clear: both;'>
+## **Storyteller** (11/06/2025 13:58:18) <br style='clear: both;'>
 
 <a name="1435991690673651793"></a>*1435991690673651793*
 
