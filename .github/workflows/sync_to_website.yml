@@ -1,0 +1,43 @@
+name: Sync Assets to Website Branch
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'Chapter_Logs/**'
+      - 'Image_Resources/**'
+
+jobs:
+  sync-assets:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Main Branch
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: main_repo
+
+      - name: Checkout Website Branch
+        uses: actions/checkout@v4
+        with:
+          ref: website
+          path: website_repo
+
+      - name: Sync Folders
+        run: |
+          # Copy JSON logs and Images to the website folder structure
+          # Adjust the destination paths below if your website branch 
+          # uses different folder names (e.g., assets/images)
+          rsync -av --delete main_repo/Chapter_Logs/ website_repo/Chapter_Logs/
+          rsync -av --delete main_repo/Image_Resources/ website_repo/Image_Resources/
+
+      - name: Commit and Push to Website Branch
+        run: |
+          cd website_repo
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          # Only commit if there are actual changes to prevent empty loops
+          git diff-index --quiet HEAD || git commit -m "Auto-sync: Updated logs and images from main"
+          git push origin website
