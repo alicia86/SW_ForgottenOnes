@@ -28,22 +28,25 @@ title: Home
   </ul>
   <!-- <a href="{{ '/logs' | relative_url }}" class="view-all">View Full Archive →</a> -->
 </section>
-
-  <section class="wiki-panel">
+<section class="wiki-panel">
+  <!--  Disable the wiki section for the time being until ready to implement it
     <h3><span class="icon">🗂️</span> Datapad Database</h3>
     <div class="wiki-cards">
       <a href="{{ '/wiki/Characters' | relative_url }}" class="wiki-card">
         <strong>The Crew</strong>
         <span>Profiles of the survivors.</span>
-      </a>
+      </a> <br />
       <a href="{{ '/wiki/The-Venture' | relative_url }}" class="wiki-card">
         <strong>The Venture</strong>
         <span>Technical specs of the Ark.</span>
-      </a>
+      </a> <br />
       <a href="{{ '/wiki/Cloud-City' | relative_url }}" class="wiki-card">
         <strong>Bespin Lore</strong>
         <span>Mining colony intelligence.</span>
-      </a>
+      </a> <br />
     </div>
-  </section>
+    For now provide a link back to the wiki -->    
+      <h3><span class="icon">🗂️</span> <a href="https://github.com/alicia86/SW_ForgottenOnes/wiki" class="wiki-card"> Wiki </a></h3>
+  </section>  
+  
 </div>
