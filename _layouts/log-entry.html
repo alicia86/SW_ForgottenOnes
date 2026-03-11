@@ -4,8 +4,8 @@ layout: default
 <div class="log-wrapper">
   <aside id="toc-sidebar" class="toc-sidebar">
     <div class="toc-header">
-      <span>CONTENTS</span>
-      <button onclick="toggleTOC()" class="toc-close">×</button>
+      <span style="color: var(--sw-blue); letter-spacing: 2px;">DATAPAD INDEX</span>
+      <button class="toc-close" style="color: var(--sw-blue);">[ X ]</button>
     </div>
     <div class="toc-content">
       {{ content | toc }}
@@ -13,8 +13,10 @@ layout: default
   </aside>
 
   <article class="log-content">
-    <button onclick="toggleTOC()" class="toc-open-btn">☰ View Index</button>
-    {{ content }}
+    <button class="toc-open-btn">☰ OPEN INDEX</button>
+    <div class="markdown-body">
+       {{ content }}
+    </div>
   </article>
 </div>
 
