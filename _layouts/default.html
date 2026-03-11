@@ -7,37 +7,71 @@
     
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/dark.css">
     
-    <style>
-        body {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            line-height: 1.8;
-        }
-        header {
-            border-bottom: 2px solid #444;
-            margin-bottom: 2rem;
-            padding-bottom: 1rem;
-        }
-        footer {
-            margin-top: 3rem;
-            border-top: 1px solid #444;
-            padding-top: 1rem;
-            font-size: 0.9rem;
-            color: #888;
-        }
-        .back-link {
-            text-decoration: none;
-            font-weight: bold;
-            color: #00aaff;
-        }
-        /* Style for Markdown images if you include maps or character art */
-        img {
-            max-width: 100%;
-            border-radius: 8px;
-            border: 1px solid #555;
-        }
-    </style>
+<style>
+    :root {
+        --sw-blue: #00aaff;
+        --border-color: #444;
+    }
+    body {
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 20px;
+        line-height: 1.6;
+        font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    }
+    
+    /* Post Container - ensures avatars and text stay together */
+    main p, main h2, main h3 {
+        clear: both; /* Prevents text from overlapping floating images */
+    }
+
+    /* Avatar Styling */
+    img[alt="avatar"] {
+        border-radius: 4px;
+        border: 1px solid var(--border-color);
+        margin-right: 15px !important;
+        margin-bottom: 10px;
+        box-shadow: 0 0 10px rgba(0, 170, 255, 0.1);
+    }
+
+    /* Character Names */
+    h2, h3 {
+        color: var(--sw-blue);
+        margin-bottom: 5px;
+        font-size: 1.2rem;
+    }
+
+    /* Timestamps and IDs */
+    em {
+        font-size: 0.85rem;
+        color: #888;
+        font-style: normal;
+    }
+
+    /* The "Star Wars" Intro Text (Italics) */
+    main p em {
+        color: #ffcc00; /* Classic Star Wars Yellow */
+        display: block;
+        padding: 10px 0;
+    }
+
+    /* Dividers */
+    hr {
+        border: 0;
+        height: 1px;
+        background-image: linear-gradient(to right, transparent, var(--border-color), transparent);
+        margin: 2rem 0;
+    }
+
+    /* Blockquotes for IC/OOC separation */
+    blockquote {
+        border-left: 3px solid var(--sw-blue);
+        background: rgba(0, 170, 255, 0.05);
+        padding: 1px 20px;
+        margin: 10px 0;
+    }
+</style>
+
 </head>
 <body>
 
