@@ -1,4 +1,4 @@
-name: Sync Assets to Website Branch
+name: Sync Data to Website Branch
 
 on:
   push:
@@ -24,12 +24,17 @@ jobs:
           ref: website
           path: website_repo
 
-      - name: Sync Folders
+      - name: Sync Content and Resources
         run: |
-          # Copy JSON logs and Images to the website folder structure
-          # Adjust the destination paths below if your website branch 
-          # uses different folder names (e.g., assets/images)
+          # Create folders on website branch if missing
+          mkdir -p website_repo/Chapter_Logs
+          mkdir -p website_repo/Image_Resources
+          mkdir -p website_repo/assets/internal
+
+          # Sync Chapter Logs (JSON, avatars, emojis, media)
           rsync -av --delete main_repo/Chapter_Logs/ website_repo/Chapter_Logs/
+          
+          # Sync PC/NPC Resources
           rsync -av --delete main_repo/Image_Resources/ website_repo/Image_Resources/
 
       - name: Commit and Push to Website Branch
@@ -38,6 +43,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          # Only commit if there are actual changes to prevent empty loops
-          git diff-index --quiet HEAD || git commit -m "Auto-sync: Updated logs and images from main"
-          git push origin website
+          # Check for changes to avoid empty commits
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Auto-sync: Updated chapter logs and resources from main"
+            git push origin website
+          else
+            echo "No changes to sync."
+          fi
