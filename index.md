@@ -8,19 +8,28 @@ title: Home
   <p class="flavor-text">Placeholder</p>
 </div>
 
-<div class="dashboard-grid">
-  
+<div class="dashboard-grid">  
   <section class="update-panel">
     <h3><span class="icon">📡</span> Recent Chapter Logs</h3>
     <ul class="log-list">
-      {% for p in site.pages %}    
-        {% if p.path contains 'Chapter_Logs/' %}    
-          <li>    
-            <a href="{{ site.baseurl }}{{ p.url }}">
-            <span class="chapter-title">{{ p.title | default: p.name }}</a>   </span> 
-          </li>    
-        {% endif %}    
-      {% endfor %}    
+      {% comment %} 1. Filter and Prepare Data {% endcomment %}
+      {% assign all_logs = site.pages | where_exp: "p", "p.path contains 'Chapter_Logs/'" %}      
+      {% comment %} 2. Sort by Filename (Prelude starts with P, Ch starts with C, so we reverse sort) {% endcomment %}
+      {% assign sorted_logs = all_logs | sort: "path" | reverse %}  
+      {% comment %} 3. Loop and Limit to the top 5 {% endcomment %}
+      {% for p in sorted_logs limit:5 %}
+        <li>
+          <a href="{{ site.baseurl }}{{ p.url }}">
+            <span class="chapter-title">
+              {% if p.path contains 'Prelude' %}
+                [Prelude] {{ p.title | default: p.name | replace: 'FO_BB_Prelude-', '' }}
+              {% else %}
+                {{ p.title | default: p.name }}
+              {% endif %}
+            </span>
+          </a>
+        </li>
+      {% endfor %}
     </ul>
     <a href="{{ site.baseurl }}/logs" class="view-all">View Full Archive →</a>
   </section>
