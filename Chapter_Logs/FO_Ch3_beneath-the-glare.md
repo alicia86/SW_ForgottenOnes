@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: log-entry
 title: "Chapter 3: Beneath The Glare"
 order: 3
 ---

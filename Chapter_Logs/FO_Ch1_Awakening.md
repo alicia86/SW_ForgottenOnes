@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: log-entry
 title: "Chapter 1: Awakening"
 order: 1
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: log-entry
 title: "Prelude: Dryzan"
 order: 0
 ---

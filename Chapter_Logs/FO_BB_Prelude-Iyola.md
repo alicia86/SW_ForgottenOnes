@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: log-entry
 title: "Prelude: Iyola"
 order: 0
 ---

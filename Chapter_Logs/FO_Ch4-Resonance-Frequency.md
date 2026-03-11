@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: log-entry
 title: "Chapter 4: Resonance Frequency"
 order: 4
 ---

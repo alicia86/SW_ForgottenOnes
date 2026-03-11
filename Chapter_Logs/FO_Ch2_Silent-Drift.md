@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: log-entry
 title: "Chapter 2: Silent Drift"
 order: 2
 ---
