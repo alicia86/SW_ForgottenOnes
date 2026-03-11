@@ -36,6 +36,29 @@ jobs:
           
           # Sync PC/NPC Resources
           rsync -av --delete main_repo/Image_Resources/ website_repo/Image_Resources/
+          
+      - name: Inject Markdown Headers with Order
+        run: |
+          cd website_repo/Chapter_Logs
+          for file in *.md; do
+            [ -e "$file" ] || continue
+            
+            # 1. Determine the Order Number
+            if [[ "$file" == *"Prelude"* ]]; then
+              ORDER=0
+            else
+              # Extracts number from "FO_Ch1", "FO_Ch12", etc.
+              ORDER=$(echo "$file" | grep -oP '(?<=Ch)\d+')
+            fi
+
+            # 2. Generate Title
+            TITLE=$(echo "$file" | sed 's/\.md//' | sed 's/FO_Ch/Chapter /' | sed 's/FO_BB_Prelude-/Prelude: /' | sed 's/[-_]/ /g')
+
+            # 3. Inject Front Matter (Only if not already present)
+            if ! grep -q "^---" "$file"; then
+              echo -e "---\nlayout: default\ntitle: \"$TITLE\"\norder: $ORDER\n---\n\n$(cat "$file")" > "$file"
+            fi
+          done
 
       - name: Commit and Push to Website Branch
         run: |
