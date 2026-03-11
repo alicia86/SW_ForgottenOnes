@@ -37,6 +37,14 @@
         <div id="viewer-output">Initializing Datapad Link...</div>
     </article>
 
+    <footer>
+        <hr>
+        <p>Campaign: <strong>Star Wars: Forgotten Ones</strong></p>
+        <p style="font-size: 0.8rem; color: #666;">
+            Last Updated: {{ site.time | date: "%Y-%m-%d %H:%M:%S" }} UTC
+        </p>
+    </footer>
+
     <script>
         async function loadChapter(jsonFile) {
             const output = document.getElementById('viewer-output');
