@@ -1,1 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | SW: Forgotten Ones</title>
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/dark.css">
+    
+    <style>
+        body {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.8;
+        }
+        header {
+            border-bottom: 2px solid #444;
+            margin-bottom: 2rem;
+            padding-bottom: 1rem;
+        }
+        footer {
+            margin-top: 3rem;
+            border-top: 1px solid #444;
+            padding-top: 1rem;
+            font-size: 0.9rem;
+            color: #888;
+        }
+        .back-link {
+            text-decoration: none;
+            font-weight: bold;
+            color: #00aaff;
+        }
+        /* Style for Markdown images if you include maps or character art */
+        img {
+            max-width: 100%;
+            border-radius: 8px;
+            border: 1px solid #555;
+        }
+    </style>
+</head>
+<body>
 
+    <header>
+        <nav>
+            <a href="{{ site.baseurl }}/" class="back-link">← Back to Logs Index</a>
+        </nav>
+        <h1>{{ page.title }}</h1>
+    </header>
+
+    <main>
+        {{ content }}
+    </main>
+
+    <footer>
+        <p>Campaign: <strong>Star Wars: Forgotten Ones</strong></p>
+        <p>Last updated: {{ "now" | date: "%Y-%m-%d" }}</p>
+    </footer>
+
+</body>
+</html>
