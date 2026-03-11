@@ -14,7 +14,6 @@ title: Home
     <ul class="log-list">
       {% comment %} 1. Pull all files from logs folder {% endcomment %}
       {% assign all_files = site.static_files | where_exp: "file", "file.path contains 'Chapter_Logs/'" %}
-      
       {% comment %} 2. Create a filtered list of ONLY .md files {% endcomment %}
       {% assign md_files = "" | split: "" %}
       {% for file in all_files %}
@@ -22,10 +21,8 @@ title: Home
           {% assign md_files = md_files | push: file %}
         {% endif %}
       {% endfor %}
-
       {% comment %} 3. Sort by modified_time and then limit to 5 {% endcomment %}
-      {% assign sorted_logs = md_files | sort: "modified_time" | reverse %}
-      
+      {% assign sorted_logs = md_files | sort: "modified_time" | reverse %}      
       {% for file in sorted_logs limit:5 %}
         <li>
           <a href="{{ file.path | relative_url }}">
