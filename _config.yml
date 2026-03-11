@@ -1,7 +1,7 @@
 title: "Star Wars: Forgotten Ones"
 description: "A Star Wars Sage TTRPG Campaign"
 url: "https://fo.galacticcampaigns.com"
-baseurl: "" # Leave empty if using a custom domain, or set to /repo-name/
+baseurl: "/SW_ForgottenOnes/" # Leave empty if using a custom domain, or set to /repo-name/
 
 # Force Jekyll to include these folders
 include:
@@ -14,7 +14,6 @@ keep_files:
   - Chapter_Logs
   - Image_Resources
   - CNAME
-  - assets
 
 # Collections for the future JSON rendering
 collections:
