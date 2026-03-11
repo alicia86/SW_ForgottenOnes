@@ -40,25 +40,40 @@ jobs:
 
       - name: Inject Markdown Headers
         run: |
-          # Find all .md files, excluding the JSON folder if it's inside
           find website_repo/Chapter_Logs -maxdepth 1 -name "*.md" | while read file; do
-            filename=$(basename "$file")
+            filename=$(basename "$file" .md)
             
-            # 1. Check if header already exists (checks first line for ---)
+            # 1. Check if header already exists
             if ! head -n 1 "$file" | grep -q "^---"; then
               
-              # 2. Determine Order
               if [[ "$filename" == *"Prelude"* ]]; then
+                # Handle Preludes (e.g., FO_BB_Prelude-Dryzan)
+                RAW_NAME=$(echo "$filename" | sed 's/FO_BB_Prelude-//')
+                # Capitalize and format
+                CLEAN_NAME=$(echo "$RAW_NAME" | sed 's/[-_]/ /g' | perl -pe 's/\b(\w)/\U$1/g')
+                TITLE="Prelude: $CLEAN_NAME"
                 ORDER=0
               else
-                # Extracts the digits after 'Ch'
+                # Handle Chapters (e.g., FO_Ch4-Resonance-Frequency)
+                # Extract Number
                 ORDER=$(echo "$filename" | grep -oP '(?<=Ch)\d+' || echo "99")
+                
+                # Extract the part after the number
+                # This removes 'FO_Ch' + the digits + the following separator (_ or -)
+                RAW_NAME=$(echo "$filename" | sed -E 's/FO_Ch[0-9]+[-_]?//')
+                
+                # Capitalize every word and replace separators with spaces
+                CLEAN_NAME=$(echo "$RAW_NAME" | sed 's/[-_]/ /g' | perl -pe 's/\b(\w)/\U$1/g')
+                
+                # Format with the colon
+                if [ -z "$CLEAN_NAME" ]; then
+                  TITLE="Chapter $ORDER"
+                else
+                  TITLE="Chapter $ORDER: $CLEAN_NAME"
+                fi
               fi
 
-              # 3. Clean Title (FO_Ch1_Awakening -> Chapter 1: Awakening)
-              TITLE=$(echo "$filename" | sed 's/\.md//' | sed 's/FO_Ch/Chapter /' | sed 's/FO_BB_Prelude-/Prelude: /' | sed 's/[-_]/ /g')
-
-              # 4. Inject using a temporary file for safety
+              # 2. Inject the header
               {
                 echo "---"
                 echo "layout: default"
@@ -69,12 +84,11 @@ jobs:
                 cat "$file"
               } > "$file.tmp" && mv "$file.tmp" "$file"
               
-              echo "✅ Injected header into $filename (Order: $ORDER)"
+              echo "✅ Formatted: $TITLE (Order: $ORDER)"
             else
               echo "⏭️ Skipping $filename (Header exists)"
             fi
           done
-
       - name: Commit and Push
         run: |
           cd website_repo
