@@ -1,4 +1,8 @@
-﻿# Forgotten Ones | FO Ch3 Beneath The Glare
+---
+layout: default
+title: Chapter 3: Beneath the Glare
+ 
+ # Forgotten Ones | FO Ch3 Beneath The Glare
 
 <img src="avatars/1436384190198448270/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
