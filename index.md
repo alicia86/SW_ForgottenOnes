@@ -5,13 +5,11 @@ title: Campaign Logs
 
 # Adventure Logs
 
-Below are the recorded chapters of our journey:
-
 <ul>
-  {% for file in site.static_files %}
-    {% if file.path contains '/Chapter_Logs/' and file.extname == '.md' %}
+  {% for p in site.pages %}
+    {% if p.path contains 'Chapter_Logs/' %}
       <li>
-        <a href="{{ site.baseurl }}{{ file.path }}">{{ file.basename | replace: "_", " " }}</a>
+        <a href="{{ site.baseurl }}{{ p.url }}">{{ p.title | default: p.name }}</a>
       </li>
     {% endif %}
   {% endfor %}
