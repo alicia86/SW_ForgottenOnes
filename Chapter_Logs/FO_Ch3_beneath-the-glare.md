@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chapter 3: Beneath the Glare
+title: "Chapter 3: Beneath the Glare"
 ---
  
  # Forgotten Ones | FO Ch3 Beneath The Glare
