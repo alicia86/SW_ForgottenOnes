@@ -185,8 +185,8 @@ pre { background: #2f3136; border: 1px solid var(--gh-border); padding: 10px; bo
 }
 
 /* --- HOME PAGE / ARCHIVE DASHBOARD --- */
-.hero-section { text-align: center; padding: 40px 0; }
-.site-logo { max-width: 250px; margin-bottom: 10px; }
+.hero-section { text-align: center; padding: 10px 0; }
+.site-logo { width:75%; max-width: 900px; max-height: 150px; margin-bottom: 10px; }
 .flavor-text { color: var(--sw-yellow); font-style: italic; opacity: 0.8; }
 
 .log-list li { padding: 12px 0; border-bottom: 1px solid var(--gh-border); }
