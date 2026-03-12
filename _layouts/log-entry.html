@@ -17,6 +17,16 @@ layout: default
   .footer-nav-container { display: flex; justify-content: space-between; gap: 15px; }
   .nav-btn { flex: 1; display: flex; align-items: center; justify-content: center; padding: 8px 12px; background: #1c2128; border: 1px solid var(--gh-border); border-radius: 4px; color: var(--sw-blue); font-size: 0.8rem; font-weight: bold; text-transform: uppercase; }
   .nav-btn.disabled { opacity: 0.3; cursor: not-allowed; }
+  
+  .toc-content ul {
+    list-style: none !important;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .toc-content li {
+    list-style: none !important;
+  }
 
   @media (max-width: 600px) { .nav-text { display: none; } .log-content { padding-bottom: 120px; } }
 </style>

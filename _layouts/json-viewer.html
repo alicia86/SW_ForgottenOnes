@@ -2,14 +2,42 @@
 layout: default
 ---
 <style>
-    .log-container-json { max-width: 900px; margin: 0 auto; padding: 20px; }
-    .frequency-nav-bar { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 25px; padding: 12px; background: var(--panel-bg); border: 1px solid var(--gh-border); position: sticky; top: 60px; z-index: 900; }
-    .freq-btn { background: transparent; border: 1px solid var(--sw-blue); color: var(--sw-blue); padding: 6px 12px; font-size: 0.75rem; cursor: pointer; border-radius: 3px; font-weight: bold; text-transform: uppercase; }
+    .log-container-json { width: 100%; margin: 0 auto; padding: 10px; }
+    .frequency-nav-bar { 
+        display: flex; 
+        flex-wrap: wrap; 
+        gap: 8px; 
+        margin-bottom: 25px; 
+        padding: 12px; 
+        background: var(--panel-bg); 
+        border: 1px solid var(--gh-border); 
+        position: sticky; 
+        top: var(--header-height); /* Sticks exactly below the primary nav */
+        z-index: 1000; 
+        width: 100%;
+    }
+    .freq-btn { 
+        flex-grow: 1; /* Makes buttons fill the width on mobile */
+        text-align: center;
+        background: transparent; 
+        border: 1px solid var(--sw-blue); 
+        color: var(--sw-blue); 
+        padding: 8px 12px; 
+        font-size: 0.7rem; 
+        cursor: pointer; 
+        border-radius: 3px; 
+        font-weight: bold; 
+        text-transform: uppercase;
+    }
     .freq-btn.active { background: var(--sw-blue); color: #000; box-shadow: 0 0 10px var(--sw-glow); }
     
     /* Transmission Visuals */
     .channel-transition { display: flex; align-items: center; justify-content: center; margin: 45px 0 25px; padding: 15px; background: rgba(88,166,255,0.05); border: 1px dashed var(--sw-blue); color: var(--sw-blue); font-family: monospace; font-size: 0.75rem; letter-spacing: 2px; cursor: pointer; }
-    .message-group { display: flex; padding: 10px 20px; border-bottom: 1px solid rgba(48, 54, 61, 0.2); transition: background 0.3s; }
+    .message-group { 
+        display: flex; 
+        padding: 15px 10px; /* Slightly tighter for mobile */
+        border-bottom: 1px solid rgba(48, 54, 61, 0.2); 
+    }
     .avatar-container { width: 42px; height: 42px; margin-right: 15px; flex-shrink: 0; background: #1c2128; border-radius: 4px; overflow: hidden; }
     .avatar { width: 100%; height: 100%; object-fit: cover; opacity: 0; transition: opacity 0.3s; }
     .avatar.loaded { opacity: 1; }
@@ -19,6 +47,11 @@ layout: default
     .copy-link-icon { opacity: 0.2; cursor: pointer; font-size: 0.8rem; margin-left: 8px; }
     .message-group:hover .copy-link-icon { opacity: 1; }
     .message-group:target, .highlight-flash { background: rgba(210, 153, 34, 0.15) !important; border-left: 3px solid var(--sw-yellow); }
+    @media (max-width: 600px) {
+        .log-container-json { padding: 5px; }
+        .username { font-size: 0.9rem; }
+        .timestamp { font-size: 0.7rem; display: block; } /* Stack on mobile */
+    }
 </style>
 
 <header class="frozen-nav">
