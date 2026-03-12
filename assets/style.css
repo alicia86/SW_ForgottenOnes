@@ -1,4 +1,4 @@
-/* --- 1. CORE VARIABLES --- */
+/* --- CORE VARIABLES --- */
 :root {
     --gh-bg: #0d1117;
     --gh-border: #30363d;
@@ -13,7 +13,7 @@
     --sidebar-width: 300px;
 }
 
-/* --- 2. THE STICKY FIX (Global Reset) --- */
+/* --- THE STICKY FIX (Global Reset) --- */
 /* Sticky fails if any parent has overflow: hidden or auto. This forces them to be visible. */
 html, body {
     margin: 0;
@@ -41,7 +41,7 @@ main {
     overflow: visible !important; /* Vital for sticky button */
 }
 
-/* --- 3. REUSABLE COMPONENTS --- */
+/* --- REUSABLE COMPONENTS --- */
 .panel {
     background: var(--panel-bg);
     border: 1px solid var(--gh-border);
@@ -63,7 +63,7 @@ main {
 a { color: var(--sw-blue); text-decoration: none; transition: 0.2s; }
 a:hover { text-decoration: underline; color: var(--sw-yellow); }
 
-/* --- 4. LOG CONTENT FORMATTING --- */
+/* --- LOG CONTENT FORMATTING --- */
 .st-gold {
     color: var(--sw-yellow);
     font-style: italic;
@@ -80,7 +80,7 @@ a:hover { text-decoration: underline; color: var(--sw-yellow); }
     font-family: monospace;
 }
 
-/* --- 5. STICKY NAVIGATION (The "View Index" Bar) --- */
+/* --- STICKY NAVIGATION (The "View Index" Bar) --- */
 .frozen-nav {
     position: -webkit-sticky; 
     position: sticky;
@@ -113,7 +113,7 @@ a:hover { text-decoration: underline; color: var(--sw-yellow); }
     box-shadow: 0 0 10px var(--sw-glow);
 }
 
-/* --- 6. DATAPAD SIDEBAR & OVERLAY --- */
+/* --- DATAPAD SIDEBAR & OVERLAY --- */
 .log-wrapper {
     display: block; /* Block layout is more stable for sticky elements than Flex */
     position: relative;
@@ -170,7 +170,7 @@ a:hover { text-decoration: underline; color: var(--sw-yellow); }
 }
 .sidebar-overlay.active { display: block; opacity: 1; }
 
-/* --- 7. RESPONSIVE DESIGN --- */
+/* --- RESPONSIVE DESIGN --- */
 
 /* Desktop Adjustments */
 @media (min-width: 1200px) {
@@ -183,7 +183,29 @@ a:hover { text-decoration: underline; color: var(--sw-yellow); }
     .frozen-nav { margin-top: -15px; } /* Adjust for smaller main padding */
 }
 
-/* --- 8. FOOTER --- */
+/* --- DISCORD-STYLE SPOILERS --- */
+.spoiler {
+    background-color: #4f545c; /* Discord-ish grey */
+    color: transparent;
+    border-radius: 3px;
+    padding: 0 2px;
+    transition: background-color 0.2s, color 0.2s;
+    cursor: help;
+}
+
+/* Reveal on hover (Desktop) */
+.spoiler:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    color: var(--gh-text);
+}
+
+/* Reveal on click/active (Mobile) */
+.spoiler:active {
+    background-color: rgba(255, 255, 255, 0.1);
+    color: var(--gh-text);
+}
+
+/* --- FOOTER --- */
 footer {
     text-align: center;
     padding: 60px 20px 40px;
