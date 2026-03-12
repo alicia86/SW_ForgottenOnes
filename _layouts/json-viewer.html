@@ -131,24 +131,34 @@ layout: default
      */
     async function init() {
         try {
-            const response = await fetch("{{ '/assets/log-manifest.json' | relative_url }}");
+            // Added a timestamp parameter to force the browser to fetch the freshest version
+            const cacheBuster = `?v=${new Date().getTime()}`;
+            const response = await fetch("{{ '/assets/log-manifest.json' | relative_url }}" + cacheBuster);
+            
             if (!response.ok) throw new Error("Manifest sequence offline.");
             const manifest = await response.json();
             
             const picker = document.getElementById('chapter-picker');
+            if (!picker) return;
+
+            // Clear the "LOADING" message
             picker.innerHTML = ""; 
 
             manifest.forEach(item => {
                 const opt = document.createElement('option');
                 opt.value = item.file;
-                opt.innerHTML = item.title;
+                // FORCE: Use the title from the JSON manifest
+                opt.textContent = item.title; 
                 picker.appendChild(opt);
             });
 
-            if (manifest.length > 0) {
+            // Auto-load the first (latest) entry in the manifest if we haven't selected one
+            if (manifest.length > 0 && !picker.value) {
+                picker.value = manifest[0].file;
                 loadChapter(manifest[0].file);
             }
         } catch (e) {
+            console.error("Manifest Error:", e);
             document.getElementById('viewer-output').innerHTML = `<b style="color:red">COMMS ERROR: ${e.message}</b>`;
         }
     }
@@ -164,8 +174,14 @@ layout: default
         try {
             const response = await fetch("{{ '/Chapter_Logs/JSON/' | relative_url }}" + jsonFile);
             const data = await response.json();
-            fullData = Array.isArray(data) ? data : (data.messages || []);
             
+            // Convert to array
+            fullData = Array.isArray(data) ? data : (data.messages || []);
+
+            // --- FORCE CHRONOLOGICAL SORT ---
+            // This ensures messages appear Oldest -> Newest regardless of export settings
+            fullData.sort((a, b) => new Date(a.timestamp) - new Date(b.timestamp));
+
             // Pre-scan for Thread Names and Main Channel ID
             channelMap = {};
             let parentCounts = {};
