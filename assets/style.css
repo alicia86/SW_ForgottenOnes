@@ -78,25 +78,37 @@ a:hover { text-decoration: underline; }
     position: relative;
 }
 
-/* The Sidebar itself */
-/* Ensure the sidebar is ALWAYS on top when active */
+/* Ensure the mobile nav bar is visible */
+.mobile-nav-bar {
+    position: sticky;
+    top: 0;
+    background: var(--gh-bg);
+    padding: 10px 0;
+    z-index: 100;
+    border-bottom: 1px solid var(--gh-border);
+    margin-bottom: 20px;
+}
+
+/* Sidebar Mobile Overhaul */
 .toc-sidebar {
     position: fixed;
     top: 0;
-    left: -320px; /* Increased slightly to ensure full hide */
-    width: 280px;
-    height: 100vh;
-    background: #0d1117; /* Match body bg exactly */
-    border-right: 2px solid var(--sw-blue);
-    z-index: 10000; /* Force to top */
-    transition: left 0.3s ease-in-out;
-    visibility: visible; /* Changed from hidden to avoid JS conflicts */
-    overflow-y: auto;
+    left: -100%; /* Use percentage for mobile safety */
+    width: 85%; /* Don't cover the whole screen so they can see where to click out */
+    max-width: 300px;
+    height: 100%;
+    background: #0d1117;
+    border-right: 1px solid var(--sw-blue);
+    z-index: 99999;
+    transition: left 0.3s ease;
     padding: 20px;
+    overflow-y: auto;
+    box-shadow: none;
 }
 
 .toc-sidebar.active {
     left: 0;
+    box-shadow: 0 0 50px rgba(0,0,0,0.9);
 }
 
 .toc-header {
@@ -138,10 +150,16 @@ a:hover { text-decoration: underline; }
     cursor: pointer;
 }
 
-/* Adjust main content when sidebar is active on desktop */
+/* Adjust Desktop */
 @media (min-width: 1200px) {
-    .toc-sidebar.active + .log-content {
-        margin-left: 300px;
+    .toc-sidebar {
+        width: 280px;
+        left: -300px;
+    }
+    .mobile-nav-bar {
+        position: relative;
+        background: none;
+        border: none;
     }
 }
 
