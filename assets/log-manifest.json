@@ -1,92 +1,134 @@
 [
   {
     "lastMessageTimestamp": "2026-03-08T15:48:52.182+00:00",
-    "participants": 2,
-    "file": "FO_Ch4-Resonance-Frequency.json",
-    "channelID": "1463269257151254540",
-    "preview": "***A long time ago in a galaxy far, far away....***  # **STAR WARS** ## **FORGOTTEN ONES** ### **Episode IV: The Resonan...",
     "title": "CHAPTER 4: RESONANCE FREQUENCY",
-    "order": 4
+    "order": 4,
+    "channelID": "1463269257151254540",
+    "file": "FO_Ch4-Resonance-Frequency.json",
+    "messageCount": 474,
+    "preview": "***A long time ago in a galaxy far, far away....***  # **STAR WARS** ## **FORGOTTEN ONES** ### **Episode IV: The Resonan..."
   },
   {
     "lastMessageTimestamp": "2026-01-20T23:45:34.598+00:00",
-    "participants": 3,
-    "file": "FO_Ch3_beneath-the-glare.json",
-    "channelID": "1435992787584679936",
-    "preview": "***A long time ago in a galaxy far, far away....***  # **STAR WARS** ## **FORGOTTEN ONES** ### **Episode III: Beneath th...",
     "title": "CHAPTER 3: BENEATH THE GLARE",
-    "order": 3
+    "order": 3,
+    "channelID": "1435992787584679936",
+    "file": "FO_Ch3_beneath-the-glare.json",
+    "messageCount": 230,
+    "preview": "***A long time ago in a galaxy far, far away....***  # **STAR WARS** ## **FORGOTTEN ONES** ### **Episode III: Beneath th..."
   },
   {
     "lastMessageTimestamp": "2025-11-06T13:58:18.492+00:00",
-    "participants": 2,
-    "file": "FO_Ch2_Silent-Drift.json",
-    "channelID": "1400816665276711024",
-    "preview": "***A long time ago in a galaxy far, far away....***  # **STAR WARS** ## **FORGOTTEN ONES** ### **Episode II: Silent Drif...",
     "title": "CHAPTER 2: SILENT DRIFT",
-    "order": 2
+    "order": 2,
+    "channelID": "1400816665276711024",
+    "file": "FO_Ch2_Silent-Drift.json",
+    "messageCount": 665,
+    "preview": "***A long time ago in a galaxy far, far away....***  # **STAR WARS** ## **FORGOTTEN ONES** ### **Episode II: Silent Drif..."
   },
   {
     "lastMessageTimestamp": "2025-08-01T12:39:15.84+00:00",
-    "participants": 2,
-    "file": "FO_Ch1_Awakening.json",
-    "channelID": "1387901967317209218",
-    "preview": "***A long time ago in a galaxy far, far away....***  # **STAR WARS** ## **FORGOTTEN ONES** ### **Episode I: Awakening** ...",
     "title": "CHAPTER 1: AWAKENING",
-    "order": 1
+    "order": 1,
+    "channelID": "1387901967317209218",
+    "file": "FO_Ch1_Awakening.json",
+    "messageCount": 299,
+    "preview": "***A long time ago in a galaxy far, far away....***  # **STAR WARS** ## **FORGOTTEN ONES** ### **Episode I: Awakening** ..."
   },
   {
     "lastMessageTimestamp": "2025-07-25T01:02:40.602+00:00",
-    "participants": 2,
-    "file": "FO_BB_Prelude-Dryzan.json",
+    "title": [
+      "PRELUDE: The Static on the Line (Dryzan)",
+      "PRELUDE: The Sunken Star of Xylos (Iyola)",
+      "PRELUDE: (KRYNN)",
+      "PRELUDE: Ghost of the <i>Devastation<i> (Vearos)",
+      "PRELUDE: The Price of a Vision (Varda)",
+      "PRELUDE: (VENA)"
+    ],
+    "order": 0,
     "channelID": "1380700164175696062",
-    "preview": "Prelude: The Static on the Line (Dryzan)",
-    "title": "PRELUDE: The Static on the Line (Dryzan)",
-    "order": 0
+    "file": "FO_BB_Prelude-Dryzan.json",
+    "messageCount": 176,
+    "preview": "Prelude: The Static on the Line (Dryzan) Prelude: The Sunken Star of Xylos (Iyola) Prelude: The Stray Fortune (Krynn) Prelude: Ghost of the Devastator (Vearos) Prelude: The Price of a Vision (Varda) Prelude: The Echo in the Stone (Vena)"
   },
   {
     "lastMessageTimestamp": "2025-07-25T00:03:06.396+00:00",
-    "participants": 2,
-    "file": "FO_BB_Prelude-Iyola.json",
+    "title": [
+      "PRELUDE: The Static on the Line (Dryzan)",
+      "PRELUDE: The Sunken Star of Xylos (Iyola)",
+      "PRELUDE: (KRYNN)",
+      "PRELUDE: Ghost of the <i>Devastation<i> (Vearos)",
+      "PRELUDE: The Price of a Vision (Varda)",
+      "PRELUDE: (VENA)"
+    ],
+    "order": 0,
     "channelID": "1380700164175696062",
-    "preview": "Prelude: The Sunken Star of Xylos (Iyola)",
-    "title": "PRELUDE: The Sunken Star of Xylos (Iyola)",
-    "order": 0
+    "file": "FO_BB_Prelude-Iyola.json",
+    "messageCount": 107,
+    "preview": "Prelude: The Static on the Line (Dryzan) Prelude: The Sunken Star of Xylos (Iyola) Prelude: The Stray Fortune (Krynn) Prelude: Ghost of the Devastator (Vearos) Prelude: The Price of a Vision (Varda) Prelude: The Echo in the Stone (Vena)"
   },
   {
     "lastMessageTimestamp": "2025-06-12T19:27:19.913+00:00",
-    "participants": 2,
-    "file": "FO_BB_Prelude-Krynn.json",
+    "title": [
+      "PRELUDE: The Static on the Line (Dryzan)",
+      "PRELUDE: The Sunken Star of Xylos (Iyola)",
+      "PRELUDE: (KRYNN)",
+      "PRELUDE: Ghost of the <i>Devastation<i> (Vearos)",
+      "PRELUDE: The Price of a Vision (Varda)",
+      "PRELUDE: (VENA)"
+    ],
+    "order": 0,
     "channelID": "1380700164175696062",
-    "preview": "Prelude: The Stray Fortune (Krynn)",
-    "title": "PRELUDE: (KRYNN)",
-    "order": 0
+    "file": "FO_BB_Prelude-Krynn.json",
+    "messageCount": 1,
+    "preview": "Prelude: The Static on the Line (Dryzan) Prelude: The Sunken Star of Xylos (Iyola) Prelude: The Stray Fortune (Krynn) Prelude: Ghost of the Devastator (Vearos) Prelude: The Price of a Vision (Varda) Prelude: The Echo in the Stone (Vena)"
   },
   {
     "lastMessageTimestamp": "2025-07-01T02:47:54.153+00:00",
-    "participants": 2,
-    "file": "FO_BB_Prelude-Vaeros.json",
+    "title": [
+      "PRELUDE: The Static on the Line (Dryzan)",
+      "PRELUDE: The Sunken Star of Xylos (Iyola)",
+      "PRELUDE: (KRYNN)",
+      "PRELUDE: Ghost of the <i>Devastation<i> (Vearos)",
+      "PRELUDE: The Price of a Vision (Varda)",
+      "PRELUDE: (VENA)"
+    ],
+    "order": 0,
     "channelID": "1380700164175696062",
-    "preview": "Prelude: Ghost of the Devastator (Vearos)",
-    "title": "PRELUDE: Ghost of the <i>Devastation<i> (Vearos)",
-    "order": 0
+    "file": "FO_BB_Prelude-Vaeros.json",
+    "messageCount": 130,
+    "preview": "Prelude: The Static on the Line (Dryzan) Prelude: The Sunken Star of Xylos (Iyola) Prelude: The Stray Fortune (Krynn) Prelude: Ghost of the Devastator (Vearos) Prelude: The Price of a Vision (Varda) Prelude: The Echo in the Stone (Vena)"
   },
   {
     "lastMessageTimestamp": "2025-06-18T23:49:12.754+00:00",
-    "participants": 2,
-    "file": "FO_BB_Prelude-Varda.json",
+    "title": [
+      "PRELUDE: The Static on the Line (Dryzan)",
+      "PRELUDE: The Sunken Star of Xylos (Iyola)",
+      "PRELUDE: (KRYNN)",
+      "PRELUDE: Ghost of the <i>Devastation<i> (Vearos)",
+      "PRELUDE: The Price of a Vision (Varda)",
+      "PRELUDE: (VENA)"
+    ],
+    "order": 0,
     "channelID": "1380700164175696062",
-    "preview": "Prelude: The Price of a Vision (Varda)",
-    "title": "PRELUDE: The Price of a Vision (Varda)",
-    "order": 0
+    "file": "FO_BB_Prelude-Varda.json",
+    "messageCount": 135,
+    "preview": "Prelude: The Static on the Line (Dryzan) Prelude: The Sunken Star of Xylos (Iyola) Prelude: The Stray Fortune (Krynn) Prelude: Ghost of the Devastator (Vearos) Prelude: The Price of a Vision (Varda) Prelude: The Echo in the Stone (Vena)"
   },
   {
     "lastMessageTimestamp": "2025-06-12T01:37:02.532+00:00",
-    "participants": 2,
-    "file": "FO_BB_Prelude-Vena.json",
+    "title": [
+      "PRELUDE: The Static on the Line (Dryzan)",
+      "PRELUDE: The Sunken Star of Xylos (Iyola)",
+      "PRELUDE: (KRYNN)",
+      "PRELUDE: Ghost of the <i>Devastation<i> (Vearos)",
+      "PRELUDE: The Price of a Vision (Varda)",
+      "PRELUDE: (VENA)"
+    ],
+    "order": 0,
     "channelID": "1380700164175696062",
-    "preview": "Prelude: The Echo in the Stone (Vena)",
-    "title": "PRELUDE: (VENA)",
-    "order": 0
+    "file": "FO_BB_Prelude-Vena.json",
+    "messageCount": 1,
+    "preview": "Prelude: The Static on the Line (Dryzan) Prelude: The Sunken Star of Xylos (Iyola) Prelude: The Stray Fortune (Krynn) Prelude: Ghost of the Devastator (Vearos) Prelude: The Price of a Vision (Varda) Prelude: The Echo in the Stone (Vena)"
   }
 ]
