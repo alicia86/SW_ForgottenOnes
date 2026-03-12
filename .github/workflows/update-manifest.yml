@@ -36,6 +36,5 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add Chapter_Logs/log-manifest.json
-          # Only commit if there are actually changes
+          git add data/log-manifest.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update log manifest [skip ci]" && git push origin website)
