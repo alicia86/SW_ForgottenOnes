@@ -4,40 +4,35 @@
     --gh-border: #30363d;
     --gh-text: #c9d1d9;
     --text-muted: #8b949e;
-    
     --sw-blue: #58a6ff;
     --sw-yellow: #d29922;
-    --sw-glow: rgba(88, 166, 255, 0.15);
-    
     --panel-bg: #161b22;
-    --header-height: 70px; /* Aligns with the Archives nav bar height */
+    --header-height: 70px;
 }
 
 /* --- 2. GLOBAL RESET & MOBILE STABILIZATION --- */
 * { box-sizing: border-box; }
 
-html, body {
-    margin: 0;
-    padding: 0;
-    width: 100%;
-    min-height: 100%;
-    /* FIX: Prevents horizontal scroll/zoom bug on mobile */
+html {
+    scroll-behavior: smooth;
+    /* Allow the body to handle the scroll, which is vital for stickiness */
     overflow-x: hidden; 
+}
+
+body {
+    margin: 0; padding: 0; 
+    width: 100%;
     background-color: var(--gh-bg);
     color: var(--gh-text);
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-    line-height: 1.6;
-    /* Improves text rendering on high-res mobile screens */
-    -webkit-font-smoothing: antialiased;
 }
 
-main {
-    display: block;
+main { 
+    display: block; 
     width: 100%;
-    max-width: 900px;
-    margin: 0 auto;
+    max-width: 900px; 
+    margin: 0 auto; 
     padding: 0 15px;
-    /* CRITICAL: Sticky items fail if overflow is hidden or auto here */
     overflow: visible !important; 
 }
 
@@ -65,33 +60,39 @@ a:hover { text-decoration: underline; color: var(--sw-yellow); }
 
 /* --- 4. SHARED TOP NAVIGATION (The Sticky Bar) --- */
 .frozen-nav {
-    position: -webkit-sticky; 
+    position: -webkit-sticky;
     position: sticky;
     top: 0;
-    z-index: 3000; /* Stays above everything else */
+    z-index: 5000; /* Extremely high to prevent overlap */
     background-color: var(--gh-bg); 
-    padding: 15px 0;
     border-bottom: 1px solid var(--gh-border);
-    width: 100%;
     height: var(--header-height);
+    width: 100%;
+    /* Use padding instead of margin to prevent layout shifts */
+    padding: 0 10px;
     display: flex;
     align-items: center;
 }
-
+.nav-inner {
+    display: flex;
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    gap: 10px;
+    align-items: center;
+    overflow: hidden; /* Keeps buttons from flying off screen */
+}
 .toc-open-btn {
     background: #1c2128;
     color: var(--sw-blue);
     border: 1px solid var(--sw-blue);
-    padding: 8px 16px;
+    padding: 6px 12px;
     font-weight: bold;
     cursor: pointer;
     border-radius: 4px;
     text-transform: uppercase;
-    font-size: 0.8rem;
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    white-space: nowrap;
+    font-size: 0.75rem;
+    white-space: nowrap; /* Prevent text wrapping inside buttons */
 }
 
 .toc-open-btn:hover {

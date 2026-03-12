@@ -8,23 +8,30 @@ layout: default
     .frequency-nav-bar { 
         position: -webkit-sticky;
         position: sticky; 
-        top: var(--header-height); /* Sticks exactly below the Archives nav */
-        z-index: 2000;
+        top: var(--header-height); /* Sticks exactly below header */
+        z-index: 4500; /* Just below main nav */
         background: var(--panel-bg);
         border: 1px solid var(--gh-border);
-        border-top: none; padding: 12px;
-        display: none; /* Controlled by JS toggle */
-        flex-wrap: wrap; gap: 8px;
-        box-shadow: 0 10px 20px rgba(0,0,0,0.5);
+        border-top: none;
+        padding: 10px;
+        display: none; 
+        flex-wrap: wrap;
+        gap: 5px;
+        width: 100%;
+        max-width: 900px;
+        left: 50%;
+        transform: translateX(-50%); /* Centers the bar if screen is wide */
     }
 
     .comms-status { width: 100%; padding: 5px 10px; font-size: 0.65rem; color: var(--sw-yellow); font-family: monospace; border-bottom: 1px solid var(--gh-border); margin-bottom: 8px; text-transform: uppercase; }
 
     .freq-btn { 
-        flex: 1 1 auto; min-width: 120px; text-align: center;
-        background: transparent; border: 1px solid var(--sw-blue); color: var(--sw-blue); 
-        padding: 8px; font-size: 0.7rem; cursor: pointer; border-radius: 3px; 
-        font-weight: bold; text-transform: uppercase;
+        flex: 1 1 auto;
+        padding: 6px;
+        font-size: 0.65rem;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
     }
     .freq-btn.active { background: var(--sw-blue); color: #000; box-shadow: 0 0 10px var(--sw-glow); }
 
@@ -62,11 +69,10 @@ layout: default
 </style>
 
 <header class="frozen-nav">
-    <div style="display: flex; gap: 10px; padding: 0 10px; align-items: center;">
-        <a href="{{ '/archives' | relative_url }}" class="toc-open-btn">⇠ ARCHIVES</a>
+    <div class="nav-inner">
+        <a href="{{ '/archives' | relative_url }}" class="toc-open-btn" style="text-decoration: none;">⇠</a>
         
-        <select id="chapter-picker" class="toc-open-btn" onchange="loadChapter(this.value)" style="background: #1c2128; flex-grow: 1;">
-            <option value="">-- SELECT DATA ARCHIVE --</option>
+        <select id="chapter-picker" class="toc-open-btn" onchange="loadChapter(this.value)" style="background: #1c2128; flex-grow: 1; min-width: 0;">
             {% assign json_files = site.static_files | where_exp: "file", "file.path contains 'Chapter_Logs/JSON/'" %}
             {% for file in json_files %}
                 <option value="{{ file.name }}">{{ file.basename | replace: '_', ' ' | upcase }}</option>
