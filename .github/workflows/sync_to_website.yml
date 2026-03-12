@@ -43,12 +43,12 @@ jobs:
           find website_repo/Chapter_Logs -maxdepth 1 -name "*.md" | while read file; do
             filename=$(basename "$file" .md)
             
-            # 1. CLEANUP: Strip leading whitespace and fix potential BOM/Encoding issues
+            # CLEANUP: Strip leading whitespace and fix potential BOM/Encoding issues
             # We use sed to remove the BOM if it exists (the 1s/...) and leading spaces on # lines
             sed -i '1s/^\xEF\xBB\xBF//' "$file"
             sed -i 's/^[[:space:]]*#/#/g' "$file"
 
-            # 2. GENERATE CLEAN METADATA
+            # GENERATE CLEAN METADATA
             if [[ "$filename" == *"Prelude"* ]]; then
               ORDER=0
               RAW_NAME=$(echo "$filename" | sed 's/FO_BB_Prelude-//')
@@ -61,7 +61,7 @@ jobs:
               TITLE="Chapter $ORDER: $CLEAN_NAME"
             fi
 
-            # 3. STANDARDIZE THE H1
+            # STANDARDIZE THE H1
             # Logic: If the file ALREADY has a single '#' header, replace it. 
             # If it only has '##' or higher (like Preludes), prepend the H1 at the very top of content.
             if grep -q "^#[[:space:]]" "$file"; then
@@ -72,10 +72,14 @@ jobs:
                 sed -i "1i # $TITLE\n" "$file"
             fi
 
-            # 4. FIX SUB-HEADER SPACING (##Title -> ## Title)
+            # CONVERT DISCORD SPOILERS (||text|| -> <span class="spoiler">text</span>) ---
+            # This prevents Kramdown from treating the pipes as a table
+            perl -i -pe 's/\|\|(.*?)\|\|/<span class="spoiler">$1<\/span>/g' "$file"
+
+            # FIX SUB-HEADER SPACING (##Title -> ## Title)
             sed -i 's/^\(#\+\)\([^#[:space:]]\)/\1 \2/g' "$file"
 
-            # 5. INJECT FRONT MATTER
+            # INJECT FRONT MATTER
             if ! head -n 5 "$file" | grep -q "layout:"; then
               {
                 echo "---"
