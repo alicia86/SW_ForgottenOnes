@@ -1,0 +1,37 @@
+name: Update Log Manifest
+on:
+  push:
+    paths:
+      - 'Chapter_Logs/JSON/*.json'
+  workflow_dispatch:
+    inputs:
+      force_refresh:
+        description: 'Force re-scan of all titles (overwrites manual changes)'
+        required: false
+        type: boolean
+        default: false
+
+jobs:
+  update-manifest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Run Manifest Generator
+        shell: pwsh
+        run: |
+          $force = "${{ github.event.inputs.force_refresh }}" -eq "true"
+          if ($force) {
+            ./.github/workflows/scripts/manifest-gen.ps1 -ForceUpdate
+          } else {
+            ./.github/workflows/scripts/manifest-gen.ps1
+          }
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add Chapter_Logs/log-manifest.json
+          git commit -m "Auto-update log manifest [skip ci]" || exit 0
+          git push
