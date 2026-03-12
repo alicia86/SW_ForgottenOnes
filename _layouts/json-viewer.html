@@ -2,162 +2,280 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>{{ page.title }} | Star Wars: Forgotten Ones</title>    
+    <title>{{ page.title }} | Holo-Net Datapad</title>    
     
     <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}?v={{ site.time | date: '%Y%m%d%H%M%S' }}">
+    
     <style>
-        #controls { padding: 20px; text-align: center; background: var(--panel-bg); border-bottom: 1px solid var(--gh-border); }
-        #log-container { width: 100%; max-width: 900px; margin: 20px auto; background: var(--gh-bg); }
-        .message-group { display: flex; padding: 10px 20px; border-bottom: 1px solid var(--gh-border); }
-        .avatar { width: 42px; height: 42px; border-radius: 4px; margin-right: 15px; flex-shrink: 0; border: 1px solid var(--gh-border); }
-        .msg-body { flex-grow: 1; }
-        .username { color: var(--sw-blue); font-weight: 600; margin-right: 10px; }
-        .timestamp { color: var(--text-muted); font-size: 0.8rem; }
-        .msg-content { white-space: pre-wrap; margin-top: 5px; }
-        .st-gold { color: var(--sw-yellow); font-style: italic; font-weight: bold; display: block; text-align: center; margin: 15px 0; }
+        /* --- JSON VIEWER SPECIFIC OVERRIDES --- */
+        .log-container-json { 
+            display: flex; 
+            gap: 20px; 
+            max-width: 1200px; 
+            margin: 0 auto; 
+            padding: 20px; 
+            overflow: visible !important;
+        }
+        
+        /* Fixed Sidebars for Scenes */
+        .json-sidebar { 
+            width: 250px; 
+            position: sticky; 
+            top: 80px; 
+            height: fit-content; 
+        }
+
+        .json-main { flex-grow: 1; max-width: 900px; }
+
+        /* Frequency Switcher Bar */
+        .channel-bar { 
+            display: flex; 
+            flex-wrap: wrap; 
+            gap: 8px; 
+            margin-bottom: 20px; 
+            padding: 15px; 
+            background: var(--panel-bg); 
+            border: 1px solid var(--gh-border); 
+            border-radius: 6px; 
+        }
+
+        .chan-btn { 
+            background: transparent; 
+            border: 1px solid var(--sw-blue); 
+            color: var(--sw-blue); 
+            padding: 5px 12px; 
+            font-size: 0.75rem; 
+            cursor: pointer; 
+            border-radius: 3px; 
+            font-weight: bold; 
+            text-transform: uppercase;
+        }
+
+        .chan-btn.active { 
+            background: var(--sw-blue); 
+            color: #000; 
+            box-shadow: 0 0 10px var(--sw-glow); 
+        }
+
+        /* Message Formatting */
+        .message-group { 
+            display: flex; 
+            flex-direction: column;
+            padding: 12px 20px; 
+            border-bottom: 1px solid rgba(48, 54, 61, 0.3); 
+        }
+
+        .message-main { display: flex; }
+        .avatar { width: 40px; height: 40px; border-radius: 4px; margin-right: 15px; flex-shrink: 0; }
+        
+        .msg-header { margin-bottom: 4px; }
+        .username { color: var(--sw-blue); font-weight: 600; margin-right: 8px; }
+        .timestamp { color: var(--text-muted); font-size: 0.75rem; }
+        
+        /* Reply Context (Match PS1 Logic) */
+        .reply-context {
+            display: flex;
+            align-items: center;
+            margin-left: 55px;
+            margin-bottom: 4px;
+            opacity: 0.6;
+            font-size: 0.8rem;
+            color: var(--text-muted);
+        }
+        .reply-line {
+            width: 20px;
+            height: 10px;
+            border-left: 2px solid #4f545c;
+            border-top: 2px solid #4f545c;
+            border-top-left-radius: 6px;
+            margin-right: 8px;
+        }
+        .reply-avatar { width: 16px; height: 16px; border-radius: 50%; margin-right: 5px; }
+
+        /* Smart Anchor Highlighting */
+        .internal-link { color: var(--sw-yellow); text-decoration: underline dotted; }
+        .message-group:target { 
+            background: rgba(88, 166, 255, 0.1); 
+            border-left: 3px solid var(--sw-blue);
+        }
+
+        .scene-divider { text-align: center; border-bottom: 1px solid var(--sw-yellow); line-height: 0.1em; margin: 50px 0 30px; }
+        .scene-divider span { background: var(--gh-bg); padding: 0 15px; color: var(--sw-yellow); font-family: monospace; letter-spacing: 2px; }
     </style>
 </head>
 <body>
 
-    <div id="controls">
-        <div class="control-group">
-            <label>MISSION ARCHIVE:</label>
-            <select id="chapter-picker" onchange="loadChapter(this.value)">
-                </select>
+    <header class="frozen-nav">
+        <div style="display: flex; gap: 10px; padding: 0 10px;">
+            <a href="{{ '/archives' | relative_url }}" class="toc-open-btn" style="text-decoration: none;">⇠ ARCHIVES</a>
+            <select id="chapter-picker" class="toc-open-btn" onchange="loadChapter(this.value)" style="background: #1c2128;">
+                <option value="">-- SELECT TRANSMISSION --</option>
+                {% assign json_files = site.static_files | where_exp: "file", "file.path contains 'Chapter_Logs/JSON/'" %}
+                {% for file in json_files %}
+                    <option value="{{ file.name }}">{{ file.basename | replace: '_', ' ' | upcase }}</option>
+                {% endfor %}
+            </select>
         </div>
-        
-        <div id="frequency-nav" class="frequency-bar"></div>
+    </header>
+
+    <div class="log-container-json">
+        <aside class="json-sidebar">
+            <div class="panel">
+                <h3>Scene Markers</h3>
+                <div id="scene-jump-list" style="font-size: 0.8rem; color: var(--text-muted);">
+                    Awaiting Signal...
+                </div>
+            </div>
+        </aside>
+
+        <main class="json-main">
+            <div id="channel-selector" class="channel-bar" style="display:none;"></div>
+            <div id="viewer-output">Accessing Archive Database...</div>
+        </main>
     </div>
 
-    <article id="log-container">
-        <div id="scene-index" class="scene-list"></div>
-        <div id="viewer-output"></div>
-    </article>
-
     <script>
-        let currentLogData = []; // Store the full log in memory
+        let fullData = [];
+        let dynamicChannelMap = {};
 
         async function loadChapter(jsonFile) {
             if (!jsonFile) return;
             const output = document.getElementById('viewer-output');
-            const freqNav = document.getElementById('frequency-nav');
-            output.innerHTML = "<em>Opening Comms Channel...</em>";
+            output.innerHTML = "<em>Decrypting Data Stream...</em>";
 
             try {
                 const response = await fetch("{{ '/Chapter_Logs/JSON/' | relative_url }}" + jsonFile);
                 const data = await response.json();
-                currentLogData = Array.isArray(data) ? data : (data.messages || []);
                 
-                // 1. Identify unique frequencies (threads/channels)
-                setupFrequencySwitcher(currentLogData);
+                // Logic: Handle raw array or .messages object
+                fullData = Array.isArray(data) ? data : (data.messages || []);
                 
-                // 2. Initial Render (Show All)
-                renderMessages(currentLogData);
+                // Ensure chronological order (Logic from PS1 v7.9.6)
+                fullData.sort((a, b) => new Date(a.timestamp) - new Date(b.timestamp));
 
+                buildChannelBar();
+                renderFeed('all');
             } catch (err) {
-                output.innerHTML = `<b style="color:red">COMMS ERROR: ${err.message}</b>`;
+                output.innerHTML = `<div class="panel" style="color:red"><b>SIGNAL LOST:</b> ${err.message}</div>`;
             }
         }
-        function setupFrequencySwitcher(messages) {
-            const freqNav = document.getElementById('frequency-nav');
-            const channels = [...new Set(messages.map(m => m.channel_id))];
-            
-            let navHtml = `<button class="freq-btn active" onclick="filterFrequency('all')">MAIN FEED</button>`;
-            
-            channels.forEach(id => {
-                // Try to find a friendly name (Optional: map IDs to names)
-                const label = (id === "1463269257151254540") ? "BRIDGE" : `SEC-FREQ: ${id.slice(-4)}`;
-                navHtml += `<button class="freq-btn" onclick="filterFrequency('${id}')">${label}</button>`;
+
+        function buildChannelBar() {
+            const bar = document.getElementById('channel-selector');
+            dynamicChannelMap = {}; // Reset
+
+            // Logic: Auto-detect Thread Names from message data
+            fullData.forEach(m => {
+                if (m.thread && m.thread.name) {
+                    dynamicChannelMap[m.channel_id] = m.thread.name.toUpperCase();
+                }
             });
+
+            const uniqueChannels = [...new Set(fullData.map(m => m.channel_id))];
+            if (uniqueChannels.length <= 1) { bar.style.display = 'none'; return; }
             
-            freqNav.innerHTML = navHtml;
+            bar.style.display = 'flex';
+            let html = `<button class="chan-btn active" data-chan="all" onclick="renderFeed('all')">MAIN FEED</button>`;
+            uniqueChannels.forEach(id => {
+                const name = dynamicChannelMap[id] || `COMMS: ${id.slice(-4)}`;
+                html += `<button class="chan-btn" data-chan="${id}" onclick="renderFeed('${id}')">${name}</button>`;
+            });
+            bar.innerHTML = html;
         }
 
-        function filterFrequency(channelId) {
-            // Toggle active button style
-            document.querySelectorAll('.freq-btn').forEach(btn => btn.classList.remove('active'));
-            event.target.classList.add('active');
-
-            if (channelId === 'all') {
-                renderMessages(currentLogData);
-            } else {
-                const filtered = currentLogData.filter(m => m.channel_id === channelId);
-                renderMessages(filtered);
-            }
-        }
-
-        function renderMessages(messages) {
+        function renderFeed(filterId) {
             const output = document.getElementById('viewer-output');
+            const jumpList = document.getElementById('scene-jump-list');
             output.innerHTML = "";
+            jumpList.innerHTML = "";
             
-            messages.forEach(msg => {
-                // SCENE DETECTION: If content is just "---", render as a Scene Divider
-                if (msg.content === "---" || msg.content === "--- ") {
+            const messages = filterId === 'all' ? fullData : fullData.filter(m => m.channel_id === filterId);
+            let sceneCount = 0;
+
+            messages.forEach((msg) => {
+                // Logic: Scene Detection via "---"
+                if (msg.content && (msg.content.trim() === "---" || msg.content.trim() === "--- ")) {
+                    sceneCount++;
+                    const sceneId = `scene-${sceneCount}`;
+                    
                     const divider = document.createElement('div');
                     divider.className = 'scene-divider';
-                    divider.innerHTML = `<span>NEW SCENE DETECTED</span>`;
+                    divider.id = sceneId;
+                    divider.innerHTML = `<span>SCENE ${sceneCount}</span>`;
                     output.appendChild(divider);
+
+                    const link = document.createElement('div');
+                    link.className = 'scene-jump-link'; // Uses your sidebar hover styles
+                    link.style.cursor = "pointer";
+                    link.innerHTML = `⇠ Jump to Scene ${sceneCount}`;
+                    link.onclick = () => document.getElementById(sceneId).scrollIntoView({behavior: "smooth"});
+                    jumpList.appendChild(link);
                     return;
                 }
 
-                // Normal Message Rendering Logic (from our previous steps)
                 const group = document.createElement('div');
                 group.className = 'message-group';
-                // ... (rest of your group.innerHTML logic) ...
+                group.id = `msg-${msg.id}`;
+
+                // Logic: Enhanced Reply Handling (PS1 v7.9.6 Reference)
+                let replyHtml = "";
+                if (msg.reference && msg.reference.messageId) {
+                    const parent = fullData.find(m => m.id === msg.reference.messageId);
+                    if (parent) {
+                        replyHtml = `
+                            <div class="reply-context">
+                                <div class="reply-line"></div>
+                                <span class="reply-user">@${parent.author.nickname || parent.author.username}</span>
+                                <span class="reply-text">: ${parent.content.substring(0, 40)}...</span>
+                            </div>`;
+                    }
+                }
+
+                const avatarUrl = msg.author.avatar 
+                    ? `{{ '/Chapter_Logs/avatars/' | relative_url }}${msg.author.id}/${msg.author.avatar}.png`
+                    : `{{ '/Chapter_Logs/avatars/default.png' | relative_url }}`;
+
+                group.innerHTML = `
+                    ${replyHtml}
+                    <div class="message-main">
+                        <img src="${avatarUrl}" class="avatar" onerror="this.src='{{ '/Chapter_Logs/avatars/default.png' | relative_url }}'">
+                        <div class="msg-body">
+                            <div class="msg-header">
+                                <span class="username">${msg.author.nickname || msg.author.username}</span>
+                                <span class="timestamp">${new Date(msg.timestamp).toLocaleString()}</span>
+                            </div>
+                            <div class="msg-content">${parseMarkdown(msg.content)}</div>
+                        </div>
+                    </div>
+                `;
                 output.appendChild(group);
             });
+
+            // Update UI State
+            document.querySelectorAll('.chan-btn').forEach(btn => {
+                btn.classList.toggle('active', btn.getAttribute('data-chan') === filterId);
+            });
         }
+
         function parseMarkdown(text) {
             if (!text) return "";
+            
+            // Logic: Smart Anchoring (Discord Link Conversion from PS1)
+            const discordLinkRegex = /https:\/\/discord\.com\/channels\/\d+\/\d+\/(\d+)/g;
+            
             return text
+                .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;") // Safety
+                .replace(discordLinkRegex, (match, msgId) => {
+                    const exists = fullData.some(m => m.id === msgId);
+                    return exists ? `<a href="#msg-${msgId}" class="internal-link">⇠ view related transmission</a>` : match;
+                })
                 .replace(/\*\*\*(.*?)\*\*\*/g, '<span class="st-gold">$1</span>')
                 .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
                 .replace(/\*(.*?)\*/g, '<i>$1</i>')
-                .replace(/\|\|(.*?)\|\|/g, '<span class="spoiler">$1</span>') // Added spoilers
-                .replace(/<:(.*?):(\d+)>/g, (match, name, id) => {
-                    return `<img src="{{ '/Chapter_Logs/emojis/' | relative_url }}${name}_${id}.png" style="height:1.2em; vertical-align:middle;">`;
-                });
-        }
-
-        function renderAttachments(attachments, folder) {
-            if (!attachments || attachments.length === 0) return "";
-            return attachments.map(a => 
-                `<img src="{{ '/Chapter_Logs/media/' | relative_url }}${folder}/${a.fileName || a.filename}" class="attachment-img">`
-            ).join('');
-        }
-
-        function parseMarkdown(text) {
-            if (!text) return "";
-
-            // 1. Escaping HTML to prevent code injection
-            let html = text
-                .replace(/&/g, "&amp;")
-                .replace(/</g, "&lt;")
-                .replace(/>/g, "&gt;");
-
-            return html
-                // --- BOLD / ITALIC COMBOS ---
-                .replace(/\*\*\*(.*?)\*\*\*/g, '<span class="st-gold">$1</span>') // Storyteller Gold
-                .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')               // Bold
-                .replace(/\*(.*?)\*/g, '<i>$1</i>')                            // Italic
-                .replace(/__(.*?)__/g, '<u>$1</u>')                            // Underline
-                .replace(/~~(.*?)~~/g, '<del>$1</del>')                        // Strikethrough
-                
-                // --- CODE FORMATTING ---
-                .replace(/```([\s\S]*?)```/g, '<pre><code>$1</code></pre>')    // Multi-line code
-                .replace(/`(.*?)`/g, '<code>$1</code>')                        // Single-line code
-                
-                // --- DISCORD SPECIFICS ---
-                .replace(/\|\|(.*?)\|\|/g, '<span class="spoiler">$1</span>')  // Spoilers
-                .replace(/> (.*?)(\n|$)/g, '<blockquote>$1</blockquote>')     // Blockquotes
-                
-                // --- CUSTOM ASSETS ---
-                .replace(/&lt;:(.*?):(\d+)&gt;/g, (match, name, id) => {       // Emojis (using escaped brackets)
-                    return `<img src="{{ '/Chapter_Logs/emojis/' | relative_url }}${name}_${id}.png" class="emoji" alt="${name}">`;
-                })
-                
-                // --- NEWLINES ---
-                .replace(/\n/g, '<br>');                                       // Preserve line breaks
+                .replace(/__(.*?)__/g, '<u>$1</u>')
+                .replace(/~~(.*?)~~/g, '<del>$1</del>')
+                .replace(/\|\|(.*?)\|\|/g, '<span class="spoiler">$1</span>')
+                .replace(/\n/g, '<br>');
         }
     </script>
 </body>
