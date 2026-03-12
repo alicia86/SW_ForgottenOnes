@@ -2,32 +2,39 @@
 layout: default
 ---
 <style>
-    .log-container-json { width: 100%; margin: 0 auto; padding: 10px; }
+    .log-container-json { width: 100%; margin: 0 auto; padding-top: 20px; }
+    /* Secondary Sticky Bar (Threads) */
     .frequency-nav-bar { 
-        display: flex; 
-        flex-wrap: wrap; 
-        gap: 8px; 
-        margin-bottom: 25px; 
-        padding: 12px; 
-        background: var(--panel-bg); 
-        border: 1px solid var(--gh-border); 
+        position: -webkit-sticky;
         position: sticky; 
-        top: var(--header-height); /* Sticks exactly below the primary nav */
-        z-index: 1000; 
-        width: 100%;
+        top: var(--header-height); /* Sticks below the Archives bar */
+        z-index: 2000;
+        background: var(--panel-bg);
+        border: 1px solid var(--gh-border);
+        border-top: none;
+        padding: 10px;
+        display: none; /* Hidden by default or if only 1 channel */
+        flex-wrap: wrap;
+        gap: 8px;
+        box-shadow: 0 10px 20px rgba(0,0,0,0.5);
     }
+    /* Comms Status Indicator */
+    .comms-status {
+        padding: 5px 10px;
+        font-size: 0.65rem;
+        color: var(--sw-yellow);
+        font-family: monospace;
+        width: 100%;
+        border-bottom: 1px solid var(--gh-border);
+        margin-bottom: 8px;
+    }
+
     .freq-btn { 
-        flex-grow: 1; /* Makes buttons fill the width on mobile */
-        text-align: center;
-        background: transparent; 
-        border: 1px solid var(--sw-blue); 
-        color: var(--sw-blue); 
-        padding: 8px 12px; 
-        font-size: 0.7rem; 
-        cursor: pointer; 
-        border-radius: 3px; 
-        font-weight: bold; 
-        text-transform: uppercase;
+        flex: 1 1 auto;
+        min-width: 120px;
+        background: transparent; border: 1px solid var(--sw-blue); color: var(--sw-blue); 
+        padding: 8px; font-size: 0.7rem; cursor: pointer; border-radius: 3px; 
+        font-weight: bold; text-transform: uppercase;
     }
     .freq-btn.active { background: var(--sw-blue); color: #000; box-shadow: 0 0 10px var(--sw-glow); }
     
@@ -55,13 +62,11 @@ layout: default
 </style>
 
 <header class="frozen-nav">
-    <div style="display: flex; gap: 10px; padding: 0 10px;">
+    <div style="display: flex; gap: 10px; padding: 0 10px; align-items: center;">
         <a href="{{ '/archives' | relative_url }}" class="toc-open-btn">⇠ ARCHIVES</a>
-        <select id="chapter-picker" class="toc-open-btn" onchange="loadChapter(this.value)" style="background: #1c2128;">
-            <option value="">-- SELECT DATA ARCHIVE --</option>
-            {% assign json_files = site.static_files | where_exp: "file", "file.path contains 'Chapter_Logs/JSON/'" %}
-            {% for file in json_files %}<option value="{{ file.name }}">{{ file.basename | replace: '_', ' ' | upcase }}</option>{% endfor %}
-        </select>
+        <select id="chapter-picker" class="toc-open-btn" onchange="loadChapter(this.value)" style="background: #1c2128; flex-grow: 1;">
+            </select>
+        <button id="thread-toggle" class="toc-open-btn" onclick="toggleFrequencies()" style="display:none;">📡</button>
     </div>
 </header>
 
@@ -113,23 +118,6 @@ layout: default
                 output.innerHTML = `<b style="color:red">COMMS ERROR: ${err.message}</b>`;
             }
         }
-
-        function buildFrequencyBar() {
-            const bar = document.getElementById('frequency-selector');
-            const threadIds = Object.keys(channelMap);
-            
-            if (threadIds.length === 0) { bar.style.display = 'none'; return; }
-            
-            bar.style.display = 'flex';
-            let html = `<button class="freq-btn active" data-id="all" onclick="renderFeed('all')">COMBINED FEED</button>`;
-            html += `<button class="freq-btn" data-id="${mainChannelId}" onclick="renderFeed('${mainChannelId}')">MAIN CHANNEL</button>`;
-            
-            threadIds.forEach(id => {
-                html += `<button class="freq-btn" data-id="${id}" onclick="renderFeed('${id}')">${channelMap[id]}</button>`;
-            });
-            bar.innerHTML = html;
-        }
-
         function renderFeed(filterId) {
             const output = document.getElementById('viewer-output');
             output.innerHTML = "";
@@ -269,6 +257,45 @@ layout: default
                 el.classList.add('highlight-flash');
                 setTimeout(() => el.classList.remove('highlight-flash'), 1000);
             });
+        }
+
+        function toggleFrequencies() {
+            const bar = document.getElementById('frequency-selector');
+            const btn = document.getElementById('thread-toggle');
+            if (bar.style.display === 'none' || bar.style.display === '') {
+                bar.style.display = 'flex';
+                btn.style.background = 'var(--sw-blue)';
+                btn.style.color = 'white';
+            } else {
+                bar.style.display = 'none';
+                btn.style.background = '#1c2128';
+                btn.style.color = 'var(--sw-blue)';
+            }
+        }
+
+        function buildFrequencyBar() {
+            const bar = document.getElementById('frequency-selector');
+            const toggleBtn = document.getElementById('thread-toggle');
+            const uniqueChannels = [...new Set(fullData.map(m => m.channel_id))];
+            
+            if (uniqueChannels.length <= 1) { 
+                bar.style.display = 'none'; 
+                toggleBtn.style.display = 'none';
+                return; 
+            }
+            
+            toggleBtn.style.display = 'block';
+            // bar starts hidden on mobile, or you can keep it flex on desktop
+            bar.style.display = window.innerWidth > 1000 ? 'flex' : 'none';
+
+            let html = `<div class="comms-status">ENCRYPTED FREQUENCIES DETECTED:</div>`;
+            html += `<button class="freq-btn active" data-id="all" onclick="renderFeed('all')">COMBINED FEED</button>`;
+            
+            uniqueChannels.forEach(id => {
+                const name = channelMap[id] || "PRIMARY CHANNEL";
+                html += `<button class="freq-btn" data-id="${id}" onclick="renderFeed('${id}')">${name}</button>`;
+            });
+            bar.innerHTML = html;
         }
     </script>
 </body>
