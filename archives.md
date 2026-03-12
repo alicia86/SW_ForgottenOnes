@@ -48,6 +48,7 @@ title: Chapter Archives
         color: var(--sw-blue);
         letter-spacing: 0.5px;
         text-decoration: none;
+        text-transform: uppercase;
     }
 
     .archive-meta {
@@ -65,9 +66,10 @@ title: Chapter Archives
         margin-top: 10px;
         border-top: 1px solid rgba(255, 255, 255, 0.05);
         padding-top: 10px;
+        font-style: italic;
     }
 
-    .participant-tag {
+    .signal-tag {
         color: var(--sw-yellow);
         font-weight: bold;
     }
@@ -78,9 +80,9 @@ document.addEventListener("DOMContentLoaded", async function() {
     const target = document.getElementById('archive-list-target');
     
     try {
-        // Cache-busting fetch to get the latest manifest
+        // Fetch the manifest with a cache-buster
         const response = await fetch("{{ '/assets/log-manifest.json' | relative_url }}?t=" + new Date().getTime());
-        if (!response.ok) throw new Error("Manifest offline.");
+        if (!response.ok) throw new Error("Manifest sequence offline.");
         
         const manifest = await response.json();
 
@@ -108,7 +110,7 @@ document.addEventListener("DOMContentLoaded", async function() {
                     </div>
                 </div>
                 <div class="archive-meta">
-                    SIGNAL STRENGTH: <span class="participant-tag">${log.participants} PARTICIPANTS</span> | FREQUENCY: ${log.channelID}
+                    SIGNAL STRENGTH: <span class="signal-tag">${log.messageCount} POSTS DETECTED</span> | FREQUENCY: ${log.channelID}
                 </div>
                 ${log.preview ? `<div class="archive-preview">${log.preview}</div>` : ''}
             `;
@@ -117,9 +119,10 @@ document.addEventListener("DOMContentLoaded", async function() {
 
     } catch (e) {
         console.error("Archive Load Error:", e);
-        target.innerHTML = `<div class="panel archive-item" style="border-color: red;">
-            <p style="color: red;"><strong>DATABASE ERROR:</strong> Failed to retrieve log manifest.</p>
-        </div>`;
+        target.innerHTML = `
+            <div class="panel archive-item" style="border-color: var(--sw-red, red);">
+                <p style="color: var(--sw-red, red);"><strong>DATABASE ERROR:</strong> Failed to retrieve log manifest.</p>
+            </div>`;
     }
 });
 </script>

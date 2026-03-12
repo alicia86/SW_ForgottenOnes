@@ -2,8 +2,23 @@
 layout: default
 title: Home
 ---
+
 <style>
-    .log-list li {
+/* 1. DASHBOARD LAYOUT */
+.dashboard-grid {
+    display: grid;
+    grid-template-columns: 1fr 300px;
+    gap: 30px;
+    margin-top: 40px;
+}
+
+/* 2. LOG LIST STYLING */
+.log-list {
+    list-style: none;
+    padding: 0;
+}
+
+.log-list li {
     padding: 15px 0;
     border-bottom: 1px solid var(--gh-border);
     transition: 0.2s;
@@ -13,6 +28,12 @@ title: Home
     background: rgba(88, 166, 255, 0.03);
 }
 
+.log-list a {
+    text-decoration: none;
+    display: block;
+}
+
+/* 3. INFO ROW STYLING */
 .log-info {
     display: flex;
     justify-content: space-between;
@@ -25,19 +46,29 @@ title: Home
     font-weight: bold;
     color: var(--sw-blue);
     font-size: 1.1rem;
+    text-transform: uppercase;
 }
 
-.dashboard-grid {
-    display: grid;
-    grid-template-columns: 1fr 300px;
-    gap: 30px;
-    margin-top: 40px;
+.signal-meta {
+    margin: 5px 0;
+    font-family: monospace;
+    font-size: 0.75rem;
+    color: var(--sw-yellow);
+    letter-spacing: 1px;
 }
 
+.preview-text {
+    margin-top: 5px;
+    opacity: 0.7;
+    font-style: italic;
+    font-size: 0.9rem;
+    color: var(--gh-text);
+}
+
+/* 4. RESPONSIVE */
 @media (max-width: 800px) {
     .dashboard-grid { grid-template-columns: 1fr; }
 }
-
 </style>
 
 <div class="hero-section">
@@ -63,31 +94,42 @@ title: Home
 <script>
 document.addEventListener("DOMContentLoaded", async function() {
     const listContainer = document.getElementById('recent-logs-list');
+    
     try {
+        // Fetch fresh manifest with cache buster
         const response = await fetch("{{ '/assets/log-manifest.json' | relative_url }}?t=" + new Date().getTime());
+        if (!response.ok) throw new Error("Connection failed");
+        
         const manifest = await response.json();
 
-        // Sort by lastMessageTimestamp (Newest first)
+        // Sort by lastMessageTimestamp (Newest activity first)
         const sorted = manifest.sort((a, b) => new Date(b.lastMessageTimestamp) - new Date(a.lastMessageTimestamp));
         
-        listContainer.innerHTML = ""; // Clear loader
+        listContainer.innerHTML = ""; // Clear loader message
 
+        // Take the top 5 most recent transmissions
         sorted.slice(0, 5).forEach(log => {
             const date = new Date(log.lastMessageTimestamp).toLocaleDateString();
             const li = document.createElement('li');
+            
             li.innerHTML = `
                 <a href="{{ '/logs' | relative_url }}#${log.channelID}">
                     <div class="log-info">
                         <span class="chapter-title">${log.title}</span>
-                        <span class="timestamp">${date} | ${log.participants} Active Signals</span>
+                        <span class="timestamp">${date}</span>
                     </div>
-                    <p class="subtext" style="margin-top:5px; opacity:0.7;">${log.preview}</p>
+                    <p class="signal-meta">
+                        SIGNAL STRENGTH: ${log.messageCount} POSTS DETECTED
+                    </p>
+                    <p class="preview-text">${log.preview || 'No narrative preview available.'}</p>
                 </a>
             `;
             listContainer.appendChild(li);
         });
+
     } catch (e) {
-        listContainer.innerHTML = "<li>Failed to retrieve recent transmissions.</li>";
+        console.error("Dashboard Error:", e);
+        listContainer.innerHTML = "<li><span style='color:red;'>📡 UPLINK ERROR:</span> Failed to retrieve recent transmissions.</li>";
     }
 });
 </script>
