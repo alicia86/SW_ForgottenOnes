@@ -28,6 +28,46 @@ layout: default
     <div class="markdown-body">
        {{ content }}
     </div>
+
+    <footer class="sticky-footer-nav">
+      {% comment %} 
+        1. Get all log entries
+        2. Sort them by path (alphabetical tie-breaker)
+        3. Sort them by order (primary sort)
+      {% endcomment %}
+      {% assign all_logs = site.pages | where: "layout", "log-entry" | sort: "path" %}
+      {% assign logs = all_logs | sort: "order" %}
+
+      {% for log in logs %}
+        {% if log.url == page.url %}
+          {% assign currentIndex = forloop.index0 %}
+          {% assign prevIndex = currentIndex | minus: 1 %}
+          {% assign nextIndex = currentIndex | plus: 1 %}
+
+          <div class="footer-nav-container">
+            {% if prevIndex >= 0 %}
+              {% assign prevLog = logs[prevIndex] %}
+              <a href="{{ prevLog.url | relative_url }}" class="nav-btn">
+                <span class="nav-arrow">«</span> 
+                <span class="nav-text">PREV: {{ prevLog.title | truncate: 20 }}</span>
+              </a>
+            {% else %}
+              <div class="nav-btn disabled">START OF ARCHIVE</div>
+            {% endif %}
+
+            {% if nextIndex < logs.size %}
+              {% assign nextLog = logs[nextIndex] %}
+              <a href="{{ nextLog.url | relative_url }}" class="nav-btn next">
+                <span class="nav-text">NEXT: {{ nextLog.title | truncate: 20 }}</span>
+                <span class="nav-arrow">»</span>
+              </a>
+            {% else %}
+              <div class="nav-btn disabled">END OF ARCHIVE</div>
+            {% endif %}
+          </div>
+        {% endif %}
+      {% endfor %}
+    </footer>
   </article>
 </div>
 
