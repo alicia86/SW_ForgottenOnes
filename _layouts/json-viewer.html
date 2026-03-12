@@ -89,12 +89,11 @@ layout: default
 <header class="frozen-nav">
     <div class="nav-inner">
         <a href="{{ '/archives' | relative_url }}" class="toc-open-btn" style="text-decoration: none;">⇠</a>
+        
         <select id="chapter-picker" class="toc-open-btn" onchange="loadChapter(this.value)" style="background: #1c2128; flex-grow: 1; min-width: 0;">
-            {% assign json_files = site.static_files | where_exp: "file", "file.path contains 'Chapter_Logs/JSON/'" %}
-            {% for file in json_files %}
-                <option value="{{ file.name }}">{{ file.basename | replace: '_', ' ' | upcase }}</option>
-            {% endfor %}
+            <option value="">-- INITIALIZING DATA --</option>
         </select>
+
         <button id="thread-toggle" class="toc-open-btn" onclick="toggleFrequencies()" style="display:none;">📡</button>
     </div>
 </header>
@@ -113,6 +112,34 @@ layout: default
     let channelMap = {}; 
     let mainChannelId = null;
     const DEFAULT_AVATAR = "{{ '/Chapter_Logs/avatars/default.png' | relative_url }}";
+
+    // Initialization function to fetch the Manifest
+    async function init() {
+        try {
+            const response = await fetch("{{ '/Chapter_Logs/log-manifest.json' | relative_url }}");
+            const manifest = await response.json();
+            
+            const picker = document.getElementById('chapter-picker');
+            picker.innerHTML = ""; // Clear loader
+
+            manifest.forEach(item => {
+                const opt = document.createElement('option');
+                opt.value = item.file;
+                opt.innerHTML = item.title;
+                picker.appendChild(opt);
+            });
+
+            // Auto-load the first (latest) entry in the manifest
+            if (manifest.length > 0) {
+                loadChapter(manifest[0].file);
+            }
+        } catch (e) {
+            console.error("Manifest failed to load", e);
+        }
+    }
+
+    // Run on load
+    window.onload = init;
 
     async function loadChapter(jsonFile) {
         if (!jsonFile) return;
