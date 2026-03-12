@@ -1,0 +1,52 @@
+[
+  {
+    "order": 4,
+    "title": "FO CH4 RESONANCE FREQUENCY",
+    "file": "FO_Ch4-Resonance-Frequency.json"
+  },
+  {
+    "order": 3,
+    "title": "FO CH3 BENEATH THE GLARE",
+    "file": "FO_Ch3_beneath-the-glare.json"
+  },
+  {
+    "order": 2,
+    "title": "FO CH2 SILENT DRIFT",
+    "file": "FO_Ch2_Silent-Drift.json"
+  },
+  {
+    "order": 1,
+    "title": "FO CH1 AWAKENING",
+    "file": "FO_Ch1_Awakening.json"
+  },
+  {
+    "order": 0,
+    "title": "FO BB PRELUDE DRYZAN",
+    "file": "FO_BB_Prelude-Dryzan.json"
+  },
+  {
+    "order": 0,
+    "title": "FO BB PRELUDE IYOLA",
+    "file": "FO_BB_Prelude-Iyola.json"
+  },
+  {
+    "order": 0,
+    "title": "FO BB PRELUDE KRYNN",
+    "file": "FO_BB_Prelude-Krynn.json"
+  },
+  {
+    "order": 0,
+    "title": "FO BB PRELUDE VAEROS",
+    "file": "FO_BB_Prelude-Vaeros.json"
+  },
+  {
+    "order": 0,
+    "title": "FO BB PRELUDE VARDA",
+    "file": "FO_BB_Prelude-Varda.json"
+  },
+  {
+    "order": 0,
+    "title": "FO BB PRELUDE VENA",
+    "file": "FO_BB_Prelude-Vena.json"
+  }
+]
