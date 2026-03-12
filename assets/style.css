@@ -13,21 +13,25 @@
 /* --- 2. GLOBAL RESET & MOBILE STABILIZATION --- */
 * { box-sizing: border-box; }
 
-html, body {
+html {
+    scroll-behavior: smooth;
+    /* Allow the body to handle the scroll, which is vital for stickiness */
+    overflow-x: hidden; 
+    width: 100%;
+}
+
+body {
     margin: 0; padding: 0; 
     width: 100%;
-    /* Prevents horizontal "zoom out" space */
-    overflow-x: hidden; 
     background-color: var(--gh-bg);
     color: var(--gh-text);
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-    line-height: 1.6;
 }
 
 main { 
     display: block; 
     width: 100%;
-    max-width: 900px; /* Aligns with navigation content */
+    max-width: 900px; 
     margin: 0 auto; 
     padding: 0 15px;
     overflow: visible !important; 
@@ -57,13 +61,16 @@ a:hover { text-decoration: underline; color: var(--sw-yellow); }
 
 /* --- 4. SHARED TOP NAVIGATION (The Sticky Bar) --- */
 .frozen-nav {
+    position: -webkit-sticky;
     position: sticky;
     top: 0;
-    z-index: 5000;
+    z-index: 5000; /* Extremely high to prevent overlap */
     background-color: var(--gh-bg); 
     border-bottom: 1px solid var(--gh-border);
-    width: 100%; /* Full width bar */
     height: var(--header-height);
+    width: 100%;
+    /* Use padding instead of margin to prevent layout shifts */
+    padding: 0 10px;
     display: flex;
     align-items: center;
 }
@@ -72,7 +79,6 @@ a:hover { text-decoration: underline; color: var(--sw-yellow); }
     width: 100%;
     max-width: 900px;
     margin: 0 auto;
-    padding: 0 15px;
     gap: 10px;
     align-items: center;
 }
