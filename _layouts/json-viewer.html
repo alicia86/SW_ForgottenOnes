@@ -6,95 +6,84 @@
     
     <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}?v={{ site.time | date: '%Y%m%d%H%M%S' }}">
     <style>
-        /* Keeping your specific overrides, but moving layout to the CSS file later */
-        #log-container { width: 100%; max-width: 900px; margin: 0 auto; background: var(--gh-bg); }
+        #controls { padding: 20px; text-align: center; background: var(--panel-bg); border-bottom: 1px solid var(--gh-border); }
+        #log-container { width: 100%; max-width: 900px; margin: 20px auto; background: var(--gh-bg); }
         .message-group { display: flex; padding: 10px 20px; border-bottom: 1px solid var(--gh-border); }
-        .avatar { width: 42px; height: 42px; border-radius: 4px; margin-right: 15px; flex-shrink: 0; }
-        
-        /* Reply Styling based on your PS1 script logic */
-        .reply-context { 
-            display: flex; 
-            align-items: center; 
-            font-size: 0.85rem; 
-            color: var(--text-muted); 
-            margin-bottom: 4px; 
-            padding-left: 57px; /* Align with content, past avatar */
-        }
-        .reply-line { width: 15px; height: 10px; border-left: 2px solid #4f545c; border-top: 2px solid #4f545c; margin-right: 5px; border-top-left-radius: 6px; }
-
-        .st-gold { color: var(--sw-yellow); font-style: italic; font-weight: bold; display: block; text-align: center; margin: 10px 0; }
-        .attachment-img { max-width: 100%; border-radius: 4px; margin-top: 10px; border: 1px solid var(--gh-border); }
+        .avatar { width: 42px; height: 42px; border-radius: 4px; margin-right: 15px; flex-shrink: 0; border: 1px solid var(--gh-border); }
+        .msg-body { flex-grow: 1; }
+        .username { color: var(--sw-blue); font-weight: 600; margin-right: 10px; }
+        .timestamp { color: var(--text-muted); font-size: 0.8rem; }
+        .msg-content { white-space: pre-wrap; margin-top: 5px; }
+        .st-gold { color: var(--sw-yellow); font-style: italic; font-weight: bold; display: block; text-align: center; margin: 15px 0; }
     </style>
 </head>
 <body>
 
     <div id="controls">
-        <label>Accessing Datapad Entry: </label>
-        <select id="chapter-picker" onchange="loadChapter(this.value)"></select>
+        <label>Select Datapad Archive: </label>
+        <select id="chapter-picker" onchange="loadChapter(this.value)">
+            <option value="">-- Select an Entry --</option>
+            {% assign json_files = site.static_files | where_exp: "file", "file.path contains 'Chapter_Logs/JSON/'" %}
+            {% for file in json_files %}
+                <option value="{{ file.name }}">{{ file.basename | replace: '_', ' ' }}</option>
+            {% endfor %}
+        </select>
     </div>
 
     <article id="log-container">
-        <div id="viewer-output">Initializing Datapad Link...</div>
+        <div id="viewer-output">Please select a transmission from the archives above.</div>
     </article>
-
-    <footer>
-        <hr>
-        <p>Campaign: <strong>Star Wars: Forgotten Ones</strong></p>
-        <p style="font-size: 0.8rem; color: #666;">
-            Last Updated: {{ site.time | date: "%Y-%m-%d %H:%M:%S" }} UTC
-        </p>
-    </footer>
 
     <script>
         async function loadChapter(jsonFile) {
+            if (!jsonFile) return;
             const output = document.getElementById('viewer-output');
-            output.innerHTML = "<em>Decrypting stream...</em>";
+            output.innerHTML = "<em>Establishing secure link...</em>";
 
             try {
-                // FORCE ROOT PATH: This ensures subfolders are accessed correctly
                 const response = await fetch("{{ '/Chapter_Logs/JSON/' | relative_url }}" + jsonFile);
-                if (!response.ok) throw new Error(`HTTP ${response.status}: Signal lost.`);
+                if (!response.ok) throw new Error(`Signal Interrupted (HTTP ${response.status})`);
                 
                 const data = await response.json();
-                const messages = data.messages || []; // Extract messages array
-                const folderBase = jsonFile.replace('.json', '');
                 
+                // FIX: Support both array-only JSON and object-wrapped JSON
+                const messages = Array.isArray(data) ? data : (data.messages || []);
+                
+                if (messages.length === 0) {
+                    output.innerHTML = "Archive is empty or corrupted.";
+                    return;
+                }
+
+                const folderBase = jsonFile.replace('.json', '');
                 output.innerHTML = ""; 
 
                 messages.forEach(msg => {
-                    const group = document.createElement('div');
-                    group.className = 'message-wrapper';
+                    const div = document.createElement('div');
+                    div.className = 'message-group';
 
-                    // 1. Handle Replies (Reference logic from your PS1 script)
-                    if (msg.reference && msg.reference.messageId) {
-                        const replyNode = document.createElement('div');
-                        replyNode.className = 'reply-context';
-                        replyNode.innerHTML = `<div class="reply-line"></div><span>Replying to a previous transmission...</span>`;
-                        output.appendChild(replyNode);
-                    }
-
-                    // 2. Resolve Avatar Path
                     const avatarUrl = (msg.author && msg.author.avatar) 
                         ? "{{ '/Chapter_Logs/avatars/' | relative_url }}" + msg.author.id + "/" + msg.author.avatar + ".png"
                         : "{{ '/Chapter_Logs/avatars/default.png' | relative_url }}";
 
-                    group.innerHTML = `
-                        <div class="message-group">
-                            <img src="${avatarUrl}" class="avatar" onerror="this.src='{{ '/Chapter_Logs/avatars/default.png' | relative_url }}'">
-                            <div class="msg-body">
-                                <div class="msg-header">
-                                    <span class="username">${msg.author.nickname || msg.author.name}</span>
-                                    <span class="timestamp">${new Date(msg.timestamp).toLocaleString()}</span>
-                                </div>
-                                <div class="msg-content">${parseMarkdown(msg.content)}</div>
-                                <div class="msg-attachments">${renderAttachments(msg.attachments, folderBase)}</div>
+                    // Handle different possible name fields in Discord JSON
+                    const displayName = msg.author.nickname || msg.author.global_name || msg.author.username || "Unknown Entity";
+
+                    div.innerHTML = `
+                        <img src="${avatarUrl}" class="avatar" onerror="this.src='{{ '/Chapter_Logs/avatars/default.png' | relative_url }}'">
+                        <div class="msg-body">
+                            <div class="msg-header">
+                                <span class="username">${displayName}</span>
+                                <span class="timestamp">${new Date(msg.timestamp).toLocaleString()}</span>
                             </div>
+                            <div class="msg-content">${parseMarkdown(msg.content)}</div>
+                            <div class="msg-attachments">${renderAttachments(msg.attachments, folderBase)}</div>
                         </div>
                     `;
-                    output.appendChild(group);
+                    output.appendChild(div);
                 });
             } catch (err) {
-                output.innerHTML = `<div class="panel" style="color:#f85149; border-color:#f85149;"><strong>CRITICAL ERROR:</strong> ${err.message}</div>`;
+                console.error("Datapad Error:", err);
+                output.innerHTML = `<b style="color:#f85149">CONNECTION FAILED: ${err.message}</b>`;
             }
         }
 
@@ -104,23 +93,18 @@
                 .replace(/\*\*\*(.*?)\*\*\*/g, '<span class="st-gold">$1</span>')
                 .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
                 .replace(/\*(.*?)\*/g, '<i>$1</i>')
+                .replace(/\|\|(.*?)\|\|/g, '<span class="spoiler">$1</span>') // Added spoilers
                 .replace(/<:(.*?):(\d+)>/g, (match, name, id) => {
-                    return `<img src="{{ '/Chapter_Logs/emojis/' | relative_url }}${name}_${id}.png" class="emoji" alt="${name}">`;
+                    return `<img src="{{ '/Chapter_Logs/emojis/' | relative_url }}${name}_${id}.png" style="height:1.2em; vertical-align:middle;">`;
                 });
         }
 
         function renderAttachments(attachments, folder) {
             if (!attachments || attachments.length === 0) return "";
-            // Matching the PS1 logic: media/FolderBase/FileName
             return attachments.map(a => 
-                `<img src="{{ '/Chapter_Logs/media/' | relative_url }}${folder}/${a.fileName}" class="attachment-img">`
+                `<img src="{{ '/Chapter_Logs/media/' | relative_url }}${folder}/${a.fileName || a.filename}" class="attachment-img">`
             ).join('');
         }
-
-        window.onload = () => {
-            const picker = document.getElementById('chapter-picker');
-            if(picker.value) loadChapter(picker.value);
-        };
     </script>
 </body>
 </html>
