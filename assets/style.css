@@ -125,12 +125,15 @@ a:hover { text-decoration: underline; color: var(--sw-yellow); }
     background: rgba(0,0,0,0.7);
     z-index: 99998;
     display: none;
+    opacity: 0;
+    transition: opacity 0.3s ease;
 }
 .sidebar-overlay.active { display: block; }
 
 /* --- 6. STICKY NAVIGATION --- */
 .frozen-nav {
     position: sticky;
+    position: -webkit-sticky; /* Safari support */
     top: 0;
     background: var(--gh-bg);
     z-index: 500;
