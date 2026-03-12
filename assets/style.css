@@ -48,11 +48,48 @@ a:hover { text-decoration: underline; color: var(--sw-yellow); }
 .timestamp { color: var(--text-muted); font-size: 0.8rem; font-family: monospace; }
 .spoiler { background-color: #4f545c; color: transparent; border-radius: 3px; padding: 0 2px; cursor: help; }
 .spoiler:hover, .spoiler:active { background-color: rgba(255, 255, 255, 0.1); color: var(--gh-text); }
-blockquote { border-left: 4px solid #4f545c; margin: 5px 0; padding: 2px 15px; color: var(--text-muted); }
 code { background: #2f3136; padding: 0.2em 0.4em; border-radius: 3px; font-family: monospace; }
 pre { background: #2f3136; border: 1px solid var(--gh-border); padding: 10px; border-radius: 5px; overflow-x: auto; }
 .emoji { height: 1.4em; vertical-align: middle; margin: 0 2px; }
 .internal-link { color: var(--sw-yellow); text-decoration: underline dotted; font-weight: bold; }
+/* --- DISCORD SUBTEXT (-#) --- */
+.subtext {
+    display: block;
+    font-size: 0.82rem;
+    color: var(--text-muted);
+    line-height: 1.4;
+    margin-top: 4px;
+    font-weight: 400;
+}
+
+/* --- LISTS (Bulleted & Numbered) --- */
+/* Discord logs often use lists for inventory or objective tracking */
+.msg-content ul, .msg-content ol {
+    margin: 5px 0 5px 20px;
+    padding: 0;
+}
+
+.msg-content li {
+    margin-bottom: 2px;
+}
+
+/* --- HORIZONTAL RULE (---) --- */
+/* For when you use --- inside a post, not as a scene divider */
+hr {
+    border: 0;
+    border-top: 1px solid var(--gh-border);
+    margin: 1.5rem 0;
+}
+
+/* --- REFINED BLOCKQUOTES --- */
+blockquote {
+    border-left: 4px solid #4f545c;
+    margin: 8px 0;
+    padding: 2px 15px;
+    color: var(--gh-text);
+    opacity: 0.85;
+    background: rgba(255, 255, 255, 0.02);
+}
 
 /* --- 6. DASHBOARD / HOME COMPONENTS --- */
 .hero-section { text-align: center; padding: 40px 0; }
