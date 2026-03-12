@@ -1,20 +1,21 @@
 ---
 layout: default
 ---
+<div id="sidebar-overlay" class="sidebar-overlay"></div>
+
 <div class="log-wrapper">
   <aside id="toc-sidebar" class="toc-sidebar">
     <div class="toc-header">
-      <span>CONTENTS</span>
+      <span>DATAPAD INDEX</span>
       <button class="toc-close">×</button>
     </div>
-    <div class="toc-content" id="toc-target">
-      </div>
+    <div class="toc-content" id="toc-target"></div>
   </aside>
 
   <article class="log-content">
-    <div class="mobile-nav-bar">
-        <button class="toc-open-btn">☰ View Index</button>
-    </div>
+    <header class="frozen-nav">
+        <button class="toc-open-btn">☰ VIEW INDEX</button>
+    </header>
     
     <div class="markdown-body">
        {{ content }}
@@ -25,39 +26,38 @@ layout: default
 <script>
 document.addEventListener("DOMContentLoaded", function() {
     const sidebar = document.getElementById('toc-sidebar');
+    const overlay = document.getElementById('sidebar-overlay');
     const openBtn = document.querySelector('.toc-open-btn');
     const closeBtn = document.querySelector('.toc-close');
     const tocTarget = document.getElementById('toc-target');
     
     // 1. DYNAMIC TOC GENERATOR
-    // This finds every ## and ### and builds the list for you
     const headers = document.querySelectorAll('.markdown-body h2, .markdown-body h3');
     if (headers.length > 0) {
         const list = document.createElement('ul');
         headers.forEach((header, index) => {
-            // Ensure header has an ID
             if (!header.id) header.id = "header-" + index;
-            
             const li = document.createElement('li');
             li.style.marginLeft = header.tagName === 'H3' ? '20px' : '0';
             const a = document.createElement('a');
             a.href = "#" + header.id;
-            a.textContent = header.textContent.replace('¶', ''); // Clean up symbols
-            a.onclick = () => { if(window.innerWidth < 1200) toggleTOC(); }; // Close on click for mobile
-            
+            a.textContent = header.textContent;
+            a.onclick = () => toggleTOC();
             li.appendChild(a);
             list.appendChild(li);
         });
         tocTarget.appendChild(list);
-    } else {
-        tocTarget.innerHTML = "<p style='color: #666;'>No markers found.</p>";
     }
 
     function toggleTOC() {
         sidebar.classList.toggle('active');
+        overlay.classList.toggle('active');
+        // Prevent background scrolling when menu is open
+        document.body.style.overflow = sidebar.classList.contains('active') ? 'hidden' : '';
     }
 
     if (openBtn) openBtn.onclick = toggleTOC;
     if (closeBtn) closeBtn.onclick = toggleTOC;
+    if (overlay) overlay.onclick = toggleTOC; // Close when clicking the dimmed area
 });
 </script>
