@@ -19,7 +19,6 @@ title: Chapter Archives
           <strong>{{ log.title }}</strong>
         </a>
       </div>
-      <span class="timestamp" style="font-size: 0.7rem;">FILE_ID: {{ log.name | replace: '.md', '' }}</span>
     </div>
   </div>
   {% endfor %}
