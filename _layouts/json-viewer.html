@@ -2,24 +2,29 @@
 layout: default
 ---
 <style>
+    /* 1. CONTAINER & STICKY STABILIZATION */
     .log-container-json { 
         width: 100%; 
         max-width: 900px; 
         margin: 0 auto; 
-        padding-top: 20px; 
+        padding-top: 20px;
+        /* REQUIRED: Sticky items fail if overflow is hidden here */
+        overflow: visible !important; 
     }
-    /* --- SECONDARY STICKY BAR (Frequency Switcher) --- */
+
+    /* 2. SECONDARY STICKY BAR (Frequency Switcher) */
     .frequency-nav-bar { 
         position: -webkit-sticky;
         position: sticky; 
-        top: var(--header-height); /* Sticks flush under Frozen Nav */
+        top: var(--header-height); /* Pins flush under Frozen Nav */
         z-index: 4500; 
         background: var(--panel-bg);
         border-bottom: 1px solid var(--gh-border);
         padding: 12px 0;
-        display: none; /* Controlled by JS */
+        display: none; /* Controlled by JS buildFrequencyBar */
         box-shadow: 0 10px 20px rgba(0,0,0,0.5);
     }
+
     .freq-container {
         display: flex;
         flex-wrap: wrap;
@@ -40,29 +45,39 @@ layout: default
         border-bottom: 1px solid rgba(255,255,255,0.05);
         margin-bottom: 5px;
     }
-    .freq-btn { 
-        flex: 1 1 auto;
-        min-width: 120px;
-        justify-content: center;
+
+    /* 3. MESSAGE FEED STYLING */
+    .message-group { 
+        display: flex; 
+        padding: 15px 10px; 
+        border-bottom: 1px solid rgba(48, 54, 61, 0.2); 
+        transition: background 0.3s; 
     }
 
-    .freq-btn.active { 
-        background: var(--sw-blue) !important; 
-        color: #0d1117 !important; 
-        box-shadow: 0 0 15px var(--sw-glow);
+    .avatar-container { 
+        width: 42px; 
+        height: 42px; 
+        margin-right: 15px; 
+        flex-shrink: 0; 
+        background: #1c2128; 
+        border-radius: 4px; 
+        overflow: hidden; 
     }
 
-    /* --- MESSAGE FEED LAYOUT --- */
-    .message-group { display: flex; padding: 15px 10px; border-bottom: 1px solid rgba(48, 54, 61, 0.2); transition: background 0.3s; }
-    
-    .avatar-container { width: 42px; height: 42px; margin-right: 15px; flex-shrink: 0; background: #1c2128; border-radius: 4px; overflow: hidden; }
-    .avatar { width: 100%; height: 100%; object-fit: cover; opacity: 0; transition: opacity 0.3s; }
+    .avatar { 
+        width: 100%; 
+        height: 100%; 
+        object-fit: cover; 
+        opacity: 0; 
+        transition: opacity 0.3s; 
+    }
+
     .avatar.loaded { opacity: 1; }
 
     .msg-body { flex-grow: 1; min-width: 0; }
     .username { color: var(--sw-blue); font-weight: bold; margin-right: 10px; }
 
-    /* Frequency Shift Dividers */
+    /* 4. TRANSITIONS & HIGHLIGHTS */
     .channel-transition { 
         display: flex; align-items: center; justify-content: center; 
         margin: 40px 0 20px; padding: 15px; 
@@ -70,19 +85,18 @@ layout: default
         color: var(--sw-blue); font-family: monospace; font-size: 0.75rem; 
         letter-spacing: 2px; text-transform: uppercase; cursor: pointer; 
     }
-    .channel-transition:hover { background: rgba(88,166,255,0.1); color: var(--sw-yellow); }
 
-    /* Highlights for Copied Links */
     .message-group:target, .highlight-flash { 
         background: rgba(210, 153, 34, 0.15) !important; 
         border-left: 3px solid var(--sw-yellow); 
     }
 
+    /* 5. MOBILE OVERRIDES */
     @media (max-width: 600px) {
         .log-container-json { padding: 5px; }
         .username { font-size: 0.95rem; }
         .timestamp { font-size: 0.7rem; display: block; margin-top: 2px; }
-        .frequency-nav-bar { top: var(--header-height); } /* Maintain stickiness */
+        .frequency-nav-bar { top: var(--header-height); }
     }
 </style>
 
@@ -91,7 +105,7 @@ layout: default
         <a href="{{ '/archives' | relative_url }}" class="toc-open-btn" style="text-decoration: none;">⇠</a>
         
         <select id="chapter-picker" class="toc-open-btn" onchange="loadChapter(this.value)" style="background: #1c2128; flex-grow: 1; min-width: 0;">
-            <option value="">-- INITIALIZING DATA --</option>
+            <option value="">-- LOADING DATAPAD --</option>
         </select>
 
         <button id="thread-toggle" class="toc-open-btn" onclick="toggleFrequencies()" style="display:none;">📡</button>
@@ -99,8 +113,7 @@ layout: default
 </header>
 
 <div id="frequency-selector" class="frequency-nav-bar">
-    <div class="freq-container" id="freq-buttons-target">
-        </div>
+    <div class="freq-container" id="freq-buttons-target"></div>
 </div>
 
 <div class="log-container-json">
@@ -113,14 +126,17 @@ layout: default
     let mainChannelId = null;
     const DEFAULT_AVATAR = "{{ '/Chapter_Logs/avatars/default.png' | relative_url }}";
 
-    // Initialization function to fetch the Manifest
+    /**
+     * INITIALIZATION: Fetch the Master Manifest
+     */
     async function init() {
         try {
             const response = await fetch("{{ '/Chapter_Logs/log-manifest.json' | relative_url }}");
+            if (!response.ok) throw new Error("Manifest sequence offline.");
             const manifest = await response.json();
             
             const picker = document.getElementById('chapter-picker');
-            picker.innerHTML = ""; // Clear loader
+            picker.innerHTML = ""; 
 
             manifest.forEach(item => {
                 const opt = document.createElement('option');
@@ -129,55 +145,53 @@ layout: default
                 picker.appendChild(opt);
             });
 
-            // Auto-load the first (latest) entry in the manifest
             if (manifest.length > 0) {
                 loadChapter(manifest[0].file);
             }
         } catch (e) {
-            console.error("Manifest failed to load", e);
+            document.getElementById('viewer-output').innerHTML = `<b style="color:red">COMMS ERROR: ${e.message}</b>`;
         }
     }
 
-    // Run on load
-    window.onload = init;
-
+    /**
+     * CHAPTER LOADING: Fetch individual JSON transmission
+     */
     async function loadChapter(jsonFile) {
         if (!jsonFile) return;
         const output = document.getElementById('viewer-output');
-        output.innerHTML = "<em>Opening Comms Frequency...</em>";
+        output.innerHTML = "<em>Decrypting Data Stream...</em>";
 
         try {
             const response = await fetch("{{ '/Chapter_Logs/JSON/' | relative_url }}" + jsonFile);
             const data = await response.json();
             fullData = Array.isArray(data) ? data : (data.messages || []);
             
-            // 1. DEEP PRE-SCAN: Identify Main Channel vs Threads
+            // Pre-scan for Thread Names and Main Channel ID
             channelMap = {};
             let parentCounts = {};
-
             fullData.forEach(m => {
                 if (m.thread) {
-                    // Map the thread ID to its Name
                     channelMap[m.thread.id] = m.thread.name.toUpperCase();
-                    // Count occurrences of parent IDs to find the Master Channel
                     if (m.thread.parent_id) {
                         parentCounts[m.thread.parent_id] = (parentCounts[m.thread.parent_id] || 0) + 1;
                     }
                 }
             });
 
-            // The ID most frequently cited as a parent is our Main Channel
             mainChannelId = Object.keys(parentCounts).reduce((a, b) => parentCounts[a] > parentCounts[b] ? a : b, null);
-            
-            // Fallback: If no threads exist, the only channel present is the main one
             if (!mainChannelId && fullData.length > 0) mainChannelId = fullData[0].channel_id;
 
             buildFrequencyBar();
             renderFeed('all');
+            window.scrollTo(0, 0);
         } catch (err) {
-            output.innerHTML = `<b style="color:red">COMMS ERROR: ${err.message}</b>`;
+            output.innerHTML = `<b style="color:red">DATA CORRUPTION: ${err.message}</b>`;
         }
     }
+
+    /**
+     * FEED RENDERING: Handle Markdown, Avatars, and Shifting
+     */
     function renderFeed(filterId) {
         const output = document.getElementById('viewer-output');
         output.innerHTML = "";
@@ -187,38 +201,32 @@ layout: default
             btn.classList.toggle('active', btn.getAttribute('data-id') === filterId);
         });
 
-        // Filter logic: 'all' shows everything, otherwise show specific channel or thread
         const messages = filterId === 'all' ? fullData : fullData.filter(m => m.channel_id === filterId || (m.thread && m.thread.id === filterId));
 
         messages.forEach(msg => {
             const isThreadStarter = (msg.thread && msg.channel_id === mainChannelId);
-            const actualChannel = (msg.thread && msg.channel_id === mainChannelId) ? msg.thread.id : msg.channel_id;
+            const actualChannel = isThreadStarter ? msg.thread.id : msg.channel_id;
 
-            // 2. SMART FREQUENCY SHIFT (Combined Feed Only)
-            // We shift if the channel changes, but NOT if it's a thread starter message
+            // Frequency Shift Marker
             if (filterId === 'all' && lastChannelId !== null && actualChannel !== lastChannelId && !isThreadStarter) {
-                const shiftName = channelMap[actualChannel] || "MAIN CHANNEL";
+                const shiftName = channelMap[actualChannel] || "PRIMARY FREQUENCY";
                 const transition = document.createElement('div');
                 transition.className = 'channel-transition';
                 transition.innerHTML = `📡 FREQUENCY SHIFT >> ${shiftName}`;
                 transition.onclick = () => renderFeed(actualChannel);
                 output.appendChild(transition);
             }
-            
-            // Don't count thread starters as a "shift" yet, wait for the actual thread messages
             if (!isThreadStarter) lastChannelId = actualChannel;
 
-            // 3. RENDER THREAD STARTER AS DIVIDER
+            // Thread Creation Divider
             if (isThreadStarter) {
                 const div = document.createElement('div');
                 div.className = 'channel-transition';
-                div.style.background = "rgba(210, 153, 34, 0.05)";
-                div.style.borderColor = "var(--sw-yellow)";
-                div.style.color = "var(--sw-yellow)";
-                div.innerHTML = `📂 THREAD CREATED: ${msg.thread.name} (OPEN)`;
+                div.style.cssText = "background:rgba(210,153,34,0.05); border-color:var(--sw-yellow); color:var(--sw-yellow);";
+                div.innerHTML = `📂 NEW ENCRYPTED CHANNEL: ${msg.thread.name} (OPEN)`;
                 div.onclick = () => renderFeed(msg.thread.id);
                 output.appendChild(div);
-                return; // Don't render the raw JSON text for the starter message
+                return;
             }
 
             const group = document.createElement('div');
@@ -245,42 +253,34 @@ layout: default
             `;
             output.appendChild(group);
         });
-        
         silentLoadAvatars();
     }
 
+    /**
+     * MARKDOWN PARSER: Custom Discord Formatting
+     */
     function parseMarkdown(text) {
         if (!text) return "";
-        
-        // Safety escape
         let html = text.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 
         return html
-            // 1. FIXED EMOJI LOGIC: Process before URLs
             .replace(/&lt;a?(:.*?:)(\d+)&gt;/g, (match, name, id) => {
                 const cleanName = name.replace(/:/g, '');
                 return `<img src="{{ '/Chapter_Logs/emojis/' | relative_url }}${cleanName}_${id}.png" class="emoji">`;
             })
-
-            // 2. FIXED URL LOGIC: Handle [text](<url>) and [text](url)
             .replace(/\[(.*?)\]\(&lt;?(https?:\/\/[^\s&gt;]+)&gt;?\)/g, '<a href="$2" target="_blank" class="external-link">$1</a>')
-            
-            // 3. INTERNAL DISCORD LINKS: Thread/Channel > 🔗
             .replace(/https:\/\/discord\.com\/channels\/\d+\/(\d+)\/(\d+)/g, (match, chanId, msgId) => {
-                const name = channelMap[chanId] || "TRANS";
+                const name = channelMap[chanId] || "LINK";
                 const exists = fullData.some(m => m.id === msgId);
                 return exists ? `<a href="javascript:void(0)" onclick="jumpToMessage('${msgId}','${chanId}')" class="internal-link">${name} > 🔗</a>` : match;
             })
-
-            // 4. CHANNEL MENTIONS: # Thread Name
             .replace(/&lt;#(\d+)&gt;/g, (match, id) => {
                 const name = channelMap[id] || "Frequency";
                 return `<a href="javascript:void(0)" onclick="renderFeed('${id}')" class="internal-link"># ${name}</a>`;
             })
-
-            // Headers & Standard Markdown
-            .replace(/^# (.*$)/gim, '<h1>$1</h1>').replace(/^## (.*$)/gim, '<h2>$1</h2>').replace(/^### (.*$)/gim, '<h3>$1</h3>')
-            .replace(/^#### (.*$)/gim, '<h4>$1</h4>').replace(/^##### (.*$)/gim, '<h5>$1</h5>').replace(/^###### (.*$)/gim, '<h6>$1</h6>')
+            .replace(/^# (.*$)/gim, '<h1>$1</h1>')
+            .replace(/^## (.*$)/gim, '<h2>$1</h2>')
+            .replace(/^### (.*$)/gim, '<h3>$1</h3>')
             .replace(/^-# (.*$)/gim, '<small class="subtext">$1</small>')
             .replace(/\*\*\*(.*?)\*\*\*/g, '<strong><i>$1</strong></i>')
             .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
@@ -289,36 +289,9 @@ layout: default
             .replace(/\n/g, '<br>');
     }
 
-    function jumpToMessage(msgId, chanId) {
-        renderFeed('all'); 
-        const target = document.getElementById(`msg-${msgId}`);
-        if (target) {
-            target.scrollIntoView({ behavior: 'smooth', block: 'center' });
-            target.classList.add('highlight-flash');
-            setTimeout(() => target.classList.remove('highlight-flash'), 2000);
-        }
-    }
-
-    function silentLoadAvatars() {
-        document.querySelectorAll('.lazy-load').forEach(img => {
-            const realSrc = img.getAttribute('data-src');
-            const probe = new Image();
-            probe.src = realSrc;
-            probe.onload = () => { img.src = realSrc; img.classList.add('loaded'); };
-            probe.onerror = () => { img.src = DEFAULT_AVATAR; img.classList.add('loaded'); };
-        });
-    }
-
-    function copyMsgLink(e, id) {
-        e.preventDefault();
-        const url = window.location.origin + window.location.pathname + "#msg-" + id;
-        navigator.clipboard.writeText(url).then(() => {
-            const el = document.getElementById("msg-" + id);
-            el.classList.add('highlight-flash');
-            setTimeout(() => el.classList.remove('highlight-flash'), 1000);
-        });
-    }
-
+    /**
+     * UI HELPERS
+     */
     function toggleFrequencies() {
         const bar = document.getElementById('frequency-selector');
         const btn = document.getElementById('thread-toggle');
@@ -335,9 +308,7 @@ layout: default
         const uniqueChannels = [...new Set(fullData.map(m => m.channel_id))];
         
         if (uniqueChannels.length <= 1) { 
-            bar.style.display = 'none'; 
-            toggleBtn.style.display = 'none';
-            return; 
+            bar.style.display = 'none'; toggleBtn.style.display = 'none'; return; 
         }
         
         toggleBtn.style.display = 'block';
@@ -345,13 +316,44 @@ layout: default
 
         let html = `<div class="comms-status">📡 Encrypted Frequencies Detected:</div>`;
         html += `<button class="freq-btn active" data-id="all" onclick="renderFeed('all')">COMBINED FEED</button>`;
-        
         uniqueChannels.forEach(id => {
-            const name = channelMap[id] || "PRIMARY CHANNEL";
-            html += `<button class="freq-btn" data-id="${id}" onclick="renderFeed('${id}')">${name}</button>`;
+            html += `<button class="freq-btn" data-id="${id}" onclick="renderFeed('${id}')">${channelMap[id] || "PRIMARY CHANNEL"}</button>`;
         });
         target.innerHTML = html;
     }
+
+    function silentLoadAvatars() {
+        document.querySelectorAll('.lazy-load').forEach(img => {
+            const realSrc = img.getAttribute('data-src');
+            const probe = new Image();
+            probe.src = realSrc;
+            probe.onload = () => { img.src = realSrc; img.classList.add('loaded'); };
+            probe.onerror = () => { img.src = DEFAULT_AVATAR; img.classList.add('loaded'); };
+        });
+    }
+
+    function jumpToMessage(msgId, chanId) {
+        renderFeed('all'); 
+        setTimeout(() => {
+            const target = document.getElementById(`msg-${msgId}`);
+            if (target) {
+                target.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                target.classList.add('highlight-flash');
+                setTimeout(() => target.classList.remove('highlight-flash'), 2000);
+            }
+        }, 100);
+    }
+
+    function copyMsgLink(e, id) {
+        e.preventDefault();
+        const url = window.location.origin + window.location.pathname + "#msg-" + id;
+        navigator.clipboard.writeText(url).then(() => {
+            const el = document.getElementById("msg-" + id);
+            el.classList.add('highlight-flash');
+            setTimeout(() => el.classList.remove('highlight-flash'), 1000);
+        });
+    }
+
+    // Fire it up
+    document.addEventListener("DOMContentLoaded", init);
 </script>
-</body>
-</html>
