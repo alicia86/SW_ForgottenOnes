@@ -12,18 +12,19 @@ layout: default
         overflow: visible !important; 
     }
 
-    /* 2. SECONDARY STICKY BAR (Frequency Switcher) */
+    /* --- 3. SECONDARY FREQUENCY BAR --- */
     .frequency-nav-bar { 
-        position: -webkit-sticky;
-        position: sticky; 
-        top: var(--header-height); 
-        z-index: 4500; 
-        background: var(--panel-bg);
-        border-bottom: 1px solid var(--gh-border);
-        padding: 12px 0;
-        display: none; 
-        box-shadow: 0 10px 20px rgba(0,0,0,0.5);
+    position: sticky; 
+    /* Sticks under Global (50px) + Log (70px) */
+    top: calc(var(--site-nav-height) + var(--log-nav-height)); 
+    z-index: 7000; 
+    background: var(--panel-bg);
+    border-bottom: 1px solid var(--gh-border);
+    padding: 12px 0;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.5);
+    display: none;
     }
+
 
     .freq-container {
         display: flex;
