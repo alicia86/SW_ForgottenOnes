@@ -37,98 +37,58 @@
   },
   {
     "lastMessageTimestamp": "2025-07-25T01:02:40.602+00:00",
-    "title": [
+    "title":
       "PRELUDE: The Static on the Line (Dryzan)",
-      "PRELUDE: The Sunken Star of Xylos (Iyola)",
-      "PRELUDE: (KRYNN)",
-      "PRELUDE: Ghost of the <i>Devastation<i> (Vearos)",
-      "PRELUDE: The Price of a Vision (Varda)",
-      "PRELUDE: (VENA)"
-    ],
     "order": 0,
     "channelID": "1380700164175696062",
     "file": "FO_BB_Prelude-Dryzan.json",
     "messageCount": 176,
-    "preview": "Prelude: The Static on the Line (Dryzan) Prelude: The Sunken Star of Xylos (Iyola) Prelude: The Stray Fortune (Krynn) Prelude: Ghost of the Devastator (Vearos) Prelude: The Price of a Vision (Varda) Prelude: The Echo in the Stone (Vena)"
+    "preview": ""
   },
   {
     "lastMessageTimestamp": "2025-07-25T00:03:06.396+00:00",
-    "title": [
-      "PRELUDE: The Static on the Line (Dryzan)",
+    "title":
       "PRELUDE: The Sunken Star of Xylos (Iyola)",
-      "PRELUDE: (KRYNN)",
-      "PRELUDE: Ghost of the <i>Devastation<i> (Vearos)",
-      "PRELUDE: The Price of a Vision (Varda)",
-      "PRELUDE: (VENA)"
-    ],
     "order": 0,
-    "channelID": "1380700164175696062",
+    "channelID": "1386794250947264743",
     "file": "FO_BB_Prelude-Iyola.json",
     "messageCount": 107,
-    "preview": "Prelude: The Static on the Line (Dryzan) Prelude: The Sunken Star of Xylos (Iyola) Prelude: The Stray Fortune (Krynn) Prelude: Ghost of the Devastator (Vearos) Prelude: The Price of a Vision (Varda) Prelude: The Echo in the Stone (Vena)"
+    "preview": ""
   },
   {
     "lastMessageTimestamp": "2025-06-12T19:27:19.913+00:00",
-    "title": [
-      "PRELUDE: The Static on the Line (Dryzan)",
-      "PRELUDE: The Sunken Star of Xylos (Iyola)",
-      "PRELUDE: (KRYNN)",
-      "PRELUDE: Ghost of the <i>Devastation<i> (Vearos)",
-      "PRELUDE: The Price of a Vision (Varda)",
-      "PRELUDE: (VENA)"
-    ],
+    "title": "PRELUDE: (KRYNN)",
     "order": 0,
-    "channelID": "1380700164175696062",
+    "channelID": "1382803271185469562",
     "file": "FO_BB_Prelude-Krynn.json",
     "messageCount": 1,
-    "preview": "Prelude: The Static on the Line (Dryzan) Prelude: The Sunken Star of Xylos (Iyola) Prelude: The Stray Fortune (Krynn) Prelude: Ghost of the Devastator (Vearos) Prelude: The Price of a Vision (Varda) Prelude: The Echo in the Stone (Vena)"
+    "preview": ""
   },
   {
     "lastMessageTimestamp": "2025-07-01T02:47:54.153+00:00",
-    "title": [
-      "PRELUDE: The Static on the Line (Dryzan)",
-      "PRELUDE: The Sunken Star of Xylos (Iyola)",
-      "PRELUDE: (KRYNN)",
-      "PRELUDE: Ghost of the <i>Devastation<i> (Vearos)",
-      "PRELUDE: The Price of a Vision (Varda)",
-      "PRELUDE: (VENA)"
-    ],
+    "title": "PRELUDE: Ghost of the <i>Devastation<i> (Vearos)",
     "order": 0,
-    "channelID": "1380700164175696062",
+    "channelID": "1385685912834277456",
     "file": "FO_BB_Prelude-Vaeros.json",
     "messageCount": 130,
-    "preview": "Prelude: The Static on the Line (Dryzan) Prelude: The Sunken Star of Xylos (Iyola) Prelude: The Stray Fortune (Krynn) Prelude: Ghost of the Devastator (Vearos) Prelude: The Price of a Vision (Varda) Prelude: The Echo in the Stone (Vena)"
+    "preview": ""
   },
   {
     "lastMessageTimestamp": "2025-06-18T23:49:12.754+00:00",
-    "title": [
-      "PRELUDE: The Static on the Line (Dryzan)",
-      "PRELUDE: The Sunken Star of Xylos (Iyola)",
-      "PRELUDE: (KRYNN)",
-      "PRELUDE: Ghost of the <i>Devastation<i> (Vearos)",
-      "PRELUDE: The Price of a Vision (Varda)",
-      "PRELUDE: (VENA)"
-    ],
+    "title": "PRELUDE: The Price of a Vision (Varda)",
     "order": 0,
-    "channelID": "1380700164175696062",
+    "channelID": "1381784157688037396",
     "file": "FO_BB_Prelude-Varda.json",
     "messageCount": 135,
-    "preview": "Prelude: The Static on the Line (Dryzan) Prelude: The Sunken Star of Xylos (Iyola) Prelude: The Stray Fortune (Krynn) Prelude: Ghost of the Devastator (Vearos) Prelude: The Price of a Vision (Varda) Prelude: The Echo in the Stone (Vena)"
+    "preview": ""
   },
   {
     "lastMessageTimestamp": "2025-06-12T01:37:02.532+00:00",
-    "title": [
-      "PRELUDE: The Static on the Line (Dryzan)",
-      "PRELUDE: The Sunken Star of Xylos (Iyola)",
-      "PRELUDE: (KRYNN)",
-      "PRELUDE: Ghost of the <i>Devastation<i> (Vearos)",
-      "PRELUDE: The Price of a Vision (Varda)",
-      "PRELUDE: (VENA)"
-    ],
+    "title": "PRELUDE: (VENA)",
     "order": 0,
-    "channelID": "1380700164175696062",
+    "channelID": "1381783926871298098",
     "file": "FO_BB_Prelude-Vena.json",
     "messageCount": 1,
-    "preview": "Prelude: The Static on the Line (Dryzan) Prelude: The Sunken Star of Xylos (Iyola) Prelude: The Stray Fortune (Krynn) Prelude: Ghost of the Devastator (Vearos) Prelude: The Price of a Vision (Varda) Prelude: The Echo in the Stone (Vena)"
+    "preview": ""
   }
 ]
