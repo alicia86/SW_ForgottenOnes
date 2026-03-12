@@ -12,53 +12,44 @@ layout: default
     .frequency-nav-bar { 
         position: -webkit-sticky;
         position: sticky; 
-        top: var(--header-height); /* Sticks exactly below header */
+        top: var(--header-height); /* Sticks flush under Frozen Nav */
         z-index: 4500; 
         background: var(--panel-bg);
-        border: 1px solid var(--gh-border);
-        border-top: none;
-        padding: 12px;
-        display: none; 
+        border-bottom: 1px solid var(--gh-border);
+        padding: 12px 0;
+        display: none; /* Controlled by JS */
+        box-shadow: 0 10px 20px rgba(0,0,0,0.5);
+    }
+    .freq-container {
+        display: flex;
         flex-wrap: wrap;
         gap: 8px;
         width: 100%;
-        /* No transform needed; inherited centering from container */
-        box-shadow: 0 10px 20px rgba(0,0,0,0.5);
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 0 15px;
     }
+
     .comms-status { 
         width: 100%; 
-        padding: 5px 0; 
-        font-size: 0.65rem; 
+        padding-bottom: 8px; 
+        font-size: 0.6rem; 
         color: var(--sw-yellow); 
         font-family: monospace; 
-        border-bottom: 1px solid var(--gh-border); 
-        margin-bottom: 8px; 
         text-transform: uppercase; 
+        border-bottom: 1px solid rgba(255,255,255,0.05);
+        margin-bottom: 5px;
     }
     .freq-btn { 
         flex: 1 1 auto;
-        background: #1c2128; /* Matches toc-open-btn */
-        border: 1px solid var(--sw-blue); 
-        color: var(--sw-blue); 
-        padding: 8px 12px; 
-        font-size: 0.7rem; 
-        cursor: pointer; 
-        border-radius: 4px; 
-        font-weight: bold; 
-        text-transform: uppercase;
-        transition: 0.2s;
         min-width: 120px;
-        text-align: center;
-    }
-    .freq-btn:hover {
-        background: var(--sw-blue);
-        color: white;
+        justify-content: center;
     }
 
     .freq-btn.active { 
         background: var(--sw-blue) !important; 
-        color: #000 !important; 
-        box-shadow: 0 0 10px var(--sw-glow); 
+        color: #0d1117 !important; 
+        box-shadow: 0 0 15px var(--sw-glow);
     }
 
     /* --- MESSAGE FEED LAYOUT --- */
@@ -98,245 +89,242 @@ layout: default
 <header class="frozen-nav">
     <div class="nav-inner">
         <a href="{{ '/archives' | relative_url }}" class="toc-open-btn" style="text-decoration: none;">⇠</a>
-        
         <select id="chapter-picker" class="toc-open-btn" onchange="loadChapter(this.value)" style="background: #1c2128; flex-grow: 1; min-width: 0;">
             {% assign json_files = site.static_files | where_exp: "file", "file.path contains 'Chapter_Logs/JSON/'" %}
             {% for file in json_files %}
                 <option value="{{ file.name }}">{{ file.basename | replace: '_', ' ' | upcase }}</option>
             {% endfor %}
         </select>
-
         <button id="thread-toggle" class="toc-open-btn" onclick="toggleFrequencies()" style="display:none;">📡</button>
     </div>
 </header>
 
+<div id="frequency-selector" class="frequency-nav-bar">
+    <div class="freq-container" id="freq-buttons-target">
+        </div>
+</div>
+
 <div class="log-container-json">
-    <div id="frequency-selector" class="frequency-nav-bar" style="display:none;"></div>
     <div id="viewer-output">{{ content }}</div>
 </div>
 
-    <script>
-        let fullData = [];
-        let channelMap = {}; 
-        let mainChannelId = null;
-        const DEFAULT_AVATAR = "{{ '/Chapter_Logs/avatars/default.png' | relative_url }}";
+<script>
+    let fullData = [];
+    let channelMap = {}; 
+    let mainChannelId = null;
+    const DEFAULT_AVATAR = "{{ '/Chapter_Logs/avatars/default.png' | relative_url }}";
 
-        async function loadChapter(jsonFile) {
-            if (!jsonFile) return;
-            const output = document.getElementById('viewer-output');
-            output.innerHTML = "<em>Opening Comms Frequency...</em>";
+    async function loadChapter(jsonFile) {
+        if (!jsonFile) return;
+        const output = document.getElementById('viewer-output');
+        output.innerHTML = "<em>Opening Comms Frequency...</em>";
 
-            try {
-                const response = await fetch("{{ '/Chapter_Logs/JSON/' | relative_url }}" + jsonFile);
-                const data = await response.json();
-                fullData = Array.isArray(data) ? data : (data.messages || []);
-                
-                // 1. DEEP PRE-SCAN: Identify Main Channel vs Threads
-                channelMap = {};
-                let parentCounts = {};
+        try {
+            const response = await fetch("{{ '/Chapter_Logs/JSON/' | relative_url }}" + jsonFile);
+            const data = await response.json();
+            fullData = Array.isArray(data) ? data : (data.messages || []);
+            
+            // 1. DEEP PRE-SCAN: Identify Main Channel vs Threads
+            channelMap = {};
+            let parentCounts = {};
 
-                fullData.forEach(m => {
-                    if (m.thread) {
-                        // Map the thread ID to its Name
-                        channelMap[m.thread.id] = m.thread.name.toUpperCase();
-                        // Count occurrences of parent IDs to find the Master Channel
-                        if (m.thread.parent_id) {
-                            parentCounts[m.thread.parent_id] = (parentCounts[m.thread.parent_id] || 0) + 1;
-                        }
+            fullData.forEach(m => {
+                if (m.thread) {
+                    // Map the thread ID to its Name
+                    channelMap[m.thread.id] = m.thread.name.toUpperCase();
+                    // Count occurrences of parent IDs to find the Master Channel
+                    if (m.thread.parent_id) {
+                        parentCounts[m.thread.parent_id] = (parentCounts[m.thread.parent_id] || 0) + 1;
                     }
-                });
-
-                // The ID most frequently cited as a parent is our Main Channel
-                mainChannelId = Object.keys(parentCounts).reduce((a, b) => parentCounts[a] > parentCounts[b] ? a : b, null);
-                
-                // Fallback: If no threads exist, the only channel present is the main one
-                if (!mainChannelId && fullData.length > 0) mainChannelId = fullData[0].channel_id;
-
-                buildFrequencyBar();
-                renderFeed('all');
-            } catch (err) {
-                output.innerHTML = `<b style="color:red">COMMS ERROR: ${err.message}</b>`;
-            }
-        }
-        function renderFeed(filterId) {
-            const output = document.getElementById('viewer-output');
-            output.innerHTML = "";
-            let lastChannelId = null;
-
-            document.querySelectorAll('.freq-btn').forEach(btn => {
-                btn.classList.toggle('active', btn.getAttribute('data-id') === filterId);
+                }
             });
 
-            // Filter logic: 'all' shows everything, otherwise show specific channel or thread
-            const messages = filterId === 'all' ? fullData : fullData.filter(m => m.channel_id === filterId || (m.thread && m.thread.id === filterId));
+            // The ID most frequently cited as a parent is our Main Channel
+            mainChannelId = Object.keys(parentCounts).reduce((a, b) => parentCounts[a] > parentCounts[b] ? a : b, null);
+            
+            // Fallback: If no threads exist, the only channel present is the main one
+            if (!mainChannelId && fullData.length > 0) mainChannelId = fullData[0].channel_id;
 
-            messages.forEach(msg => {
-                const isThreadStarter = (msg.thread && msg.channel_id === mainChannelId);
-                const actualChannel = (msg.thread && msg.channel_id === mainChannelId) ? msg.thread.id : msg.channel_id;
+            buildFrequencyBar();
+            renderFeed('all');
+        } catch (err) {
+            output.innerHTML = `<b style="color:red">COMMS ERROR: ${err.message}</b>`;
+        }
+    }
+    function renderFeed(filterId) {
+        const output = document.getElementById('viewer-output');
+        output.innerHTML = "";
+        let lastChannelId = null;
 
-                // 2. SMART FREQUENCY SHIFT (Combined Feed Only)
-                // We shift if the channel changes, but NOT if it's a thread starter message
-                if (filterId === 'all' && lastChannelId !== null && actualChannel !== lastChannelId && !isThreadStarter) {
-                    const shiftName = channelMap[actualChannel] || "MAIN CHANNEL";
-                    const transition = document.createElement('div');
-                    transition.className = 'channel-transition';
-                    transition.innerHTML = `📡 FREQUENCY SHIFT >> ${shiftName}`;
-                    transition.onclick = () => renderFeed(actualChannel);
-                    output.appendChild(transition);
-                }
-                
-                // Don't count thread starters as a "shift" yet, wait for the actual thread messages
-                if (!isThreadStarter) lastChannelId = actualChannel;
+        document.querySelectorAll('.freq-btn').forEach(btn => {
+            btn.classList.toggle('active', btn.getAttribute('data-id') === filterId);
+        });
 
-                // 3. RENDER THREAD STARTER AS DIVIDER
-                if (isThreadStarter) {
-                    const div = document.createElement('div');
-                    div.className = 'channel-transition';
-                    div.style.background = "rgba(210, 153, 34, 0.05)";
-                    div.style.borderColor = "var(--sw-yellow)";
-                    div.style.color = "var(--sw-yellow)";
-                    div.innerHTML = `📂 THREAD CREATED: ${msg.thread.name} (OPEN)`;
-                    div.onclick = () => renderFeed(msg.thread.id);
-                    output.appendChild(div);
-                    return; // Don't render the raw JSON text for the starter message
-                }
+        // Filter logic: 'all' shows everything, otherwise show specific channel or thread
+        const messages = filterId === 'all' ? fullData : fullData.filter(m => m.channel_id === filterId || (m.thread && m.thread.id === filterId));
 
-                const group = document.createElement('div');
-                group.className = 'message-group';
-                group.id = `msg-${msg.id}`;
+        messages.forEach(msg => {
+            const isThreadStarter = (msg.thread && msg.channel_id === mainChannelId);
+            const actualChannel = (msg.thread && msg.channel_id === mainChannelId) ? msg.thread.id : msg.channel_id;
 
-                let avatarPath = DEFAULT_AVATAR;
-                if (msg.author && msg.author.id && msg.author.avatar) {
-                    avatarPath = `{{ '/Chapter_Logs/avatars/' | relative_url }}${msg.author.id}/${msg.author.avatar}.png`;
-                }
+            // 2. SMART FREQUENCY SHIFT (Combined Feed Only)
+            // We shift if the channel changes, but NOT if it's a thread starter message
+            if (filterId === 'all' && lastChannelId !== null && actualChannel !== lastChannelId && !isThreadStarter) {
+                const shiftName = channelMap[actualChannel] || "MAIN CHANNEL";
+                const transition = document.createElement('div');
+                transition.className = 'channel-transition';
+                transition.innerHTML = `📡 FREQUENCY SHIFT >> ${shiftName}`;
+                transition.onclick = () => renderFeed(actualChannel);
+                output.appendChild(transition);
+            }
+            
+            // Don't count thread starters as a "shift" yet, wait for the actual thread messages
+            if (!isThreadStarter) lastChannelId = actualChannel;
 
-                group.innerHTML = `
-                    <div class="avatar-container">
-                        <img src="${DEFAULT_AVATAR}" data-src="${avatarPath}" class="avatar lazy-load">
+            // 3. RENDER THREAD STARTER AS DIVIDER
+            if (isThreadStarter) {
+                const div = document.createElement('div');
+                div.className = 'channel-transition';
+                div.style.background = "rgba(210, 153, 34, 0.05)";
+                div.style.borderColor = "var(--sw-yellow)";
+                div.style.color = "var(--sw-yellow)";
+                div.innerHTML = `📂 THREAD CREATED: ${msg.thread.name} (OPEN)`;
+                div.onclick = () => renderFeed(msg.thread.id);
+                output.appendChild(div);
+                return; // Don't render the raw JSON text for the starter message
+            }
+
+            const group = document.createElement('div');
+            group.className = 'message-group';
+            group.id = `msg-${msg.id}`;
+
+            let avatarPath = DEFAULT_AVATAR;
+            if (msg.author && msg.author.id && msg.author.avatar) {
+                avatarPath = `{{ '/Chapter_Logs/avatars/' | relative_url }}${msg.author.id}/${msg.author.avatar}.png`;
+            }
+
+            group.innerHTML = `
+                <div class="avatar-container">
+                    <img src="${DEFAULT_AVATAR}" data-src="${avatarPath}" class="avatar lazy-load">
+                </div>
+                <div class="msg-body">
+                    <div class="msg-header">
+                        <span class="username">${msg.author.nickname || msg.author.global_name || msg.author.username}</span>
+                        <span class="timestamp">${new Date(msg.timestamp).toLocaleString()}</span>
+                        <a href="#msg-${msg.id}" class="copy-link-icon" onclick="copyMsgLink(event, '${msg.id}')">🔗</a>
                     </div>
-                    <div class="msg-body">
-                        <div class="msg-header">
-                            <span class="username">${msg.author.nickname || msg.author.global_name || msg.author.username}</span>
-                            <span class="timestamp">${new Date(msg.timestamp).toLocaleString()}</span>
-                            <a href="#msg-${msg.id}" class="copy-link-icon" onclick="copyMsgLink(event, '${msg.id}')">🔗</a>
-                        </div>
-                        <div class="msg-content">${parseMarkdown(msg.content)}</div>
-                    </div>
-                `;
-                output.appendChild(group);
-            });
+                    <div class="msg-content">${parseMarkdown(msg.content)}</div>
+                </div>
+            `;
+            output.appendChild(group);
+        });
+        
+        silentLoadAvatars();
+    }
+
+    function parseMarkdown(text) {
+        if (!text) return "";
+        
+        // Safety escape
+        let html = text.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+
+        return html
+            // 1. FIXED EMOJI LOGIC: Process before URLs
+            .replace(/&lt;a?(:.*?:)(\d+)&gt;/g, (match, name, id) => {
+                const cleanName = name.replace(/:/g, '');
+                return `<img src="{{ '/Chapter_Logs/emojis/' | relative_url }}${cleanName}_${id}.png" class="emoji">`;
+            })
+
+            // 2. FIXED URL LOGIC: Handle [text](<url>) and [text](url)
+            .replace(/\[(.*?)\]\(&lt;?(https?:\/\/[^\s&gt;]+)&gt;?\)/g, '<a href="$2" target="_blank" class="external-link">$1</a>')
             
-            silentLoadAvatars();
+            // 3. INTERNAL DISCORD LINKS: Thread/Channel > 🔗
+            .replace(/https:\/\/discord\.com\/channels\/\d+\/(\d+)\/(\d+)/g, (match, chanId, msgId) => {
+                const name = channelMap[chanId] || "TRANS";
+                const exists = fullData.some(m => m.id === msgId);
+                return exists ? `<a href="javascript:void(0)" onclick="jumpToMessage('${msgId}','${chanId}')" class="internal-link">${name} > 🔗</a>` : match;
+            })
+
+            // 4. CHANNEL MENTIONS: # Thread Name
+            .replace(/&lt;#(\d+)&gt;/g, (match, id) => {
+                const name = channelMap[id] || "Frequency";
+                return `<a href="javascript:void(0)" onclick="renderFeed('${id}')" class="internal-link"># ${name}</a>`;
+            })
+
+            // Headers & Standard Markdown
+            .replace(/^# (.*$)/gim, '<h1>$1</h1>').replace(/^## (.*$)/gim, '<h2>$1</h2>').replace(/^### (.*$)/gim, '<h3>$1</h3>')
+            .replace(/^#### (.*$)/gim, '<h4>$1</h4>').replace(/^##### (.*$)/gim, '<h5>$1</h5>').replace(/^###### (.*$)/gim, '<h6>$1</h6>')
+            .replace(/^-# (.*$)/gim, '<small class="subtext">$1</small>')
+            .replace(/\*\*\*(.*?)\*\*\*/g, '<strong><i>$1</strong></i>')
+            .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+            .replace(/\*(.*?)\*/g, '<i>$1</i>')
+            .replace(/\|\|(.*?)\|\|/g, '<span class="spoiler">$1</span>')
+            .replace(/\n/g, '<br>');
+    }
+
+    function jumpToMessage(msgId, chanId) {
+        renderFeed('all'); 
+        const target = document.getElementById(`msg-${msgId}`);
+        if (target) {
+            target.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            target.classList.add('highlight-flash');
+            setTimeout(() => target.classList.remove('highlight-flash'), 2000);
         }
+    }
 
-        function parseMarkdown(text) {
-            if (!text) return "";
-            
-            // Safety escape
-            let html = text.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+    function silentLoadAvatars() {
+        document.querySelectorAll('.lazy-load').forEach(img => {
+            const realSrc = img.getAttribute('data-src');
+            const probe = new Image();
+            probe.src = realSrc;
+            probe.onload = () => { img.src = realSrc; img.classList.add('loaded'); };
+            probe.onerror = () => { img.src = DEFAULT_AVATAR; img.classList.add('loaded'); };
+        });
+    }
 
-            return html
-                // 1. FIXED EMOJI LOGIC: Process before URLs
-                .replace(/&lt;a?(:.*?:)(\d+)&gt;/g, (match, name, id) => {
-                    const cleanName = name.replace(/:/g, '');
-                    return `<img src="{{ '/Chapter_Logs/emojis/' | relative_url }}${cleanName}_${id}.png" class="emoji">`;
-                })
+    function copyMsgLink(e, id) {
+        e.preventDefault();
+        const url = window.location.origin + window.location.pathname + "#msg-" + id;
+        navigator.clipboard.writeText(url).then(() => {
+            const el = document.getElementById("msg-" + id);
+            el.classList.add('highlight-flash');
+            setTimeout(() => el.classList.remove('highlight-flash'), 1000);
+        });
+    }
 
-                // 2. FIXED URL LOGIC: Handle [text](<url>) and [text](url)
-                .replace(/\[(.*?)\]\(&lt;?(https?:\/\/[^\s&gt;]+)&gt;?\)/g, '<a href="$2" target="_blank" class="external-link">$1</a>')
-                
-                // 3. INTERNAL DISCORD LINKS: Thread/Channel > 🔗
-                .replace(/https:\/\/discord\.com\/channels\/\d+\/(\d+)\/(\d+)/g, (match, chanId, msgId) => {
-                    const name = channelMap[chanId] || "TRANS";
-                    const exists = fullData.some(m => m.id === msgId);
-                    return exists ? `<a href="javascript:void(0)" onclick="jumpToMessage('${msgId}','${chanId}')" class="internal-link">${name} > 🔗</a>` : match;
-                })
+    function toggleFrequencies() {
+        const bar = document.getElementById('frequency-selector');
+        const btn = document.getElementById('thread-toggle');
+        const isHidden = (bar.style.display === 'none' || bar.style.display === '');
+        bar.style.display = isHidden ? 'block' : 'none';
+        btn.style.background = isHidden ? 'var(--sw-blue)' : '#1c2128';
+        btn.style.color = isHidden ? 'white' : 'var(--sw-blue)';
+    }
 
-                // 4. CHANNEL MENTIONS: # Thread Name
-                .replace(/&lt;#(\d+)&gt;/g, (match, id) => {
-                    const name = channelMap[id] || "Frequency";
-                    return `<a href="javascript:void(0)" onclick="renderFeed('${id}')" class="internal-link"># ${name}</a>`;
-                })
-
-                // Headers & Standard Markdown
-                .replace(/^# (.*$)/gim, '<h1>$1</h1>').replace(/^## (.*$)/gim, '<h2>$1</h2>').replace(/^### (.*$)/gim, '<h3>$1</h3>')
-                .replace(/^#### (.*$)/gim, '<h4>$1</h4>').replace(/^##### (.*$)/gim, '<h5>$1</h5>').replace(/^###### (.*$)/gim, '<h6>$1</h6>')
-                .replace(/^-# (.*$)/gim, '<small class="subtext">$1</small>')
-                .replace(/\*\*\*(.*?)\*\*\*/g, '<strong><i>$1</strong></i>')
-                .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
-                .replace(/\*(.*?)\*/g, '<i>$1</i>')
-                .replace(/\|\|(.*?)\|\|/g, '<span class="spoiler">$1</span>')
-                .replace(/\n/g, '<br>');
+    function buildFrequencyBar() {
+        const bar = document.getElementById('frequency-selector');
+        const target = document.getElementById('freq-buttons-target');
+        const toggleBtn = document.getElementById('thread-toggle');
+        const uniqueChannels = [...new Set(fullData.map(m => m.channel_id))];
+        
+        if (uniqueChannels.length <= 1) { 
+            bar.style.display = 'none'; 
+            toggleBtn.style.display = 'none';
+            return; 
         }
+        
+        toggleBtn.style.display = 'block';
+        bar.style.display = window.innerWidth > 1000 ? 'block' : 'none';
 
-        function jumpToMessage(msgId, chanId) {
-            renderFeed('all'); 
-            const target = document.getElementById(`msg-${msgId}`);
-            if (target) {
-                target.scrollIntoView({ behavior: 'smooth', block: 'center' });
-                target.classList.add('highlight-flash');
-                setTimeout(() => target.classList.remove('highlight-flash'), 2000);
-            }
-        }
-
-        function silentLoadAvatars() {
-            document.querySelectorAll('.lazy-load').forEach(img => {
-                const realSrc = img.getAttribute('data-src');
-                const probe = new Image();
-                probe.src = realSrc;
-                probe.onload = () => { img.src = realSrc; img.classList.add('loaded'); };
-                probe.onerror = () => { img.src = DEFAULT_AVATAR; img.classList.add('loaded'); };
-            });
-        }
-
-        function copyMsgLink(e, id) {
-            e.preventDefault();
-            const url = window.location.origin + window.location.pathname + "#msg-" + id;
-            navigator.clipboard.writeText(url).then(() => {
-                const el = document.getElementById("msg-" + id);
-                el.classList.add('highlight-flash');
-                setTimeout(() => el.classList.remove('highlight-flash'), 1000);
-            });
-        }
-
-        function toggleFrequencies() {
-            const bar = document.getElementById('frequency-selector');
-            const btn = document.getElementById('thread-toggle');
-            if (bar.style.display === 'none' || bar.style.display === '') {
-                bar.style.display = 'flex';
-                btn.style.background = 'var(--sw-blue)';
-                btn.style.color = 'white';
-            } else {
-                bar.style.display = 'none';
-                btn.style.background = '#1c2128';
-                btn.style.color = 'var(--sw-blue)';
-            }
-        }
-
-        function buildFrequencyBar() {
-            const bar = document.getElementById('frequency-selector');
-            const toggleBtn = document.getElementById('thread-toggle');
-            const uniqueChannels = [...new Set(fullData.map(m => m.channel_id))];
-            
-            if (uniqueChannels.length <= 1) { 
-                bar.style.display = 'none'; 
-                toggleBtn.style.display = 'none';
-                return; 
-            }
-            
-            toggleBtn.style.display = 'block';
-            // bar starts hidden on mobile, or you can keep it flex on desktop
-            bar.style.display = window.innerWidth > 1000 ? 'flex' : 'none';
-
-            let html = `<div class="comms-status">ENCRYPTED FREQUENCIES DETECTED:</div>`;
-            html += `<button class="freq-btn active" data-id="all" onclick="renderFeed('all')">COMBINED FEED</button>`;
-            
-            uniqueChannels.forEach(id => {
-                const name = channelMap[id] || "PRIMARY CHANNEL";
-                html += `<button class="freq-btn" data-id="${id}" onclick="renderFeed('${id}')">${name}</button>`;
-            });
-            bar.innerHTML = html;
-        }
-    </script>
+        let html = `<div class="comms-status">📡 Encrypted Frequencies Detected:</div>`;
+        html += `<button class="freq-btn active" data-id="all" onclick="renderFeed('all')">COMBINED FEED</button>`;
+        
+        uniqueChannels.forEach(id => {
+            const name = channelMap[id] || "PRIMARY CHANNEL";
+            html += `<button class="freq-btn" data-id="${id}" onclick="renderFeed('${id}')">${name}</button>`;
+        });
+        target.innerHTML = html;
+    }
+</script>
 </body>
 </html>

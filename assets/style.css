@@ -1,4 +1,4 @@
-/* --- 1. CORE VARIABLES --- */
+/* --- CORE VARIABLES --- */
 :root {
     --gh-bg: #0d1117;
     --gh-border: #30363d;
@@ -10,7 +10,7 @@
     --panel-bg: #161b22;
     --header-height: 70px;
 }
-/* --- 2. GLOBAL RESET & MOBILE STABILIZATION --- */
+/* --- GLOBAL RESET & MOBILE STABILIZATION --- */
 * { box-sizing: border-box; }
 
 html {
@@ -37,7 +37,7 @@ main {
     overflow: visible !important; 
 }
 
-/* --- 3. REUSABLE UI COMPONENTS --- */
+/* --- REUSABLE UI COMPONENTS --- */
 .panel {
     background: var(--panel-bg);
     border: 1px solid var(--gh-border);
@@ -59,17 +59,41 @@ main {
 a { color: var(--sw-blue); text-decoration: none; transition: 0.2s; }
 a:hover { text-decoration: underline; color: var(--sw-yellow); }
 
-/* --- 4. SHARED TOP NAVIGATION (The Sticky Bar) --- */
+/* --- UNIVERSAL NAV BUTTON THEME --- */
+/* Forces blue/black theme and prevents browser "white" button defaults */
+.toc-open-btn, .freq-btn, .nav-btn {
+    background: #1c2128 !important;
+    color: var(--sw-blue) !important;
+    border: 1px solid var(--sw-blue) !important;
+    padding: 8px 16px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 4px;
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    transition: 0.2s;
+    text-decoration: none;
+}
+
+.toc-open-btn:hover, .freq-btn:hover, .nav-btn:hover {
+    background: var(--sw-blue) !important;
+    color: #000 !important;
+    box-shadow: 0 0 10px var(--sw-glow);
+}
+
+/* --- SHARED TOP NAVIGATION (The Sticky Bar) --- */
 .frozen-nav {
     position: -webkit-sticky;
     position: sticky;
     top: 0;
-    z-index: 5000; /* Extremely high to prevent overlap */
+    z-index: 5000; 
     background-color: var(--gh-bg); 
     border-bottom: 1px solid var(--gh-border);
     height: var(--header-height);
     width: 100%;
-    /* Use padding instead of margin to prevent layout shifts */
     padding: 0 10px;
     display: flex;
     align-items: center;
@@ -101,7 +125,7 @@ a:hover { text-decoration: underline; color: var(--sw-yellow); }
     box-shadow: 0 0 10px var(--sw-glow);
 }
 
-/* --- 5. UNIVERSAL FORMATTING & DISCORD EXTRAS --- */
+/* --- UNIVERSAL FORMATTING & DISCORD EXTRAS --- */
 .st-gold {
     color: var(--sw-yellow);
     font-style: italic;
@@ -147,7 +171,7 @@ pre { background: #2f3136; border: 1px solid var(--gh-border); padding: 10px; bo
     margin-top: 4px;
 }
 
-/* --- 6. LIST HANDLING (Nav vs Content) --- */
+/* --- LIST HANDLING (Nav vs Content) --- */
 
 /* Markdown Content Bullets */
 .markdown-body ul, .msg-content ul { list-style: disc; margin: 10px 0 10px 25px; }
@@ -160,7 +184,7 @@ pre { background: #2f3136; border: 1px solid var(--gh-border); padding: 10px; bo
     margin: 0 !important; 
 }
 
-/* --- 7. HOME PAGE / ARCHIVE DASHBOARD --- */
+/* --- HOME PAGE / ARCHIVE DASHBOARD --- */
 .hero-section { text-align: center; padding: 40px 0; }
 .site-logo { max-width: 250px; margin-bottom: 10px; }
 .flavor-text { color: var(--sw-yellow); font-style: italic; opacity: 0.8; }
@@ -168,13 +192,13 @@ pre { background: #2f3136; border: 1px solid var(--gh-border); padding: 10px; bo
 .log-list li { padding: 12px 0; border-bottom: 1px solid var(--gh-border); }
 .view-all { display: block; margin-top: 15px; font-size: 0.8rem; font-weight: bold; text-align: right; }
 
-/* --- 8. RESPONSIVE DESIGN --- */
+/* --- ESPONSIVE DESIGN --- */
 @media (max-width: 600px) {
     main { padding: 0 10px; }
     .frozen-nav { padding: 10px 0; }
 }
 
-/* --- 9. FOOTER --- */
+/* --- FOOTER --- */
 footer:not(.sticky-footer-nav) {
     text-align: center;
     padding: 60px 20px 40px;
