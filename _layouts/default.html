@@ -7,6 +7,14 @@
     <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}?v={{ site.time | date: '%Y%m%d%H%M%S' }}">   
 </head>
 <body>
+
+    <header>
+        <div class="hero-section">
+            <img src="{{ '/assets/logo.png' | relative_url }}" alt="Forgotten Ones Logo" class="site-logo">
+            <p class="flavor-text">A long time ago, in a galaxy far, far away...</p>
+        </div>
+    </header>
+
     <main> 
         {{ content }}
     </main>

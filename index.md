@@ -71,11 +71,6 @@ title: Home
 }
 </style>
 
-<div class="hero-section">
-    <img src="{{ '/assets/logo.png' | relative_url }}" alt="Forgotten Ones Logo" class="site-logo">
-    <p class="flavor-text">A long time ago, in a galaxy far, far away...</p>
-</div>
-
 <div class="dashboard-grid"> 
     <section class="update-panel">
         <h3><span class="icon">📡</span> Recent Chapter Logs</h3>
@@ -107,8 +102,8 @@ document.addEventListener("DOMContentLoaded", async function() {
         
         listContainer.innerHTML = ""; // Clear loader message
 
-        // Take the top 5 most recent transmissions
-        sorted.slice(0, 5).forEach(log => {
+        // Take the most recent transmissions
+        sorted.slice(0, 1).forEach(log => {
             const date = new Date(log.lastMessageTimestamp).toLocaleDateString();
             const li = document.createElement('li');
             
