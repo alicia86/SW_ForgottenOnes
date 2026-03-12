@@ -73,7 +73,11 @@ a:hover { text-decoration: underline; color: var(--sw-yellow); }
     font-family: monospace;
 }
 
-/* --- 5. DATAPAD SIDEBAR (TOC) --- */
+main, .log-wrapper, .log-content {
+    overflow: visible !important; /* Forces parents to let sticky elements pass */
+    display: block;
+}
+
 .log-wrapper {
     display: flex;
     position: relative;
@@ -130,16 +134,18 @@ a:hover { text-decoration: underline; color: var(--sw-yellow); }
 }
 .sidebar-overlay.active { display: block; }
 
-/* --- 6. STICKY NAVIGATION --- */
+/* --- STICKY NAVIGATION --- */
 .frozen-nav {
+    position: -webkit-sticky; 
     position: sticky;
-    position: -webkit-sticky; /* Safari support */
-    top: 0;
-    background: var(--gh-bg);
+    top: 0; 
     z-index: 500;
+    background-color: var(--gh-bg); 
     padding: 15px 0;
     border-bottom: 1px solid var(--gh-border);
-    margin-bottom: 30px;
+    width: 100%;
+    /* This ensures it sticks to the top of the viewport even if main has padding */
+    margin-top: -20px; 
 }
 
 .toc-open-btn {
@@ -152,6 +158,8 @@ a:hover { text-decoration: underline; color: var(--sw-yellow); }
     border-radius: 4px;
     text-transform: uppercase;
     font-size: 0.8rem;
+    position: relative;
+    z-index: 501;
 }
 
 .toc-open-btn:hover {
