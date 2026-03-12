@@ -1,0 +1,41 @@
+name: Update Log Manifest
+on:
+  push:
+    branches:
+      - website  # Trigger only when pushing to the website branch
+    paths:
+      - 'Chapter_Logs/JSON/*.json'
+  workflow_dispatch:
+    inputs:
+      force_refresh:
+        description: 'Force re-scan of all titles (overwrites manual changes)'
+        required: false
+        type: boolean
+        default: false
+
+jobs:
+  update-manifest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Website Branch
+        uses: actions/checkout@v4
+        with:
+          ref: website # Ensure we are working on the website branch
+
+      - name: Run Manifest Generator
+        shell: pwsh
+        run: |
+          $force = "${{ github.event.inputs.force_refresh }}" -eq "true"
+          if ($force) {
+            ./.github/workflows/scripts/manifest-gen.ps1 -ForceUpdate
+          } else {
+            ./.github/workflows/scripts/manifest-gen.ps1
+          }
+
+      - name: Commit and Push to Website
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add Chapter_Logs/log-manifest.json
+          # Only commit if there are actually changes
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update log manifest [skip ci]" && git push origin website)
