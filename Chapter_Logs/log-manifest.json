@@ -1,52 +1,52 @@
 [
   {
     "order": 4,
-    "title": "FO CH4 RESONANCE FREQUENCY",
+    "title": "CHAPTER 4: RESONANCE FREQUENCY",
     "file": "FO_Ch4-Resonance-Frequency.json"
   },
   {
     "order": 3,
-    "title": "FO CH3 BENEATH THE GLARE",
+    "title": "CHAPTER 3: BENEATH THE GLARE",
     "file": "FO_Ch3_beneath-the-glare.json"
   },
   {
     "order": 2,
-    "title": "FO CH2 SILENT DRIFT",
+    "title": "CHAPTER 2: SILENT DRIFT",
     "file": "FO_Ch2_Silent-Drift.json"
   },
   {
     "order": 1,
-    "title": "FO CH1 AWAKENING",
+    "title": "CHAPTER 1: AWAKENING",
     "file": "FO_Ch1_Awakening.json"
   },
   {
     "order": 0,
-    "title": "FO BB PRELUDE DRYZAN",
+    "title": "PRELUDE: The Static on the Line (Dryzan)",
     "file": "FO_BB_Prelude-Dryzan.json"
   },
   {
     "order": 0,
-    "title": "FO BB PRELUDE IYOLA",
+    "title": "PRELUDE: The Sunken Star of Xylos (Iyola)",
     "file": "FO_BB_Prelude-Iyola.json"
   },
   {
     "order": 0,
-    "title": "FO BB PRELUDE KRYNN",
+    "title": "PRELUDE: (KRYNN)",
     "file": "FO_BB_Prelude-Krynn.json"
   },
   {
     "order": 0,
-    "title": "FO BB PRELUDE VAEROS",
+    "title": "PRELUDE: Ghost of the *Devastation* (Vearos)",
     "file": "FO_BB_Prelude-Vaeros.json"
   },
   {
     "order": 0,
-    "title": "FO BB PRELUDE VARDA",
+    "title": "PRELUDE: The Price of a Vision (Varda)",
     "file": "FO_BB_Prelude-Varda.json"
   },
   {
     "order": 0,
-    "title": "FO BB PRELUDE VENA",
+    "title": "PRELUDE: (Vena)",
     "file": "FO_BB_Prelude-Vena.json"
   }
 ]
