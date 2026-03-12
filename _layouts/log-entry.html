@@ -1,34 +1,48 @@
 ---
 layout: default
 ---
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.2.0/github-markdown-dark.min.css">
+
 <style>
-  /* Sidebar Logic */
+  /* --- TOC SIDEBAR (Left Slide-out) --- */
   .toc-sidebar {
     position: fixed; top: 0; left: 0; width: 280px; height: 100vh;
-    background: var(--gh-bg); border-right: 1px solid var(--sw-blue); z-index: 100000;
-    transform: translateX(-100%); transition: transform 0.3s ease; padding: 25px; overflow-y: auto; visibility: hidden;
+    background: var(--gh-bg); border-right: 1px solid var(--sw-blue); 
+    z-index: 100000; transform: translateX(-100%); 
+    transition: transform 0.3s ease; padding: 25px; 
+    overflow-y: auto; visibility: hidden;
   }
-  .toc-sidebar.active { transform: translateX(0); visibility: visible; }
-  .sidebar-overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.8); z-index: 99998; opacity: 0; pointer-events: none; transition: opacity 0.3s ease; }
+  .toc-sidebar.active { transform: translateX(0); visibility: visible; box-shadow: 10px 0 50px rgba(0,0,0,0.9); }
+  
+  .sidebar-overlay { 
+    position: fixed; top: 0; left: 0; width: 100%; height: 100%; 
+    background: rgba(0,0,0,0.8); z-index: 99998; 
+    opacity: 0; pointer-events: none; transition: opacity 0.3s ease; 
+  }
   .sidebar-overlay.active { opacity: 1; pointer-events: auto; }
-  
-  /* Sticky Footer Nav */
-  .sticky-footer-nav { position: fixed; bottom: 0; left: 50%; transform: translateX(-50%); width: 100%; max-width: 900px; background: var(--gh-bg); border-top: 1px solid var(--gh-border); padding: 10px 20px; z-index: 2000; box-shadow: 0 -5px 15px rgba(0,0,0,0.5); }
-  .footer-nav-container { display: flex; justify-content: space-between; gap: 15px; }
-  .nav-btn { flex: 1; display: flex; align-items: center; justify-content: center; padding: 8px 12px; background: #1c2128; border: 1px solid var(--gh-border); border-radius: 4px; color: var(--sw-blue); font-size: 0.8rem; font-weight: bold; text-transform: uppercase; }
-  .nav-btn.disabled { opacity: 0.3; cursor: not-allowed; }
-  
-  .toc-content ul {
-    list-style: none !important;
-    padding: 0;
-    margin: 0;
-  }
-  
-  .toc-content li {
-    list-style: none !important;
-  }
 
-  @media (max-width: 600px) { .nav-text { display: none; } .log-content { padding-bottom: 120px; } }
+  .toc-header { display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--gh-border); margin-bottom: 20px; padding-bottom: 10px; color: var(--text-muted); font-size: 0.8rem; letter-spacing: 1px; }
+  .toc-close { background: none; border: none; color: var(--text-muted); font-size: 1.5rem; cursor: pointer; }
+
+  /* TOC List Specifics (Overrides universal list styles) */
+  .toc-content ul, .toc-content li { list-style: none !important; padding: 0 !important; margin: 0 !important; }
+  .toc-content a { display: block; padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); font-size: 0.9rem; }
+
+  /* --- STICKY FOOTER NAV (Prev/Next) --- */
+  .sticky-footer-nav { 
+    position: fixed; bottom: 0; left: 50%; transform: translateX(-50%); 
+    width: 100%; max-width: 900px; background: var(--gh-bg); 
+    border-top: 1px solid var(--gh-border); padding: 10px 20px; 
+    z-index: 2000; box-shadow: 0 -5px 15px rgba(0,0,0,0.5); 
+  }
+  .footer-nav-container { display: flex; justify-content: space-between; gap: 15px; }
+  .nav-btn.disabled { opacity: 0.3; cursor: not-allowed; color: var(--text-muted); }
+
+  /* Mobile Adjustments */
+  @media (max-width: 600px) { 
+    .nav-text { display: none; } /* Show only arrows on mobile */
+    .markdown-body { padding-bottom: 100px; } /* Prevent footer overlap */
+  }
 </style>
 
 <div id="sidebar-overlay" class="sidebar-overlay"></div>

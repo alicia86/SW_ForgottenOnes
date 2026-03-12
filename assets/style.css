@@ -4,124 +4,180 @@
     --gh-border: #30363d;
     --gh-text: #c9d1d9;
     --text-muted: #8b949e;
+    
     --sw-blue: #58a6ff;
     --sw-yellow: #d29922;
     --sw-glow: rgba(88, 166, 255, 0.15);
+    
     --panel-bg: #161b22;
-    --header-height: 70px; /* Base height of the Archives nav */
+    --header-height: 70px; /* Aligns with the Archives nav bar height */
 }
 
-/* --- 2. GLOBAL RESET & LAYOUT --- */
+/* --- 2. GLOBAL RESET & MOBILE STABILIZATION --- */
 * { box-sizing: border-box; }
 
 html, body {
-    margin: 0; padding: 0; 
-    width: 100vw;
-    min-height: 100vh;
-    /* This prevents the "zoom-out/80% width" bug on mobile */
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    min-height: 100%;
+    /* FIX: Prevents horizontal scroll/zoom bug on mobile */
     overflow-x: hidden; 
     background-color: var(--gh-bg);
     color: var(--gh-text);
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    /* Improves text rendering on high-res mobile screens */
+    -webkit-font-smoothing: antialiased;
 }
 
-main { 
-    display: block; 
+main {
+    display: block;
     width: 100%;
-    max-width: 900px; 
-    margin: 0 auto; 
+    max-width: 900px;
+    margin: 0 auto;
     padding: 0 15px;
+    /* CRITICAL: Sticky items fail if overflow is hidden or auto here */
     overflow: visible !important; 
 }
 
-/* --- 3. UNIVERSAL COMPONENTS --- */
-.panel { background: var(--panel-bg); border: 1px solid var(--gh-border); border-radius: 6px; padding: 20px; margin-bottom: 20px; }
-.panel h3 { margin: 0 0 15px 0; font-size: 0.8rem; color: var(--text-muted); text-transform: uppercase; border-bottom: 1px solid var(--gh-border); padding-bottom: 8px; letter-spacing: 1px; }
+/* --- 3. REUSABLE UI COMPONENTS --- */
+.panel {
+    background: var(--panel-bg);
+    border: 1px solid var(--gh-border);
+    border-radius: 6px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.panel h3 {
+    margin: 0 0 15px 0;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    border-bottom: 1px solid var(--gh-border);
+    padding-bottom: 8px;
+    letter-spacing: 1px;
+}
 
 a { color: var(--sw-blue); text-decoration: none; transition: 0.2s; }
 a:hover { text-decoration: underline; color: var(--sw-yellow); }
 
-/* --- 4. SHARED TOP NAVIGATION --- */
+/* --- 4. SHARED TOP NAVIGATION (The Sticky Bar) --- */
 .frozen-nav {
-    position: -webkit-sticky;
+    position: -webkit-sticky; 
     position: sticky;
     top: 0;
-    z-index: 3000; /* Stays above the frequency bar */
+    z-index: 3000; /* Stays above everything else */
     background-color: var(--gh-bg); 
     padding: 15px 0;
     border-bottom: 1px solid var(--gh-border);
+    width: 100%;
     height: var(--header-height);
+    display: flex;
+    align-items: center;
 }
-.toc-open-btn {
-    background: #1c2128; color: var(--sw-blue); border: 1px solid var(--sw-blue);
-    padding: 8px 16px; font-weight: bold; cursor: pointer; border-radius: 4px;
-    text-transform: uppercase; font-size: 0.8rem; display: inline-flex; align-items: center; gap: 8px;
-}
-.toc-open-btn:hover { background: var(--sw-blue); color: white; box-shadow: 0 0 10px var(--sw-glow); }
 
-/* --- 5. UNIVERSAL LOG FORMATTING --- */
-.st-gold { color: var(--sw-yellow); font-style: italic; font-weight: bold; text-align: center; display: block; margin: 2rem 0; text-shadow: 0 0 8px rgba(210, 153, 34, 0.3); }
+.toc-open-btn {
+    background: #1c2128;
+    color: var(--sw-blue);
+    border: 1px solid var(--sw-blue);
+    padding: 8px 16px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 4px;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    white-space: nowrap;
+}
+
+.toc-open-btn:hover {
+    background: var(--sw-blue);
+    color: white;
+    box-shadow: 0 0 10px var(--sw-glow);
+}
+
+/* --- 5. UNIVERSAL FORMATTING & DISCORD EXTRAS --- */
+.st-gold {
+    color: var(--sw-yellow);
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    margin: 2rem 0;
+    text-shadow: 0 0 8px rgba(210, 153, 34, 0.3);
+}
+
 .timestamp { color: var(--text-muted); font-size: 0.8rem; font-family: monospace; }
-.spoiler { background-color: #4f545c; color: transparent; border-radius: 3px; padding: 0 2px; cursor: help; }
-.spoiler:hover, .spoiler:active { background-color: rgba(255, 255, 255, 0.1); color: var(--gh-text); }
+
+.spoiler {
+    background-color: #4f545c;
+    color: transparent;
+    border-radius: 3px;
+    padding: 0 2px;
+    cursor: help;
+}
+.spoiler:hover, .spoiler:active {
+    background-color: rgba(255, 255, 255, 0.1);
+    color: var(--gh-text);
+}
+
+blockquote {
+    border-left: 4px solid #4f545c;
+    margin: 8px 0;
+    padding: 2px 15px;
+    color: var(--gh-text);
+    background: rgba(255, 255, 255, 0.02);
+}
+
 code { background: #2f3136; padding: 0.2em 0.4em; border-radius: 3px; font-family: monospace; }
-pre { background: #2f3136; border: 1px solid var(--gh-border); padding: 10px; border-radius: 5px; overflow-x: auto; }
-.emoji { height: 1.4em; vertical-align: middle; margin: 0 2px; }
-.internal-link { color: var(--sw-yellow); text-decoration: underline dotted; font-weight: bold; }
-/* --- DISCORD SUBTEXT (-#) --- */
+pre { background: #2f3136; border: 1px solid var(--gh-border); padding: 10px; border-radius: 5px; overflow-x: auto; margin: 15px 0; }
+.emoji { height: 1.3em; vertical-align: middle; margin: 0 2px; }
+
+/* Discord Subtext (-#) */
 .subtext {
     display: block;
     font-size: 0.82rem;
     color: var(--text-muted);
     line-height: 1.4;
     margin-top: 4px;
-    font-weight: 400;
 }
 
-/* --- LISTS (Bulleted & Numbered) --- */
-/* Discord logs often use lists for inventory or objective tracking */
-.msg-content ul, .markdown-body ul { 
-    list-style: disc; 
-    margin: 10px 0 10px 20px; 
-}
+/* --- 6. LIST HANDLING (Nav vs Content) --- */
 
-.msg-content ol, .markdown-body ol { 
-    list-style: decimal; 
-    margin: 10px 0 10px 20px; 
-}
+/* Markdown Content Bullets */
+.markdown-body ul, .msg-content ul { list-style: disc; margin: 10px 0 10px 25px; }
+.markdown-body ol, .msg-content ol { list-style: decimal; margin: 10px 0 10px 25px; }
 
-.toc-content ul, .frequency-nav-bar ul, .log-list { 
+/* Navigation Resets (Removes bullets from TOC, Frequency list, Home list) */
+.toc-content ul, .frequency-nav-bar, .log-list, .frequency-nav-bar ul { 
     list-style: none !important; 
     padding: 0 !important; 
     margin: 0 !important; 
 }
 
-/* --- HORIZONTAL RULE (---) --- */
-/* For when you use --- inside a post, not as a scene divider */
-hr {
-    border: 0;
-    border-top: 1px solid var(--gh-border);
-    margin: 1.5rem 0;
-}
-
-/* --- REFINED BLOCKQUOTES --- */
-blockquote {
-    border-left: 4px solid #4f545c;
-    margin: 8px 0;
-    padding: 2px 15px;
-    color: var(--gh-text);
-    opacity: 0.85;
-    background: rgba(255, 255, 255, 0.02);
-}
-
-/* --- 6. DASHBOARD / HOME COMPONENTS --- */
+/* --- 7. HOME PAGE / ARCHIVE DASHBOARD --- */
 .hero-section { text-align: center; padding: 40px 0; }
 .site-logo { max-width: 250px; margin-bottom: 10px; }
 .flavor-text { color: var(--sw-yellow); font-style: italic; opacity: 0.8; }
-.log-list { list-style: none; padding: 0; }
-.log-list li { padding: 10px 0; border-bottom: 1px solid var(--gh-border); }
+
+.log-list li { padding: 12px 0; border-bottom: 1px solid var(--gh-border); }
 .view-all { display: block; margin-top: 15px; font-size: 0.8rem; font-weight: bold; text-align: right; }
 
-/* --- 7. RESPONSIVE & FOOTER --- */
-@media (max-width: 600px) { main { padding: 15px; } .frozen-nav { margin-top: -15px; } }
-footer:not(.sticky-footer-nav) { text-align: center; padding: 60px 20px 40px; border-top: 1px solid var(--gh-border); margin-top: 100px; font-size: 0.85rem; }
+/* --- 8. RESPONSIVE DESIGN --- */
+@media (max-width: 600px) {
+    main { padding: 0 10px; }
+    .frozen-nav { padding: 10px 0; }
+}
+
+/* --- 9. FOOTER --- */
+footer:not(.sticky-footer-nav) {
+    text-align: center;
+    padding: 60px 20px 40px;
+    border-top: 1px solid var(--gh-border);
+    margin-top: 100px;
+    font-size: 0.85rem;
+}
