@@ -333,6 +333,11 @@ layout: default
             .replace(/^# (.*$)/gim, '<h1>$1</h1>')
             .replace(/^## (.*$)/gim, '<h2>$1</h2>')
             .replace(/^### (.*$)/gim, '<h3>$1</h3>')
+
+            .replace(/^#### (.*$)/gim, '<h4>$1</h4>')
+            .replace(/^##### (.*$)/gim, '<h5>$1</h5>')
+            .replace(/^###### (.*$)/gim, '<h6>$1</h6>')
+
             .replace(/^-# (.*$)/gim, '<small class="subtext">$1</small>')
             .replace(/\*\*\*(.*?)\*\*\*/g, '<strong><i>$1</strong></i>')
             .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')

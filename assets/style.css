@@ -8,14 +8,15 @@
     --sw-yellow: #d29922;
     --sw-glow: rgba(88, 166, 255, 0.15);
     --panel-bg: #161b22;
-    --header-height: 70px;
+    --site-nav-height: 50px;
+    --log-nav-height: 70px;
 }
-/* --- GLOBAL RESET & MOBILE STABILIZATION --- */
+
+/* --- GLOBAL RESET & STABILIZATION --- */
 * { box-sizing: border-box; }
 
 html {
     scroll-behavior: smooth;
-    /* Allow the body to handle the scroll, which is vital for stickiness */
     overflow-x: hidden; 
     width: 100%;
 }
@@ -34,7 +35,78 @@ main {
     max-width: 900px; 
     margin: 0 auto; 
     padding: 0 15px;
+    /* Crucial for sticky children */
     overflow: visible !important; 
+}
+
+/* --- 1. GLOBAL PERMANENT NAVIGATION --- */
+.site-nav {
+    position: sticky;
+    top: 0;
+    z-index: 6000;
+    background: var(--gh-bg);
+    border-bottom: 1px solid var(--gh-border);
+    height: var(--site-nav-height);
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.nav-brand {
+    font-weight: bold;
+    color: var(--sw-yellow) !important;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 0.9rem;
+}
+
+.nav-links {
+    margin-left: auto;
+    display: flex;
+    gap: 20px;
+}
+
+.nav-links a {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    color: var(--gh-text);
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+/* --- 2. LOG-SPECIFIC STICKY NAVIGATION --- */
+.frozen-nav {
+    position: sticky;
+    top: var(--site-nav-height); /* Sticks under Global Nav */
+    z-index: 5000; 
+    background-color: var(--gh-bg); 
+    border-bottom: 1px solid var(--gh-border);
+    height: var(--log-nav-height);
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.nav-inner {
+    display: flex;
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    gap: 10px;
+    padding: 0 15px;
+    align-items: center;
+}
+
+/* --- 3. SECONDARY FREQUENCY BAR --- */
+.frequency-nav-bar { 
+    position: sticky; 
+    /* Sticks under Global (50px) + Log (70px) */
+    top: calc(var(--site-nav-height) + var(--log-nav-height)); 
+    z-index: 4500; 
+    background: var(--panel-bg);
+    border-bottom: 1px solid var(--gh-border);
+    padding: 12px 0;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.5);
 }
 
 /* --- REUSABLE UI COMPONENTS --- */
@@ -57,10 +129,9 @@ main {
 }
 
 a { color: var(--sw-blue); text-decoration: none; transition: 0.2s; }
-a:hover { text-decoration: underline; color: var(--sw-yellow); }
+a:hover { color: var(--sw-yellow); }
 
-/* --- UNIVERSAL NAV BUTTON THEME --- */
-/* Forces blue/black theme and prevents browser "white" button defaults */
+/* --- BUTTON THEME (TOC, Freq, Nav) --- */
 .toc-open-btn, .freq-btn, .nav-btn {
     background: #1c2128 !important;
     color: var(--sw-blue) !important;
@@ -75,68 +146,22 @@ a:hover { text-decoration: underline; color: var(--sw-yellow); }
     align-items: center;
     gap: 8px;
     transition: 0.2s;
-    text-decoration: none;
+    white-space: nowrap;
 }
 
-.toc-open-btn:hover, .freq-btn:hover, .nav-btn:hover {
+.toc-open-btn:hover, .freq-btn:hover, .nav-btn:hover, .freq-btn.active {
     background: var(--sw-blue) !important;
     color: #000 !important;
     box-shadow: 0 0 10px var(--sw-glow);
 }
 
-/* --- SHARED TOP NAVIGATION (The Sticky Bar) --- */
-.frozen-nav {
-    position: -webkit-sticky;
-    position: sticky;
-    top: 0;
-    z-index: 5000; 
-    background-color: var(--gh-bg); 
-    border-bottom: 1px solid var(--gh-border);
-    height: var(--header-height);
-    width: 100%;
-    padding: 0 10px;
-    display: flex;
-    align-items: center;
-}
-.nav-inner {
-    display: flex;
-    width: 100%;
-    max-width: 900px;
-    margin: 0 auto;
-    gap: 10px;
-    align-items: center;
-}
-.toc-open-btn {
-    background: #1c2128;
-    color: var(--sw-blue);
-    border: 1px solid var(--sw-blue);
-    padding: 6px 12px;
-    font-weight: bold;
-    cursor: pointer;
-    border-radius: 4px;
-    text-transform: uppercase;
-    font-size: 0.75rem;
-    white-space: nowrap; /* Prevent text wrapping inside buttons */
-}
-
-.toc-open-btn:hover {
-    background: var(--sw-blue);
-    color: white;
-    box-shadow: 0 0 10px var(--sw-glow);
-}
-
-/* --- UNIVERSAL FORMATTING & DISCORD EXTRAS --- */
-.st-gold {
-    color: var(--sw-yellow);
-    font-style: italic;
-    font-weight: bold;
-    text-align: center;
-    display: block;
-    margin: 2rem 0;
-    text-shadow: 0 0 8px rgba(210, 153, 34, 0.3);
-}
+/* --- DISCORD & CONTENT FORMATTING --- */
+.hero-section { text-align: center; padding: 20px 0; }
+.site-logo { width: 60%; max-width: 475px; height: auto; margin-bottom: 10px; }
+.flavor-text { color: var(--sw-yellow); font-style: italic; opacity: 0.8; font-size: 0.9rem; }
 
 .timestamp { color: var(--text-muted); font-size: 0.8rem; font-family: monospace; }
+.subtext { display: block; font-size: 0.82rem; color: var(--text-muted); margin-top: 4px; }
 
 .spoiler {
     background-color: #4f545c;
@@ -145,64 +170,36 @@ a:hover { text-decoration: underline; color: var(--sw-yellow); }
     padding: 0 2px;
     cursor: help;
 }
-.spoiler:hover, .spoiler:active {
-    background-color: rgba(255, 255, 255, 0.1);
-    color: var(--gh-text);
-}
+.spoiler:hover { background-color: rgba(255,255,255,0.1); color: var(--gh-text); }
 
 blockquote {
     border-left: 4px solid #4f545c;
     margin: 8px 0;
     padding: 2px 15px;
-    color: var(--gh-text);
     background: rgba(255, 255, 255, 0.02);
 }
 
-code { background: #2f3136; padding: 0.2em 0.4em; border-radius: 3px; font-family: monospace; }
-pre { background: #2f3136; border: 1px solid var(--gh-border); padding: 10px; border-radius: 5px; overflow-x: auto; margin: 15px 0; }
 .emoji { height: 1.3em; vertical-align: middle; margin: 0 2px; }
 
-/* Discord Subtext (-#) */
-.subtext {
-    display: block;
-    font-size: 0.82rem;
-    color: var(--text-muted);
-    line-height: 1.4;
-    margin-top: 4px;
-}
-
-/* --- LIST HANDLING (Nav vs Content) --- */
-
-/* Markdown Content Bullets */
-.markdown-body ul, .msg-content ul { list-style: disc; margin: 10px 0 10px 25px; }
-.markdown-body ol, .msg-content ol { list-style: decimal; margin: 10px 0 10px 25px; }
-
-/* Navigation Resets (Removes bullets from TOC, Frequency list, Home list) */
-.toc-content ul, .frequency-nav-bar, .log-list, .frequency-nav-bar ul { 
-    list-style: none !important; 
-    padding: 0 !important; 
-    margin: 0 !important; 
-}
-
-/* --- HOME PAGE / ARCHIVE DASHBOARD --- */
-.hero-section { text-align: center; padding: 10px 0; }
-.site-logo { width:75%; max-width: 900px; max-height: 150px; margin-bottom: 10px; }
-.flavor-text { color: var(--sw-yellow); font-style: italic; opacity: 0.8; }
-
+/* --- LISTS & ARCHIVES --- */
+.log-list, .archive-list { list-style: none; padding: 0; margin: 0; }
 .log-list li { padding: 12px 0; border-bottom: 1px solid var(--gh-border); }
+
 .view-all { display: block; margin-top: 15px; font-size: 0.8rem; font-weight: bold; text-align: right; }
 
-/* --- ESPONSIVE DESIGN --- */
-@media (max-width: 600px) {
-    main { padding: 0 10px; }
-    .frozen-nav { padding: 10px 0; }
-}
-
 /* --- FOOTER --- */
-footer:not(.sticky-footer-nav) {
+footer {
     text-align: center;
     padding: 60px 20px 40px;
     border-top: 1px solid var(--gh-border);
     margin-top: 100px;
     font-size: 0.85rem;
+}
+
+/* --- RESPONSIVE DESIGN --- */
+@media (max-width: 800px) {
+    .dashboard-grid { grid-template-columns: 1fr !important; }
+    .nav-brand { font-size: 0.75rem; }
+    .nav-links { gap: 10px; }
+    .site-logo { width: 80%; }
 }
