@@ -1,41 +1,45 @@
 /* --- 1. CORE VARIABLES --- */
 :root {
-    /* Theme Colors */
     --gh-bg: #0d1117;
     --gh-border: #30363d;
     --gh-text: #c9d1d9;
     --text-muted: #8b949e;
     
-    /* Star Wars Accents */
     --sw-blue: #58a6ff;
     --sw-yellow: #d29922;
     --sw-glow: rgba(88, 166, 255, 0.15);
     
-    /* Layout */
     --panel-bg: #161b22;
     --sidebar-width: 300px;
 }
 
-/* --- 2. BASE STYLES --- */
-* { box-sizing: border-box; } /* Prevents padding from breaking widths */
+/* --- 2. THE STICKY FIX (Global Reset) --- */
+/* Sticky fails if any parent has overflow: hidden or auto. This forces them to be visible. */
+html, body {
+    margin: 0;
+    padding: 0;
+    height: auto;
+    min-height: 100%;
+    overflow-x: visible !important; 
+}
+
+* { box-sizing: border-box; }
 
 body {
     background-color: var(--gh-bg);
     color: var(--gh-text);
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-    margin: 0;
     line-height: 1.6;
 }
 
+/* Universal main container */
 main {
     max-width: 900px;
     margin: 0 auto;
     padding: 20px;
+    display: block;
+    overflow: visible !important; /* Vital for sticky button */
 }
-
-/* Typography & Links */
-a { color: var(--sw-blue); text-decoration: none; transition: 0.2s; }
-a:hover { text-decoration: underline; color: var(--sw-yellow); }
 
 /* --- 3. REUSABLE COMPONENTS --- */
 .panel {
@@ -56,6 +60,9 @@ a:hover { text-decoration: underline; color: var(--sw-yellow); }
     letter-spacing: 1px;
 }
 
+a { color: var(--sw-blue); text-decoration: none; transition: 0.2s; }
+a:hover { text-decoration: underline; color: var(--sw-yellow); }
+
 /* --- 4. LOG CONTENT FORMATTING --- */
 .st-gold {
     color: var(--sw-yellow);
@@ -73,79 +80,19 @@ a:hover { text-decoration: underline; color: var(--sw-yellow); }
     font-family: monospace;
 }
 
-main, .log-wrapper, .log-content {
-    overflow: visible !important; /* Forces parents to let sticky elements pass */
-    display: block;
-}
-
-.log-wrapper {
-    display: flex;
-    position: relative;
-}
-
-.toc-sidebar {
-    position: fixed;
-    top: 0;
-    left: -100%; /* Hidden off-screen */
-    width: 85%;
-    max-width: var(--sidebar-width);
-    height: 100vh;
-    background: var(--gh-bg);
-    border-right: 1px solid var(--sw-blue);
-    z-index: 99999;
-    transition: left 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-    padding: 25px;
-    overflow-y: auto;
-}
-
-.toc-sidebar.active {
-    left: 0;
-    box-shadow: 10px 0 50px rgba(0, 0, 0, 0.8);
-}
-
-/* Sidebar Internal Elements */
-.toc-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    border-bottom: 1px solid var(--gh-border);
-    margin-bottom: 20px;
-    padding-bottom: 10px;
-    color: var(--sw-blue);
-    font-weight: bold;
-    letter-spacing: 2px;
-}
-
-.toc-content ul { list-style: none; padding: 0; }
-.toc-content li { margin: 12px 0; font-size: 0.9rem; }
-
-/* Overlay for dimming background */
-.sidebar-overlay {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(0,0,0,0.7);
-    z-index: 99998;
-    display: none;
-    opacity: 0;
-    transition: opacity 0.3s ease;
-}
-.sidebar-overlay.active { display: block; }
-
-/* --- STICKY NAVIGATION --- */
+/* --- 5. STICKY NAVIGATION (The "View Index" Bar) --- */
 .frozen-nav {
     position: -webkit-sticky; 
     position: sticky;
-    top: 0; 
-    z-index: 500;
+    top: 0; /* This is where it locks to the top of the browser */
+    z-index: 1000; /* Stays above content, below sidebar */
     background-color: var(--gh-bg); 
     padding: 15px 0;
     border-bottom: 1px solid var(--gh-border);
     width: 100%;
-    /* This ensures it sticks to the top of the viewport even if main has padding */
+    /* These ensure it reaches the edges of the main container */
     margin-top: -20px; 
+    margin-bottom: 30px;
 }
 
 .toc-open-btn {
@@ -158,8 +105,6 @@ main, .log-wrapper, .log-content {
     border-radius: 4px;
     text-transform: uppercase;
     font-size: 0.8rem;
-    position: relative;
-    z-index: 501;
 }
 
 .toc-open-btn:hover {
@@ -168,27 +113,74 @@ main, .log-wrapper, .log-content {
     box-shadow: 0 0 10px var(--sw-glow);
 }
 
-.toc-close {
-    background: none;
-    border: none;
-    color: var(--text-muted);
-    font-size: 1.2rem;
-    cursor: pointer;
+/* --- 6. DATAPAD SIDEBAR & OVERLAY --- */
+.log-wrapper {
+    display: block; /* Block layout is more stable for sticky elements than Flex */
+    position: relative;
+    overflow: visible !important;
 }
+
+.toc-sidebar {
+    position: fixed;
+    top: 0;
+    left: -100%; 
+    width: 85%;
+    max-width: var(--sidebar-width);
+    height: 100vh;
+    background: var(--gh-bg);
+    border-right: 1px solid var(--sw-blue);
+    z-index: 99999; /* Highest priority */
+    transition: left 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    padding: 25px;
+    overflow-y: auto;
+}
+
+.toc-sidebar.active {
+    left: 0;
+    box-shadow: 10px 0 50px rgba(0, 0, 0, 0.8);
+}
+
+.toc-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid var(--gh-border);
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    color: var(--sw-blue);
+    font-weight: bold;
+}
+
+.toc-content ul { list-style: none; padding: 0; }
+.toc-content li { margin: 12px 0; font-size: 0.9rem; }
+.toc-close { background: none; border: none; color: var(--text-muted); font-size: 1.5rem; cursor: pointer; }
+
+/* Dimmed background when sidebar is open */
+.sidebar-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.7);
+    z-index: 99998;
+    display: none;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+.sidebar-overlay.active { display: block; opacity: 1; }
 
 /* --- 7. RESPONSIVE DESIGN --- */
 
 /* Desktop Adjustments */
 @media (min-width: 1200px) {
-    .toc-sidebar {
-        left: -320px; /* Hide slightly further for safety */
-    }
+    .toc-sidebar { left: -320px; }
 }
 
-/* Mobile Tweak: Ensure content doesn't horizontal scroll */
+/* Mobile Tweak */
 @media (max-width: 600px) {
     main { padding: 15px; }
-    .toc-sidebar { width: 90%; }
+    .frozen-nav { margin-top: -15px; } /* Adjust for smaller main padding */
 }
 
 /* --- 8. FOOTER --- */
