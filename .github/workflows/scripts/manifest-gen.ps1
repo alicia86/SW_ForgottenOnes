@@ -4,7 +4,7 @@ param (
 )
 
 $jsonDir = "Chapter_Logs/JSON"
-$manifestPath = "Chapter_Logs/log-manifest.json"
+$manifestPath = "assets/log-manifest.json"
 
 # 1. Load existing manifest if it exists
 $existingManifest = @()

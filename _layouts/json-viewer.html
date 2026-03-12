@@ -131,7 +131,7 @@ layout: default
      */
     async function init() {
         try {
-            const response = await fetch("{{ '/Chapter_Logs/log-manifest.json' | relative_url }}");
+            const response = await fetch("{{ '/assets/log-manifest.json' | relative_url }}");
             if (!response.ok) throw new Error("Manifest sequence offline.");
             const manifest = await response.json();
             
