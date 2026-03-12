@@ -1,4 +1,4 @@
 ---
 layout: json-viewer
-title: Mission Logs
+title: Chapter Logs
 ---
