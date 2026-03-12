@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+
+
 <div id="sidebar-overlay" class="sidebar-overlay"></div>
 
 <div class="log-wrapper">
@@ -14,7 +16,13 @@ layout: default
 
   <article class="log-content">
     <header class="frozen-nav">
-        <button class="toc-open-btn">☰ VIEW INDEX</button>
+      <div style="display: flex; gap: 10px; padding: 0 10px;">
+          <a href="{{ '/archives' | relative_url }}" class="toc-open-btn" style="text-decoration: none; display: flex; align-items: center;">
+              ⇠ ARCHIVES
+          </a>
+          
+          <button class="toc-open-btn">☰ VIEW INDEX</button>
+      </div>
     </header>
     
     <div class="markdown-body">

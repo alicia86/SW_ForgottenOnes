@@ -1,6 +1,6 @@
 ---
 layout: log-entry
-title: "Prelude: Varda"
+title: "Prelude: The Price of a Vision (Varda)"
 order: 0
 ---
 

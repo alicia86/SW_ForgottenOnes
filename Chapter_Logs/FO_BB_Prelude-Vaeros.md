@@ -1,6 +1,6 @@
 ---
 layout: log-entry
-title: "Prelude: Vaeros"
+title: "Prelude: Ghost of the *Devastation* (Vearos)"
 order: 0
 ---
 

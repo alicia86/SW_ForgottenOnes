@@ -94,6 +94,25 @@ a:hover { text-decoration: underline; color: var(--sw-yellow); }
     margin-top: -20px; 
     margin-bottom: 30px;
 }
+/* Archive Specifics */
+.archive-list {
+    margin-top: 30px;
+    border-left: 2px solid var(--gh-border);
+    padding-left: 20px;
+}
+
+/* Make the back button look distinct if you want */
+.frozen-nav a.toc-open-btn {
+    background: transparent;
+    border-color: var(--text-muted);
+    color: var(--text-muted);
+}
+
+.frozen-nav a.toc-open-btn:hover {
+    border-color: var(--sw-blue);
+    color: var(--sw-blue);
+    background: rgba(88, 166, 255, 0.1);
+}
 
 .toc-open-btn {
     background: #1c2128;
