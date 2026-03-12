@@ -4,268 +4,64 @@
     --gh-border: #30363d;
     --gh-text: #c9d1d9;
     --text-muted: #8b949e;
-    
     --sw-blue: #58a6ff;
     --sw-yellow: #d29922;
     --sw-glow: rgba(88, 166, 255, 0.15);
-    
     --panel-bg: #161b22;
-    --sidebar-width: 300px;
 }
 
-/* --- 2. GLOBAL RESET & STICKY FIX --- */
+/* --- 2. GLOBAL RESET & LAYOUT --- */
 * { box-sizing: border-box; }
-
 html, body {
-    margin: 0;
-    padding: 0;
-    height: auto;
-    min-height: 100%;
+    margin: 0; padding: 0; height: auto; min-height: 100%;
     overflow-x: visible !important; 
     background-color: var(--gh-bg);
     color: var(--gh-text);
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
     line-height: 1.6;
 }
+main { max-width: 900px; margin: 0 auto; padding: 20px; display: block; overflow: visible !important; }
 
-main {
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 20px;
-    display: block;
-    overflow: visible !important;
-}
-
-/* --- 3. REUSABLE UI COMPONENTS --- */
-.panel {
-    background: var(--panel-bg);
-    border: 1px solid var(--gh-border);
-    border-radius: 6px;
-    padding: 20px;
-    margin-bottom: 20px;
-}
-
-.panel h3 {
-    margin: 0 0 15px 0;
-    font-size: 0.8rem;
-    color: var(--text-muted);
-    text-transform: uppercase;
-    border-bottom: 1px solid var(--gh-border);
-    padding-bottom: 8px;
-    letter-spacing: 1px;
-}
+/* --- 3. UNIVERSAL COMPONENTS --- */
+.panel { background: var(--panel-bg); border: 1px solid var(--gh-border); border-radius: 6px; padding: 20px; margin-bottom: 20px; }
+.panel h3 { margin: 0 0 15px 0; font-size: 0.8rem; color: var(--text-muted); text-transform: uppercase; border-bottom: 1px solid var(--gh-border); padding-bottom: 8px; letter-spacing: 1px; }
 
 a { color: var(--sw-blue); text-decoration: none; transition: 0.2s; }
 a:hover { text-decoration: underline; color: var(--sw-yellow); }
 
-/* --- 4. NAVIGATION BARS (FROZEN) --- */
-
+/* --- 4. SHARED TOP NAVIGATION --- */
 .frozen-nav {
-    position: -webkit-sticky; 
-    position: sticky;
-    top: 0;
-    z-index: 1000;
-    background-color: var(--gh-bg); 
-    padding: 15px 0;
+    position: sticky; top: 0; z-index: 1000;
+    background-color: var(--gh-bg); padding: 15px 0;
     border-bottom: 1px solid var(--gh-border);
-    width: 100%;
-    margin-top: -20px; 
-    margin-bottom: 30px;
+    width: 100%; margin-top: -20px; margin-bottom: 30px;
 }
-
 .toc-open-btn {
-    background: #1c2128;
-    color: var(--sw-blue);
-    border: 1px solid var(--sw-blue);
-    padding: 8px 16px;
-    font-weight: bold;
-    cursor: pointer;
-    border-radius: 4px;
-    text-transform: uppercase;
-    font-size: 0.8rem;
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
+    background: #1c2128; color: var(--sw-blue); border: 1px solid var(--sw-blue);
+    padding: 8px 16px; font-weight: bold; cursor: pointer; border-radius: 4px;
+    text-transform: uppercase; font-size: 0.8rem; display: inline-flex; align-items: center; gap: 8px;
 }
+.toc-open-btn:hover { background: var(--sw-blue); color: white; box-shadow: 0 0 10px var(--sw-glow); }
 
-.toc-open-btn:hover {
-    background: var(--sw-blue);
-    color: white;
-    box-shadow: 0 0 10px var(--sw-glow);
-}
-
-.sticky-footer-nav {
-    position: fixed;
-    bottom: 0;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 100%;
-    max-width: 900px;
-    background: var(--gh-bg);
-    border-top: 1px solid var(--gh-border);
-    padding: 10px 20px;
-    z-index: 2000;
-    box-shadow: 0 -5px 15px rgba(0, 0, 0, 0.5);
-}
-
-.footer-nav-container { display: flex; justify-content: space-between; gap: 15px; }
-
-.nav-btn {
-    flex: 1;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 8px 12px;
-    background: #1c2128;
-    border: 1px solid var(--gh-border);
-    border-radius: 4px;
-    color: var(--sw-blue);
-    font-size: 0.8rem;
-    font-weight: bold;
-    text-transform: uppercase;
-}
-
-/* --- 5. DATAPAD SIDEBAR & OVERLAY --- */
-.toc-sidebar {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 280px;
-    height: 100vh;
-    background: var(--gh-bg);
-    border-right: 1px solid var(--sw-blue);
-    z-index: 100000;
-    transform: translateX(-100%); 
-    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-    padding: 25px;
-    overflow-y: auto;
-    visibility: hidden;
-}
-
-.toc-sidebar.active {
-    transform: translateX(0);
-    visibility: visible;
-}
-
-.sidebar-overlay {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(0,0,0,0.8);
-    z-index: 99998;
-    opacity: 0;
-    pointer-events: none;
-    transition: opacity 0.3s ease;
-}
-
-.sidebar-overlay.active { opacity: 1; pointer-events: auto; }
-
-/* --- 6. LOG FORMATTING & DISCORD EXTRAS --- */
-.st-gold {
-    color: var(--sw-yellow);
-    font-style: italic;
-    font-weight: bold;
-    text-align: center;
-    display: block;
-    margin: 2rem 0;
-    text-shadow: 0 0 8px rgba(210, 153, 34, 0.3);
-}
-
+/* --- 5. UNIVERSAL LOG FORMATTING --- */
+.st-gold { color: var(--sw-yellow); font-style: italic; font-weight: bold; text-align: center; display: block; margin: 2rem 0; text-shadow: 0 0 8px rgba(210, 153, 34, 0.3); }
 .timestamp { color: var(--text-muted); font-size: 0.8rem; font-family: monospace; }
-
-/* Frequency Shift & Scene Dividers */
-.channel-transition {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 40px 0 20px;
-    padding: 12px;
-    background: rgba(88, 166, 255, 0.03);
-    border-top: 1px dashed var(--sw-blue);
-    border-bottom: 1px dashed var(--sw-blue);
-    color: var(--sw-blue);
-    font-family: monospace;
-    font-size: 0.7rem;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-}
-
-.scene-divider {
-    text-align: center;
-    border-bottom: 1px solid var(--sw-yellow);
-    line-height: 0.1em;
-    margin: 50px 0 30px;
-    width: 100%;
-}
-
-.scene-divider span {
-    background: var(--gh-bg);
-    padding: 0 15px;
-    color: var(--sw-yellow);
-    font-family: monospace;
-    font-size: 0.8rem;
-    letter-spacing: 3px;
-}
-
-/* Redacted Spoilers */
 .spoiler { background-color: #4f545c; color: transparent; border-radius: 3px; padding: 0 2px; cursor: help; }
 .spoiler:hover, .spoiler:active { background-color: rgba(255, 255, 255, 0.1); color: var(--gh-text); }
-
-/* Discord Formatting */
 blockquote { border-left: 4px solid #4f545c; margin: 5px 0; padding: 2px 15px; color: var(--text-muted); }
 code { background: #2f3136; padding: 0.2em 0.4em; border-radius: 3px; font-family: monospace; }
 pre { background: #2f3136; border: 1px solid var(--gh-border); padding: 10px; border-radius: 5px; overflow-x: auto; }
+.emoji { height: 1.4em; vertical-align: middle; margin: 0 2px; }
+.internal-link { color: var(--sw-yellow); text-decoration: underline dotted; font-weight: bold; }
 
-/* --- 7. JSON VIEWER SPECIFICS --- */
-.message-group { display: flex; padding: 10px 20px; border-bottom: 1px solid rgba(48, 54, 61, 0.2); transition: background 0.3s; }
-.message-main { display: flex; width: 100%; }
+/* --- 6. DASHBOARD / HOME COMPONENTS --- */
+.hero-section { text-align: center; padding: 40px 0; }
+.site-logo { max-width: 250px; margin-bottom: 10px; }
+.flavor-text { color: var(--sw-yellow); font-style: italic; opacity: 0.8; }
+.log-list { list-style: none; padding: 0; }
+.log-list li { padding: 10px 0; border-bottom: 1px solid var(--gh-border); }
+.view-all { display: block; margin-top: 15px; font-size: 0.8rem; font-weight: bold; text-align: right; }
 
-.avatar-container { width: 42px; height: 42px; margin-right: 15px; flex-shrink: 0; }
-.avatar { width: 100%; height: 100%; border-radius: 4px; object-fit: cover; border: 1px solid var(--gh-border); }
-
-.msg-body { flex-grow: 1; min-width: 0; }
-.username { color: var(--sw-blue); font-weight: bold; margin-right: 10px; }
-
-/* Copy Link Icon Logic */
-.copy-link-icon { opacity: 0.2; cursor: pointer; font-size: 0.8rem; margin-left: 8px; transition: 0.2s; }
-.message-group:hover .copy-link-icon { opacity: 1; }
-.copy-link-icon:hover { color: var(--sw-yellow); }
-
-/* Anchor / Flash Highlight */
-.message-group:target, .highlight-flash {
-    background: rgba(88, 166, 255, 0.15) !important;
-    border-left: 3px solid var(--sw-blue);
-}
-
-.internal-link { color: var(--sw-yellow); text-decoration: underline dotted; font-style: italic; }
-
-.channel-bar { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px; padding: 10px; background: var(--panel-bg); }
-
-/* --- 8. RESPONSIVE DESIGN --- */
-
-@media (min-width: 1200px) {
-    .toc-sidebar { transform: translateX(-320px); }
-}
-
-@media (max-width: 600px) {
-    main { padding: 15px; }
-    .frozen-nav { margin-top: -15px; }
-    .nav-text { display: none; }
-    .log-content { padding-bottom: 120px; }
-}
-
-@media (max-width: 480px) {
-    .toc-open-btn { padding: 8px 10px; font-size: 0.7rem; }
-    .toc-sidebar { width: 90%; }
-}
-
-/* --- 9. FOOTER --- */
-footer:not(.sticky-footer-nav) {
-    text-align: center;
-    padding: 60px 20px 120px;
-    border-top: 1px solid var(--gh-border);
-    margin-top: 100px;
-    font-size: 0.85rem;
-}
+/* --- 7. RESPONSIVE & FOOTER --- */
+@media (max-width: 600px) { main { padding: 15px; } .frozen-nav { margin-top: -15px; } }
+footer:not(.sticky-footer-nav) { text-align: center; padding: 60px 20px 40px; border-top: 1px solid var(--gh-border); margin-top: 100px; font-size: 0.85rem; }

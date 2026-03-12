@@ -1,70 +1,53 @@
 ---
 layout: default
 ---
-<div id="sidebar-overlay" class="sidebar-overlay"></div>
+<style>
+  /* Sidebar Logic */
+  .toc-sidebar {
+    position: fixed; top: 0; left: 0; width: 280px; height: 100vh;
+    background: var(--gh-bg); border-right: 1px solid var(--sw-blue); z-index: 100000;
+    transform: translateX(-100%); transition: transform 0.3s ease; padding: 25px; overflow-y: auto; visibility: hidden;
+  }
+  .toc-sidebar.active { transform: translateX(0); visibility: visible; }
+  .sidebar-overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.8); z-index: 99998; opacity: 0; pointer-events: none; transition: opacity 0.3s ease; }
+  .sidebar-overlay.active { opacity: 1; pointer-events: auto; }
+  
+  /* Sticky Footer Nav */
+  .sticky-footer-nav { position: fixed; bottom: 0; left: 50%; transform: translateX(-50%); width: 100%; max-width: 900px; background: var(--gh-bg); border-top: 1px solid var(--gh-border); padding: 10px 20px; z-index: 2000; box-shadow: 0 -5px 15px rgba(0,0,0,0.5); }
+  .footer-nav-container { display: flex; justify-content: space-between; gap: 15px; }
+  .nav-btn { flex: 1; display: flex; align-items: center; justify-content: center; padding: 8px 12px; background: #1c2128; border: 1px solid var(--gh-border); border-radius: 4px; color: var(--sw-blue); font-size: 0.8rem; font-weight: bold; text-transform: uppercase; }
+  .nav-btn.disabled { opacity: 0.3; cursor: not-allowed; }
 
+  @media (max-width: 600px) { .nav-text { display: none; } .log-content { padding-bottom: 120px; } }
+</style>
+
+<div id="sidebar-overlay" class="sidebar-overlay"></div>
 <div class="log-wrapper">
   <aside id="toc-sidebar" class="toc-sidebar">
-    <div class="toc-header">
-      <span>DATAPAD INDEX</span>
-      <button class="toc-close">×</button>
-    </div>
+    <div class="toc-header"><span>DATAPAD INDEX</span><button class="toc-close">×</button></div>
     <div class="toc-content" id="toc-target"></div>
   </aside>
 
   <article class="log-content">
     <header class="frozen-nav">
         <div style="display: flex; gap: 10px; padding: 0 10px;">
-            <a href="{{ '/archives' | relative_url }}" class="toc-open-btn" style="text-decoration: none; display: flex; align-items: center;">
-                ⇠ ARCHIVES
-            </a>
-            
+            <a href="{{ '/archives' | relative_url }}" class="toc-open-btn">⇠ ARCHIVES</a>
             <button id="toc-open-trigger" class="toc-open-btn">☰ VIEW INDEX</button>
         </div>
     </header>
-    
-    <div class="markdown-body">
-       {{ content }}
-    </div>
+    <div class="markdown-body">{{ content }}</div>
 
     <footer class="sticky-footer-nav">
-      {% comment %} 
-        1. Get all log entries
-        2. Sort them by path (alphabetical tie-breaker)
-        3. Sort them by order (primary sort)
-      {% endcomment %}
-      {% assign all_logs = site.pages | where: "layout", "log-entry" | sort: "path" %}
-      {% assign logs = all_logs | sort: "order" %}
-
-      {% for log in logs %}
-        {% if log.url == page.url %}
-          {% assign currentIndex = forloop.index0 %}
-          {% assign prevIndex = currentIndex | minus: 1 %}
-          {% assign nextIndex = currentIndex | plus: 1 %}
-
+      {% assign all_logs = site.pages | where: "layout", "log-entry" | sort: "path" %}{% assign logs = all_logs | sort: "order" %}
+      {% for log in logs %}{% if log.url == page.url %}
+          {% assign currentIndex = forloop.index0 %}{% assign prevIndex = currentIndex | minus: 1 %}{% assign nextIndex = currentIndex | plus: 1 %}
           <div class="footer-nav-container">
-            {% if prevIndex >= 0 %}
-              {% assign prevLog = logs[prevIndex] %}
-              <a href="{{ prevLog.url | relative_url }}" class="nav-btn">
-                <span class="nav-arrow">«</span> 
-                <span class="nav-text">PREV: {{ prevLog.title | truncate: 20 }}</span>
-              </a>
-            {% else %}
-              <div class="nav-btn disabled">START OF ARCHIVE</div>
-            {% endif %}
-
-            {% if nextIndex < logs.size %}
-              {% assign nextLog = logs[nextIndex] %}
-              <a href="{{ nextLog.url | relative_url }}" class="nav-btn next">
-                <span class="nav-text">NEXT: {{ nextLog.title | truncate: 20 }}</span>
-                <span class="nav-arrow">»</span>
-              </a>
-            {% else %}
-              <div class="nav-btn disabled">END OF ARCHIVE</div>
-            {% endif %}
+            {% if prevIndex >= 0 %}{% assign prevLog = logs[prevIndex] %}<a href="{{ prevLog.url | relative_url }}" class="nav-btn">« <span class="nav-text">PREV: {{ prevLog.title | truncate: 20 }}</span></a>
+            {% else %}<div class="nav-btn disabled">START</div>{% endif %}
+            {% if nextIndex < logs.size %}{% assign nextLog = logs[nextIndex] %}<a href="{{ nextLog.url | relative_url }}" class="nav-btn next"><span class="nav-text">NEXT: {{ nextLog.title | truncate: 20 }}</span> »</a>
+            {% else %}<div class="nav-btn disabled">END</div>{% endif %}
           </div>
-        {% endif %}
-      {% endfor %}
+      {% endif %}{% endfor %}
     </footer>
   </article>
 </div>

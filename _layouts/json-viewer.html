@@ -1,69 +1,41 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>{{ page.title }} | Datapad Archive</title>    
-    <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}?v={{ site.time | date: '%Y%m%d%H%M%S' }}">
-    <style>
-        .log-container-json { max-width: 900px; margin: 0 auto; padding: 20px; }
-        
-        /* Frequency Navigation Bar */
-        .frequency-nav-bar { 
-            display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 25px; 
-            padding: 12px; background: var(--panel-bg); border: 1px solid var(--gh-border); 
-            position: sticky; top: 60px; z-index: 900;
-        }
+---
+layout: default
+---
+<style>
+    .log-container-json { max-width: 900px; margin: 0 auto; padding: 20px; }
+    .frequency-nav-bar { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 25px; padding: 12px; background: var(--panel-bg); border: 1px solid var(--gh-border); position: sticky; top: 60px; z-index: 900; }
+    .freq-btn { background: transparent; border: 1px solid var(--sw-blue); color: var(--sw-blue); padding: 6px 12px; font-size: 0.75rem; cursor: pointer; border-radius: 3px; font-weight: bold; text-transform: uppercase; }
+    .freq-btn.active { background: var(--sw-blue); color: #000; box-shadow: 0 0 10px var(--sw-glow); }
+    
+    /* Transmission Visuals */
+    .channel-transition { display: flex; align-items: center; justify-content: center; margin: 45px 0 25px; padding: 15px; background: rgba(88,166,255,0.05); border: 1px dashed var(--sw-blue); color: var(--sw-blue); font-family: monospace; font-size: 0.75rem; letter-spacing: 2px; cursor: pointer; }
+    .message-group { display: flex; padding: 10px 20px; border-bottom: 1px solid rgba(48, 54, 61, 0.2); transition: background 0.3s; }
+    .avatar-container { width: 42px; height: 42px; margin-right: 15px; flex-shrink: 0; background: #1c2128; border-radius: 4px; overflow: hidden; }
+    .avatar { width: 100%; height: 100%; object-fit: cover; opacity: 0; transition: opacity 0.3s; }
+    .avatar.loaded { opacity: 1; }
+    .username { color: var(--sw-blue); font-weight: bold; margin-right: 10px; }
 
-        .freq-btn { 
-            background: transparent; border: 1px solid var(--sw-blue); color: var(--sw-blue); 
-            padding: 6px 12px; font-size: 0.75rem; cursor: pointer; border-radius: 3px; 
-            font-weight: bold; text-transform: uppercase;
-        }
-        .freq-btn.active { background: var(--sw-blue); color: #000; box-shadow: 0 0 10px var(--sw-glow); }
+    /* Interaction */
+    .copy-link-icon { opacity: 0.2; cursor: pointer; font-size: 0.8rem; margin-left: 8px; }
+    .message-group:hover .copy-link-icon { opacity: 1; }
+    .message-group:target, .highlight-flash { background: rgba(210, 153, 34, 0.15) !important; border-left: 3px solid var(--sw-yellow); }
+</style>
 
-        /* Frequency Shift Marker (Interactive) */
-        .channel-transition {
-            display: flex; align-items: center; justify-content: center;
-            margin: 45px 0 25px; padding: 15px;
-            background: rgba(88, 166, 255, 0.05); border: 1px dashed var(--sw-blue);
-            color: var(--sw-blue); font-family: 'Courier New', monospace; font-size: 0.75rem; 
-            letter-spacing: 2px; text-transform: uppercase; cursor: pointer;
-        }
-        .channel-transition:hover { background: rgba(88, 166, 255, 0.1); color: var(--sw-yellow); }
-
-        .message-group { display: flex; padding: 10px 20px; border-bottom: 1px solid rgba(48, 54, 61, 0.2); transition: background 0.3s; }
-        .avatar-container { width: 42px; height: 42px; margin-right: 15px; flex-shrink: 0; background: #1c2128; border-radius: 4px; overflow: hidden; }
-        .avatar { width: 100%; height: 100%; object-fit: cover; opacity: 0; transition: opacity 0.3s; }
-        .avatar.loaded { opacity: 1; }
-
-        .internal-link { color: var(--sw-yellow); text-decoration: underline dotted; font-weight: bold; }
-        .emoji { height: 1.4em; vertical-align: middle; margin: 0 2px; }
-
-        .message-group:target, .highlight-flash {
-            background: rgba(210, 153, 34, 0.15) !important;
-            border-left: 3px solid var(--sw-yellow);
-        }
-    </style>
-</head>
-<body>
-
-    <header class="frozen-nav">
-        <div style="display: flex; gap: 10px; padding: 0 10px;">
-            <a href="{{ '/archives' | relative_url }}" class="toc-open-btn">⇠ ARCHIVES</a>
-            <select id="chapter-picker" class="toc-open-btn" onchange="loadChapter(this.value)" style="background: #1c2128;">
-                <option value="">-- SELECT DATA ARCHIVE --</option>
-                {% assign json_files = site.static_files | where_exp: "file", "file.path contains 'Chapter_Logs/JSON/'" %}
-                {% for file in json_files %}
-                    <option value="{{ file.name }}">{{ file.basename | replace: '_', ' ' | upcase }}</option>
-                {% endfor %}
-            </select>
-        </div>
-    </header>
-
-    <div class="log-container-json">
-        <div id="frequency-selector" class="frequency-nav-bar" style="display:none;"></div>
-        <div id="viewer-output">Awaiting Signal Decryption...</div>
+<header class="frozen-nav">
+    <div style="display: flex; gap: 10px; padding: 0 10px;">
+        <a href="{{ '/archives' | relative_url }}" class="toc-open-btn">⇠ ARCHIVES</a>
+        <select id="chapter-picker" class="toc-open-btn" onchange="loadChapter(this.value)" style="background: #1c2128;">
+            <option value="">-- SELECT DATA ARCHIVE --</option>
+            {% assign json_files = site.static_files | where_exp: "file", "file.path contains 'Chapter_Logs/JSON/'" %}
+            {% for file in json_files %}<option value="{{ file.name }}">{{ file.basename | replace: '_', ' ' | upcase }}</option>{% endfor %}
+        </select>
     </div>
+</header>
+
+<div class="log-container-json">
+    <div id="frequency-selector" class="frequency-nav-bar" style="display:none;"></div>
+    <div id="viewer-output">{{ content }}</div>
+</div>
 
     <script>
         let fullData = [];
