@@ -1,6 +1,6 @@
 ---
 layout: log-entry
-title: "Prelude: The Sunken Star of Xylos (Iyola)"
+title: "Prelude: Iyola"
 order: 0
 ---
 

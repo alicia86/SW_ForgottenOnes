@@ -1,6 +1,6 @@
 ---
 layout: log-entry
-title: "Prelude: The Static on the Line (Dryzan)"
+title: "Prelude: Dryzan"
 order: 0
 ---
 
