@@ -2,114 +2,70 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>{{ page.title }} | Holo-Net Datapad</title>    
+    <title>{{ page.title }} | SW: Forgotten Ones</title>    
     
     <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}?v={{ site.time | date: '%Y%m%d%H%M%S' }}">
     
     <style>
-        /* --- JSON VIEWER SPECIFIC OVERRIDES --- */
-        .log-container-json { 
-            display: flex; 
-            gap: 20px; 
-            max-width: 1200px; 
-            margin: 0 auto; 
-            padding: 20px; 
-            overflow: visible !important;
-        }
+        .log-container-json { max-width: 900px; margin: 0 auto; padding: 20px; }
         
-        /* Fixed Sidebars for Scenes */
-        .json-sidebar { 
-            width: 250px; 
-            position: sticky; 
-            top: 80px; 
-            height: fit-content; 
-        }
-
-        .json-main { flex-grow: 1; max-width: 900px; }
-
-        /* Frequency Switcher Bar */
-        .channel-bar { 
-            display: flex; 
-            flex-wrap: wrap; 
-            gap: 8px; 
-            margin-bottom: 20px; 
-            padding: 15px; 
-            background: var(--panel-bg); 
-            border: 1px solid var(--gh-border); 
-            border-radius: 6px; 
-        }
-
-        .chan-btn { 
-            background: transparent; 
-            border: 1px solid var(--sw-blue); 
-            color: var(--sw-blue); 
-            padding: 5px 12px; 
-            font-size: 0.75rem; 
-            cursor: pointer; 
-            border-radius: 3px; 
-            font-weight: bold; 
+        /* Frequency Shift Marker */
+        .channel-transition {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 40px 0 20px;
+            padding: 12px;
+            background: rgba(88, 166, 255, 0.03);
+            border-top: 1px dashed var(--sw-blue);
+            border-bottom: 1px dashed var(--sw-blue);
+            color: var(--sw-blue);
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 0.7rem;
+            letter-spacing: 2px;
             text-transform: uppercase;
         }
 
-        .chan-btn.active { 
-            background: var(--sw-blue); 
-            color: #000; 
-            box-shadow: 0 0 10px var(--sw-glow); 
-        }
-
-        /* Message Formatting */
-        .message-group { 
-            display: flex; 
-            flex-direction: column;
-            padding: 12px 20px; 
-            border-bottom: 1px solid rgba(48, 54, 61, 0.3); 
-        }
-
-        .message-main { display: flex; }
-        .avatar { width: 40px; height: 40px; border-radius: 4px; margin-right: 15px; flex-shrink: 0; }
+        .message-group { display: flex; padding: 10px 20px; border-bottom: 1px solid rgba(48, 54, 61, 0.2); transition: background 0.3s; }
+        .avatar-container { width: 42px; height: 42px; margin-right: 15px; flex-shrink: 0; }
+        .avatar { width: 100%; height: 100%; border-radius: 4px; object-fit: cover; border: 1px solid var(--gh-border); }
         
-        .msg-header { margin-bottom: 4px; }
-        .username { color: var(--sw-blue); font-weight: 600; margin-right: 8px; }
-        .timestamp { color: var(--text-muted); font-size: 0.75rem; }
-        
-        /* Reply Context (Match PS1 Logic) */
-        .reply-context {
-            display: flex;
-            align-items: center;
-            margin-left: 55px;
-            margin-bottom: 4px;
-            opacity: 0.6;
+        /* Copy Link Icon */
+        .copy-link-icon {
+            opacity: 0.2;
+            cursor: pointer;
             font-size: 0.8rem;
-            color: var(--text-muted);
+            margin-left: 8px;
+            transition: opacity 0.2s;
+            text-decoration: none !important;
         }
-        .reply-line {
-            width: 20px;
-            height: 10px;
-            border-left: 2px solid #4f545c;
-            border-top: 2px solid #4f545c;
-            border-top-left-radius: 6px;
-            margin-right: 8px;
-        }
-        .reply-avatar { width: 16px; height: 16px; border-radius: 50%; margin-right: 5px; }
+        .message-group:hover .copy-link-icon { opacity: 1; }
+        .copy-link-icon:hover { color: var(--sw-yellow); }
 
-        /* Smart Anchor Highlighting */
-        .internal-link { color: var(--sw-yellow); text-decoration: underline dotted; }
-        .message-group:target { 
-            background: rgba(88, 166, 255, 0.1); 
+        /* Highlight flash for jumped/copied messages */
+        .message-group:target, .highlight-flash {
+            background: rgba(88, 166, 255, 0.15) !important;
             border-left: 3px solid var(--sw-blue);
         }
-
-        .scene-divider { text-align: center; border-bottom: 1px solid var(--sw-yellow); line-height: 0.1em; margin: 50px 0 30px; }
-        .scene-divider span { background: var(--gh-bg); padding: 0 15px; color: var(--sw-yellow); font-family: monospace; letter-spacing: 2px; }
+        
+        /* Discord Content Styling */
+        .msg-content h1 { font-size: 1.6rem; border-bottom: 1px solid var(--gh-border); margin: 15px 0 10px; color: var(--sw-blue); }
+        .msg-content h2 { font-size: 1.3rem; margin: 12px 0 8px; color: var(--sw-yellow); }
+        .msg-content h3 { font-size: 1.1rem; margin: 10px 0 5px; text-transform: uppercase; letter-spacing: 1px; }
+        
+        .emoji { height: 1.4em; vertical-align: middle; margin: 0 2px; }
+        .attachment-img { max-width: 100%; border-radius: 6px; margin-top: 12px; border: 1px solid var(--gh-border); }
+        
+        .internal-link { color: var(--sw-yellow); text-decoration: underline dotted; font-style: italic; }
     </style>
 </head>
 <body>
 
     <header class="frozen-nav">
         <div style="display: flex; gap: 10px; padding: 0 10px;">
-            <a href="{{ '/archives' | relative_url }}" class="toc-open-btn" style="text-decoration: none;">⇠ ARCHIVES</a>
+            <a href="{{ '/archives' | relative_url }}" class="toc-open-btn">⇠ ARCHIVES</a>
             <select id="chapter-picker" class="toc-open-btn" onchange="loadChapter(this.value)" style="background: #1c2128;">
-                <option value="">-- SELECT TRANSMISSION --</option>
+                <option value="">-- SELECT LOG --</option>
                 {% assign json_files = site.static_files | where_exp: "file", "file.path contains 'Chapter_Logs/JSON/'" %}
                 {% for file in json_files %}
                     <option value="{{ file.name }}">{{ file.basename | replace: '_', ' ' | upcase }}</option>
@@ -119,163 +75,137 @@
     </header>
 
     <div class="log-container-json">
-        <aside class="json-sidebar">
-            <div class="panel">
-                <h3>Scene Markers</h3>
-                <div id="scene-jump-list" style="font-size: 0.8rem; color: var(--text-muted);">
-                    Awaiting Signal...
-                </div>
-            </div>
-        </aside>
-
-        <main class="json-main">
-            <div id="channel-selector" class="channel-bar" style="display:none;"></div>
-            <div id="viewer-output">Accessing Archive Database...</div>
-        </main>
+        <div id="viewer-output">Awaiting Signal...</div>
     </div>
 
     <script>
-        let fullData = [];
-        let dynamicChannelMap = {};
+        let channelMap = {}; 
+        const DEFAULT_AVATAR = "{{ '/Chapter_Logs/avatars/default.png' | relative_url }}";
 
         async function loadChapter(jsonFile) {
             if (!jsonFile) return;
             const output = document.getElementById('viewer-output');
-            output.innerHTML = "<em>Decrypting Data Stream...</em>";
+            output.innerHTML = "<em>Establishing secure link...</em>";
 
             try {
                 const response = await fetch("{{ '/Chapter_Logs/JSON/' | relative_url }}" + jsonFile);
                 const data = await response.json();
+                const messages = Array.isArray(data) ? data : (data.messages || []);
                 
-                // Logic: Handle raw array or .messages object
-                fullData = Array.isArray(data) ? data : (data.messages || []);
-                
-                // Ensure chronological order (Logic from PS1 v7.9.6)
-                fullData.sort((a, b) => new Date(a.timestamp) - new Date(b.timestamp));
+                // Pre-Scan for Thread Metadata (Logic from PS1)
+                channelMap = {};
+                messages.forEach(m => {
+                    if (m.thread && m.thread.name) {
+                        channelMap[m.channel_id] = m.thread.name.toUpperCase();
+                    }
+                });
 
-                buildChannelBar();
-                renderFeed('all');
+                renderFeed(messages, jsonFile.replace('.json', ''));
             } catch (err) {
-                output.innerHTML = `<div class="panel" style="color:red"><b>SIGNAL LOST:</b> ${err.message}</div>`;
+                output.innerHTML = `<b style="color:red">COMMS ERROR: ${err.message}</b>`;
             }
         }
 
-        function buildChannelBar() {
-            const bar = document.getElementById('channel-selector');
-            dynamicChannelMap = {}; // Reset
-
-            // Logic: Auto-detect Thread Names from message data
-            fullData.forEach(m => {
-                if (m.thread && m.thread.name) {
-                    dynamicChannelMap[m.channel_id] = m.thread.name.toUpperCase();
-                }
-            });
-
-            const uniqueChannels = [...new Set(fullData.map(m => m.channel_id))];
-            if (uniqueChannels.length <= 1) { bar.style.display = 'none'; return; }
-            
-            bar.style.display = 'flex';
-            let html = `<button class="chan-btn active" data-chan="all" onclick="renderFeed('all')">MAIN FEED</button>`;
-            uniqueChannels.forEach(id => {
-                const name = dynamicChannelMap[id] || `COMMS: ${id.slice(-4)}`;
-                html += `<button class="chan-btn" data-chan="${id}" onclick="renderFeed('${id}')">${name}</button>`;
-            });
-            bar.innerHTML = html;
-        }
-
-        function renderFeed(filterId) {
+        function renderFeed(messages, folderBase) {
             const output = document.getElementById('viewer-output');
-            const jumpList = document.getElementById('scene-jump-list');
             output.innerHTML = "";
-            jumpList.innerHTML = "";
-            
-            const messages = filterId === 'all' ? fullData : fullData.filter(m => m.channel_id === filterId);
-            let sceneCount = 0;
+            let lastChannelId = null;
 
-            messages.forEach((msg) => {
-                // Logic: Scene Detection via "---"
-                if (msg.content && (msg.content.trim() === "---" || msg.content.trim() === "--- ")) {
-                    sceneCount++;
-                    const sceneId = `scene-${sceneCount}`;
-                    
-                    const divider = document.createElement('div');
-                    divider.className = 'scene-divider';
-                    divider.id = sceneId;
-                    divider.innerHTML = `<span>SCENE ${sceneCount}</span>`;
-                    output.appendChild(divider);
-
-                    const link = document.createElement('div');
-                    link.className = 'scene-jump-link'; // Uses your sidebar hover styles
-                    link.style.cursor = "pointer";
-                    link.innerHTML = `⇠ Jump to Scene ${sceneCount}`;
-                    link.onclick = () => document.getElementById(sceneId).scrollIntoView({behavior: "smooth"});
-                    jumpList.appendChild(link);
-                    return;
+            messages.forEach(msg => {
+                // Frequency Shift Marker (Triggers only on ID change)
+                if (lastChannelId !== null && msg.channel_id !== lastChannelId) {
+                    const threadName = channelMap[msg.channel_id] || "MAIN CHANNEL";
+                    const transition = document.createElement('div');
+                    transition.className = 'channel-transition';
+                    transition.innerHTML = `📡 FREQUENCY SHIFT: ${threadName}`;
+                    output.appendChild(transition);
                 }
+                lastChannelId = msg.channel_id;
 
                 const group = document.createElement('div');
                 group.className = 'message-group';
                 group.id = `msg-${msg.id}`;
 
-                // Logic: Enhanced Reply Handling (PS1 v7.9.6 Reference)
-                let replyHtml = "";
-                if (msg.reference && msg.reference.messageId) {
-                    const parent = fullData.find(m => m.id === msg.reference.messageId);
-                    if (parent) {
-                        replyHtml = `
-                            <div class="reply-context">
-                                <div class="reply-line"></div>
-                                <span class="reply-user">@${parent.author.nickname || parent.author.username}</span>
-                                <span class="reply-text">: ${parent.content.substring(0, 40)}...</span>
-                            </div>`;
-                    }
+                // Avatar Probe Logic
+                let finalAvatar = DEFAULT_AVATAR;
+                if (msg.author && msg.author.id && msg.author.avatar) {
+                    finalAvatar = `{{ '/Chapter_Logs/avatars/' | relative_url }}${msg.author.id}/${msg.author.avatar}.png`;
                 }
 
-                const avatarUrl = msg.author.avatar 
-                    ? `{{ '/Chapter_Logs/avatars/' | relative_url }}${msg.author.id}/${msg.author.avatar}.png`
-                    : `{{ '/Chapter_Logs/avatars/default.png' | relative_url }}`;
-
                 group.innerHTML = `
-                    ${replyHtml}
-                    <div class="message-main">
-                        <img src="${avatarUrl}" class="avatar" onerror="this.src='{{ '/Chapter_Logs/avatars/default.png' | relative_url }}'">
-                        <div class="msg-body">
-                            <div class="msg-header">
-                                <span class="username">${msg.author.nickname || msg.author.username}</span>
-                                <span class="timestamp">${new Date(msg.timestamp).toLocaleString()}</span>
-                            </div>
-                            <div class="msg-content">${parseMarkdown(msg.content)}</div>
+                    <div class="avatar-container">
+                        <img src="${DEFAULT_AVATAR}" data-src="${finalAvatar}" class="avatar lazy-avatar">
+                    </div>
+                    <div class="msg-body">
+                        <div class="msg-header">
+                            <span class="username">${msg.author.nickname || msg.author.username}</span>
+                            <span class="timestamp">${new Date(msg.timestamp).toLocaleString()}</span>
+                            <a href="#msg-${msg.id}" class="copy-link-icon" title="Copy link" onclick="copyMsgLink(event, '${msg.id}')">🔗</a>
                         </div>
+                        <div class="msg-content">${parseMarkdown(msg.content, messages)}</div>
+                        ${renderAttachments(msg.attachments, folderBase)}
                     </div>
                 `;
                 output.appendChild(group);
             });
 
-            // Update UI State
-            document.querySelectorAll('.chan-btn').forEach(btn => {
-                btn.classList.toggle('active', btn.getAttribute('data-chan') === filterId);
+            handleAvatars();
+        }
+
+        function handleAvatars() {
+            document.querySelectorAll('.lazy-avatar').forEach(img => {
+                const realSrc = img.getAttribute('data-src');
+                if (realSrc === DEFAULT_AVATAR) return;
+                const probe = new Image();
+                probe.src = realSrc;
+                probe.onload = () => img.src = realSrc;
             });
         }
 
-        function parseMarkdown(text) {
+        function copyMsgLink(e, id) {
+            e.preventDefault();
+            const url = window.location.origin + window.location.pathname + "#msg-" + id;
+            navigator.clipboard.writeText(url).then(() => {
+                const el = document.getElementById("msg-" + id);
+                el.classList.add('highlight-flash');
+                setTimeout(() => el.classList.remove('highlight-flash'), 1000);
+            });
+        }
+
+        function parseMarkdown(text, allMessages) {
             if (!text) return "";
-            
-            // Logic: Smart Anchoring (Discord Link Conversion from PS1)
+            let html = text.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+
+            // Smart Anchors for Discord Links
             const discordLinkRegex = /https:\/\/discord\.com\/channels\/\d+\/\d+\/(\d+)/g;
-            
-            return text
-                .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;") // Safety
-                .replace(discordLinkRegex, (match, msgId) => {
-                    const exists = fullData.some(m => m.id === msgId);
-                    return exists ? `<a href="#msg-${msgId}" class="internal-link">⇠ view related transmission</a>` : match;
-                })
+            html = html.replace(discordLinkRegex, (match, msgId) => {
+                const exists = allMessages.some(m => m.id === msgId);
+                return exists ? `<a href="#msg-${msgId}" class="internal-link">⇠ view related transmission</a>` : match;
+            });
+
+            return html
+                .replace(/^# (.*$)/gim, '<h1>$1</h1>')
+                .replace(/^## (.*$)/gim, '<h2>$1</h2>')
+                .replace(/^### (.*$)/gim, '<h3>$1</h3>')
+                .replace(/(https?:\/\/[^\s]+)/g, '<a href="$1" target="_blank" rel="noopener">$1</a>')
                 .replace(/\*\*\*(.*?)\*\*\*/g, '<span class="st-gold">$1</span>')
                 .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
                 .replace(/\*(.*?)\*/g, '<i>$1</i>')
                 .replace(/__(.*?)__/g, '<u>$1</u>')
                 .replace(/~~(.*?)~~/g, '<del>$1</del>')
+                .replace(/&lt;a?(:.*?:)(\d+)&gt;/g, (match, name, id) => {
+                    const cleanName = name.replace(/:/g, '');
+                    return `<img src="{{ '/Chapter_Logs/emojis/' | relative_url }}${cleanName}_${id}.png" class="emoji" alt="${cleanName}">`;
+                })
                 .replace(/\|\|(.*?)\|\|/g, '<span class="spoiler">$1</span>')
                 .replace(/\n/g, '<br>');
+        }
+
+        function renderAttachments(attachments, folder) {
+            if (!attachments || attachments.length === 0) return "";
+            return attachments.map(a => 
+                `<img src="{{ '/Chapter_Logs/media/' | relative_url }}${folder}/${a.fileName || a.filename}" class="attachment-img" onerror="this.style.display='none'">`
+            ).join('');
         }
     </script>
 </body>
