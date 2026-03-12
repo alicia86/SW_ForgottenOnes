@@ -20,73 +20,93 @@
 <body>
 
     <div id="controls">
-        <label>Select Datapad Archive: </label>
-        <select id="chapter-picker" onchange="loadChapter(this.value)">
-            <option value="">-- Select an Entry --</option>
-            {% assign json_files = site.static_files | where_exp: "file", "file.path contains 'Chapter_Logs/JSON/'" %}
-            {% for file in json_files %}
-                <option value="{{ file.name }}">{{ file.basename | replace: '_', ' ' }}</option>
-            {% endfor %}
-        </select>
+        <div class="control-group">
+            <label>MISSION ARCHIVE:</label>
+            <select id="chapter-picker" onchange="loadChapter(this.value)">
+                </select>
+        </div>
+        
+        <div id="frequency-nav" class="frequency-bar"></div>
     </div>
 
     <article id="log-container">
-        <div id="viewer-output">Please select a transmission from the archives above.</div>
+        <div id="scene-index" class="scene-list"></div>
+        <div id="viewer-output"></div>
     </article>
 
     <script>
+        let currentLogData = []; // Store the full log in memory
+
         async function loadChapter(jsonFile) {
             if (!jsonFile) return;
             const output = document.getElementById('viewer-output');
-            output.innerHTML = "<em>Establishing secure link...</em>";
+            const freqNav = document.getElementById('frequency-nav');
+            output.innerHTML = "<em>Opening Comms Channel...</em>";
 
             try {
                 const response = await fetch("{{ '/Chapter_Logs/JSON/' | relative_url }}" + jsonFile);
-                if (!response.ok) throw new Error(`Signal Interrupted (HTTP ${response.status})`);
-                
                 const data = await response.json();
+                currentLogData = Array.isArray(data) ? data : (data.messages || []);
                 
-                // FIX: Support both array-only JSON and object-wrapped JSON
-                const messages = Array.isArray(data) ? data : (data.messages || []);
+                // 1. Identify unique frequencies (threads/channels)
+                setupFrequencySwitcher(currentLogData);
                 
-                if (messages.length === 0) {
-                    output.innerHTML = "Archive is empty or corrupted.";
-                    return;
-                }
+                // 2. Initial Render (Show All)
+                renderMessages(currentLogData);
 
-                const folderBase = jsonFile.replace('.json', '');
-                output.innerHTML = ""; 
-
-                messages.forEach(msg => {
-                    const div = document.createElement('div');
-                    div.className = 'message-group';
-
-                    const avatarUrl = (msg.author && msg.author.avatar) 
-                        ? "{{ '/Chapter_Logs/avatars/' | relative_url }}" + msg.author.id + "/" + msg.author.avatar + ".png"
-                        : "{{ '/Chapter_Logs/avatars/default.png' | relative_url }}";
-
-                    // Handle different possible name fields in Discord JSON
-                    const displayName = msg.author.nickname || msg.author.global_name || msg.author.username || "Unknown Entity";
-
-                    div.innerHTML = `
-                        <img src="${avatarUrl}" class="avatar" onerror="this.src='{{ '/Chapter_Logs/avatars/default.png' | relative_url }}'">
-                        <div class="msg-body">
-                            <div class="msg-header">
-                                <span class="username">${displayName}</span>
-                                <span class="timestamp">${new Date(msg.timestamp).toLocaleString()}</span>
-                            </div>
-                            <div class="msg-content">${parseMarkdown(msg.content)}</div>
-                            <div class="msg-attachments">${renderAttachments(msg.attachments, folderBase)}</div>
-                        </div>
-                    `;
-                    output.appendChild(div);
-                });
             } catch (err) {
-                console.error("Datapad Error:", err);
-                output.innerHTML = `<b style="color:#f85149">CONNECTION FAILED: ${err.message}</b>`;
+                output.innerHTML = `<b style="color:red">COMMS ERROR: ${err.message}</b>`;
+            }
+        }
+        function setupFrequencySwitcher(messages) {
+            const freqNav = document.getElementById('frequency-nav');
+            const channels = [...new Set(messages.map(m => m.channel_id))];
+            
+            let navHtml = `<button class="freq-btn active" onclick="filterFrequency('all')">MAIN FEED</button>`;
+            
+            channels.forEach(id => {
+                // Try to find a friendly name (Optional: map IDs to names)
+                const label = (id === "1463269257151254540") ? "BRIDGE" : `SEC-FREQ: ${id.slice(-4)}`;
+                navHtml += `<button class="freq-btn" onclick="filterFrequency('${id}')">${label}</button>`;
+            });
+            
+            freqNav.innerHTML = navHtml;
+        }
+
+        function filterFrequency(channelId) {
+            // Toggle active button style
+            document.querySelectorAll('.freq-btn').forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+
+            if (channelId === 'all') {
+                renderMessages(currentLogData);
+            } else {
+                const filtered = currentLogData.filter(m => m.channel_id === channelId);
+                renderMessages(filtered);
             }
         }
 
+        function renderMessages(messages) {
+            const output = document.getElementById('viewer-output');
+            output.innerHTML = "";
+            
+            messages.forEach(msg => {
+                // SCENE DETECTION: If content is just "---", render as a Scene Divider
+                if (msg.content === "---" || msg.content === "--- ") {
+                    const divider = document.createElement('div');
+                    divider.className = 'scene-divider';
+                    divider.innerHTML = `<span>NEW SCENE DETECTED</span>`;
+                    output.appendChild(divider);
+                    return;
+                }
+
+                // Normal Message Rendering Logic (from our previous steps)
+                const group = document.createElement('div');
+                group.className = 'message-group';
+                // ... (rest of your group.innerHTML logic) ...
+                output.appendChild(group);
+            });
+        }
         function parseMarkdown(text) {
             if (!text) return "";
             return text
@@ -104,6 +124,40 @@
             return attachments.map(a => 
                 `<img src="{{ '/Chapter_Logs/media/' | relative_url }}${folder}/${a.fileName || a.filename}" class="attachment-img">`
             ).join('');
+        }
+
+        function parseMarkdown(text) {
+            if (!text) return "";
+
+            // 1. Escaping HTML to prevent code injection
+            let html = text
+                .replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;");
+
+            return html
+                // --- BOLD / ITALIC COMBOS ---
+                .replace(/\*\*\*(.*?)\*\*\*/g, '<span class="st-gold">$1</span>') // Storyteller Gold
+                .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')               // Bold
+                .replace(/\*(.*?)\*/g, '<i>$1</i>')                            // Italic
+                .replace(/__(.*?)__/g, '<u>$1</u>')                            // Underline
+                .replace(/~~(.*?)~~/g, '<del>$1</del>')                        // Strikethrough
+                
+                // --- CODE FORMATTING ---
+                .replace(/```([\s\S]*?)```/g, '<pre><code>$1</code></pre>')    // Multi-line code
+                .replace(/`(.*?)`/g, '<code>$1</code>')                        // Single-line code
+                
+                // --- DISCORD SPECIFICS ---
+                .replace(/\|\|(.*?)\|\|/g, '<span class="spoiler">$1</span>')  // Spoilers
+                .replace(/> (.*?)(\n|$)/g, '<blockquote>$1</blockquote>')     // Blockquotes
+                
+                // --- CUSTOM ASSETS ---
+                .replace(/&lt;:(.*?):(\d+)&gt;/g, (match, name, id) => {       // Emojis (using escaped brackets)
+                    return `<img src="{{ '/Chapter_Logs/emojis/' | relative_url }}${name}_${id}.png" class="emoji" alt="${name}">`;
+                })
+                
+                // --- NEWLINES ---
+                .replace(/\n/g, '<br>');                                       // Preserve line breaks
         }
     </script>
 </body>

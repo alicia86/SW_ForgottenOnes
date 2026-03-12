@@ -248,6 +248,58 @@ a:hover { text-decoration: underline; color: var(--sw-yellow); }
     color: var(--gh-text);
 }
 
+/* --- DISCORD MARKDOWN EXTENSIONS --- */
+
+/* Blockquotes (> text) */
+blockquote {
+    border-left: 4px solid #4f545c;
+    margin: 5px 0;
+    padding: 2px 15px;
+    color: var(--text-muted);
+}
+
+/* Code Blocks (`text` and ```text```) */
+code {
+    background: #2f3136;
+    font-family: 'Consolas', 'Courier New', monospace;
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
+    font-size: 0.9em;
+}
+
+pre {
+    background: #2f3136;
+    border: 1px solid var(--gh-border);
+    padding: 10px;
+    border-radius: 5px;
+    overflow-x: auto;
+    margin: 10px 0;
+}
+
+pre code {
+    background: none;
+    padding: 0;
+}
+
+/* Underline (__text__) */
+u {
+    text-decoration: underline;
+}
+
+/* Strikethrough (~~text~~) */
+del {
+    text-decoration: line-through;
+    color: var(--text-muted);
+}
+
+/* Emoji sizing */
+.emoji {
+    height: 1.3rem;
+    width: auto;
+    vertical-align: middle;
+    margin: 0 2px;
+}
+
 /* --- FOOTER --- */
 footer {
     text-align: center;
