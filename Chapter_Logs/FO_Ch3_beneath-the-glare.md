@@ -3415,7 +3415,7 @@ The hours pass. The low hum of the *Atin Oya'ka*'s systems is a constant, soothi
 
 Iyola catches the shift in tone as she blithely inquires about the Abregado raid.  It was easy to forget how touchy Mandalorians were, when they were being sociable. Wes was extraordinarily even-tempered for a Mandalorian.  The other woman shifted back into advice about the descent.  Iyola bounced back down the wall, keeping close contact and earning a few bruises, nothing a bacta mist wouldn’t fix. 
 
-**“Thanks for sharing your experience,”** Iyola said, turning to head back to the Oya'ka. **“My name is Iyola Kett.|| Su cuy’gar! ||"**
+**“Thanks for sharing your experience,”** Iyola said, turning to head back to the Oya'ka. **“My name is Iyola Kett.<span class="spoiler"> Su cuy’gar! </span>"**
 
 ---
 
@@ -3445,7 +3445,7 @@ The woman watches Iyola's descent, her expression unreadable. She offers a final
 
 <a name="1463318571533992144"></a>*1463318571533992144*
 
-Kella Skirata.  Of course.  **“Sorry I didn’t recognize you,”  **Iyola said breezily.  **“You’re a lot more talkative and less metallic than I remember**. ”  She gave Kella a nod. Mandalorians hated smiling.. **“I’m sure I’ll see you around soon. Thanks for the climbing tips. || Ret'||!”**
+Kella Skirata.  Of course.  **“Sorry I didn’t recognize you,”  **Iyola said breezily.  **“You’re a lot more talkative and less metallic than I remember**. ”  She gave Kella a nod. Mandalorians hated smiling.. **“I’m sure I’ll see you around soon. Thanks for the climbing tips. <span class="spoiler"> Ret'</span>!”**
 
 With that, satisfied with her climbing experience, she returned to the Oya’ka, greedily making it through three chapters of *The Green Veil.*
 

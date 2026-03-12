@@ -2441,7 +2441,7 @@ He turned his head back to the situation at hand.  Nadia.  Continuing in Mando�
 
 *1395051915108286765*
 
-After finishing with the wounds and talking everything through as she does to Nadia. To make sure no surprised are given to her. Varda smiles lightly to herself as she's reminded of her and Araden. Then followed quickly afterwards loneliness claws at her mind. The Mandalorians. The adventure it all painfully reminds her of her old life. She smiles through the pain and looks to Nadia. "**||You have a strong spirit my dear, As strong as tempered beskar. Your ancestors would be proud.||**" 
+After finishing with the wounds and talking everything through as she does to Nadia. To make sure no surprised are given to her. Varda smiles lightly to herself as she's reminded of her and Araden. Then followed quickly afterwards loneliness claws at her mind. The Mandalorians. The adventure it all painfully reminds her of her old life. She smiles through the pain and looks to Nadia. "**<span class="spoiler">You have a strong spirit my dear, As strong as tempered beskar. Your ancestors would be proud.</span>**" 
 
 She looks to the group then the collar. A war waging in her mind. She's already revealed some of her abilities what's one more. Now in basic she looks to the others. "**I believe I may be able to remove the collar without any complications.**" She reaches out to the force then and they see Varda wince slightly. "**On second consideration. Perhaps not**"
 
@@ -2568,7 +2568,7 @@ She glances at the timer on her datapad, which is now ticking just under the fiv
 
 “**Good!  That’s good,” ** Iyola says. **“Misha, you’re the right person in the right place.”** She smiles at the other woman, hoping to instill confidence. **“I’ve got my multitool kit- will that work for you?”  She presents the kit to Misha.  “Maybe Dryzan has a few things that could help too.”**  *Though from the looks of it, Dryzan’s kit is perhaps a bit less official.. * **“Let me know how I can help out.”**
 
-She turns to Nadia.  The woman doesn’t appear to understand Basic, and time is short, so she’ll have to use her Mando’a. “||We will free you from the, uh, metal necklace.  Stay still and calm. We will help. This person Misha understands what to do.”||  She’s not fully fluent, but she hopes it’s good enough for Nadia to understand.
+She turns to Nadia.  The woman doesn’t appear to understand Basic, and time is short, so she’ll have to use her Mando’a. “<span class="spoiler">We will free you from the, uh, metal necklace.  Stay still and calm. We will help. This person Misha understands what to do.”</span>  She’s not fully fluent, but she hopes it’s good enough for Nadia to understand.
 
 ---
 
@@ -2655,7 +2655,7 @@ He winces, expecting the Jedi to immediately turn on him and accuse him, and sta
 
 *1395451764261785741*
 
-Varda as the exchanges are going on watches with old eyes, Dryzan's wariness towards Wes. Then also seeing Nadia further retreat into herself as more and more stimuli is entering she makes a decision. She turns to Nadia and attempts to envelop herself and her to mitigate as much as the background "Static" as possible. Then even though she knows of the drugs in her system and her current mental state she asks "||Nadia, my dear. There is going to be a lot happening from now, can I help you deal with it?||"
+Varda as the exchanges are going on watches with old eyes, Dryzan's wariness towards Wes. Then also seeing Nadia further retreat into herself as more and more stimuli is entering she makes a decision. She turns to Nadia and attempts to envelop herself and her to mitigate as much as the background "Static" as possible. Then even though she knows of the drugs in her system and her current mental state she asks "<span class="spoiler">Nadia, my dear. There is going to be a lot happening from now, can I help you deal with it?</span>"
 
 ---
 
@@ -2757,7 +2757,7 @@ Misha carefully pulls the two halves of the heavy collar away from Nadia's neck,
 
 *1396093910924923083*
 
-When collar opened with a metallic sounding *CLICK* Wes felt the tension level subside some.  As he saw Nadia  relax he noticed the red chaffed skin that the collar revealed the nastiness of the collar and the pain it had caused her.  He stepped closer to Varda and Misha.   He gave them both a nod.  **”Thank you both.   We need to move though.”**  He looked at Nadia.  A quiet, calm sadness enveloped him as he experienced the state of her condition.  It didn’t stay long as it was replaced with the determination to get her off the ship.  He turned towards the young woman. || **”Can you walk sister?”** ||  Wes asked her in Mando'a, continuing with the language that seemed to be working the best.
+When collar opened with a metallic sounding *CLICK* Wes felt the tension level subside some.  As he saw Nadia  relax he noticed the red chaffed skin that the collar revealed the nastiness of the collar and the pain it had caused her.  He stepped closer to Varda and Misha.   He gave them both a nod.  **”Thank you both.   We need to move though.”**  He looked at Nadia.  A quiet, calm sadness enveloped him as he experienced the state of her condition.  It didn’t stay long as it was replaced with the determination to get her off the ship.  He turned towards the young woman. <span class="spoiler"> **”Can you walk sister?”** </span>  Wes asked her in Mando'a, continuing with the language that seemed to be working the best.
 
 ---
 
@@ -2813,7 +2813,7 @@ She looks desperately between the faces in the room, her gaze pleading.
 
 *1396281750333820998*
 
-Seeing Nadia wobble as if she was going to topple over Wes stepped closer and placed a steadying hand on her back.   || **”Easy, not too fast.”** ||  He said quietly in Mando’a as Varda also spoke but to the tech that just helped Nadia.  Everything went quiet as he saw Misha recoil back from the implication Varda had made.    She indeed wasn’t wearing a collar and that meant she was one of the crew.  
+Seeing Nadia wobble as if she was going to topple over Wes stepped closer and placed a steadying hand on her back.   <span class="spoiler"> **”Easy, not too fast.”** </span>  He said quietly in Mando’a as Varda also spoke but to the tech that just helped Nadia.  Everything went quiet as he saw Misha recoil back from the implication Varda had made.    She indeed wasn’t wearing a collar and that meant she was one of the crew.  
 
 
 Wes watched as she stammered out a response.  It made sense.  She was hiding from the Twi’lek when they boarded the slaver’s ship.   He watched her movements and listened to her voice as she spoke and looked at Derek.  She was planning on escaping with them.  She wasn’t lying about that.   It didn’t mean she wasn’t hiding something but helping Derek and Nadia wasn’t a lie.   
@@ -2920,7 +2920,7 @@ She walks to the entrance of the cell and closes her eyes momentarily. Then open
 Listening to the others speak, especially Misha, he knew that time was running short.  At Iyola’s suggestion he nodded.  It was something he was planning to do anyway.  She was too weak to move on her own much less move quickly.   **”I already had that in mind.”**  He said as he nodded towards the container that held the sigil of Clan Skirita.   **”That will come as well.  It does not stay.”**  His voice held a sense of urgency as in leaving it behind wasn’t an option.  **”You and Dryzan should be able to carry it easily?”** He said to Iyola. 
 
 
-He turned to Nadia, hooking his lightsaber to a ring on his utility belt.   Taking a steady breath he reached out to her within the Force before physically touching her.   He knew she had been tortured and that her body likely hurt all over.  He let his calm presence reassure her that he wouldn’t hurt her intentionally.   || **”Sister, I need to pick you up.   I know it will hurt but it will be the fastest way to get you off this hell hole you’ve been in.”** || He waited for some sort of acknowledgment and a couple of seconds later she raised her weary head up and looked at him.  She gave the tall Mandalorian a small nod of approval.  
+He turned to Nadia, hooking his lightsaber to a ring on his utility belt.   Taking a steady breath he reached out to her within the Force before physically touching her.   He knew she had been tortured and that her body likely hurt all over.  He let his calm presence reassure her that he wouldn’t hurt her intentionally.   <span class="spoiler"> **”Sister, I need to pick you up.   I know it will hurt but it will be the fastest way to get you off this hell hole you’ve been in.”** </span> He waited for some sort of acknowledgment and a couple of seconds later she raised her weary head up and looked at him.  She gave the tall Mandalorian a small nod of approval.  
 
 
 Getting the nod from her he quickly and gently moved to pick her up.  He first put one arm up over his shoulder and around his neck before placing his left arm behind her back and his right under her knees.   Gently lifting he shifted  her so that her head could rest as comfortably as possible against his left pauldron.   The one that had his clan sigil emblazoned for all to see.   The same one that she stared at oddly before.  **”Let's move.”**
@@ -2975,7 +2975,7 @@ In Wes's arms, Nadia begins to struggle, her passive weakness replaced by a fran
 As he stepped across the threshold he felt Nadia shift in his arms.   Her frame was small and light but she managed to shift enough to look at the floor.   There Derek still laid slumped against the wall.  Lifeless from his last attempt to free his friend.    He felt her chest expand as if she was sucking in air and what followed was a sound he’d never forget.   Her physical wail along with the raw psychic shockwave she emitted within the Force staggered him.   It caused him to take a haggard step to the side before he could recover.  The lighting once again flickered and dimmed to near total darkness as damaged power conduits did what they could to light the area with arching blue energy.  
 
 
-Turning to see what she was looking at, his heart fell and he silently swore.   They were leaving and made no attempt to gather up her friend and it caused her to begin to fight against him.  || **”Nadia, we will bring him.  Please don’t fight against me.  I give you my word we will bring him.”** ||  
+Turning to see what she was looking at, his heart fell and he silently swore.   They were leaving and made no attempt to gather up her friend and it caused her to begin to fight against him.  <span class="spoiler"> **”Nadia, we will bring him.  Please don’t fight against me.  I give you my word we will bring him.”** </span>  
 
 He turned his body to Varda.  **”Varda, I know you have strength other than physical strength.  Can you carry him?”**
 
@@ -3088,7 +3088,7 @@ As he carried Nadia towards the medical bay Eve acknowledged his orders.  He fel
 **Eve, is a short jump or two possible?  Anywhere to throw them off and give us some time and space to figure out just what the hell is going on here. Also get a medical bed online and a cryo chamber ready.   We are bringing on one injured human female who is severely malnourished.  Please tell me you’re able to do that.”**  He said with urgency as he closed distance on the med bay doors.  
 
 
-|| **”I’m getting you to the Medical Bay Nadia.”** ||  He said gently as he carried her light malnourished form.
+<span class="spoiler"> **”I’m getting you to the Medical Bay Nadia.”** </span>  He said gently as he carried her light malnourished form.
 
 ---
 
@@ -3180,7 +3180,7 @@ She doesn't seem to notice. Her eyes, still wide and unfocused, stare up at the 
 
 *1397531148300714076*
 
-Wes laid Nadia gently down on the diagnostic bed.   Her body was limp and she offered no resistance.  || **”Easy sister.  Let’s get you looked over and see about helping you stabilize.** ||  He removed his helmet and set it aside only to return and run his hand over her forehead removing some matted dirty hair from her face.  
+Wes laid Nadia gently down on the diagnostic bed.   Her body was limp and she offered no resistance.  <span class="spoiler"> **”Easy sister.  Let’s get you looked over and see about helping you stabilize.** </span>  He removed his helmet and set it aside only to return and run his hand over her forehead removing some matted dirty hair from her face.  
 
 
 Wes moved her arms and legs out as gently as he could.  Despite seeing what was once a strong woman her limbs and body looked and felt frail from the abuse she had suffered.   Silently he hoped they had rescued her in time.  **”Eve, what sort of diagnostic and medical functions can you perform?   I’m going to need some help.   She’s been held prisoner for some time.   She’s been drugged and probably had food withheld to keep her weak.”**
@@ -3267,7 +3267,7 @@ A larger, transparent pod begins to slide out from a recess in the far wall, its
 
 *1397721387258347663*
 
-Wes listened as Eve talked about administering the hypospray first to prep her for cryo where she would heal at an accelerated state.  **”Do it.”** He said with certainty as he watched the articulated arm press the hypospray against her arm.   He reached out to her in the Force letting his presence also counsel her to relax more.  || **”Rest Nadia.  You’re safe and getting medical care.  I’ll be here when you wake up.  You’re not alone anymore.”** ||  He said softly in Mando’a as his own presence equaled what he had voiced.   
+Wes listened as Eve talked about administering the hypospray first to prep her for cryo where she would heal at an accelerated state.  **”Do it.”** He said with certainty as he watched the articulated arm press the hypospray against her arm.   He reached out to her in the Force letting his presence also counsel her to relax more.  <span class="spoiler"> **”Rest Nadia.  You’re safe and getting medical care.  I’ll be here when you wake up.  You’re not alone anymore.”** </span>  He said softly in Mando’a as his own presence equaled what he had voiced.   
 
 
 He looked back at the Monitor and the female face in the middle of it.   **”Eve based on your current analysis can you calculate how long the second part, the healing process may take?”**  Before she could answer he spoke again.   **”Also she’s Force Sensitive.   Not sure if that will factor into anything.”**

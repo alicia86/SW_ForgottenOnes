@@ -405,7 +405,7 @@ The hologram of Eve turns her head slightly, her gaze softening as she focuses o
 <a name="1463627018527707271"></a>*1463627018527707271*
 
 The datapad in Iyola's hand vibrates with a low-priority notification. The message from Vaeros Halcyon is encrypted but appears to be coded to Iyola’s datapad.
-|| **"Iyola. I find that my history is a weight this group cannot afford to carry while the Empire watches. My presence here is a target, and my mind requires a silence I cannot find in the shadow of the Venture. I have made arrangements with Ghurn to continue my studies in isolation. Your curiosity is a rare light in this dark age. Do not let it fade. — V.H."** ||
+<span class="spoiler"> **"Iyola. I find that my history is a weight this group cannot afford to carry while the Empire watches. My presence here is a target, and my mind requires a silence I cannot find in the shadow of the Venture. I have made arrangements with Ghurn to continue my studies in isolation. Your curiosity is a rare light in this dark age. Do not let it fade. — V.H."** </span>
 
 ---
 
@@ -4117,9 +4117,9 @@ She reaches slowly for her silver case, her eyes pleading with Ciara for a momen
 
 In the cramped, vibrating hold of the *Dha’kad*, every eye is fixed on the small, silver hypospray in Elara’s hand. The shuttle’s sublight thrusters maintain a low, resonant thrum that vibrates through the deck plating. 
 
-Iyola ||dissects the woman's every motion. She notes the clear, untampered seal on the medicinal vial and the way the fluid sloshes with standard viscosity. The labels are consistent with standard medical-grade sedatives, and there is no sleight of hand in the way Elara handles the injector; no hidden compartments, no quick-release triggers. To Iyola's practiced gaze, the hardware and the technician are both operating without a hidden agenda.||
+Iyola <span class="spoiler">dissects the woman's every motion. She notes the clear, untampered seal on the medicinal vial and the way the fluid sloshes with standard viscosity. The labels are consistent with standard medical-grade sedatives, and there is no sleight of hand in the way Elara handles the injector; no hidden compartments, no quick-release triggers. To Iyola's practiced gaze, the hardware and the technician are both operating without a hidden agenda.</span>
 
-Ciara ||perceives Elara not through sight, but as a flickering beacon in the Force. The woman's spirit is a clear, if exhausted, stream of resignation. There is no muddying of deceit, no sharp, jagged spike of a hidden ambush or a predatory trap. The "texture" of Elara's intent is smooth and transparent; she is genuinely surrendering to ensure her own safety and that of her patients. The clinical calm she projects isn't a mask—it is her anchor.||
+Ciara <span class="spoiler">perceives Elara not through sight, but as a flickering beacon in the Force. The woman's spirit is a clear, if exhausted, stream of resignation. There is no muddying of deceit, no sharp, jagged spike of a hidden ambush or a predatory trap. The "texture" of Elara's intent is smooth and transparent; she is genuinely surrendering to ensure her own safety and that of her patients. The clinical calm she projects isn't a mask—it is her anchor.</span>
 
 ---
 

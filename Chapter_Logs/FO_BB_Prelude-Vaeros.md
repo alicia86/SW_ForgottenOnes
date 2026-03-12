@@ -220,7 +220,7 @@ As the ship stabilizes, R3-K4 emits a sharp, inquisitive chirp, flagging a new s
 
 Ahead, cutting through the swirling mists, the immense, skeletal frame of the derelict Separatist dreadnought finally emerges from the gloom. The *Devastation* is a jagged silhouette of broken towers and gaping wounds, its hull pockmarked by a thousand ancient battles, adrift and silent in its chaotic graveyard.
 
-||**Pilot Check (DC 20):** Vaeros rolls 15 (Failure by 5). The TIE Reaper takes minor damage (Shields reduced by 5)||
+<span class="spoiler">**Pilot Check (DC 20):** Vaeros rolls 15 (Failure by 5). The TIE Reaper takes minor damage (Shields reduced by 5)</span>
 
 ---
 

@@ -1135,7 +1135,7 @@ Eve's voice brought him back to the here and now.    **”Understood Eve. You ke
 Wes watched the timer count down to zero.   As the clock stopped the tell tale hiss of the chamber sounded.  The blue light from within died away and the chamber opened up.  Inside lay Nadia still asleep but on the verge of waking up.  He saw her eyes flutter and her chest rise.  
 
 
-He spoke softly in Mando’a. || **”You are safe Nadia.  You’re aboard our ship after rescuing you from the slaver ship.  You’ve been in our Medbay for a short time.  You can move but don’t rush it.  There are some clean fatigues to your right side.”** ||
+He spoke softly in Mando’a. <span class="spoiler"> **”You are safe Nadia.  You’re aboard our ship after rescuing you from the slaver ship.  You’ve been in our Medbay for a short time.  You can move but don’t rush it.  There are some clean fatigues to your right side.”** </span>
 
 
 He stood to the side in the same armor as before bearing the colors of his clan and the clans sigil on his left pauldron.   His blaster was at his side and still hanging from his utility belt was his lightsaber hilt.   He hadn’t hidden it yet.  It may have been because of Vaeros.  A known Inquisitor or perhaps he was just tired of keeping it hidden.
@@ -1218,7 +1218,7 @@ She was cautious and he understood why.  Her question about Derek told him she c
 He shook his head.  The ‘T’ visor moved back and forth.  **”Once he was free of the Twi’lek he ran to where you were.  We followed him to the cargo bay where you were held.  At the door we found him.  He was already dead.   Either the collar was remote activated or the control panel for the door he opened sent a surge out and tripped the collar.  It killed him instantly.”**  He took a breath and looked to the door that led to the other room that held the cryo unit he was placed in.  **”He’s in there, secure in a cryo unit.   You wouldn’t let us leave without him.”**
 
 
-He paused for a moment as a Mandalorian saying came to mind.  || **”Not gone, simply walking far away.”** ||
+He paused for a moment as a Mandalorian saying came to mind.  <span class="spoiler"> **”Not gone, simply walking far away.”** </span>
 
 ---
 
@@ -1461,7 +1461,7 @@ Wes saw her shrink away as he spoke and he realized that even though his words w
 He let out a sigh as she shrunk away.  The proud fierce Mandalorian woman that was beginning to show had retreated back to the captive woman they had found.  The gravity of his words seems to only half register.   If he wasn’t living it he would have a hard time believing and understanding it himself.
 
 
-Slowly and calmly he stepped forward.  || **”Sister,”** || He said gently in Mandalorian before switching to Basic.  **”I apologize, I know you’ve been through a horrifying experience only to wake up on a strange ship with strangers.”**  Within the Force he let his presence gently reach out to her.  Not to overpower but to reassure that she was safe.  **”Bespin isn’t far and it sounds like the best place for us to go.  Our options are limited.   Perhaps the Force put us all together to help each other.  The *Venture* needs some time to power up.  According to Eve we don’t need a full ten hours but we will need more than four to be safe.  Arriving with no power and crashing or spinning out of control will help no one.”** 
+Slowly and calmly he stepped forward.  <span class="spoiler"> **”Sister,”** </span> He said gently in Mandalorian before switching to Basic.  **”I apologize, I know you’ve been through a horrifying experience only to wake up on a strange ship with strangers.”**  Within the Force he let his presence gently reach out to her.  Not to overpower but to reassure that she was safe.  **”Bespin isn’t far and it sounds like the best place for us to go.  Our options are limited.   Perhaps the Force put us all together to help each other.  The *Venture* needs some time to power up.  According to Eve we don’t need a full ten hours but we will need more than four to be safe.  Arriving with no power and crashing or spinning out of control will help no one.”** 
 
 
 He realized he was throwing a lot at her and took a step back. **”You’re probably hungry.  There isn’t much for food but there is nutrient paste.  It’s fairly bland but it will be good for you.  How does that sound?”**  He waited for an answer to see if she would come back out of the protective shell.
@@ -2671,7 +2671,7 @@ He shook his head.  **”No.  If I was to say I’m from anywhere I’d say Core
 
 **“Oh, Corellia,”** Iyola nodded. **“Are there a lot of Mandalorians on Corellia ?” ** *For all she knew, Mandalore had conquered Corellia by now.  *
 
- She remembered that Del-Fin had agreed to allow her to practice Mando’a with him, so she decided to take the opportunity. ||“I studied in Sundari for six months, for the SurveyCorps, before my assignment,”|| she told him.  ||“Many battles in the Mandalore system, lots of wreckage and history to survey. But I had to take too many classes in my program.”||
+ She remembered that Del-Fin had agreed to allow her to practice Mando’a with him, so she decided to take the opportunity. <span class="spoiler">“I studied in Sundari for six months, for the SurveyCorps, before my assignment,”</span> she told him.  <span class="spoiler">“Many battles in the Mandalore system, lots of wreckage and history to survey. But I had to take too many classes in my program.”</span>
 
 ---
 
@@ -2681,10 +2681,10 @@ He shook his head.  **”No.  If I was to say I’m from anywhere I’d say Core
 
 <a name="1408400504857563227"></a>*1408400504857563227*
 
-Wes shook his head.  ||  **”No, there are not a lot of Mandalorians on Corellia.”**  ||  He thought of his mother, who took up the calling of Mandalore, and her fondness of her home planet.   
+Wes shook his head.  <span class="spoiler">  **”No, there are not a lot of Mandalorians on Corellia.”**  </span>  He thought of his mother, who took up the calling of Mandalore, and her fondness of her home planet.   
 
 
-When she started speaking in Mando’a he turned his head listening to her memory I’d Sundari and wreckage surveys.  || **”Mandalore has changed a lot since your time.  Changed a lot even in my time.   I haven’t been back in some time.   The clan was always on the move and after Order 66 I stayed away from family and clan knowing that my presence would lead the Empire to them.”** ||  He responded in Mando’a
+When she started speaking in Mando’a he turned his head listening to her memory I’d Sundari and wreckage surveys.  <span class="spoiler"> **”Mandalore has changed a lot since your time.  Changed a lot even in my time.   I haven’t been back in some time.   The clan was always on the move and after Order 66 I stayed away from family and clan knowing that my presence would lead the Empire to them.”** </span>  He responded in Mando’a
 
 ---
 
@@ -4179,7 +4179,7 @@ As Nadia spoke he could hear and feel the emotion.  He was sure that if she wasn
 Iyola’s words reflected much of what he was thinking.  What was more surprising is that she wasn’t wrong.   It may have been more than two- hundred years but what she knew of Mandalorian’s hadn't changed. 
 
 
-|| **”She is right Nadia.”** ||  He spoke in Mando’a knowing that they both would understand.   || **”The fact that you're still here, fighting, proves you’re a warrior.  You are not a burden.  Your clan will know that.  You have my word they will understand what you went through.”** ||
+<span class="spoiler"> **”She is right Nadia.”** </span>  He spoke in Mando’a knowing that they both would understand.   <span class="spoiler"> **”The fact that you're still here, fighting, proves you’re a warrior.  You are not a burden.  Your clan will know that.  You have my word they will understand what you went through.”** </span>
 
 ---
 
@@ -6920,7 +6920,7 @@ He looked back at another monitor.  **”Eve.  Nadia and her security team have 
 He looked on as Eve completed Vekka’s permissions and the Rodian stepped aside for another to begin.  **”Looks like things will get under way soon.  I know your ba’void is being very accommodating and it’s appreciated.  I’m sure he’s going to want to talk to us at some point for a more in-depth conversation.”**  He said the last matter-of-factly as he knew it was something he would be doing if in the same position.  
 
 
-|| ba’vod - uncle. ||
+<span class="spoiler"> ba’vod - uncle. </span>
 ***
 <img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Helmet on [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Wes-Del-Fin)
 
