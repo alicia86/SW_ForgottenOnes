@@ -36,28 +36,7 @@
         "components":  [
 
                        ],
-        "userName":  "Storyteller",
-        "thread":  {
-                       "id":  "1387901967317209218",
-                       "type":  11,
-                       "last_message_id":  null,
-                       "flags":  0,
-                       "guild_id":  null,
-                       "name":  "Forgotten Ones | Chapter 1: Awakening",
-                       "parent_id":  "1",
-                       "rate_limit_per_user":  0,
-                       "bitrate":  64000,
-                       "user_limit":  0,
-                       "rtc_region":  null,
-                       "owner_id":  "1387914432989892838",
-                       "thread_metadata":  {
-                                               "archived":  false,
-                                               "archive_timestamp":  null,
-                                               "auto_archive_duration":  10080,
-                                               "locked":  false,
-                                               "create_timestamp":  "2025-06-26T21:58:53.424000+00:00"
-                                           }
-                   }
+        "userName":  "Storyteller"
     },
     {
         "id":  "1387915444266074162",
