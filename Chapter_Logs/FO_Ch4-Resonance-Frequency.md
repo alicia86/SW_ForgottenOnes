@@ -284,7 +284,7 @@ Dryzan was and seemed to be his usual cynical self while Varda was inquisitive o
 Eve’s head tilts slightly. **"The status of Crew Member Vaeros Halcyon is... non-congruent. His biometric signature was last recorded exiting the airlock two hours ago. He is no longer detected within the *Venture*'s sensor range. I have attempted a localized comms ping, but it was intercepted and redirected by a Skirata-level encryption wall."** 
 
 Her eyes move to Iyola. **"Iyola Kett, a low-priority notification has been flagged for your personal datapad. It was uploaded from the starboard barracks terminal by Vaeros Halcyon prior to his departure. It appears to be a direct communication intended only for your review."**
-<img src="media/fo_ch4-resonance-frequency/1769015555726.jpg" alt="1769015555726.jpg" style="height: 400px;" height="400">
+<img src="media/FO_Ch4-Resonance-Frequency/1769015555726.jpg" alt="1769015555726.jpg" style="height: 400px;" height="400">
 
 ---
 
@@ -926,7 +926,7 @@ The woman returns from the cryo-bay just as the door seals, carrying a compact, 
 **"Alright, let's get you stabilized,"** she says, her voice a calm, reassuring current in the tense atmosphere. **"My name is Elara Vance. I'm here to help."** She selects a hypospray filled with a clear, nutrient-rich solution. **"Your bodies have been through a significant shock. This will help with the metabolic crash and the weakness. Just a mild sedative and a nutrient booster."**
 
 She moves to Lis’s cot first, her movements efficient and gentle. **"Easy now,,"** she murmurs, sensing the agitated thrum of his thoughts. She administers the hypospray to his arm with a soft hiss. Turning to Ciara, who lies unnervingly still, she offers a small, approving nod. **"You're handling the disorientation well. A good sign."** The second hypospray is administered with the same clinical grace. Finally, she approaches Cajar. **"Your vitals are low, but they're steadying."** She administers the final dose. **"The disorientation will pass. For now, just rest."**
-<img src="media/fo_ch4-resonance-frequency/1769183092745.png" alt="1769183092745.png" style="height: 400px;" height="400">
+<img src="media/FO_Ch4-Resonance-Frequency/1769183092745.png" alt="1769183092745.png" style="height: 400px;" height="400">
 
 ---
 
@@ -2151,7 +2151,7 @@ The swirling cobalt tunnel of hyperspace shatters with a soft, percussive vibrat
 The *Venture* has arrived at the threshold of the Dreva Sector. 
 
 Outside the panoramic viewport, the ship graveyard of Relic-4 stretches out in a silent, haunting tableau. Massive, skeletal husks of ancient dreadnoughts and shattered frigates drift like frozen leviathans in the mist. Debris—everything from twisted hull plating to frozen shards of glass—glitters in the dim light of a dying white dwarf star. It is a place of absolute stillness and cold entropy.
-<img src="media/fo_ch4-resonance-frequency/1769895898272.png" alt="1769895898272.png" style="height: 400px;" height="400">
+<img src="media/FO_Ch4-Resonance-Frequency/1769895898272.png" alt="1769895898272.png" style="height: 400px;" height="400">
 
 ---
 
@@ -2465,7 +2465,7 @@ A faint, almost imperceptible warmth begins to radiate from her, a subtle tendri
 
 The decision is made. Nadia puts her helmet on with a practiced, decisive motion, the seals hissing shut as her HUD flickers to life. She gives a sharp, single nod to the others. **"This way. The auxiliary clamp is mid-ship."** She pivots and leads the way out of the bridge, her armored boots making a steady, rhythmic cadence on the deck plating. Wes and Iyola fall in behind her, a small, heavily armed fire team moving with grim purpose.
 <img src="emojis/!spacer!_735243641257328730.png" alt=":spacer:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"><img src="emojis/!spacer!_735243641257328730.png" alt=":spacer:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"><img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Off [✎](https://github.com/alicia86/SW_ForgottenOnes/wiki/Nadia-Skirata)
-<img src="media/fo_ch4-resonance-frequency/Desktop_Screenshot_2018.08.18_-_17.19.20.40.webp" alt="Desktop_Screenshot_2018.08.18_-_17.19.20.40.webp" style="height: 400px;" height="400">
+<img src="media/FO_Ch4-Resonance-Frequency/Desktop_Screenshot_2018.08.18_-_17.19.20.40.webp" alt="Desktop_Screenshot_2018.08.18_-_17.19.20.40.webp" style="height: 400px;" height="400">
 
 ---
 
