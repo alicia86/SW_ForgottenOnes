@@ -1,4 +1,4 @@
- # Forgotten Ones | Ch 4 Resonance Frequency
+﻿# Forgotten Ones | FO Ch4 Resonance Frequency
 
 <img src="avatars/1463271466035581155/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
@@ -6297,5 +6297,504 @@ Just then Wes arrived.  She relaxed a fraction as he spoke.  **“Hi, Wes.  Ever
 
 ---
 
+<img src="avatars/1463271466035581155/05acdb78a1e121ac85cf02ae24e7f1da.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
 
-***Created** 03/08/2026 15:23:54 (v7.9.6)*
+## **Ciara** (03/08/2026 19:37:46) <br style='clear: both;'>
+
+<a name="1480288440582148290"></a>*1480288440582148290*
+
+As the barrage of questions come towards her, Ciara finishes her paste. If you're hungry enough, anything will taste delicious. Either her emotional block prevented that as well, or the paste truly was that bland. 
+
+With a sigh, she organizes her thoughts to try and answer all the things she's been asked. She gives a nod to Wes as he is introduced. "**I'm doing pretty terribly, the entire core of my being seems to have been carved out and hidden somewhere beyond my reach.**" Her tone is mostly unconcerned, at most conveying a mild disappointment. 
+
+She turns her attention back to Iyola. "**I didn't know Revan personally, but I knew many people who did. They described him as charismatic and reliable.**" She stops herself before she goes too deep on that tangent, it's a topic that could last all day.
+
+She pushes a conspiratorial smile onto her face, as if sharing a juicy secret. "**Revan was average height, actually, but his second in command Malak was quite tall, and whenever they talked about him they were put on the holo together, so lots of people thought he was very short.**"
+
+With an exaggerated fond sigh, she moves on, adopting a more serious expression. "**Sith can look like anyone. Most of them of course make no effort to hide their nature, those are the simple ones to deal with.**" Her expression turns grim, something she's mildly surprised to feel is genuine. Some things run deeper than the emotions attached to them. "**Someone who has been in the order longer than we were aware of the sith threat can come back from a distant mission and feel different, just off a bit, you know? Still good natured and friendly, maybe just a bit tired.**" She realizes her tangent is going too far, and she lightly shrugs. "**But they were corrupted and they do horrible things because no one suspected them. My only point here is that even if they seemed like a saint when they were suspended, it could have been an act.**"
+
+---
+
+<img src="avatars/1463271466035581155/05acdb78a1e121ac85cf02ae24e7f1da.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Ciara** (03/08/2026 19:37:59) <br style='clear: both;'>
+
+<a name="1480288495913144351"></a>*1480288495913144351*
+
+Then as a final note, she glances at her fellow sleeper for the first time. "**I can't remember having a preference for a specific flower, but if it comes back to me, I'll let you know.**"
+
+---
+
+<img src="avatars/1463271466035581155/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Storyteller** (03/08/2026 19:48:25) <br style='clear: both;'>
+
+<a name="1480291120213786848"></a>*1480291120213786848*
+
+The *Venture*’s sublight thrusters maintain a low-frequency growl as the vessel descends toward its external berth at Cloud City. The transition from the vacuum to the heavy, gas-rich atmosphere of Bespin causes the hull to groan rhythmically. 
+
+The walk from the Medbay to the aft social hub is a short trek through the ship’s primary spine. As the group moves, they pass two large, heavy durasteel doors set opposite each other. Small, illuminated displays beside the frames indicate they are the port and starboard barracks—the quarters for the crew. The lighting here is soft and indirect, a sterile white that feels at odds with the lively conversation of the newcomers. 
+
+They enter the Galley, and the atmosphere shifts. While still clinical, this room is the most humanized section of the vessel. A central communal table of polished, dark alloy anchors the space. A high-end food synthesizer hums in the corner, its interface glowing with icons for various nutrient blends. The far wall is dominated by a large, reinforced viewport, currently filled with the swirling, pastel-colored clouds of Bespin, offering a view of the sunset that paints the room in shades of bruised purple and burning gold.
+
+---
+
+<img src="avatars/1463271466035581155/4acebb0962ae83ede74878c0554310e9.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Elara Vance** (03/08/2026 19:48:26) <br style='clear: both;'>
+
+<a name="1480291123166711990"></a>*1480291123166711990*
+
+Elara Vance sits at the edge of the central table, her hazel eyes flicking between Ciara and Lis with the focused intensity of a scholar observing a breakthrough. She remains quiet as Ciara speaks of Revan and the shifting nature of the Sith, her expression tightening into a look of professional concern. To a historian, these aren't just names; they are the foundations of the galaxy, now sitting and eating nutrient paste. **"A saintly act hiding a corrupted nature... that is a terrifying variable to account for,"** she murmurs, her voice thin.
+
+---
+
+<img src="avatars/1463271466035581155/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Eve the AI** (03/08/2026 19:48:26) <br style='clear: both;'>
+
+<a name="1480291124399833141"></a>*1480291124399833141*
+
+The holographic image of Eve does not appear in the galley, but her voice emanates from the ceiling speakers, calm and pervasive. **"Final approach to the private docking ring of Kando's Coursers is now in progress. Bespin Flight Control has confirmed our arrival vector. Internal grav-dampeners are being adjusted for station lock. Total time to docking: four standard minutes."**
+
+---
+
+<img src="avatars/1463271466035581155/35b6272cd41fc43f1f211961634343d1.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Lis Garah** (03/08/2026 20:29:43) <br style='clear: both;'>
+
+<a name="1480301512209993823"></a>*1480301512209993823*
+
+*He checks his compad, trying to interface it with the onboard network of the ship.* **"Estimated time on blueprints, inventory and systems on the ship, Eve? Also a list of allergies of the crew, if you have that available... working on this ship may actually distract me from... all of this..."** *He doesn't seem to be eating much himself, focusing on the idea of beautifying the ship as a coping mechanism for his lack of control.*
+**"Also... this ship is lacking in droids... we should get a few... maybe even scrappy second grade ones... I could repair them and make them serviceable"** *He muses, talking to everyone and nobody at the same time.*
+
+---
+
+<img src="avatars/1463271466035581155/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Wes Del-Fin** (03/08/2026 23:59:46) <br style='clear: both;'>
+
+<a name="1480354372704796756"></a>*1480354372704796756*
+
+Wes set his helmet down in front of a seat at the central table.   He then sat down next to Iyola.  He listened as the newcomers spoke.  Hearing about events that happened four millennia as if it only recently happened felt surreal.   He couldn’t imagine.  Out of all of them he was in cryo the least amount of time.   Nine years.   He wondered about the difference in times.  All their families, all their friends were gone.   No questions asked.  Yet here he was.  A Mandalorian only a decade out of time yet he feels the pain of loss.  
+
+
+Eve's voice brought him from his thoughts.  As the engineer named, Lis, spoke he began tapping on his bracer  *”Understood Eve.”* He replied to the ship's AI.  
+
+
+He looked at Lis having heard the man’s question about the droids.  **”We do have a droid repair team.  It’s down most of its complement but I think we have one of six droids up and working.”**
+<img src="emojis/!spacer!_735243641257328730.png" alt=":spacer:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"><img src="emojis/!spacer!_735243641257328730.png" alt=":spacer:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"><img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Off
+
+---
+
+<img src="avatars/1463271466035581155/35b6272cd41fc43f1f211961634343d1.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Lis Garah** (03/10/2026 23:47:35) <br style='clear: both;'>
+
+<a name="1481076084140151029"></a>*1481076084140151029*
+
+*He looks at Wes, a bit puzzled.* **"Only one active? Less than five can be quite unoptimal..."** *He begins listing the five droids, closing his hands into a fist and one by one unfurling each finger.* **"One is maintenance of the ship... one is repairs of the ship... one is to run diagnostics on the other two... another is for maintenance on the droids... and the last to do repairs on the droids... of course"** *He concludes, waving his hand midair.* **"I would prefer to also have a sixth to run diagnostic on those two... a few replacements each... security droids... well point is that you really can't have too many droids... any surplus of the budget should always be droids... worst case scenario? Sell them... I made plenty of credits on the side refurbishing them and flipping it as new... in spite of the constant advances in the field of robotics, droids usually aren't a depreciating asset..."** *He seems really passionate about the mechanical types... however, the way he speaks is not that of an obsessed hobbyist, rather he speaks with a matter of fact tone of voice... he really must have used a lot of them in his line of work.* **"Oh speaking of refurbishing... I am also a tech specialist with military grade gear! I could modify the crew's gear, if needs be"** *Oh hey, the engineer finally offers some practical aid.*
+
+---
+
+<img src="avatars/1463271466035581155/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Wes Del-Fin** (03/11/2026 00:11:08) <br style='clear: both;'>
+
+<a name="1481082009156718766"></a>*1481082009156718766*
+
+Wes looked at Lis as he seemed to ramble on about droids.  He had to remind himself that the man was a bit out of date.  As a teen he fought during the clone wars against the Separatists and their droid armies.  Droids had a purpose but an army wasn’t one.   That was a prime example of having too many droids.  
+
+
+**”Can’t have too many droids?”**  He looked around the table and realized he was the only one who knew about the Clone Wars.  He looked back at the engineer.  His voice was low as he remembered the death of his mother.  There was a cold shift in his presence.  **”I beg to differ.  More than twenty years ago the Republic fought against the Separatists and their droid army.  Droids have a purpose but an army isn’t one of them.”**
+<img src="emojis/!spacer!_735243641257328730.png" alt=":spacer:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"><img src="emojis/!spacer!_735243641257328730.png" alt=":spacer:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"><img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Off
+
+---
+
+<img src="avatars/1463271466035581155/05acdb78a1e121ac85cf02ae24e7f1da.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Ciara** (03/11/2026 00:16:53) <br style='clear: both;'>
+
+<a name="1481083458016252035"></a>*1481083458016252035*
+
+Ciara takes note of their ongoing conversation but doesn't join for now. She considers for a moment if she had strong feelings about droids, back when she had strong feelings about anything. 
+
+She quickly concludes that she did not. She was a bit wary of droids because if they were programmed to assassinate her, it was much harder for her to sense it in advance. Luckily they were still generally less dangerous than a sith. Though thousands of years might have advanced assassin droid tech quite a bit...
+
+She makes a mental note to be more wary of droids than usual.
+
+---
+
+<img src="avatars/1463271466035581155/cf74f87fc7f713b72420fb467808eccb.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Iyola Kett** (03/11/2026 00:44:42) <br style='clear: both;'>
+
+<a name="1481090457663574109"></a>*1481090457663574109*
+
+Iyola opens her mouth, then closes it as Ciara calmly discusses how the core of her being feels like it’s been scooped out.  She’s not entirely sure what to say.  She knows that Jedi are calm on the surface normally, even when they feel very different underneath, but Ciara is affectless, which feels odd to her, especially for a Zeltron.  
+
+She is, however, delighted by what Ciara discloses about Revan - a first-hand look into an era she’s only studied.  **“But Revan must have been confident.  He didn’t care what others thought he looked like,” **she muses out loud.
+
+Ciara’s revelation about the Sith is disturbing.  In fact - there’s that caution again.  *What if Ciara means - herself?  She seems a bit off.  Could she be a Sith? * She looks over at Wes.  Can Sith read minds?  She needs to think about something else.
+
+It was clear to Iyola that Lis Garah really, really liked droids.   **“Something tells me you’re the being to take on the droid repair project. Soon I’ll introduce you to Misha; she’s our current technician in residence. But right now, I need to get back to the bridge. We’re about to dock.**”  She looks over at Wes.
+
+---
+
+<img src="avatars/1463271466035581155/05acdb78a1e121ac85cf02ae24e7f1da.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Ciara** (03/11/2026 00:54:32) <br style='clear: both;'>
+
+<a name="1481092930658762853"></a>*1481092930658762853*
+
+Ciara nods in response to the query. "**From what I heard, he was quite confident, yes. He always knew what he should do.**" She frowns slightly. "**Always knew what was right. His strong sense of justice led him to be sympathetic to the plight of the Republic... Then he saw something beyond the outer rim and returned a conqueror.**" 
+
+She sighs lightly. "**That showed us that anyone can fall. It made the council afraid, it made them-**" She shakes her head. "**It's not important now.**" 
+
+Ciara's mind wanders for a moment, but upon Iyola's statement that she was leaving, a thought occurred. She addressed Iyola again, tilting her head to the side quizzically. "**Wait. You said something about things being dangerous for Jedi right now. Should I change clothes before we go planet side? Or have the Jedi actually updated their wardrobe in the past few millennia?**" Honestly she'd be mildly surprised either way.
+
+---
+
+<img src="avatars/1463271466035581155/cf74f87fc7f713b72420fb467808eccb.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Iyola Kett** (03/11/2026 01:05:47) <br style='clear: both;'>
+
+<a name="1481095763877691443"></a>*1481095763877691443*
+
+“**Oh.  Right. Shit.  Yeah, I mean, it’s a lot to go into.”**  Iyola still remembered the utter shock and horror she’d felt when she’d abruptly learned that she’d been in stasis for centuries.  *No soft reentry for her!  *  
+
+**“Honestly, I think Wes here might be the better source of information on, um, recent Jedi events. But suffice it to say, you need to go undercover, Jedi are - outlawed?  So don’t wear your robes and definitely don’t show anyone your lightsaber.” ** She thinks for a moment. 
+
+ **“I didn’t have the chance to go buy many new clothes before we came out here to rescue you.”  **She looked Ciara over.  She was a few inches taller than the Zeltron, but their builds were similar enough.  “**You can probably fit into a spare outfit I have. It’s nothing special but it will work for now.  In the meantime, just take the robe off and try not to sound mystical and mysterious.” **
+
+---
+
+<img src="avatars/1463271466035581155/05acdb78a1e121ac85cf02ae24e7f1da.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Ciara** (03/11/2026 01:20:34) <br style='clear: both;'>
+
+<a name="1481099483965165578"></a>*1481099483965165578*
+
+Ciara feels like she's doing a lot of nodding today. Is that different with emotions? Probably not. Regardless, she once again nods as Iyola explains. 
+
+She seems to take the news in stride. "**Will they be searching for sabers? I can probably get it past any checkpoints, but if it's a frequent risk, I can leave it on the ship.**"
+
+She sizes Iyola up properly for the first time once the topic of borrowing clothes comes up. After a nod of approval, she adds. "**I appreciate the spare outfit. I'll return the favor in some way.**"
+
+After just a moment of consideration, a smile crawls across her face. "**Luckily my behavior never really matched the other Jedi. If I can keep myself from using the force for minor things, we should be fine in that regard.**" 
+
+Her last reply comes as almost an afterthought. "**Just direct me to the outfit before we disembark.**" Then her attention shifts to Wes. "**Do you want to cover the Jedi situation now? Just knowing I shouldn't look or behave like one is good enough for now if you'd like to wait.**" 
+
+She mentally reviews her own actions so far. Her expressions still aren't natural enough, but she's got a pretty good idea of how she's *supposed* to react to things. It'll just take practice.
+
+---
+
+<img src="avatars/1463271466035581155/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Wes Del-Fin** (03/11/2026 01:24:17) <br style='clear: both;'>
+
+<a name="1481100418384920680"></a>*1481100418384920680*
+
+Wes listened as Iyola briefly explained to Ciara about hiding that she was a Jedi.  He gave Ciara a nod at her question.   **”Expanding on what Iyola said, the Republic and the Jedi are no more.  The Republic fell and became the Empire.  The Jedi order was sundered.  Jedi, if there are any left, are hunted and in hiding.”**  He paused.  **”Like Iyola said, change your look.   Hide your Lightsaber.  Don’t use it or your abilities and skills overtly.  Your ability to hide is your greatest asset.  I remained hidden right up until I was put into cryo.”**
+<img src="emojis/!spacer!_735243641257328730.png" alt=":spacer:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"><img src="emojis/!spacer!_735243641257328730.png" alt=":spacer:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"><img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Off
+
+---
+
+<img src="avatars/1463271466035581155/05acdb78a1e121ac85cf02ae24e7f1da.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Ciara** (03/11/2026 01:32:42) <br style='clear: both;'>
+
+<a name="1481102535556202587"></a>*1481102535556202587*
+
+Ciara takes in the implications of his statements, then gives a light shrug. "**No civilization lasts forever I guess. It had a good run if this is recent.**" 
+
+She pushes a friendly smile onto her face. "**Thanks for all the advice. If I'd somehow made it to a planet on my own, I see that it would have turned out poorly.**"
+
+---
+
+<img src="avatars/1463271466035581155/cf74f87fc7f713b72420fb467808eccb.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Iyola Kett** (03/11/2026 01:53:26) <br style='clear: both;'>
+
+<a name="1481107757024280767"></a>*1481107757024280767*
+
+Iyola is unable to hide the shock that flashes across her expressive face as Ciara speaks**. "You don’t care that the Republic has fallen?”** she says.  **“Weren’t Jedi the guardians of the Republic in your time, as well as mine?”   **
+
+She shakes her head.  **“Well, I guess you won’t have any trouble concealing your Jedi nature, at least.”     **
+
+Still, there’s the issue of the robe replacement.  **“Hey, Eve,” ** Iyola asks.  “**Do we have any spare clothing that might fit Ciara here?”**  She turns to the Zelton and explains.  **“The outfit I left on board isn’t the cleanest.  But if there aren’t any other options, it’s on the floor of my quarters here on the Venture.”  **
+
+---
+
+<img src="avatars/1463271466035581155/05acdb78a1e121ac85cf02ae24e7f1da.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Ciara** (03/11/2026 02:04:19) <br style='clear: both;'>
+
+<a name="1481110494679928832"></a>*1481110494679928832*
+
+Ciara considers for a moment before responding. She tries to dredge up any emotional connection she might've had, to see if it would make a difference.  "**It's complicated. The Jedi refused to aid the Republic in the Mandalorian wars. Until Revan turned on us, the council's stance was to stay out of the conflict. When I was a Jedi we did work closely with the Republic, some even considered us another branch of their military.**" 
+
+She bites the inside of her lip absent mindedly for a moment. Coming to the conclusion that there is no way she'll have a satisfying answer for them. "**We weren't sure the Republic was going to survive the decade. Now I've just learned that it survived for thousands of years.**"
+
+---
+
+<img src="avatars/1463271466035581155/35b6272cd41fc43f1f211961634343d1.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Lis Garah** (03/11/2026 08:35:41) <br style='clear: both;'>
+
+<a name="1481208986106597406"></a>*1481208986106597406*
+
+**"The Jedi... fallen?"** *He seems slightly shocked as he listens all the jedi politics... he surprisingly... or maybe not considering how he behaves... unsurprisingly, the engineer doesn't seem to care much about politics compared to robots, droids and mechanical modifications.* **"... well... maybe we could try to rebuild?"** *He taps his chin.* **"How's the political... how do you say... landscape? How's the political landscape? Maybe we could try make our own political party... get some nobles interested... spread over a planet... slowly expand our reach... would that be doable? We can just hide the jedi stuff until we reform a few laws I suppose..."**
+
+---
+
+<img src="avatars/1463271466035581155/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Wes Del-Fin** (03/11/2026 10:43:35) <br style='clear: both;'>
+
+<a name="1481241173870776430"></a>*1481241173870776430*
+
+Wes shook his head.  The ideas Lis put forward were worthwhile and noble but were unrealistic.  He let out a small sigh.  It wasn’t their fault.  They simply didn’t know.   **”The Emperor rules the Empire with an iron fist.  There are no other political parties.  At least overtly.  I’m as not up to date politically on the happenings of the last ten years as some but one thing still stands true.  The Republic is gone.  The Jedi that stood as protectors of the Republic have been wiped out.  The farther out you go from the core the less influence the Empire has but they are still there.”**  He paused for a second.   **”These are dark times.”**
+<img src="emojis/!spacer!_735243641257328730.png" alt=":spacer:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"><img src="emojis/!spacer!_735243641257328730.png" alt=":spacer:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"><img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Off
+
+---
+
+<img src="avatars/1463271466035581155/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Eve the AI** (03/11/2026 19:33:24) <br style='clear: both;'>
+
+<a name="1481374506110161129"></a>*1481374506110161129*
+
+**"Blueprints, inventory logs, and system diagnostics are being compiled for your review, Master Engineer Garah. I have transmitted the data to the administrative terminal in the starboard barracks,"** Eve’s voice intones from the galley speakers. **"Regarding your query on crew health: my internal scanners have already cataloged the biological signatures of all registered personnel. There are no recorded life-threatening allergies to standard synthetic nutrients or atmospheric moss-filters."**
+
+She pauses, her tone shifting to address the Captain. **"Captain Kett, I have located a set of unassigned, spartan shipboard coveralls in the storage locker of Barracks B. They are constructed of a generic grey poly-weave and are congruent with the physical dimensions of the individual Ciara. "**
+
+---
+
+<img src="avatars/1463271466035581155/4acebb0962ae83ede74878c0554310e9.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Elara Vance** (03/11/2026 19:33:25) <br style='clear: both;'>
+
+<a name="1481374509817921747"></a>*1481374509817921747*
+
+Elara listens to the grim exchange between Wes and the newcomers with a heavy expression. She looks at Ciara, then at Wes, her hazel eyes reflecting a deep, academic sorrow. **"He speaks the truth,"** she says softly, her voice barely carrying over the hum of the ship. **"The Empire doesn't just rule; it erases. It renames planets, burns archives, and turned the Jedi into a cautionary tale of treachery."**
+
+---
+
+## **Storyteller** (03/11/2026 19:33:26)
+<a name="1481374511281606796"></a>*1481374511281606796*
+
+A sudden, heavy vibration thrums through the deck plating, followed by the deep, resonant **CLANG** of primary docking clamps engaging. The ship's engines drop to a low, standby whine. Through the viewport, the swirling pink clouds of Bespin are momentarily obscured by the massive, dark silhouette of the private docking arm at Kando's Coursers. The *Venture* has arrived.
+
+---
+
+<img src="avatars/1463271466035581155/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Eve the AI** (03/11/2026 19:33:26) <br style='clear: both;'>
+
+<a name="1481374512284041280"></a>*1481374512284041280*
+
+**"Docking sequence complete. Magnetic locks engaged. Primary airlock is now equalizing with the station's atmospheric pressure. Bespin Flight Control has been notified of our arrival. We are secure."**
+
+---
+
+<img src="avatars/1463271466035581155/35b6272cd41fc43f1f211961634343d1.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Lis Garah** (03/11/2026 19:43:06) <br style='clear: both;'>
+
+<a name="1481376946494504984"></a>*1481376946494504984*
+
+**"Thanks, Eve..."** *He checks his comm as he reviews the blueprints, skimming through to get a vague idea of what he's gonna be working with.*
+*He gives a long whistle after Wes and Elara speak.* **"That's... pretty bad politics... certainly pretty bad economics... well, whatever black market you have connections with I'm sure is thriving quite a lot... oh! Is the Hushed Noise still operational? They used to be THE black market back in the days... offloaded so much surplus material onto them..."** *And yet again he changes topic, daydreaming about the good old days... may as well carry on while the engineer rambles.*
+
+---
+
+<img src="avatars/1463271466035581155/cf74f87fc7f713b72420fb467808eccb.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Iyola Kett** (03/12/2026 01:10:46) <br style='clear: both;'>
+
+<a name="1481459404208345246"></a>*1481459404208345246*
+
+"**Thanks, Eve,**"  Iyola says distantly, as the AI politely locates an outfit for  Ciara.  **"Please show Ciara where that locker is." **  She sets her feet automatically as the ship docks. That suddenly makes her think of something - something important.  
+
+**"Elara,"** she says, addressing the scientist.  "**We're going to leave the ship together."** She doesn't want her wandering around the Venture, or the Skirata stronghold.  **"And we're going to find a way to contact Sindara." **
+
+**"Wes - can you take the rest in, get them settled? "**
+
+---
+
+<img src="avatars/1463271466035581155/05acdb78a1e121ac85cf02ae24e7f1da.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Ciara** (03/12/2026 01:14:10) <br style='clear: both;'>
+
+<a name="1481460261503373312"></a>*1481460261503373312*
+
+Ciara heads for the exit of the mess hall, intending to follow direction from the AI as she goes, but a thought occurs before she makes it to the door, causing her to slow to a stop, then turn. 
+
+"**It's been a while, so I guess I should check. Are Zeltron common or rare in this era? Do we have...**" She tries to find a tactful way to ask what she wants to know. "**a reputation that I should be aware of?**"?
+
+---
+
+<img src="avatars/1463271466035581155/cf74f87fc7f713b72420fb467808eccb.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Iyola Kett** (03/12/2026 14:26:42) <br style='clear: both;'>
+
+<a name="1481659707809599540"></a>*1481659707809599540*
+
+Iyola thinks for a minute.  “I’**ve seen many different beings and species on Bespin,” **she says.**  “I don’t think you’ll stand out for not being human or Twi’lek, if that’s what you mean.  That said, I don’t know how common Zeltrons are in this sector in general.  Do you know, Eve?”**
+
+**“Zeltron reputations - “ ** Iyola hesitates for a moment. She has known Zeltrons, one in particular, quite well, and it’s a bit difficult for her to separate her feelings about him from the galactic reputation.**  “They’re generally tuned in to emotion, and they can drink a lot.”**  She pauses for a moment.  **“They can sense yours too.”**  Even more so, if they were Jedi.  Yet another reason why Ciara’s flat affect was so unnerving.
+
+She taps Lis on the shoulder. **"Let's talk more about that later."  **She winks at him, hoping he'll get the message.  She doesn't feel like sharing everything about Kando's Coursers just now, in front of Elara.
+
+---
+
+<img src="avatars/1463271466035581155/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Wes Del-Fin** (03/14/2026 00:20:42) <br style='clear: both;'>
+
+<a name="1482171583450579045"></a>*1482171583450579045*
+
+Wes caught Iyola’s look and hesitation as she answered Ciara’s question about Zeltrons, gingerly.   He raised an eyebrow as he felt a spike of emotion when she spoke.  Her description was pretty tame.  He wasn’t sure what Zeltrons were like four millennia ago but it couldn’t be that different than now.   
+
+
+**”I’ve only known one Zeltron in my travels.  She broke many of the stereotypical norms of the hedonistic society that they are known for.  She was a doctor who helped patch me up once on Solsis VII.”**  He paused for a few seconds as he remembered the time when he came back from the unknown regions.  He shook his head.  **”Ciara, don't be surprised if people judge and expect you to act a certain way because you’re a Zeltron.”**
+-# <img src="emojis/!spacer!_1312665322142306405.png" alt=":spacer:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"><img src="emojis/!spacer!_1312665322142306405.png" alt=":spacer:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"><img src="emojis/!spacer!_1312665322142306405.png" alt=":spacer:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"><img src="emojis/!spacer!_1312665322142306405.png" alt=":spacer:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"><img src="emojis/!spacer!_1312665322142306405.png" alt=":spacer:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"><img src="emojis/!spacer!_1312665322142306405.png" alt=":spacer:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"><img src="emojis/!spacer!_1312665322142306405.png" alt=":spacer:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"><img src="emojis/!spacer!_1312665322142306405.png" alt=":spacer:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"><img src="emojis/!spacer!_1312665322142306405.png" alt=":spacer:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> <img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Off
+
+---
+
+<img src="avatars/1463271466035581155/05acdb78a1e121ac85cf02ae24e7f1da.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Ciara** (03/14/2026 00:57:51) <br style='clear: both;'>
+
+<a name="1482180929567985826"></a>*1482180929567985826*
+
+Ciara's expression shifts to a soft smile and she nods at the added comments from Wes. "**That's more like what I was expecting. No need for concern though, I'm used to dealing with that.**" The smile expands into one a slightly mischievous grin. "**Leaning into to such a stereotype would be about as far from expected Jedi behavior as you could get.**"
+
+She sighs, shifting her expression back to a mostly neutral soft smile. "**It wouldn't even be that much of an act honestly. I'm closer to the...**" she borrows word choice from Wes "**hedonistic stereotype, than to what people would expect from a Jedi. Much to the frustration of my masters.**" 
+
+She almost gets pulled into reminiscing, but dismisses the thoughts. "**I'll go get that change of clothes. A grey set of coveralls should at least slightly dissuade people from the most common assumption.**"
+
+She doesn't leave in a hurry, in case anyone has something else to say, but if not stopped, she exits the mess hall and follows instructions from the AI once they start.
+
+---
+
+<img src="avatars/1463271466035581155/cf74f87fc7f713b72420fb467808eccb.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Iyola Kett** (03/14/2026 03:24:41) <br style='clear: both;'>
+
+<a name="1482217881285427273"></a>*1482217881285427273*
+
+Wes warns Ciara that many beings on Bespin might expect her to follow Zeltron stereotypes of erotic thrill-seekers, though not in so many words.  Iyola is about to comment that Ciara should feel no need to act in that way, when she volunteers that she likes to lean into the “hedonistic stereotype” cited by Wes.  **“A hedonistic Jedi is an interesting concept,”** she says. **“But it’s not as if Jedi can’t have fun, right?”**
+
+Ciara mildly complains about the dull blue coveralls.**  “Once we settle in, we can go get some new clothing,”**  says Iyola.   **“Wes and I were about to go, actually, before we came to get you.” **
+
+---
+
+<img src="avatars/1463271466035581155/35b6272cd41fc43f1f211961634343d1.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Lis Garah** (03/14/2026 05:35:38) <br style='clear: both;'>
+
+<a name="1482250837152497776"></a>*1482250837152497776*
+
+*The engineer doesn't have much to add to the topic, he is quite specific about topics of interest... he does commit to the token effort of listen politely, but otherwise there is little engagement... zeltrons... jedi... each word enters one ear and exits the other.*
+
+---
+
+<img src="avatars/1463271466035581155/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Storyteller** (03/15/2026 01:23:39) <br style='clear: both;'>
+
+<a name="1482549813118505061"></a>*1482549813118505061*
+
+The massive magnetic seals of the private docking arm engage with a percussive **THUD** that reverberates through the *Venture*’s hull, signaling the final transition from the void to the structured safety of the Cloud City compound. The hum of the sublight engines dies down to a resting state, replaced by the steady, artificial thrum of the station’s power grid. Outside the viewports, the orange-hued mists of Bespin’s sunset are replaced by the high-intensity floodlights of the hangar.
+
+---
+
+<img src="avatars/1463271466035581155/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Eve the AI** (03/15/2026 01:23:40) <br style='clear: both;'>
+
+<a name="1482549815228498101"></a>*1482549815228498101*
+
+A soft pulse of light travels along the floor panels, creating a glowing path from the galley toward the south corridor. **"Ciara, the unassigned coveralls are located in Barracks B, Locker 04. I have updated the environmental controls in that section to accommodate your physiological recovery. Master Engineer Garah, I am afraid my current database contains no record of an entity known as 'The Hushed Noise.' It is probable that the organization did not survive the systemic shifts of the last couple centuries."**
+
+---
+
+<img src="avatars/1463271466035581155/b8ff56e6117f4cd57f52136a4c89f939.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Storyteller** (03/15/2026 01:23:40) <br style='clear: both;'>
+
+<a name="1482549816339861816"></a>*1482549816339861816*
+
+Ciara follows the light into the Barracks. The living quarters are a study in sterile efficiency: two mirrored halls lined with recessed, sliding doors. The air is cool and smells of ozone-scrubbed recycled oxygen. Inside the designated room, the workstation sits dark, and the bunk is a simple, firm slab. The grey coveralls are indeed spartan—thick, durable poly-weave designed for utility, not fashion. As she sheds her ancient robes, the weight of the "New Order" feels literal in the heavy fabric.
+
+---
+
+<img src="avatars/1463271466035581155/fc6a774b93e0ff219690d2be16010dfd.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Misha Vorne** (03/15/2026 01:23:42) <br style='clear: both;'>
+
+<a name="1482549825277788420"></a>*1482549825277788420*
+
+The young woman stands by the galley exit, looking at Lis with a mix of technical respect and concern. **"I can walk you to the workstation in the barracks, Lis. You can review those blueprints there while you rest. I'd... I'd actually like to hear your thoughts on the secondary motivator once you've had a look."** She offers a shy, tired smile, clearly eager to talk shop with someone who understands the ways of engineering.
+
+---
+
+<img src="avatars/1463271466035581155/7600cdc7ae2c3d48b77801931cc9687c.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Eve the AI** (03/15/2026 12:54:46) <br style='clear: both;'>
+
+<a name="1482723737391464460"></a>*1482723737391464460*
+
+As Iyola and Wes prepare to move Elara Vance toward the airlock, Eve’s holographic avatar—though not physically present in the room—projects its voice with a sudden, sharp priority chime. **"Alert. I am receiving a high-priority transmission via the secure Kando's Coursers frequency. It is a direct query from Serena Foss."**
+
+---
+
+<img src="avatars/1463271466035581155/7765d78b4383748b2af3d3877c5b06b1.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Serena Foss** (03/15/2026 12:54:47) <br style='clear: both;'>
+
+<a name="1482723741610803210"></a>*1482723741610803210*
+
+***"Venture, this is Foss. Chief Skirata has been apprised of your return. However, he notes the absence of the Dha'kad. He is requesting a a full debriefing on the Dreva Sector excursion."***
+
+---
+
+<img src="avatars/1463271466035581155/35b6272cd41fc43f1f211961634343d1.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Lis Garah** (03/15/2026 12:55:11) <br style='clear: both;'>
+
+<a name="1482723842752516157"></a>*1482723842752516157*
+
+**"Mhn?"** *He gives a look at Misha, breaking off from his daydreaming.* **"Oh! Yes... well the blueprints seems interesting, yet I can't help but feel some areas may have been hidden by the AI, either because of a redacted directive or for self preservation... then again, it may just be my eyes or this new modern designs that simply feel lacking"** *He approaches Misha, seemingly quite willing to follow her to his next job.* **"Do consider my condition... right now everything I'm doing is more of a civilian interest than professional acuity, until I'm fully back to it let's stick to theories, I'm not even sure I could hold my multitool proper yet"** *His interest piqued, a true waterfall of words begin pouring out, engaged once more.* **"The real question however is... what is our budget? I like to work with a carte blanche agreement when remodelling ships like this... but I believe that won't be possible this time"**
+
+---
+
+<img src="avatars/1463271466035581155/05acdb78a1e121ac85cf02ae24e7f1da.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Ciara** (03/15/2026 12:55:12) <br style='clear: both;'>
+
+<a name="1482723844824367134"></a>*1482723844824367134*
+
+Ciara examines herself after donning her new outfit. It is in fact so plain that it might wrap around to drawing extra attention. This is the kind of outfit someone intentionally wears when they don't want to be noticed. With a light sigh, the resigns herself to the outfit. 
+
+Even here, with no one watching, she's performing for herself. She feels like she *should* be disappointed in the outfit, so she goes through the motions. She decides not to examine that too closely. It's probably beneficial, if there are any cameras then she won't look strange. Yes, she's sure that she's keeping the performance up for a practical reason. 
+
+She looks to her robes on the ground, lifting them with the force until they hang full length in front of her. She reaches for her lightsaber, but reconsiders. "**Eve, I believe it was? Do you have an incinerator on the ship?**" While waiting for the answer, she reaches out and takes the robes into her hands, folding them sloppily
+
+---
+
+<img src="avatars/1463271466035581155/cbee4aafbd327114fe0dc7c3fe97725d.png" alt="avatar" style="width: 40px; height: 40px; margin-right: 10px;" width="40" height="40" align="left">
+
+## **Wes Del-Fin** (03/15/2026 15:57:35) <br style='clear: both;'>
+
+<a name="1482769743436845309"></a>*1482769743436845309*
+
+Wes cocked his head at the priority chime from Eve.   He nodded his head as Eve’s voice came from a nearby speaker.  She was quick to say that Ghurn was wondering where the *Dha’kad* was.  He nodded as he would be wondering the same thing.  **”Eve, record this message and send it back to Foss.”**  He paused for a moment.   ***”Foss, this is Del-Fin.  Inform Ghurn that I’m on my way.  The *Dha’kad,* piloted by Nadia and Varda are following the pirates that we encountered.  I’m on my way to the briefing room if he wants to meet me there.  Del-Fin out.”***
+-# <img src="emojis/!spacer!_1312665322142306405.png" alt=":spacer:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"><img src="emojis/!spacer!_1312665322142306405.png" alt=":spacer:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"><img src="emojis/!spacer!_1312665322142306405.png" alt=":spacer:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"><img src="emojis/!spacer!_1312665322142306405.png" alt=":spacer:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"><img src="emojis/!spacer!_1312665322142306405.png" alt=":spacer:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"><img src="emojis/!spacer!_1312665322142306405.png" alt=":spacer:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"><img src="emojis/!spacer!_1312665322142306405.png" alt=":spacer:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"><img src="emojis/!spacer!_1312665322142306405.png" alt=":spacer:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"><img src="emojis/!spacer!_1312665322142306405.png" alt=":spacer:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> <img src="emojis/!fett!_1287130263851368489.png" alt=":fett:" style="width: 20px; height: 20px; vertical-align: middle;" width="20" height="20"> Off
+
+---
+
+
+***Created** 03/15/2026 18:27:12 (v7.9.6)*
