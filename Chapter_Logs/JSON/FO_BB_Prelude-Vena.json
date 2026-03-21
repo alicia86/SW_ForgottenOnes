@@ -24,7 +24,7 @@
     "attachments": [],
     "embeds": [],
     "reactions": [],
-    "timestamp": ".0000002025-06-12T01:37:02.532+00:00",
+    "timestamp": "2025-06-12T01:37:02.532000+00:00",
     "edited_timestamp": null,
     "flags": 0,
     "pinned": false,
@@ -50,10 +50,10 @@
       "owner_id": "1382501818768298095",
       "thread_metadata": {
         "archived": true,
-        "archive_timestamp": ".0000002025-06-12T01:37:02.532+00:00",
+        "archive_timestamp": "2025-06-12T01:37:02.532000+00:00",
         "auto_archive_duration": 4320,
         "locked": false,
-        "create_timestamp": ".0000002025-06-12T01:37:02.532+00:00"
+        "create_timestamp": "2025-06-12T01:37:02.532000+00:00"
       }
     },
     "components": [],
