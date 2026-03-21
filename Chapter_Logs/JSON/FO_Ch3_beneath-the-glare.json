@@ -5096,7 +5096,27 @@
       "guild_id": "661388927734775859"
     },
     "referenced_message": null,
-    "thread": null,
+    "thread": {
+      "id": "1457878207498817734",
+      "type": 11,
+      "last_message_id": "1457880633056559280",
+      "flags": 0,
+      "guild_id": "661388927734775859",
+      "name": "Echoes of the Past",
+      "parent_id": "1435992787584679936",
+      "rate_limit_per_user": 0,
+      "bitrate": 64000,
+      "user_limit": 0,
+      "rtc_region": null,
+      "owner_id": "208916238661844993",
+      "thread_metadata": {
+        "archived": true,
+        "archive_timestamp": ".0000002026-01-05T23:37:09.033+00:00",
+        "auto_archive_duration": 4320,
+        "locked": false,
+        "create_timestamp": ".0000002026-01-05T23:37:09.033+00:00"
+      }
+    },
     "components": [],
     "tts": false,
     "position": 120,
@@ -6020,7 +6040,27 @@
     "application_id": null,
     "message_reference": null,
     "referenced_message": null,
-    "thread": null,
+    "thread": {
+      "id": "1458169536749633690",
+      "type": 11,
+      "last_message_id": "1458169555250839735",
+      "flags": 0,
+      "guild_id": "661388927734775859",
+      "name": "Nanite Mysteries",
+      "parent_id": "1435992787584679936",
+      "rate_limit_per_user": 0,
+      "bitrate": 64000,
+      "user_limit": 0,
+      "rtc_region": null,
+      "owner_id": "1436384190198448270",
+      "thread_metadata": {
+        "archived": true,
+        "archive_timestamp": ".0000002026-01-06T18:45:13.452+00:00",
+        "auto_archive_duration": 4320,
+        "locked": false,
+        "create_timestamp": ".0000002026-01-06T18:45:13.452+00:00"
+      }
+    },
     "components": [],
     "tts": false,
     "position": 141,
@@ -9330,7 +9370,27 @@
       "guild_id": "661388927734775859"
     },
     "referenced_message": null,
-    "thread": null,
+    "thread": {
+      "id": "1462985529439031461",
+      "type": 11,
+      "last_message_id": "1463016793173131332",
+      "flags": 0,
+      "guild_id": "661388927734775859",
+      "name": "Epilogue: Iyola",
+      "parent_id": "1435992787584679936",
+      "rate_limit_per_user": 0,
+      "bitrate": 64000,
+      "user_limit": 0,
+      "rtc_region": null,
+      "owner_id": "208916238661844993",
+      "thread_metadata": {
+        "archived": true,
+        "archive_timestamp": ".0000002026-01-20T03:46:25.03+00:00",
+        "auto_archive_duration": 4320,
+        "locked": false,
+        "create_timestamp": ".0000002026-01-20T03:46:25.03+00:00"
+      }
+    },
     "components": [],
     "tts": false,
     "position": 219,

@@ -35,7 +35,27 @@
     "application_id": null,
     "message_reference": null,
     "referenced_message": null,
-    "thread": null,
+    "thread": {
+      "id": "1461061352477950124",
+      "type": 11,
+      "last_message_id": "1461061352477950124",
+      "flags": 0,
+      "guild_id": "661388927734775859",
+      "name": "Prelude: Fracture Point (Cajar)",
+      "parent_id": "1389791168778211370",
+      "rate_limit_per_user": 0,
+      "bitrate": 64000,
+      "user_limit": 0,
+      "rtc_region": null,
+      "owner_id": "208916238661844993",
+      "thread_metadata": {
+        "archived": true,
+        "archive_timestamp": ".0000002026-01-14T18:16:11.638+00:00",
+        "auto_archive_duration": 4320,
+        "locked": false,
+        "create_timestamp": ".0000002026-01-14T18:16:11.638+00:00"
+      }
+    },
     "components": [],
     "tts": false,
     "position": 0,
