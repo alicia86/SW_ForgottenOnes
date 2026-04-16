@@ -1,0 +1,15 @@
+{
+  "id": "1412211178981032037",
+  "name": "Mess Hall",
+  "type": 11,
+  "is_age_restricted": false,
+  "parent_id": "1400816665276711024",
+  "thread_metadata": {
+    "archived": true,
+    "archive_timestamp": "2025-10-07T16:27:31.559000+00:00",
+    "auto_archive_duration": 4320,
+    "locked": false,
+    "create_timestamp": "2025-09-02T00:18:01.417000+00:00"
+  },
+  "last_mined_at": null
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1430238393102630953",
+  "name": "Iyola's Cabin",
+  "type": 11,
+  "is_age_restricted": false,
+  "parent_id": "1400816665276711024",
+  "thread_metadata": {
+    "archived": true,
+    "archive_timestamp": "2025-11-21T02:24:09.830000+00:00",
+    "auto_archive_duration": 4320,
+    "locked": false,
+    "create_timestamp": "2025-10-21T17:32:02.507000+00:00"
+  },
+  "last_mined_at": null
+}

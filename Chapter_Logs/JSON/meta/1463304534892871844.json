@@ -1,0 +1,15 @@
+{
+  "id": "1463304534892871844",
+  "name": "Awakening: The Wayward Vigil",
+  "type": 11,
+  "is_age_restricted": false,
+  "parent_id": "1463269257151254540",
+  "thread_metadata": {
+    "archived": true,
+    "archive_timestamp": "2026-03-08T18:04:34.847000+00:00",
+    "auto_archive_duration": 4320,
+    "locked": true,
+    "create_timestamp": "2026-01-20T22:49:48.002000+00:00"
+  },
+  "last_mined_at": null
+}

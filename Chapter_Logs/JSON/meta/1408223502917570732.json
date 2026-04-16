@@ -1,0 +1,15 @@
+{
+  "id": "1408223502917570732",
+  "name": "A Visit to Keldabe (Iyola)",
+  "type": 11,
+  "is_age_restricted": false,
+  "parent_id": "1389791168778211370",
+  "thread_metadata": {
+    "archived": true,
+    "archive_timestamp": "2026-01-23T14:07:42.221000+00:00",
+    "auto_archive_duration": 4320,
+    "locked": false,
+    "create_timestamp": "2025-08-21T22:57:26.623000+00:00"
+  },
+  "last_mined_at": null
+}

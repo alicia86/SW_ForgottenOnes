@@ -1,0 +1,15 @@
+{
+  "id": "1397604779227615402",
+  "name": "Galley ☆ Post Escape",
+  "type": 11,
+  "is_age_restricted": false,
+  "parent_id": "1387901967317209218",
+  "thread_metadata": {
+    "archived": true,
+    "archive_timestamp": "2025-08-25T00:47:33.472000+00:00",
+    "auto_archive_duration": 4320,
+    "locked": false,
+    "create_timestamp": "2025-07-24T22:03:37.528000+00:00"
+  },
+  "last_mined_at": null
+}

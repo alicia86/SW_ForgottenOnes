@@ -1,0 +1,15 @@
+{
+  "id": "1410313405197451405",
+  "name": "The Echo and the Oracle",
+  "type": 11,
+  "is_age_restricted": false,
+  "parent_id": "1400816665276711024",
+  "thread_metadata": {
+    "archived": true,
+    "archive_timestamp": "2025-10-01T23:12:14.181000+00:00",
+    "auto_archive_duration": 4320,
+    "locked": false,
+    "create_timestamp": "2025-08-27T17:21:58.155000+00:00"
+  },
+  "last_mined_at": null
+}

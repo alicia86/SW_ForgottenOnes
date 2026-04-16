@@ -1,0 +1,15 @@
+{
+  "id": "1402706232732811425",
+  "name": "Workshop / Recreation",
+  "type": 11,
+  "is_age_restricted": false,
+  "parent_id": "1400816665276711024",
+  "thread_metadata": {
+    "archived": true,
+    "archive_timestamp": "2025-10-01T19:52:33.002000+00:00",
+    "auto_archive_duration": 4320,
+    "locked": false,
+    "create_timestamp": "2025-08-06T18:56:46.703000+00:00"
+  },
+  "last_mined_at": null
+}

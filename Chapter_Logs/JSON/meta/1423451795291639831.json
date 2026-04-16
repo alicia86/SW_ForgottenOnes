@@ -1,0 +1,15 @@
+{
+  "id": "1423451795291639831",
+  "name": "Back to the *Venture*",
+  "type": 11,
+  "is_age_restricted": false,
+  "parent_id": "1400816665276711024",
+  "thread_metadata": {
+    "archived": true,
+    "archive_timestamp": "2025-11-06T01:41:57.908000+00:00",
+    "auto_archive_duration": 4320,
+    "locked": false,
+    "create_timestamp": "2025-10-02T23:29:41.118000+00:00"
+  },
+  "last_mined_at": null
+}

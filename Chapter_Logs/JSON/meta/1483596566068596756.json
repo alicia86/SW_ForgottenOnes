@@ -1,0 +1,15 @@
+{
+  "id": "1483596566068596756",
+  "name": "Venture - Droid Bay",
+  "type": 11,
+  "is_age_restricted": false,
+  "parent_id": "1463269257151254540",
+  "thread_metadata": {
+    "archived": false,
+    "archive_timestamp": "2026-03-19T11:01:39.117000+00:00",
+    "auto_archive_duration": 4320,
+    "locked": true,
+    "create_timestamp": "2026-03-19T11:01:39.117000+00:00"
+  },
+  "last_mined_at": null
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1424361258995417250",
+  "name": "Atin Oya'ka",
+  "type": 11,
+  "is_age_restricted": false,
+  "parent_id": "1400816665276711024",
+  "thread_metadata": {
+    "archived": true,
+    "archive_timestamp": "2026-02-03T15:19:29.010000+00:00",
+    "auto_archive_duration": 4320,
+    "locked": false,
+    "create_timestamp": "2025-10-05T11:43:07.497000+00:00"
+  },
+  "last_mined_at": null
+}

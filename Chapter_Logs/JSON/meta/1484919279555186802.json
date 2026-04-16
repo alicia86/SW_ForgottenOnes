@@ -1,0 +1,15 @@
+{
+  "id": "1484919279555186802",
+  "name": "Kando's Coursers ● Briefing Room Gamma",
+  "type": 11,
+  "is_age_restricted": false,
+  "parent_id": "1482882973266083984",
+  "thread_metadata": {
+    "archived": false,
+    "archive_timestamp": "2026-03-21T14:20:20.524000+00:00",
+    "auto_archive_duration": 10080,
+    "locked": false,
+    "create_timestamp": "2026-03-21T14:20:20.524000+00:00"
+  },
+  "last_mined_at": null
+}

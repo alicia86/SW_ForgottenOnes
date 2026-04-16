@@ -1,0 +1,15 @@
+{
+  "id": "1401239528605351967",
+  "name": "Sundered Coven (Varda)",
+  "type": 11,
+  "is_age_restricted": false,
+  "parent_id": "1389791168778211370",
+  "thread_metadata": {
+    "archived": true,
+    "archive_timestamp": "2026-01-02T20:38:38.838000+00:00",
+    "auto_archive_duration": 4320,
+    "locked": false,
+    "create_timestamp": "2025-08-02T16:25:37.391000+00:00"
+  },
+  "last_mined_at": null
+}

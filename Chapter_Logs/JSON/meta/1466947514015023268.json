@@ -1,0 +1,15 @@
+{
+  "id": "1466947514015023268",
+  "name": "Venture - Medbay",
+  "type": 11,
+  "is_age_restricted": false,
+  "parent_id": "1463269257151254540",
+  "thread_metadata": {
+    "archived": true,
+    "archive_timestamp": "2026-03-05T23:25:07.785000+00:00",
+    "auto_archive_duration": 4320,
+    "locked": true,
+    "create_timestamp": "2026-01-31T00:05:41.908000+00:00"
+  },
+  "last_mined_at": null
+}

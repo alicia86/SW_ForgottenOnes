@@ -1,0 +1,15 @@
+{
+  "id": "1448882053574557797",
+  "name": "Silent Ward (Ciara)",
+  "type": 11,
+  "is_age_restricted": false,
+  "parent_id": "1389791168778211370",
+  "thread_metadata": {
+    "archived": true,
+    "archive_timestamp": "2026-02-02T00:13:49.105000+00:00",
+    "auto_archive_duration": 4320,
+    "locked": false,
+    "create_timestamp": "2025-12-12T03:40:00.499000+00:00"
+  },
+  "last_mined_at": null
+}
