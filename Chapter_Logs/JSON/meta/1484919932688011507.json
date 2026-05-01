@@ -5,8 +5,8 @@
   "is_age_restricted": false,
   "parent_id": "1482882973266083984",
   "thread_metadata": {
-    "archived": false,
-    "archive_timestamp": "2026-03-21T14:21:40.431000+00:00",
+    "archived": true,
+    "archive_timestamp": "2026-04-30T08:15:53.691000+00:00",
     "auto_archive_duration": 10080,
     "locked": true,
     "create_timestamp": "2026-03-21T14:21:40.431000+00:00"
