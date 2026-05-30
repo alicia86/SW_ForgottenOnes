@@ -1,0 +1,16 @@
+{
+  "id": "1464411586964750366",
+  "name": "Syoca DM (Ciara)",
+  "type": 12,
+  "is_age_restricted": false,
+  "parent_id": "1380214441328509100",
+  "thread_metadata": {
+    "archived": false,
+    "archive_timestamp": "2026-05-23T20:00:57.362000+00:00",
+    "auto_archive_duration": 10080,
+    "locked": false,
+    "create_timestamp": "2026-01-24T00:08:49.784000+00:00",
+    "invitable": true
+  },
+  "last_mined_at": "2026-05-30T06:47:34.000000+00:00"
+}
