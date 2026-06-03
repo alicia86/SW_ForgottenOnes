@@ -1,0 +1,15 @@
+{
+  "id": "1511523223408345199",
+  "name": "Venture • Airlock",
+  "type": 11,
+  "is_age_restricted": false,
+  "parent_id": "1482882973266083984",
+  "thread_metadata": {
+    "archived": false,
+    "archive_timestamp": "2026-06-03T00:13:39.204000+00:00",
+    "auto_archive_duration": 10080,
+    "locked": false,
+    "create_timestamp": "2026-06-03T00:13:39.204000+00:00"
+  },
+  "last_mined_at": "2026-06-03T08:56:20.000000+00:00"
+}
