@@ -1,0 +1,15 @@
+{
+  "id": "1515498322100748310",
+  "name": "Venture • En Route",
+  "type": 11,
+  "is_age_restricted": false,
+  "parent_id": "1482882973266083984",
+  "thread_metadata": {
+    "archived": false,
+    "archive_timestamp": "2026-06-14T01:34:28.597000+00:00",
+    "auto_archive_duration": 10080,
+    "locked": false,
+    "create_timestamp": "2026-06-14T01:34:28.597000+00:00"
+  },
+  "last_mined_at": "2026-06-14T08:17:01.000000+00:00"
+}
