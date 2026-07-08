@@ -5,11 +5,11 @@
   "is_age_restricted": false,
   "parent_id": "1482882973266083984",
   "thread_metadata": {
-    "archived": false,
-    "archive_timestamp": "2026-05-23T20:11:09.742000+00:00",
+    "archived": true,
+    "archive_timestamp": "2026-07-05T20:58:06.116000+00:00",
     "auto_archive_duration": 10080,
     "locked": false,
     "create_timestamp": "2026-05-23T20:11:09.742000+00:00"
   },
-  "last_mined_at": "2026-07-05T07:26:38.000000+00:00"
+  "last_mined_at": "2026-07-08T06:28:25.000000+00:00"
 }
